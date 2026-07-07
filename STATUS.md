@@ -1,6 +1,6 @@
 # STATUS — shustrik-maps.com SEO Project
 
-Последнее обновление: 2026-07-07 (Шаг 2 завершён)
+Последнее обновление: 2026-07-07 (Шаг 2 завершён + переход на xlsx-трекинг)
 
 ## Что это за проект
 Сайт shustrik-maps.com продаёт 3D-модели и карты (STL для 3D-печати/CNC, OBJ/FBX/C4D для
@@ -25,14 +25,17 @@
 - [x] Собрана точная структура из 30 категорий с реальными URL
 - [x] Классификация каждой карточки по типу (STL/CNC, визуализация, спутник, ночной спутник,
       relief-legacy, без воды, elevation, историческая, outline, planet, fantasy, здания,
-      minecraft, art/novelty) — см. `semantic-core/products_seo.csv`
+      minecraft, art/novelty) — см. лист Products_SEO в semantic-core/shustrik-maps_SEO_audit_and_core.xlsx
 - [x] Найдено 39 служебных/мусорных страниц (Prepayment-*, тестовая "Map") —
-      см. `semantic-core/junk_pages.csv` — рекомендация: noindex + убрать из sitemap.xml
+      рекомендация: noindex + убрать из sitemap.xml (детали — Products_SEO, статус JUNK,
+      и пакет step1-quick-fixes: noindex_junk_pages.csv, functions_snippet_noindex.php)
 - [x] Найдено ~22 группы дублей/каннибализации (одна и та же страна+тип встречается 2 раза
-      под разными URL) — см. `semantic-core/duplicates_issues.csv`
+      под разными URL) — см. лист Duplicates_Issues в xlsx; из них 4 — явные дубли
+      (step1-quick-fixes/redirects_301_safe.csv), 18 — каннибализация, решать вручную
+      (step1-quick-fixes/cannibalization_manual_review.csv)
 - [x] Для каждой из 517 карточек и 30 категорий сгенерированы: SEO Title, H1, Meta Description,
-      Primary keyword, Secondary keywords, LSI keywords — см. `semantic-core/*.csv`
-- [x] LSI-банк ключевых слов по каждому типу карточки — `lsi-keyword-bank.csv`
+      Primary keyword, Secondary keywords, LSI keywords — см. semantic-core/shustrik-maps_SEO_audit_and_core.xlsx
+- [x] LSI-банк ключевых слов по каждому типу карточки — лист LSI_Keyword_Bank в том же xlsx
 
 ### Шаг 2 — архитектура сайта и меню
 - [x] Диагностированы структурные проблемы:
@@ -59,6 +62,14 @@
       аналогично для us-states, canadian-provinces, national-parks, continents, islands,
       cities, mountains (новое), lakes (новое), volcanoes (новое)
 - [x] Согласован порядок внедрения (см. Roadmap)
+- [x] Подготовлен пакет быстрых технических правок (Шаг 1, low-risk часть,
+      см. step1-quick-fixes/ — если ещё не загружен в репозиторий, лежит у владельца сайта):
+      noindex_junk_pages.csv, redirects_301_safe.csv, htaccess_redirects.txt,
+      cannibalization_manual_review.csv, functions_snippet_noindex.php, robots_txt_additions.txt
+- [x] Рабочий файл переведён с CSV на единый xlsx:
+      `semantic-core/shustrik-maps_SEO_audit_and_core.xlsx` — единственный источник правды
+      по семантическому ядру. В листах Categories и Products_SEO добавлены колонки
+      `Applied?` (Yes/No/Skipped), `Date Applied`, `Notes` для отслеживания прогресса.
 
 ## В работе / известные ограничения ⚠️
 - Geo-объект и keywords сгенерированы алгоритмически по названию карточки. ~6 карточек
@@ -78,17 +89,26 @@
        на одной странице
 4. [ ] Создать Geo Hub Pages для топ-30 стран (наибольший трафик) — пилот перед
        масштабированием на весь каталог
-5. [ ] Массово обновить Title/H1/Meta в реальных карточках WooCommerce/CMS
-       (по данным из products_seo.csv)
+5. [ ] Массово обновить Title/H1/Meta в реальных карточках WooCommerce/CMS (по данным
+       из листа Products_SEO), отмечая прогресс в колонке Applied?
 6. [ ] Добавить новые категории: Mountains, Lakes, Volcanoes (сейчас нет ни одной карточки)
 7. [ ] Расширить geo-хабы на us-states, canadian-provinces, national-parks, continents,
        islands, cities
-8. [ ] Написать первые статьи блога по уровню 5 (информационные запросы) — see
-       `semantic-core/categories.csv` для тем по каждой категории
+8. [ ] Написать первые статьи блога по уровню 5 (информационные запросы) — см. лист
+       Categories в xlsx для тем по каждой категории
+
+## Как отслеживается прогресс внедрения
+Владелец сайта вносит изменения на реальном сайте, затем в
+`semantic-core/shustrik-maps_SEO_audit_and_core.xlsx` отмечает `Applied? = Yes` + дату
+по соответствующим строкам (лист Categories для категорий, Products_SEO для карточек),
+сохраняет и перезаписывает файл в репозитории. Прогресс отслеживается пачками
+(например, всю Европу разом), а не построчно после каждой правки.
 
 ## Как работать с этим репозиторием (для Claude / будущих сессий)
-Начинай каждую сессию с чтения этого файла. Данные лежат в `semantic-core/*.csv` —
-читай их через pandas/csv, а не пытайся пересчитывать с нуля. Обновляй раздел
-"Сделано"/"В работе" и дату наверху этого файла в конце каждой сессии, и добавляй
-запись в `audit-log.md` с кратким описанием того, что изменилось и почему.
+Начинай каждую сессию с чтения этого файла. Данные лежат в
+`semantic-core/shustrik-maps_SEO_audit_and_core.xlsx` — читай через pandas
+(`pd.read_excel(..., sheet_name=None)`), а не пытайся пересчитывать с нуля. Проверяй
+колонку Applied? — она показывает, что уже реально сделано на сайте, а что ещё нет.
+Обновляй раздел "Сделано"/"В работе" и дату наверху этого файла в конце каждой сессии,
+и добавляй запись в `audit-log.md` с кратким описанием того, что изменилось и почему.
 

@@ -1,0 +1,7 @@
+# Вставить в .htaccess ДО строк WordPress (# BEGIN WordPress)
+# 301-редиректы явных дублей карточек (4 шт.)
+
+Redirect 301 /product/australia-satellite-map-2/ https://shustrik-maps.com/product/australia-satellite-map/
+Redirect 301 /product/georgia-satellite-map-2/ https://shustrik-maps.com/product/georgia-satellite-map/
+Redirect 301 /product/greece-3d-model-terrain-2/ https://shustrik-maps.com/product/greece-3d-model-terrain/
+Redirect 301 /product/spain-satellite-map-2/ https://shustrik-maps.com/product/spain-satellite-map/

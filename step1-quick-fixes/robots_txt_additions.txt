@@ -1,0 +1,42 @@
+# Добавить в robots.txt (это ограничивает сканирование, но НЕ гарантирует деиндексацию —
+# для полной деиндексации нужен noindex-тег на самой странице, см. functions-snippet.php)
+
+Disallow: /product/florida-state-rendering-fee/
+Disallow: /product/test/
+Disallow: /product/prepayment-earth-regular-dodecaedron/
+Disallow: /product/prepayment-for-3d-model-5/
+Disallow: /product/prepayment-for-3d-model-4/
+Disallow: /product/prepayment-for-3d-model-nc/
+Disallow: /product/prepayment-for-3d-model/
+Disallow: /product/prepayment-for-3d-model-2/
+Disallow: /product/prepayment-for-3d-model-california/
+Disallow: /product/prepayment-for-3d-model-ermoupolis/
+Disallow: /product/prepayment-for-3d-model-globe/
+Disallow: /product/prepayment-for-3d-model-hands/
+Disallow: /product/prepayment-for-3d-model-isla-nublar-from-jurassic-park/
+Disallow: /product/prepayment-for-3d-model-russia/
+Disallow: /product/prepayment-for-3d-model-3/
+Disallow: /product/prepayment-for-3d-model-buildings/
+Disallow: /product/prepayment-for-3d-model-gaza/
+Disallow: /product/prepayment-for-3d-model-moon/
+Disallow: /product/prepayment-for-3d-model-table/
+Disallow: /product/prepayment-for-3d-model-turkey-site/
+Disallow: /product/prepayment-for-3d-modelvector/
+Disallow: /product/prepayment-for-3d-models-3/
+Disallow: /product/prepayment-for-3d-models-2/
+Disallow: /product/prepayment-for-3d-models-gores12/
+Disallow: /product/prepayment-for-3d-models-ukraine/
+Disallow: /product/prepayment-for-3d-models_/
+Disallow: /product/prepayment-for-3d-model-mexico/
+Disallow: /product/prepayment-for-3d-models/
+Disallow: /product/prepayment-for-add/
+Disallow: /product/prepayment-for-earth-full-color-model/
+Disallow: /product/prepayment-for-map/
+Disallow: /product/prepayment-for-map3/
+Disallow: /product/prepayment-for-python-script/
+Disallow: /product/prepayment-for-render-2/
+Disallow: /product/prepayment-for-renders-2/
+Disallow: /product/prepayment-for-satellite-maps/
+Disallow: /product/prepayment-for-renders/
+Disallow: /product/prepayment-for-render/
+Disallow: /product/prepayment-for-satellite-map/
