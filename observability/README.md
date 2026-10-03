@@ -1,0 +1,13 @@
+# Shustrik timing and worker observation, 2026-10-03
+
+Authorized by owner «делай» following the request for request-time and worker-queue measurements. Exact source is this Git commit; no compose or environment file is read.
+
+Nginx JSON log is enabled only in the Shustrik HTTPS vhost. It records UTC, method, route class (never raw path), presence of query (never values), HTTP status, request/upstream connect/header/response time and cache status. No IP, referrer, UA, cookie, auth, request body or account/order identifier. Legacy access log and existing protections remain. Dedicated rotation keeps 7 files, daily/maxsize20M (checked when host logrotate runs).
+
+Apache status binds to 127.0.0.1:8099 inside the existing WordPress container, with Require127.0.0.1; no published port or Nginx proxy. Persistent bind-mounted apache-mpm.conf gains the status listener. MaxRequestWorkers and cache policy remain unchanged. The 15-second sampler runs as existing vpsadmin, writes only aggregate worker/resource counters. The probe itself occupies a busy worker; when all workers are blocked, its 3s timeout is recorded as unavailable, not zero busy workers. Requests completed between samples may be missed. Logs retain about 7 days; timer keeps collecting across reboots. No notifications or messages are scheduled.
+
+Validate Python syntax, source SHA256, read-only deploy preview, Nginx/Apache syntax, systemd unit/logrotate syntax. Commit/push before applying on VPS. Guard the two baseline hashes and unexpected existing rollout paths. Backup `/root/shustrik-observability-20261003`; deployment restores originals on failure. Apply performs graceful Apache and Nginx reload without recreating containers.
+
+Acceptance: normal Earth/cart/checkout HTTP200 and prior title/canonical; JSON log parses and contains only allowed keys/route classes, cache MISS/HIT and upstream time observable; worker samples available and timer active; public status port absent and /server-status forbidden or unavailable; Docker bindings/restart count unchanged. Rollback via `sudo python3 deploy.py --rollback` checks vhost/MPM installed hashes before restoration, disables timer, removes only newly installed configs, preserves logs/backups and reloads original configs. Future deployment drift requires explicit review. Data analysis cannot prove a bottleneck until an episode is captured.
+
+References: https://nginx.org/en/docs/http/ngx_http_log_module.html and https://httpd.apache.org/docs/2.4/mod/mod_status.html
