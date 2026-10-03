@@ -33,6 +33,7 @@ if a.update:
     (BACKUP/('previous-'+sha(TIMER)+'-timer')).write_bytes(TIMER.read_bytes())
     TIMER.write_text(TIMER.read_text().replace('OnUnitInactiveSec=30s','OnUnitInactiveSec=5s'))
     saved['plugin_sha256']=sha(TARGET);saved['timer_sha256']=sha(TIMER);(BACKUP/'installed.json').write_text(json.dumps(saved))
+    run('docker','cp',str(BACKUP/'admin.php'),CONTAINER+':/tmp/shustrik-pinterest-admin.php')
     run('systemd-analyze','verify',str(SERVICE),str(TIMER));run('systemctl','daemon-reload');run('systemctl','restart',TIMER.name)
     run('systemctl','start',SERVICE.name);run('systemctl','is-active',TIMER.name)
     run('docker','exec',CONTAINER,'php','/tmp/shustrik-pinterest-admin.php','--enable')
