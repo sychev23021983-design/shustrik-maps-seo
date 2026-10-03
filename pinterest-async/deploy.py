@@ -30,7 +30,10 @@ if a.update:
         (BACKUP/('previous-'+sha(old)+'-'+name)).write_bytes(old.read_bytes())
         old.write_bytes((HERE/name).read_bytes())
     TARGET.write_bytes((HERE/'shustrik-pinterest-async.php').read_bytes());TARGET.chmod(0o644)
-    saved['plugin_sha256']=sha(TARGET);(BACKUP/'installed.json').write_text(json.dumps(saved))
+    (BACKUP/('previous-'+sha(TIMER)+'-timer')).write_bytes(TIMER.read_bytes())
+    TIMER.write_text(TIMER.read_text().replace('OnUnitInactiveSec=30s','OnUnitInactiveSec=5s'))
+    saved['plugin_sha256']=sha(TARGET);saved['timer_sha256']=sha(TIMER);(BACKUP/'installed.json').write_text(json.dumps(saved))
+    run('systemd-analyze','verify',str(SERVICE),str(TIMER));run('systemctl','daemon-reload');run('systemctl','restart',TIMER.name)
     run('systemctl','start',SERVICE.name);run('systemctl','is-active',TIMER.name)
     run('docker','exec',CONTAINER,'php','/tmp/shustrik-pinterest-admin.php','--enable')
     print('UPDATED guarded package; consumer verified before admission');raise SystemExit(0)
@@ -60,7 +63,7 @@ timer='''[Unit]
 Description=Shustrik Pinterest view-event consumer timer
 [Timer]
 OnBootSec=30s
-OnUnitInactiveSec=30s
+OnUnitInactiveSec=5s
 Unit=shustrik-pinterest-views.service
 [Install]
 WantedBy=timers.target
