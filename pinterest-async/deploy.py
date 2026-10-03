@@ -7,7 +7,7 @@ SERVICE=pathlib.Path('/etc/systemd/system/shustrik-pinterest-views.service')
 TIMER=pathlib.Path('/etc/systemd/system/shustrik-pinterest-views.timer')
 def run(*args):subprocess.run(args,check=True)
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
-parser=argparse.ArgumentParser();parser.add_argument('--apply',action='store_true');parser.add_argument('--rollback',action='store_true');a=parser.parse_args()
+parser=argparse.ArgumentParser();parser.add_argument('--apply',action='store_true');parser.add_argument('--rollback',action='store_true');parser.add_argument('--update',action='store_true');a=parser.parse_args()
 if a.rollback:
     saved=json.loads((BACKUP/'installed.json').read_text())
     if not TARGET.exists() or sha(TARGET)!=saved['plugin_sha256']:raise SystemExit('Rollback drift guard failed')
@@ -15,6 +15,25 @@ if a.rollback:
     # Restore synchronous admission, but keep consumers running until encrypted payloads drain.
     run('docker','exec',CONTAINER,'php','/tmp/shustrik-pinterest-admin.php','--disable')
     print('ENQUEUE_DISABLED: original synchronous trackers restored; existing encrypted queue still drains. Do not remove consumer while payloads remain.');raise SystemExit(0)
+if a.update:
+    saved=json.loads((BACKUP/'installed.json').read_text())
+    if any(not p.exists() or sha(p)!=saved[k] for p,k in [(TARGET,'plugin_sha256'),(SERVICE,'service_sha256'),(TIMER,'timer_sha256')]):raise SystemExit('Update drift guard failed')
+    run('docker','cp',str(BACKUP/'admin.php'),CONTAINER+':/tmp/shustrik-pinterest-admin.php')
+    run('docker','exec',CONTAINER,'php','/tmp/shustrik-pinterest-admin.php','--disable')
+    run('docker','cp',str(HERE)+'/.',CONTAINER+':/tmp/shustrik-pinterest-preflight')
+    for name in ['shustrik-pinterest-async.php','worker.php','admin.php','test.php']:
+        run('docker','exec',CONTAINER,'php','-l','/tmp/shustrik-pinterest-preflight/'+name)
+    run('docker','exec',CONTAINER,'php','/tmp/shustrik-pinterest-preflight/test.php')
+    run('docker','exec',CONTAINER,'php','/tmp/shustrik-pinterest-preflight/preflight.php')
+    for name in ['shustrik-pinterest-async.php','worker.php','admin.php','deploy.py']:
+        old=BACKUP/name
+        (BACKUP/('previous-'+sha(old)+'-'+name)).write_bytes(old.read_bytes())
+        old.write_bytes((HERE/name).read_bytes())
+    TARGET.write_bytes((HERE/'shustrik-pinterest-async.php').read_bytes());TARGET.chmod(0o644)
+    saved['plugin_sha256']=sha(TARGET);(BACKUP/'installed.json').write_text(json.dumps(saved))
+    run('systemctl','start',SERVICE.name);run('systemctl','is-active',TIMER.name)
+    run('docker','exec',CONTAINER,'php','/tmp/shustrik-pinterest-admin.php','--enable')
+    print('UPDATED guarded package; consumer verified before admission');raise SystemExit(0)
 if TARGET.exists() or SERVICE.exists() or TIMER.exists() or BACKUP.exists():raise SystemExit('Target/units/backup already exist; refusing overwrite')
 run('docker','cp',str(HERE)+'/.',CONTAINER+':/tmp/shustrik-pinterest-preflight')
 for name in ['shustrik-pinterest-async.php','worker.php','admin.php','test.php']:
