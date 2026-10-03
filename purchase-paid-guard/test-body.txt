@@ -1,4 +1,5 @@
-    require __DIR__.'/shustrik-purchase-paid-guard.php';
+    $guard_file=getenv('SHUSTRIK_GUARD_TEST_FILE')?:__DIR__.'/shustrik-purchase-paid-guard.php';
+    require_once $guard_file;
     $checks=[];
     function verify($name,$value){global $checks;if(!$value){fwrite(STDERR,"FAIL: $name\n");exit(2);}$checks[]=$name;}
     verify('disabled by default', !\Shustrik\PurchasePaidGuard\environment_ready());
@@ -50,6 +51,6 @@
     $fixture=json_decode(file_get_contents($fixture_path),true);
     $out=['utc'=>gmdate('c'),'checks_passed'=>count($checks),'assertion_failures'=>0,'actual_orders_saved'=>0,'real_ga4_requests'=>0,
         'cases'=>$rows,'provider_js'=>$fixture['provider_js'],'gtag_wrapper_js'=>$fixture['gtag_wrapper_js'],
-        'guard_sha256'=>hash_file('sha256',__DIR__.'/shustrik-purchase-paid-guard.php'),'source_sha256'=>$fixture['source_sha256'],'checks'=>$checks];
+        'guard_sha256'=>hash_file('sha256',$guard_file),'source_sha256'=>$fixture['source_sha256'],'checks'=>$checks];
     echo json_encode($out,JSON_PRETTY_PRINT|JSON_UNESCAPED_SLASHES)."\n";
 }
