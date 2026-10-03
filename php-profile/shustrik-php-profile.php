@@ -34,7 +34,7 @@ if (!$shustrik_route) return;
         foreach (debug_backtrace(DEBUG_BACKTRACE_IGNORE_ARGS,18) as $frame) {
             $file=$frame['file']??'';
             if (preg_match('#/wp-content/(plugins|themes)/([a-z0-9-]+)/#',$file,$match)) {
-                $allowed=['woocommerce','woocommerce-gateway-stripe','woodmart','woodmart-core','wp-rocket','litespeed-cache','shustrik-cube-maps','queryra-ai-search','gourl-php','wc-aelia-foundation-classes','aelia-woocommerce-blacklister','pymntpl-paypal-woocommerce','google-site-kit','wordpress-seo','wordpress-seo-premium','js_composer'];
+                $allowed=['woocommerce','woocommerce-gateway-stripe','woodmart','woodmart-core','wp-rocket','litespeed-cache','shustrik-cube-maps','queryra-ai-search','gourl-php','wc-aelia-foundation-classes','aelia-woocommerce-blacklister','pymntpl-paypal-woocommerce','google-site-kit','wordpress-seo','wordpress-seo-premium','js_composer','woodmart-child','pinterest-for-woocommerce','sitemap-by-click5','wpseo-woocommerce','wpseo-local','post-smtp','duplicator-pro','easy-woocommerce-auto-sku-generator','media-cleaner-pro','loco-translate','wp-crontrol','wp-rollback','woo-checkout-field-editor-pro'];
                 $component=in_array($match[2],$allowed,true)?$match[2]:'other-plugin';break;
             }
         }
