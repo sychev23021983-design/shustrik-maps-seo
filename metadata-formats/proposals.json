@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://shustrik-maps.com/product/authagraph-world-map/",
+    "title": "AuthaGraph World Map — TIF & PSD Image Files",
+    "description": "Explore an AuthaGraph world map supplied as TIF and PSD files. View the image resolution, previews and product specifications.",
+    "primary": "authagraph world map",
+    "reason": "3D/printable-relief claim conflicts with the TIF/PSD public specification.",
+    "expected_title": "AuthaGraph World Map 3D Model – Printable Relief Map",
+    "expected_description": "AuthaGraph world map 3D model for visualization, education and 3D printing. Explore the distinctive equal-area world map projection."
+  },
+  {
+    "url": "https://shustrik-maps.com/product/relief-map-of-italy/",
+    "title": "Relief Map of Italy — High-Resolution PSD File",
+    "description": "Explore a relief map of Italy in PSD format, with a 10,000 × 10,000 image resolution. View the preview and file specifications.",
+    "primary": "relief map of italy",
+    "reason": "3D terrain/Printing/CNC claim conflicts with public PSD image specification.",
+    "expected_title": "Relief Map of Italy – 3D Terrain Model for Printing & CNC",
+    "expected_description": "Relief map of Italy — shaded topographic terrain model. Available as a 3D-printable STL and for CNC carving."
+  },
+  {
+    "url": "https://shustrik-maps.com/product/relief-map-of-kosovo/",
+    "title": "Relief Map of Kosovo — High-Resolution PSD File",
+    "description": "Explore a relief map of Kosovo in PSD format, with a 10,000 × 10,000 image resolution. View the preview and file specifications.",
+    "primary": "relief map of kosovo",
+    "reason": "3D terrain/Printing/CNC claim conflicts with public PSD image specification.",
+    "expected_title": "Relief Map of Kosovo – 3D Terrain Model for Printing & CNC",
+    "expected_description": "Relief map of Kosovo — shaded topographic terrain model. Available as a 3D-printable STL and for CNC carving."
+  },
+  {
+    "url": "https://shustrik-maps.com/product/texas-3d-model-state-terrain-map/",
+    "title": "Texas Terrain 3D Model — C4D with TIF Textures",
+    "description": "Explore a Texas terrain model in C4D format with TIF height, normal and satellite maps. View mesh specifications and texture details.",
+    "primary": "texas 3d model",
+    "reason": "Public specification lists C4D; existing OBJ/FBX promises are unconfirmed.",
+    "expected_title": "Texas Terrain 3D Model (OBJ/FBX/C4D) – Textured Digital Elevation",
+    "expected_description": "Texas terrain 3D model in OBJ/FBX/C4D with textured satellite imagery. Ideal for Blender, Cinema 4D, Unreal Engine and architectural visualization."
+  },
+  {
+    "url": "https://shustrik-maps.com/product/usa-map-3d-model/",
+    "title": "USA Terrain 3D Model — C4D & OBJ with Textures",
+    "description": "Explore a USA terrain model in C4D and OBJ formats, including OBJ levels of detail and TIF textures. View the mesh and file specifications.",
+    "primary": "usa 3d map model",
+    "reason": "C4D/OBJ explicitly listed; FBX promise is unconfirmed.",
+    "expected_title": "USA map Terrain 3D Model (OBJ/FBX/C4D) – Textured Digital Elevation",
+    "expected_description": "USA map terrain 3D model in OBJ/FBX/C4D with textured satellite imagery. Ideal for Blender, Cinema 4D, Unreal Engine and architectural visualization."
+  },
+  {
+    "url": "https://shustrik-maps.com/product/north-korea-night-satellite-map/",
+    "title": "North Korea at Night Satellite Map — TIF Image",
+    "description": "Explore a nighttime satellite map of North Korea supplied as a TIF image at 4,711 × 5,000 pixels. View the preview and file specifications.",
+    "primary": "north korea night satellite map",
+    "reason": "TIF is listed; georeferencing required for GeoTIFF claim is unconfirmed.",
+    "expected_title": "North Korea at Night Satellite Map – City Lights GeoTIFF",
+    "expected_description": "Satellite image of North Korea Night at night showing city lights, in high-resolution GeoTIFF format for design and visualization projects."
+  },
+  {
+    "url": "https://shustrik-maps.com/product/satellite-image-of-america-at-night/",
+    "title": "North America at Night Satellite Map — TIF Image",
+    "description": "Explore a nighttime satellite map of North America supplied as a TIF image at 8,000 × 9,578 pixels. View the preview and file specifications.",
+    "primary": "north america satellite map at night",
+    "reason": "TIF is listed; georeferencing required for GeoTIFF claim is unconfirmed.",
+    "expected_title": "North America from space at Night – Satellite Map of City Lights (GeoTIFF)",
+    "expected_description": "Satellite image of North America from space at night showing city lights, in high-resolution GeoTIFF format for design and visualization projects."
+  },
+  {
+    "url": "https://shustrik-maps.com/product/florida-state-terrain-map-3d-model/",
+    "title": "Florida Terrain 3D Model — OBJ with TIF Textures",
+    "description": "Explore a Florida terrain model in OBJ format with TIF normal and satellite maps. View the mesh specifications, textures and preview.",
+    "primary": "florida 3d terrain model",
+    "reason": "OBJ explicitly listed. Application compatibility may be valid, but no app import tests were performed; optional narrower wording.",
+    "expected_title": "Florida 3D Terrain Model for Blender, C4D & Unreal Engine",
+    "expected_description": "Florida terrain 3D model in OBJ/FBX/C4D with textured satellite imagery. Ideal for Blender, Cinema 4D, Unreal Engine and architectural visualization."
+  }
+]
