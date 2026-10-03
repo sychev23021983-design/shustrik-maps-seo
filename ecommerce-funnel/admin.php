@@ -15,7 +15,8 @@ if ($mode === '--apply') {
     if (GOOGLESITEKIT_VERSION !== '1.184.0' || WC_VERSION !== '11.1.2' || empty($tracking['enabled'])
         || array_intersect(['view_item', 'begin_checkout'], $provider->get_event_names())
         || !in_array($option, ['__absent__', false, ''], true) || file_exists($backup)) { exit(2); }
-    foreach (['php' => 'd5192098c17102d6d99c8b217b5231b90ff959930ace2c59cdb3914194fae4e6', 'js' => '5aee12fd60f52329f1f55122196ed8fb202db4f19d6d008857ee1cab809c4804'] as $extension => $hash) {
+    // Hash Git archive bytes (LF), not a Windows worktree's CRLF representation.
+    foreach (['php' => '8045005bf5e530ef441f41112311203383521a8cd0d456bfd4a5d8cc87460492', 'js' => '16c5b77b86afc1256715f66f206c89cea7c3baf490fd0379ee649e393fe523dc'] as $extension => $hash) {
         if (hash_file('sha256', WPMU_PLUGIN_DIR . '/shustrik-ecommerce-funnel.' . $extension) !== $hash) { exit(3); }
     }
     file_put_contents($backup, json_encode(['existed' => $option !== '__absent__', 'value' => $option === '__absent__' ? null : $option]), LOCK_EX);
