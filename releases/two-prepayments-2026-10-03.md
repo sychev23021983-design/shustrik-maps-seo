@@ -1,0 +1,7 @@
+# Two new prepayment products — scoped release 2026-10-03
+
+Owner requested stepwise completion of SEO coverage and errors. Live inventory discovered two additional internal prepayment products outside the old 39-item junk list. Public QA: HTTP200, index/follow, self-canonical, empty description; both present in static Click5 product sitemap. They are payment service records, not product-demand landing pages.
+
+Exact scope: `/product/prepayment-for-kyrgyzstan-model/` and `/product/prepayment-for-authagraph-map/`. Keep URL, canonical, content, price, payment and availability. Set only Yoast noindex metadata and add two IDs to existing Click5 blacklist, then regenerate sitemap through existing plugin. No robots.txt blocking, redirect or deletion. Default script is preview. Guarded backup option `_shustrik_two_junk_backup_20261003` holds prior field existence/value and original blacklist. Rollback refuses blacklist drift and preserves later unrelated changes.
+
+Acceptance: both public200/noindex/follow; absent product sitemap; Earth remains indexable with corrected metadata; original39 exclusions retained. Noindex removal by Google is asynchronous and not considered completed by deployment. CLI sitemap generation previously required1GiB memory ceiling; this is a one-off process ceiling, not PHP web worker tuning. Verify available memory before running. Exact script committed/pushed before VPS use. Existing dirty source files preserved.
