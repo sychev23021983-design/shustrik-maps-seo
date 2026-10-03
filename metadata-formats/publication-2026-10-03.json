@@ -1,0 +1,29 @@
+{
+  "site": "https://shustrik-maps.com",
+  "owner_approval": "делай все",
+  "applied_utc": "2026-10-03T09:12:20+00:00",
+  "source_commit": "6476ede7eadfd0b6f0f6aa343b26a1187f85714c",
+  "archive_sha256": "2310cfd64f9161012197959cec3acb6689e95effa3fb53a5242836427c03776f",
+  "scope": "eight",
+  "fields": [
+    "title",
+    "description"
+  ],
+  "selected_metadata_matches": 8,
+  "unchanged_pilot_metadata": 22,
+  "public_pilot_acceptance": 30,
+  "all_public_checks_pass": true,
+  "qa_utc": "2026-10-03T09:14:09Z",
+  "commerce_qa_utc": "2026-10-03T09:12:41Z",
+  "commerce_http_pass": true,
+  "payment_submitted": false,
+  "browser_payment_js_checked": false,
+  "junk_urls_absent_sitemap": 41,
+  "backup_option": "_shustrik_format_metadata_backup_20261003_eight",
+  "server_source_dir": "/root/shustrik-metadata-formats-20261003/metadata-formats",
+  "container_source_dir": "/tmp/shustrik-metadata-formats-6476ede",
+  "rollback_command": "sudo docker exec shustrik-maps-wordpress-1 php /tmp/shustrik-metadata-formats-6476ede/release.php --eight --rollback",
+  "initial_cache_pass": "Eight old STALE responses; subsequent ordinary public pass correct after background refresh",
+  "runtime_status": "degraded",
+  "seo_effect_measured": false
+}
