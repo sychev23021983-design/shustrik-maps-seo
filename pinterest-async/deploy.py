@@ -16,7 +16,7 @@ if a.rollback:
     run('docker','exec',CONTAINER,'php','/tmp/shustrik-pinterest-admin.php','--disable')
     print('ENQUEUE_DISABLED: original synchronous trackers restored; existing encrypted queue still drains. Do not remove consumer while payloads remain.');raise SystemExit(0)
 if TARGET.exists() or SERVICE.exists() or TIMER.exists() or BACKUP.exists():raise SystemExit('Target/units/backup already exist; refusing overwrite')
-run('docker','cp',str(HERE),CONTAINER+':/tmp/shustrik-pinterest-preflight')
+run('docker','cp',str(HERE)+'/.',CONTAINER+':/tmp/shustrik-pinterest-preflight')
 for name in ['shustrik-pinterest-async.php','worker.php','admin.php','test.php']:
     run('docker','exec',CONTAINER,'php','-l','/tmp/shustrik-pinterest-preflight/'+name)
 run('docker','exec',CONTAINER,'php','/tmp/shustrik-pinterest-preflight/test.php')
