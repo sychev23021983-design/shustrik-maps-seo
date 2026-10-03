@@ -4,7 +4,7 @@ Adds `view_item` on public product documents and `begin_checkout` on nonempty st
 
 ## Activation and compatibility
 
-Both runtime files must be siblings directly in `wp-content/mu-plugins/`. PHP is inert unless the WordPress option `shustrik_ecommerce_funnel_enabled` is the boolean `true` (not the string `yes` or `1`). Nothing has been installed in that directory during preview.
+Both runtime files must be siblings directly in `wp-content/mu-plugins/`. PHP is inert unless the WordPress option `shustrik_ecommerce_funnel_enabled` is boolean `true` or its WordPress-persisted scalar representation `'1'`; other truthy strings such as `'yes'` are rejected. The activation helper writes boolean true. Nothing was installed in that directory during preview.
 
 Pinned to WooCommerce 11.1.2 / Site Kit 1.184.0. Other versions stop emission pending a new compatibility review. Also stops if the Site Kit provider begins supplying either missing event, conversion tracking is disabled, Analytics has no active/enqueued tag, or this is another hostname. Excludes admin, AJAX, REST, cron, feeds, all logged-in visitors, category/cart, order-pay and order-received endpoints. This logged-in exclusion is deliberately stricter than configurations that allow logged-in customers.
 

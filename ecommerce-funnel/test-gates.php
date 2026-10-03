@@ -40,7 +40,9 @@ $base = ['shustrik_ecommerce_funnel_enabled' => true, 'googlesitekit_conversion_
     'loggedin' => false, 'analytics' => 1, 'tag' => true, 'product' => true, 'checkout' => false,
     'endpoint' => false, 'received' => false, 'provider' => ['add_to_cart', 'purchase']];
 $cases = [
-    ['public product', [], 1], ['disabled default', ['shustrik_ecommerce_funnel_enabled' => false], 0],
+    ['public product', [], 1], ['persisted enabled scalar', ['shustrik_ecommerce_funnel_enabled' => '1'], 1],
+    ['other truthy strings rejected', ['shustrik_ecommerce_funnel_enabled' => 'yes'], 0],
+    ['disabled default', ['shustrik_ecommerce_funnel_enabled' => false], 0],
     ['wrong site', ['home' => 'https://example.com'], 0], ['admin', ['admin' => true], 0],
     ['ajax', ['ajax' => true], 0], ['cron', ['cron' => true], 0], ['feed', ['feed' => true], 0],
     ['logged in excluded', ['loggedin' => true], 0], ['no analytics tag', ['analytics' => 0], 0],

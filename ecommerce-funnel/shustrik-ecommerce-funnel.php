@@ -72,7 +72,8 @@ function checkout_payload($cart) {
 }
 
 function enqueue() {
-    if (get_option('shustrik_ecommerce_funnel_enabled', false) !== true
+    // WordPress persists a boolean true scalar as the string '1' on a fresh request.
+    if (!in_array(get_option('shustrik_ecommerce_funnel_enabled', false), [true, '1'], true)
         || rtrim(home_url(), '/') !== 'https://shustrik-maps.com'
         || is_admin() || wp_doing_ajax() || wp_doing_cron() || is_feed()
         || (defined('REST_REQUEST') && REST_REQUEST)
