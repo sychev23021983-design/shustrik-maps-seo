@@ -1,0 +1,87 @@
+{
+  "utc": "2026-10-03T17:07:09.543Z",
+  "php_checks_passed": 92,
+  "js_checks_passed": 57,
+  "assertion_failures": 0,
+  "scope": "installed Site Kit JS in Node VM with local sink; preview is not installed in production",
+  "paid_gate_passed": true,
+  "late_payment_next_render_passed": true,
+  "original_marker_network_loss_recovery": false,
+  "real_browser_consent_verified": false,
+  "real_google_receipt_verified": false,
+  "actual_orders_saved": 0,
+  "real_ga4_requests": 0,
+  "guard_sha256": "666940e505df36627c2c556f680f0a0e3e71a7515c68e994b3f8c6a460b2fbe6",
+  "findings": [
+    {
+      "name": "pending",
+      "first_purchase_attempts": 0,
+      "second_purchase_attempts": 0
+    },
+    {
+      "name": "failed",
+      "first_purchase_attempts": 0,
+      "second_purchase_attempts": 0
+    },
+    {
+      "name": "cancelled",
+      "first_purchase_attempts": 0,
+      "second_purchase_attempts": 0
+    },
+    {
+      "name": "on-hold",
+      "first_purchase_attempts": 0,
+      "second_purchase_attempts": 0
+    },
+    {
+      "name": "refunded",
+      "first_purchase_attempts": 0,
+      "second_purchase_attempts": 0
+    },
+    {
+      "name": "completed-no-date",
+      "first_purchase_attempts": 0,
+      "second_purchase_attempts": 0
+    },
+    {
+      "name": "processing-no-date",
+      "first_purchase_attempts": 0,
+      "second_purchase_attempts": 0
+    },
+    {
+      "name": "completed",
+      "first_purchase_attempts": 1,
+      "second_purchase_attempts": 0
+    },
+    {
+      "name": "processing",
+      "first_purchase_attempts": 1,
+      "second_purchase_attempts": 0
+    },
+    {
+      "name": "free-paid",
+      "first_purchase_attempts": 1,
+      "second_purchase_attempts": 0
+    },
+    {
+      "name": "invalid-key",
+      "first_purchase_attempts": 0,
+      "second_purchase_attempts": 0
+    },
+    {
+      "name": "already-marked",
+      "first_purchase_attempts": 0,
+      "second_purchase_attempts": 0
+    },
+    {
+      "name": "wgai-owned",
+      "first_purchase_attempts": 0,
+      "second_purchase_attempts": 0
+    },
+    {
+      "name": "late-payment",
+      "first_purchase_attempts": 0,
+      "second_purchase_attempts": 1
+    }
+  ]
+}

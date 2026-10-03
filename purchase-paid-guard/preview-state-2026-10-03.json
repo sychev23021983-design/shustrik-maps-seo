@@ -1,0 +1,17 @@
+{
+    "utc": "2026-10-03T17:08:12+00:00",
+    "sitekit_version": "1.184.0",
+    "woocommerce_version": "11.1.2",
+    "block_theme": false,
+    "guard_option_present": false,
+    "guard_enabled": false,
+    "guard_mu_file_exists": false,
+    "installed_purchase_callbacks": [
+        {
+            "priority": 10,
+            "accepted_args": 1,
+            "source_sha256": "82da28caecda75acca747963336c170ddf6399999a91f7ecb7588db0b6182c85"
+        }
+    ],
+    "configuration_changed": false
+}
