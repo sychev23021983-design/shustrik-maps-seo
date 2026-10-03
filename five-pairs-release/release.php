@@ -30,13 +30,23 @@ function fields($id) {
 }
 function after_fields($r) { return ['h1'=>$r['h1'],'title'=>$r['title'],'description'=>$r['description'],'title_exists'=>true,'description_exists'=>true]; }
 function write_fields($id,$target,$slug) {
+    global $wpdb;
+    $p=get_post($id);
+    if(!$p || $p->post_name!==$slug) fail_release('Title identity guard failed');
+    $wpdb->query('START TRANSACTION');
     foreach (['title'=>'_yoast_wpseo_title','description'=>'_yoast_wpseo_metadesc'] as $field=>$key) {
         if ($target[$field.'_exists']) update_post_meta($id,$key,wp_slash($target[$field]));
         else delete_post_meta($id,$key);
     }
-    $result=wp_update_post(wp_slash(['ID'=>$id,'post_title'=>$target['h1'],'post_name'=>$slug]),true);
-    if (is_wp_error($result)) fail_release('Product title write failed');
+    // Do not invoke global post-save filters: the installed save path changed unrelated content
+    // and exhausted CLI memory. Update only the approved title column, preserving content bytes.
+    $result=$wpdb->update($wpdb->posts,['post_title'=>$target['h1'],'post_modified'=>current_time('mysql'),'post_modified_gmt'=>current_time('mysql',true)],['ID'=>$id],['%s','%s','%s'],['%d']);
+    if ($result===false) { $wpdb->query('ROLLBACK'); fail_release('Product title write failed'); }
+    $wpdb->query('COMMIT');
     clean_post_cache($id);
+    if(function_exists('YoastSEO') && class_exists('Yoast\\WP\\SEO\\Builders\\Indexable_Builder')) {
+        YoastSEO()->classes->get('Yoast\\WP\\SEO\\Builders\\Indexable_Builder')->build_for_id_and_type($id,'post');
+    }
     if (fields($id)!==$target) fail_release('Exact field verification failed');
 }
 try {
@@ -45,7 +55,7 @@ try {
     if (!in_array($mode,['--snapshot','--preview','--apply','--verify','--rollback'],true)) fail_release('Unsupported mode');
     $rows=json_decode(file_get_contents(__DIR__.'/proposals.json'),true,512,JSON_THROW_ON_ERROR);
     if(count($rows)!==10 || count(array_unique(array_column($rows,'url')))!==10) fail_release('Scope guard failed');
-    $key='_shustrik_five_pairs_backup_20261003';
+    $key='_shustrik_five_pairs_backup_20261003_v2';
     $snapshot=[];
     foreach($rows as $r) {
         $id=url_to_postid($r['url']); $state=invariant($id);
@@ -75,7 +85,12 @@ try {
     }
     if($mode==='--apply') {
         if($backup!==null) fail_release('Backup exists; repeat apply refused');
-        if(!add_option($key,['utc'=>gmdate('c'),'rows'=>$baseline,'proposals'=>$rows],'',false)) fail_release('Backup write failed');
+        $protected=[];
+        foreach($baseline as $old) {
+            $p=get_post($old['id']);
+            $protected[$old['id']]=['post_content'=>$p->post_content,'post_excerpt'=>$p->post_excerpt];
+        }
+        if(!add_option($key,['utc'=>gmdate('c'),'rows'=>$baseline,'proposals'=>$rows,'protected_content'=>$protected],'',false)) fail_release('Backup write failed');
     }
     $attempted=[];
     try {
