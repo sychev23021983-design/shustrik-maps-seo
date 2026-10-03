@@ -1,0 +1,240 @@
+{
+  "utc": "2026-10-03T16:54:14.891Z",
+  "fixture_utc": "2026-10-03T16:54:14+00:00",
+  "source_sha256": {
+    "provider_js": "c6614432d6ae233eef22697ef97975b43d21cccbdeb16431d50cb7f00b02afc6",
+    "provider_php": "82da28caecda75acca747963336c170ddf6399999a91f7ecb7588db0b6182c85",
+    "tracking_php": "fab1b842ea5a6dbe9fe5a6c1a278443bee2c977d2885f65fec65ffdfe1935db9"
+  },
+  "harness_checks_passed": 58,
+  "assertion_failures": 0,
+  "actual_orders_saved": 0,
+  "real_ga4_requests": 0,
+  "scope": "installed PHP method/formatter + installed JS in Node VM; synthetic objects, DOM and downstream collector stubs",
+  "limitations": [
+    "No real browser or Google collector receipt",
+    "Consent gating is a simulated sink, not a production CMP test",
+    "No actual payment gateway callback",
+    "No GA4 report deduplication test",
+    "PHP method invocation does not prove every order status reaches WooCommerce thankyou"
+  ],
+  "acceptance": {
+    "paid_only_gate_in_tested_method": false,
+    "network_loss_recovery": false,
+    "production_consent_policy_verified": false,
+    "paid_synthetic_payload_correct": true,
+    "classic_php_reload_suppressed": true,
+    "production_purchase_completeness_fixed": false
+  },
+  "findings": [
+    {
+      "scenario": "pending",
+      "initial_status": "pending",
+      "final_status": "pending",
+      "first_purchase_attempts": 1,
+      "second_purchase_attempts": 0,
+      "marker_before_js": "1",
+      "actual_order_saved": false
+    },
+    {
+      "scenario": "failed",
+      "initial_status": "failed",
+      "final_status": "failed",
+      "first_purchase_attempts": 1,
+      "second_purchase_attempts": 0,
+      "marker_before_js": "1",
+      "actual_order_saved": false
+    },
+    {
+      "scenario": "cancelled",
+      "initial_status": "cancelled",
+      "final_status": "cancelled",
+      "first_purchase_attempts": 1,
+      "second_purchase_attempts": 0,
+      "marker_before_js": "1",
+      "actual_order_saved": false
+    },
+    {
+      "scenario": "on-hold",
+      "initial_status": "on-hold",
+      "final_status": "on-hold",
+      "first_purchase_attempts": 1,
+      "second_purchase_attempts": 0,
+      "marker_before_js": "1",
+      "actual_order_saved": false
+    },
+    {
+      "scenario": "completed",
+      "initial_status": "completed",
+      "final_status": "completed",
+      "first_purchase_attempts": 1,
+      "second_purchase_attempts": 0,
+      "marker_before_js": "1",
+      "actual_order_saved": false
+    },
+    {
+      "scenario": "processing",
+      "initial_status": "completed",
+      "final_status": "completed",
+      "first_purchase_attempts": 1,
+      "second_purchase_attempts": 0,
+      "marker_before_js": "1",
+      "actual_order_saved": false
+    },
+    {
+      "scenario": "invalid-key",
+      "initial_status": "completed",
+      "final_status": "completed",
+      "first_purchase_attempts": 0,
+      "second_purchase_attempts": 0,
+      "marker_before_js": "",
+      "actual_order_saved": false
+    },
+    {
+      "scenario": "already-marked",
+      "initial_status": "completed",
+      "final_status": "completed",
+      "first_purchase_attempts": 0,
+      "second_purchase_attempts": 0,
+      "marker_before_js": "1",
+      "actual_order_saved": false
+    },
+    {
+      "scenario": "wgai-owned",
+      "initial_status": "completed",
+      "final_status": "completed",
+      "first_purchase_attempts": 0,
+      "second_purchase_attempts": 0,
+      "marker_before_js": "",
+      "actual_order_saved": false
+    },
+    {
+      "scenario": "block-two-hooks",
+      "initial_status": "completed",
+      "final_status": "completed",
+      "first_purchase_attempts": 1,
+      "second_purchase_attempts": 1,
+      "marker_before_js": "",
+      "actual_order_saved": false
+    },
+    {
+      "scenario": "late-payment",
+      "initial_status": "pending",
+      "final_status": "completed",
+      "first_purchase_attempts": 1,
+      "second_purchase_attempts": 0,
+      "marker_before_js": "1",
+      "actual_order_saved": false
+    },
+    {
+      "scenario": "consent-granted",
+      "marker_before_js": "1",
+      "provider_attempts": 1,
+      "local_sink_receipts": 1,
+      "allowed_reload_receipts": 0,
+      "gate_is_simulated": true,
+      "production_consent_verified": false
+    },
+    {
+      "scenario": "consent-denied",
+      "marker_before_js": "1",
+      "provider_attempts": 1,
+      "local_sink_receipts": 0,
+      "allowed_reload_receipts": 0,
+      "gate_is_simulated": true,
+      "production_consent_verified": false
+    },
+    {
+      "scenario": "consent-unknown",
+      "marker_before_js": "1",
+      "provider_attempts": 1,
+      "local_sink_receipts": 0,
+      "allowed_reload_receipts": 0,
+      "gate_is_simulated": true,
+      "production_consent_verified": false
+    },
+    {
+      "scenario": "network-lost",
+      "marker_before_js": "1",
+      "provider_attempts": 1,
+      "local_sink_receipts": 0,
+      "allowed_reload_receipts": 0,
+      "gate_is_simulated": true,
+      "production_consent_verified": false
+    },
+    {
+      "scenario": "javascript-disabled",
+      "marker_before_js": "1",
+      "provider_attempts": 0,
+      "local_sink_receipts": 0,
+      "allowed_reload_receipts": 0,
+      "gate_is_simulated": true,
+      "production_consent_verified": false
+    },
+    {
+      "scenario": "same-inline-executed-again-after-wrapper-timer",
+      "provider_attempts": 2,
+      "real_ga4_deduplication_verified": false
+    }
+  ],
+  "checks": [
+    "pending: no real order persisted",
+    "pending: installed first render behavior",
+    "pending: installed second render behavior",
+    "pending: real formatter and JS payload",
+    "failed: no real order persisted",
+    "failed: installed first render behavior",
+    "failed: installed second render behavior",
+    "failed: real formatter and JS payload",
+    "cancelled: no real order persisted",
+    "cancelled: installed first render behavior",
+    "cancelled: installed second render behavior",
+    "cancelled: real formatter and JS payload",
+    "on-hold: no real order persisted",
+    "on-hold: installed first render behavior",
+    "on-hold: installed second render behavior",
+    "on-hold: real formatter and JS payload",
+    "completed: no real order persisted",
+    "completed: installed first render behavior",
+    "completed: installed second render behavior",
+    "completed: real formatter and JS payload",
+    "processing: no real order persisted",
+    "processing: installed first render behavior",
+    "processing: installed second render behavior",
+    "processing: real formatter and JS payload",
+    "invalid-key: no real order persisted",
+    "invalid-key: installed first render behavior",
+    "invalid-key: installed second render behavior",
+    "already-marked: no real order persisted",
+    "already-marked: installed first render behavior",
+    "already-marked: installed second render behavior",
+    "wgai-owned: no real order persisted",
+    "wgai-owned: installed first render behavior",
+    "wgai-owned: installed second render behavior",
+    "block-two-hooks: no real order persisted",
+    "block-two-hooks: installed first render behavior",
+    "block-two-hooks: installed second render behavior",
+    "block-two-hooks: real formatter and JS payload",
+    "late-payment: no real order persisted",
+    "late-payment: installed first render behavior",
+    "late-payment: installed second render behavior",
+    "late-payment: real formatter and JS payload",
+    "consent-granted: provider attempts",
+    "consent-granted: isolated sink receipt",
+    "consent-granted: later allowed reload cannot recover",
+    "consent-denied: provider attempts",
+    "consent-denied: isolated sink receipt",
+    "consent-denied: later allowed reload cannot recover",
+    "consent-unknown: provider attempts",
+    "consent-unknown: isolated sink receipt",
+    "consent-unknown: later allowed reload cannot recover",
+    "network-lost: provider attempts",
+    "network-lost: isolated sink receipt",
+    "network-lost: later allowed reload cannot recover",
+    "javascript-disabled: provider attempts",
+    "javascript-disabled: isolated sink receipt",
+    "javascript-disabled: later allowed reload cannot recover",
+    "wrapper suppresses same payload within 5ms",
+    "wrapper is not durable deduplication"
+  ]
+}
