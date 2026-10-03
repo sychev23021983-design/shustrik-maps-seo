@@ -27,9 +27,18 @@ if (!$shustrik_route) return;
         if ($pre !== false) return $pre;
         $host = strtolower((string)parse_url($url,PHP_URL_HOST));
         $bucket = 'other';
-        foreach (['stripe.com'=>'stripe','paypal.com'=>'paypal','googleapis.com'=>'google','google.com'=>'google','wordpress.org'=>'wordpress','woocommerce.com'=>'woocommerce'] as $domain=>$name) {
+        foreach (['shustrik-maps.com'=>'self','stripe.com'=>'stripe','paypal.com'=>'paypal','googleapis.com'=>'google','google.com'=>'google','wordpress.org'=>'wordpress','woocommerce.com'=>'woocommerce'] as $domain=>$name) {
             if ($host===$domain || substr($host,-strlen('.'.$domain))==='.'. $domain) {$bucket=$name;break;}
         }
+        $component='core';
+        foreach (debug_backtrace(DEBUG_BACKTRACE_IGNORE_ARGS,18) as $frame) {
+            $file=$frame['file']??'';
+            if (preg_match('#/wp-content/(plugins|themes)/([a-z0-9-]+)/#',$file,$match)) {
+                $allowed=['woocommerce','woocommerce-gateway-stripe','woodmart','woodmart-core','wp-rocket','litespeed-cache','shustrik-cube-maps','queryra-ai-search','gourl-php','wc-aelia-foundation-classes','aelia-woocommerce-blacklister','pymntpl-paypal-woocommerce','google-site-kit','wordpress-seo','wordpress-seo-premium','js_composer'];
+                $component=in_array($match[2],$allowed,true)?$match[2]:'other-plugin';break;
+            }
+        }
+        $bucket.='|'.$component.'|'.(empty($args['blocking'])?'nonblocking':'blocking');
         $pending[hash('sha256',$url)][] = [microtime(true),$bucket];
         return $pre;
     },PHP_INT_MAX,3);
