@@ -15,7 +15,7 @@ if ($mode === '--apply') {
     if (GOOGLESITEKIT_VERSION !== '1.184.0' || WC_VERSION !== '11.1.2' || empty($tracking['enabled'])
         || array_intersect(['view_item', 'begin_checkout'], $provider->get_event_names())
         || !in_array($option, ['__absent__', false, ''], true) || file_exists($backup)) { exit(2); }
-    // Hash Git archive bytes (LF), not a Windows worktree's CRLF representation.
+    // Hash the release archive bytes, including its configured export line endings.
     foreach (['php' => '8045005bf5e530ef441f41112311203383521a8cd0d456bfd4a5d8cc87460492', 'js' => '16c5b77b86afc1256715f66f206c89cea7c3baf490fd0379ee649e393fe523dc'] as $extension => $hash) {
         if (hash_file('sha256', WPMU_PLUGIN_DIR . '/shustrik-ecommerce-funnel.' . $extension) !== $hash) { exit(3); }
     }

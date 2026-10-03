@@ -1,4 +1,8 @@
-# Missing ecommerce events — prepared preview, not deployed
+# Missing ecommerce events — live QA attempted, activation rolled back
+
+2026-10-03 release source `77d0c960cc3c94d35b7f2385a9e6d3e7a94ff513` was installed and enabled at 13:07:41 UTC, then disabled at 13:12:29 UTC. Seven isolated HTTP steps passed and guest browser product/cart/checkout worked; no order/payment, both test carts cleaned. Runtime files remain installed but inert, own enable option restored to absent. Earth cached HTML refreshed and verified without addon after rollback. GA4 realtime stayed at zero for both new events through 13:14:11 UTC; this workstation resolves `www.google-analytics.com` to `0.0.0.0`. Collector receipt and real consent states remain unverified. Next activation requires a browser environment with reachable collector; network protection was not changed.
+
+Runtime archive SHA256: PHP `8045005bf5e530ef441f41112311203383521a8cd0d456bfd4a5d8cc87460492`, JS `16c5b77b86afc1256715f66f206c89cea7c3baf490fd0379ee649e393fe523dc`. Git archive on this Windows configuration exported CRLF; normalized contents exactly matched Git blobs. Initial hash guard correctly stopped activation while still disabled; corrected export hashes before enabling. Backup and guarded own-option rollback: `/root/shustrik-ecommerce-funnel-20261003/deploy.py --rollback`. Do not rerun --apply over these files; a guarded reactivation should recheck hashes/versions/options and keep the original backup.
 
 Adds `view_item` on public product documents and `begin_checkout` on nonempty standard checkout documents. Uses the existing Site Kit `_googlesitekit.gtagEvent` wrapper; no new Google Tag, measurement ID, raw gtag fallback, consent command, cookies, storage, order hooks or purchase sender.
 
@@ -21,7 +25,7 @@ This does not change `add_to_cart`/`purchase` or repair purchase payment semanti
 ## Checked 2026-10-03
 
 - `node ecommerce-funnel/test-events.cjs`: 11 JavaScript checks passed, including once-only, opt-out, forbidden events and missing/delayed wrapper.
-- PHP 8.3 in the existing WordPress container: lint passed; `test-gates.php` 17 request-eligibility checks passed.
+- PHP 8.3 in the existing WordPress container: lint passed; `test-gates.php` now has 19 request-eligibility checks, including WordPress persisted `'1'` activation and rejection of other truthy strings. All passed in the release preflight.
 - `preview.php` in a separate `/tmp/shustrik-ecommerce-preview-20261003/` directory: 12 checks passed; real public Earth ID 11517 / USD 32, synthetic discounted two-item quantity USD 60; custom fields excluded. No session/order/options/GA mutation. Preview evidence is in the canonical project Checks directory.
 - Server/browser dispatch and Google collector receipt are NOT verified by these tests.
 
@@ -37,4 +41,4 @@ This does not change `add_to_cart`/`purchase` or repair purchase payment semanti
 
 Set only `shustrik_ecommerce_funnel_enabled` to boolean false (or delete it if it did not exist before release). Invalidate the same product cache scope: cached inline payloads may outlive the option switch. Remove only the two own runtime files after verifying their exact hashes and absence of a pre-existing version; retain backup/evidence. A stale HTML page may retain an old event until cache invalidation, so verify public HTML again. Do not touch Site Kit, Pinterest, payment tracking, tag IDs or unrelated options.
 
-No production activation or rollback was executed in the preview step.
+The initial preview step did not activate production. The subsequent owner-authorized release did activate, then rolled back as recorded above; do not treat this as completed GA4 delivery QA.
