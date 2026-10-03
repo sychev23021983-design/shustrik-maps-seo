@@ -1,0 +1,68 @@
+{
+  "site": "https://shustrik-maps.com",
+  "owner_authorization": "делай, following the confirmed Pinterest latency fix",
+  "initial_enabled_utc": "2026-10-03T09:51:28Z",
+  "final_verified_utc": "2026-10-03T09:58:40.572011+00:00",
+  "source_commit": "838969aea6e99bc53f2e049456238c9ffdc48cc9",
+  "archive_sha256": "27f0bf4c54734cb44f5e1d8396501c82ea431fad3ca46e15971873ccedfeccef",
+  "plugin_sha256": "185bdec33fee3c46691d44a766e47f80f90453de4b8b1c586dbb76f70053bb44",
+  "consumer_interval_seconds": 5,
+  "max_actions_per_run": 2,
+  "synthetic_tests_passed": 13,
+  "queue": {
+    "enqueue_disabled": false,
+    "payloads": 0,
+    "metrics": {
+      "queued": 59,
+      "delivered": 59,
+      "retry": 0,
+      "expired": 0,
+      "terminal": 0,
+      "fallback": 0,
+      "bot_skipped": 16
+    },
+    "trackers": [
+      "Automattic\\WooCommerce\\Pinterest\\Tracking\\Tag",
+      "ShustrikPinterestAsyncTracker"
+    ],
+    "oldest_payload_age_seconds": 0,
+    "queue_status": [
+      {
+        "status": "complete",
+        "count": "59"
+      }
+    ],
+    "checked_utc": "2026-10-03T09:58:40.572011+00:00"
+  },
+  "php_comparison": {
+    "before": {
+      "product": {
+        "median_php_ms": 1520.95,
+        "pinterest_http_calls": 3,
+        "median_pinterest_http_ms": 960.97
+      },
+      "product-category": {
+        "median_php_ms": 3017.11,
+        "pinterest_http_calls": 6,
+        "median_pinterest_http_ms": 2153.73
+      }
+    },
+    "after": {
+      "product": {
+        "median_php_ms": 583.48,
+        "pinterest_http_calls": 0,
+        "median_pinterest_http_ms": 0
+      },
+      "product-category": {
+        "median_php_ms": 558.7,
+        "pinterest_http_calls": 0,
+        "median_pinterest_http_ms": 0
+      }
+    }
+  },
+  "commerce_http_pass": true,
+  "payment_submitted": false,
+  "metadata_pilot_regression_pass": 30,
+  "runtime_status": "degraded",
+  "rollback": "sudo python3 /root/shustrik-pinterest-async-20261003/deploy.py --rollback"
+}
