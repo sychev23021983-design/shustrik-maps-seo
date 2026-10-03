@@ -1,0 +1,449 @@
+{
+    "mode": "snapshot",
+    "utc": "2026-10-03T16:07:57+00:00",
+    "rows": [
+        {
+            "id": 10161,
+            "url": "https://shustrik-maps.com/product/3d-model-of-portugal-terrain/",
+            "fields": {
+                "h1": "3D model of Portugal terrain",
+                "title": "Portugal 3D model terrain %%sep%% Custom %%sitename%%",
+                "description": "3D model of the relief of Portugal is created using an elevation map, a shapefile and a satellite texture. Buy 3D relief map of Portugal.",
+                "title_exists": true,
+                "description_exists": true
+            },
+            "invariants": {
+                "url": "https://shustrik-maps.com/product/3d-model-of-portugal-terrain/",
+                "type": "product",
+                "status": "publish",
+                "slug": "3d-model-of-portugal-terrain",
+                "content_sha256": "d892e15d5096aee97654a4d481ecf949d7f1a990909566ad68411515126b624b",
+                "excerpt_sha256": "4f75f296b7677ced414cf375504c889b7690fd973f382d5ab5fac1b98a58392b",
+                "commerce_hashes": {
+                    "_price": "500f19c3157a20e0e14b80a8e8fed118d604c40abb16e508d79c9035b2e7df79",
+                    "_regular_price": "500f19c3157a20e0e14b80a8e8fed118d604c40abb16e508d79c9035b2e7df79",
+                    "_sale_price": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_sku": "ae451c62f52551da1f1b9a32805dad335cd69a7952180f7936271da91934c7a2",
+                    "_stock": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_stock_status": "098da002c45802604cc64a9e3a27ff5d45909f9236ce0c50509c6763206713af",
+                    "_manage_stock": "0227ce59e87e525e2554ee7060591a3fe435f6bc1c663ba9c72524a3fdf26871",
+                    "_downloadable": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_virtual": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_downloadable_files": "9735b26e3a01f7676b960cfbabd303cd299536981a7ed8cd71c52828e0118b43",
+                    "_download_limit": "1e7a7ef2ad7fed351c6fd55beed2de21b9448aff8f7ddbe4012d77c9d4e0eec2",
+                    "_download_expiry": "1e7a7ef2ad7fed351c6fd55beed2de21b9448aff8f7ddbe4012d77c9d4e0eec2",
+                    "_thumbnail_id": "8cfa1ee98d766f67f915a8b2367cf804921980485d10193bf1b46bb737c386e6",
+                    "_product_image_gallery": "05ad826059b579755b6bad07d8f9a90f3e9e78454f11b8129547307c69cbf71c",
+                    "_tax_status": "7d967c3ab78c56cd98df3c759ed90c72ea0f313ed32abeec0b3383aac632f144",
+                    "_tax_class": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b"
+                },
+                "categories": [
+                    62
+                ],
+                "currency": "USD",
+                "robots": "",
+                "robots_follow": "",
+                "canonical": ""
+            }
+        },
+        {
+            "id": 13233,
+            "url": "https://shustrik-maps.com/product/portugal-3d-model-terrain-map/",
+            "fields": {
+                "h1": "Portugal 3D Model Terrain Map",
+                "title": "Portugal 3D Model Terrain Map for 3D Design and Art. Download",
+                "description": "Portugal 3D model is the perfect addition to your digital library. We offer high-quality 3D models, perfect for 3D designers.",
+                "title_exists": true,
+                "description_exists": true
+            },
+            "invariants": {
+                "url": "https://shustrik-maps.com/product/portugal-3d-model-terrain-map/",
+                "type": "product",
+                "status": "publish",
+                "slug": "portugal-3d-model-terrain-map",
+                "content_sha256": "504c7653f03b2cf99b48ea187dcad5fb35488f1ef2ee7fa7617d2aa05d12b46f",
+                "excerpt_sha256": "2b8241684b65c2fed25388197f304659d293e57ea4d3f095ce9f33f5b069586a",
+                "commerce_hashes": {
+                    "_price": "5d12ecc06173390bdbec9780164891a28b43b368be7b233ec95bff80d5210ffb",
+                    "_regular_price": "5d12ecc06173390bdbec9780164891a28b43b368be7b233ec95bff80d5210ffb",
+                    "_sale_price": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_sku": "dd42ddf4dae2431b925e0b66e9501c2f41a5f9bb491acb39e75036f75cd86273",
+                    "_stock": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_stock_status": "098da002c45802604cc64a9e3a27ff5d45909f9236ce0c50509c6763206713af",
+                    "_manage_stock": "0227ce59e87e525e2554ee7060591a3fe435f6bc1c663ba9c72524a3fdf26871",
+                    "_downloadable": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_virtual": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_downloadable_files": "096e4ab02fb146a4da0eee9fb0238d5b6d672e5623543720c6c2f41d24012efe",
+                    "_download_limit": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_download_expiry": "1e7a7ef2ad7fed351c6fd55beed2de21b9448aff8f7ddbe4012d77c9d4e0eec2",
+                    "_thumbnail_id": "6c8b040214e7c6e0b90005a74179d4e39786dd6835563c57f4f0136c168fe2c8",
+                    "_product_image_gallery": "ea71fe6de0e623a7bba0f874c2bd9af5f505b0141952d1c671a60830a5a31205",
+                    "_tax_status": "7d967c3ab78c56cd98df3c759ed90c72ea0f313ed32abeec0b3383aac632f144",
+                    "_tax_class": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b"
+                },
+                "categories": [
+                    62
+                ],
+                "currency": "USD",
+                "robots": "",
+                "robots_follow": "",
+                "canonical": ""
+            }
+        },
+        {
+            "id": 13017,
+            "url": "https://shustrik-maps.com/product/afghanistan-3d-model-terrain-map/",
+            "fields": {
+                "h1": "Afghanistan 3D Model Terrain Map",
+                "title": "Afghanistan 3D Model Terrain Map for 3D Design & Art. Download",
+                "description": "Afghanistan 3D model is the perfect addition to your digital library. We offer high-quality 3D models, perfect for 3D designers.",
+                "title_exists": true,
+                "description_exists": true
+            },
+            "invariants": {
+                "url": "https://shustrik-maps.com/product/afghanistan-3d-model-terrain-map/",
+                "type": "product",
+                "status": "publish",
+                "slug": "afghanistan-3d-model-terrain-map",
+                "content_sha256": "1bfb3aa7720c2ea1e05a7df312baec3e6a2cfc1dbcaaac7c6db08b7f01cc2144",
+                "excerpt_sha256": "6f0d660f1b1268e38569f8e2920300c4dba7d1f4936ccfd383e827bf950295fd",
+                "commerce_hashes": {
+                    "_price": "5d12ecc06173390bdbec9780164891a28b43b368be7b233ec95bff80d5210ffb",
+                    "_regular_price": "5d12ecc06173390bdbec9780164891a28b43b368be7b233ec95bff80d5210ffb",
+                    "_sale_price": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_sku": "ef39ed94bef9ca6326dd3065d88b42a1c7975ec45f9199dbe7a0d6718d71e982",
+                    "_stock": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_stock_status": "098da002c45802604cc64a9e3a27ff5d45909f9236ce0c50509c6763206713af",
+                    "_manage_stock": "0227ce59e87e525e2554ee7060591a3fe435f6bc1c663ba9c72524a3fdf26871",
+                    "_downloadable": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_virtual": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_downloadable_files": "365db40391baac44b78b47e31c9df81d7518eccf7d7af6a7f9112370dc4e9f8d",
+                    "_download_limit": "1e7a7ef2ad7fed351c6fd55beed2de21b9448aff8f7ddbe4012d77c9d4e0eec2",
+                    "_download_expiry": "1e7a7ef2ad7fed351c6fd55beed2de21b9448aff8f7ddbe4012d77c9d4e0eec2",
+                    "_thumbnail_id": "3aeb43f2df7b8d2ba40b6fdcae21791253734ba0e2939eec0ba9eb6400d6efcc",
+                    "_product_image_gallery": "399a6fb16bb671cb6544575635427939724088094174d4b4a2825ebbfc31d585",
+                    "_tax_status": "7d967c3ab78c56cd98df3c759ed90c72ea0f313ed32abeec0b3383aac632f144",
+                    "_tax_class": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b"
+                },
+                "categories": [
+                    62
+                ],
+                "currency": "USD",
+                "robots": "",
+                "robots_follow": "",
+                "canonical": ""
+            }
+        },
+        {
+            "id": 11039,
+            "url": "https://shustrik-maps.com/product/afghanistan-terrain-3d-model/",
+            "fields": {
+                "h1": "Afghanistan Terrain 3D model",
+                "title": "Afghanistan 3D model terrain %%sep%% Custom %%sitename%%",
+                "description": "3D model of the Afghanistan terrain is created using an elevation map, a shapefile and a satellite texture. Buy 3D relief map of Afghanistan.",
+                "title_exists": true,
+                "description_exists": true
+            },
+            "invariants": {
+                "url": "https://shustrik-maps.com/product/afghanistan-terrain-3d-model/",
+                "type": "product",
+                "status": "publish",
+                "slug": "afghanistan-terrain-3d-model",
+                "content_sha256": "001268af8796d14a32449aafb3a61c5386ad9db7177768585d7d8d29ca29197a",
+                "excerpt_sha256": "f31f59a2911985f5d83bb224e428d518994657c59277cc61c6ffb26047e52784",
+                "commerce_hashes": {
+                    "_price": "500f19c3157a20e0e14b80a8e8fed118d604c40abb16e508d79c9035b2e7df79",
+                    "_regular_price": "500f19c3157a20e0e14b80a8e8fed118d604c40abb16e508d79c9035b2e7df79",
+                    "_sale_price": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_sku": "591834fc53dd7748387fbb3d04fc71ab8e0733a11031b5ec5230d3abd5943235",
+                    "_stock": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_stock_status": "098da002c45802604cc64a9e3a27ff5d45909f9236ce0c50509c6763206713af",
+                    "_manage_stock": "0227ce59e87e525e2554ee7060591a3fe435f6bc1c663ba9c72524a3fdf26871",
+                    "_downloadable": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_virtual": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_downloadable_files": "568c000168837e952491eb01f37faa913e498de66aa2e5ac35cf277874928cf9",
+                    "_download_limit": "1e7a7ef2ad7fed351c6fd55beed2de21b9448aff8f7ddbe4012d77c9d4e0eec2",
+                    "_download_expiry": "1e7a7ef2ad7fed351c6fd55beed2de21b9448aff8f7ddbe4012d77c9d4e0eec2",
+                    "_thumbnail_id": "f8bf1b0a5ceb07b1a4d8929a70e6c7595efb8fd6979d4489527c4a35604bbb64",
+                    "_product_image_gallery": "313d43299567b18967eac0ecf1ee3d966e5f27545b7e2a21557389c9d4d423ec",
+                    "_tax_status": "7d967c3ab78c56cd98df3c759ed90c72ea0f313ed32abeec0b3383aac632f144",
+                    "_tax_class": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b"
+                },
+                "categories": [
+                    62
+                ],
+                "currency": "USD",
+                "robots": "",
+                "robots_follow": "",
+                "canonical": ""
+            }
+        },
+        {
+            "id": 10043,
+            "url": "https://shustrik-maps.com/product/3d-model-of-africa-relief/",
+            "fields": {
+                "h1": "Africa 3D Model",
+                "title": "Africa 3D Model | Geographical Terrain & Topographic Mapping",
+                "description": "Get a detailed Africa 3D model for virtual exploration, terrain representation & topographic mapping. Perfect for landscape design & geographical projects",
+                "title_exists": true,
+                "description_exists": true
+            },
+            "invariants": {
+                "url": "https://shustrik-maps.com/product/3d-model-of-africa-relief/",
+                "type": "product",
+                "status": "publish",
+                "slug": "3d-model-of-africa-relief",
+                "content_sha256": "b54bc0eccf218c6c93f53274b2d8d1bca5107a1084ba2dc3c1a068cf9441ab79",
+                "excerpt_sha256": "5b86007a12d8a96a48a92d574706dda16c909943ac4dd53253309e65dde8da29",
+                "commerce_hashes": {
+                    "_price": "500f19c3157a20e0e14b80a8e8fed118d604c40abb16e508d79c9035b2e7df79",
+                    "_regular_price": "500f19c3157a20e0e14b80a8e8fed118d604c40abb16e508d79c9035b2e7df79",
+                    "_sale_price": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_sku": "3f507ab6e72371a7f375c9c563885bbe3283fc3df28d10e9cc0450c1b59185dc",
+                    "_stock": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_stock_status": "098da002c45802604cc64a9e3a27ff5d45909f9236ce0c50509c6763206713af",
+                    "_manage_stock": "0227ce59e87e525e2554ee7060591a3fe435f6bc1c663ba9c72524a3fdf26871",
+                    "_downloadable": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_virtual": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_downloadable_files": "92b731a2ae9d93c88c010d666d123f5396681c195e06b14f2e2b1b5db1e80375",
+                    "_download_limit": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_download_expiry": "711b8be5ad5a5025a0c31a4b705ebc8114e158600cca701c3f842a4c6414c016",
+                    "_thumbnail_id": "efd2d0403612241f46e82b60b35ab9f3e0960144fd6e0312b098d561d765333c",
+                    "_product_image_gallery": "caf60cdbfe8c516679926d520ba93714344352649ddd863695de7fa6d538e5f0",
+                    "_tax_status": "7d967c3ab78c56cd98df3c759ed90c72ea0f313ed32abeec0b3383aac632f144",
+                    "_tax_class": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b"
+                },
+                "categories": [
+                    63,
+                    163
+                ],
+                "currency": "USD",
+                "robots": "",
+                "robots_follow": "",
+                "canonical": ""
+            }
+        },
+        {
+            "id": 11845,
+            "url": "https://shustrik-maps.com/product/africa-3d-model-terrain/",
+            "fields": {
+                "h1": "Africa Map 3D Model",
+                "title": "Africa 3D Map Model \u2013 Topographic Representation of Africa",
+                "description": "Explore Africa\u2019s terrain with the high-resolution 3D model, perfect for geographic modeling, relief mapping, 3D design, and educational use.",
+                "title_exists": true,
+                "description_exists": true
+            },
+            "invariants": {
+                "url": "https://shustrik-maps.com/product/africa-3d-model-terrain/",
+                "type": "product",
+                "status": "publish",
+                "slug": "africa-3d-model-terrain",
+                "content_sha256": "755769c0ea3b739cad833b8b26c281856d589d9a153182e83a5ec0a5d687796e",
+                "excerpt_sha256": "31b65fcd5a88f0b5ff237456166c1d1cf95ccdada931493d62995daad72c35ad",
+                "commerce_hashes": {
+                    "_price": "5d12ecc06173390bdbec9780164891a28b43b368be7b233ec95bff80d5210ffb",
+                    "_regular_price": "5d12ecc06173390bdbec9780164891a28b43b368be7b233ec95bff80d5210ffb",
+                    "_sale_price": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_sku": "59e8df2d0ea5db9e2eec0e261b1632c64042b35baf51ed562af6a1c841d05bf9",
+                    "_stock": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_stock_status": "098da002c45802604cc64a9e3a27ff5d45909f9236ce0c50509c6763206713af",
+                    "_manage_stock": "0227ce59e87e525e2554ee7060591a3fe435f6bc1c663ba9c72524a3fdf26871",
+                    "_downloadable": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_virtual": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_downloadable_files": "1d687a23e04a5e93a47feac69b2df0ff6ff8f5e7167c4ed991dd74d845035da7",
+                    "_download_limit": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_download_expiry": "711b8be5ad5a5025a0c31a4b705ebc8114e158600cca701c3f842a4c6414c016",
+                    "_thumbnail_id": "6238aa49baca39f4b2195bffd3e0cbb42d29930a56ca33aa96c721664a538320",
+                    "_product_image_gallery": "bb86564f0244a4a1016b81ec54524b5fbf8f74877103037e5cf9c66466981814",
+                    "_tax_status": "7d967c3ab78c56cd98df3c759ed90c72ea0f313ed32abeec0b3383aac632f144",
+                    "_tax_class": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b"
+                },
+                "categories": [
+                    63,
+                    163
+                ],
+                "currency": "USD",
+                "robots": "",
+                "robots_follow": "",
+                "canonical": ""
+            }
+        },
+        {
+            "id": 12807,
+            "url": "https://shustrik-maps.com/product/azerbaijan-3d-model-terrain-map/",
+            "fields": {
+                "h1": "Azerbaijan 3D Model Terrain Map",
+                "title": "Azerbaijan 3D Model Terrain Map for 3D Design and Art",
+                "description": "Azerbaijan 3D model is the perfect addition to your digital library. We offer high-quality 3D models, perfect for 3D designers.",
+                "title_exists": true,
+                "description_exists": true
+            },
+            "invariants": {
+                "url": "https://shustrik-maps.com/product/azerbaijan-3d-model-terrain-map/",
+                "type": "product",
+                "status": "publish",
+                "slug": "azerbaijan-3d-model-terrain-map",
+                "content_sha256": "7dd987c7166fe3e173b9b2da8b51b3a1faca5d314eb723bb22e53a7be5741dc5",
+                "excerpt_sha256": "2fde3a1b016d7325a7de126de0fff7c37b177d61f4d92cc9289fc14648f5129d",
+                "commerce_hashes": {
+                    "_price": "5d12ecc06173390bdbec9780164891a28b43b368be7b233ec95bff80d5210ffb",
+                    "_regular_price": "5d12ecc06173390bdbec9780164891a28b43b368be7b233ec95bff80d5210ffb",
+                    "_sale_price": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_sku": "5ec787862b562e9d45912fa6310538fbe747506c4c79649746fa7ce4491fc362",
+                    "_stock": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_stock_status": "098da002c45802604cc64a9e3a27ff5d45909f9236ce0c50509c6763206713af",
+                    "_manage_stock": "0227ce59e87e525e2554ee7060591a3fe435f6bc1c663ba9c72524a3fdf26871",
+                    "_downloadable": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_virtual": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_downloadable_files": "d3f6025d1eb94bb7cccdc1ab5b146af58657b58e2633bd9912c8516e25a8ee82",
+                    "_download_limit": "1e7a7ef2ad7fed351c6fd55beed2de21b9448aff8f7ddbe4012d77c9d4e0eec2",
+                    "_download_expiry": "1e7a7ef2ad7fed351c6fd55beed2de21b9448aff8f7ddbe4012d77c9d4e0eec2",
+                    "_thumbnail_id": "183762ceddad3b946ace461db934d4d51a689b38709ac23ab53ff8db51e8a250",
+                    "_product_image_gallery": "30e4def12ed7f7fe6fb181ffc08e869ff9a1c2acc43c309c49dbce5ba2844280",
+                    "_tax_status": "7d967c3ab78c56cd98df3c759ed90c72ea0f313ed32abeec0b3383aac632f144",
+                    "_tax_class": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b"
+                },
+                "categories": [
+                    62
+                ],
+                "currency": "USD",
+                "robots": "",
+                "robots_follow": "",
+                "canonical": ""
+            }
+        },
+        {
+            "id": 11382,
+            "url": "https://shustrik-maps.com/product/azerbaijan-3d-model-terrain/",
+            "fields": {
+                "h1": "Azerbaijan 3D model terrain",
+                "title": "Azerbaijan 3D Model - Perfect for 3D Printing, CNC Milling, Design and Art",
+                "description": "Azerbaijan 3D model is the perfect addition to your digital library. Whether you're into 3D printing or CNC milling this model has got you covered.",
+                "title_exists": true,
+                "description_exists": true
+            },
+            "invariants": {
+                "url": "https://shustrik-maps.com/product/azerbaijan-3d-model-terrain/",
+                "type": "product",
+                "status": "publish",
+                "slug": "azerbaijan-3d-model-terrain",
+                "content_sha256": "1469de7cdd9679a49f9252cee71c19ca9e19ca1f6659656b6dbc63aa656e3eb3",
+                "excerpt_sha256": "9eff221105400856fc203c8feca2b73db13f5f18886b6e32f763ced531ea1cd1",
+                "commerce_hashes": {
+                    "_price": "500f19c3157a20e0e14b80a8e8fed118d604c40abb16e508d79c9035b2e7df79",
+                    "_regular_price": "500f19c3157a20e0e14b80a8e8fed118d604c40abb16e508d79c9035b2e7df79",
+                    "_sale_price": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_sku": "d3df35862611e0e748b738ba86381d77f23433cb85b4d70b7550f7584370b876",
+                    "_stock": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_stock_status": "098da002c45802604cc64a9e3a27ff5d45909f9236ce0c50509c6763206713af",
+                    "_manage_stock": "0227ce59e87e525e2554ee7060591a3fe435f6bc1c663ba9c72524a3fdf26871",
+                    "_downloadable": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_virtual": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_downloadable_files": "ed53097dd02a2362b15fc4280122632c7b163f68869f1d0119ae00ebf09d3a7e",
+                    "_download_limit": "1e7a7ef2ad7fed351c6fd55beed2de21b9448aff8f7ddbe4012d77c9d4e0eec2",
+                    "_download_expiry": "1e7a7ef2ad7fed351c6fd55beed2de21b9448aff8f7ddbe4012d77c9d4e0eec2",
+                    "_thumbnail_id": "8c1d4d568875f4507312538ddc54f6fc8b1df34ab062c06a842f407f6a906e0d",
+                    "_product_image_gallery": "24c873d43d4851add11634eade68414a922dc96463cb3cfeffb86f9ce835d8df",
+                    "_tax_status": "7d967c3ab78c56cd98df3c759ed90c72ea0f313ed32abeec0b3383aac632f144",
+                    "_tax_class": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b"
+                },
+                "categories": [
+                    62
+                ],
+                "currency": "USD",
+                "robots": "",
+                "robots_follow": "",
+                "canonical": ""
+            }
+        },
+        {
+            "id": 17168,
+            "url": "https://shustrik-maps.com/product/australia-3d-map/",
+            "fields": {
+                "h1": "Australia 3D Map",
+                "title": "Australia 3D Map | Detailed Elevation and Topographic Modeling",
+                "description": "Explore Australia's terrain with a 3D map featuring accurate elevation and topography. Perfect for geography, spatial analysis, and educational purposes.",
+                "title_exists": true,
+                "description_exists": true
+            },
+            "invariants": {
+                "url": "https://shustrik-maps.com/product/australia-3d-map/",
+                "type": "product",
+                "status": "publish",
+                "slug": "australia-3d-map",
+                "content_sha256": "03df1f52e602f7b2526a467345fdb3936370d996f03b2bf9d5294809d8ba13eb",
+                "excerpt_sha256": "7f64e23ce5dd8a65e5849342aab00561612dff3b7c95b83ba42d1622b35c00fb",
+                "commerce_hashes": {
+                    "_price": "4b8b4e4d8c6682e01ee9ff717b035b439e0a5731d38d0c4f7287036e0b3c2657",
+                    "_regular_price": "4b8b4e4d8c6682e01ee9ff717b035b439e0a5731d38d0c4f7287036e0b3c2657",
+                    "_sale_price": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_sku": "9a06b8542bbc6cb9d0a9e42c2b9c1f5a49a781ff7e177e5f5c4e4502c1005bdb",
+                    "_stock": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_stock_status": "098da002c45802604cc64a9e3a27ff5d45909f9236ce0c50509c6763206713af",
+                    "_manage_stock": "0227ce59e87e525e2554ee7060591a3fe435f6bc1c663ba9c72524a3fdf26871",
+                    "_downloadable": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_virtual": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_downloadable_files": "064a9117ef1ccf87d01ce009fed0bae3bd9670df7fa5b63c4267dfe370e20f50",
+                    "_download_limit": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_download_expiry": "711b8be5ad5a5025a0c31a4b705ebc8114e158600cca701c3f842a4c6414c016",
+                    "_thumbnail_id": "052d3653d41b9c076f8b80f1d026094bc4f19a31705d8926c0b6532d9622b0e4",
+                    "_product_image_gallery": "fd61c244b15084f95a72bb5bd691a5d6d98d8bdc894fdc4023dcdfaa036fadc8",
+                    "_tax_status": "7d967c3ab78c56cd98df3c759ed90c72ea0f313ed32abeec0b3383aac632f144",
+                    "_tax_class": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b"
+                },
+                "categories": [
+                    167
+                ],
+                "currency": "USD",
+                "robots": "",
+                "robots_follow": "",
+                "canonical": ""
+            }
+        },
+        {
+            "id": 11882,
+            "url": "https://shustrik-maps.com/product/australia-3d-model-terrain/",
+            "fields": {
+                "h1": "Terrain Map of Australia 3D Model",
+                "title": "Australia 3D Terrain Map | High-Res Topography & Elevation Model",
+                "description": "Explore Australia\u2019s diverse landscapes with a 3D terrain model. Perfect for design, education, and professional mapping with accurate elevation data.",
+                "title_exists": true,
+                "description_exists": true
+            },
+            "invariants": {
+                "url": "https://shustrik-maps.com/product/australia-3d-model-terrain/",
+                "type": "product",
+                "status": "publish",
+                "slug": "australia-3d-model-terrain",
+                "content_sha256": "07af9b1b43a171d0bad8c8b9899dfe561a341946b9a25fe8148858c3b7982711",
+                "excerpt_sha256": "edc52d504b6702ea4b392585c6c7026240783659293ec331b8d84f307b599b56",
+                "commerce_hashes": {
+                    "_price": "5d12ecc06173390bdbec9780164891a28b43b368be7b233ec95bff80d5210ffb",
+                    "_regular_price": "5d12ecc06173390bdbec9780164891a28b43b368be7b233ec95bff80d5210ffb",
+                    "_sale_price": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_sku": "943678e669493a636bd9432db89156c4f7b26dc8d14b7bb109b91cbf6a292ce2",
+                    "_stock": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_stock_status": "098da002c45802604cc64a9e3a27ff5d45909f9236ce0c50509c6763206713af",
+                    "_manage_stock": "0227ce59e87e525e2554ee7060591a3fe435f6bc1c663ba9c72524a3fdf26871",
+                    "_downloadable": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_virtual": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_downloadable_files": "6e546700bf246db673529e4915b72783be751d110b9bb4fe72ccb3cdd4a5a319",
+                    "_download_limit": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_download_expiry": "711b8be5ad5a5025a0c31a4b705ebc8114e158600cca701c3f842a4c6414c016",
+                    "_thumbnail_id": "ca790734dbaf1029a9e45a4cb8c2003074e758da3a3cd5237a383cac30fcff0a",
+                    "_product_image_gallery": "2788771ed97e8114a9e26469d853278485ba8d734121e29f4f500ae97947aef8",
+                    "_tax_status": "7d967c3ab78c56cd98df3c759ed90c72ea0f313ed32abeec0b3383aac632f144",
+                    "_tax_class": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b"
+                },
+                "categories": [
+                    63,
+                    164
+                ],
+                "currency": "USD",
+                "robots": "",
+                "robots_follow": "",
+                "canonical": ""
+            }
+        }
+    ]
+}
