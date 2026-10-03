@@ -4,7 +4,7 @@ import hashlib, json, os, pathlib, shutil, subprocess, sys
 SRC = pathlib.Path(__file__).resolve().parent
 VHOST = pathlib.Path('/etc/nginx/sites-enabled/shustrik-maps.com')
 MPM = pathlib.Path('/opt/vps/shustrik-maps/apache-mpm.conf')
-BACKUP = pathlib.Path('/root/shustrik-observability-20261003')
+BACKUP = pathlib.Path('/root/shustrik-observability-20261003-lf')
 HASHES = {'vhost': '45cd027257e18ed31d6686a726695ac0c564074cdd23e551ef7a2428713745fe',
           'mpm': '8136c078dbc17fb044036bd8b9b36110db9c1a7083326bc53c25aefe75bf8faf'}
 INSTALL = {'nginx.conf': '/etc/nginx/conf.d/30-shustrik-observability.conf',
