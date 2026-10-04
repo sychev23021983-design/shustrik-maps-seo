@@ -1,0 +1,129 @@
+{
+    "utc": "2026-10-04T14:27:01+00:00",
+    "rows": [
+        {
+            "id": 17483,
+            "invariants": {
+                "url": "https://shustrik-maps.com/product/illinois-satellite-map/",
+                "type": "product",
+                "status": "publish",
+                "slug": "illinois-satellite-map",
+                "h1": "Illinois Satellite Map",
+                "excerpt_sha256": "19a3be69d77a9cdaedfdfcf5eee5178eb100e8acc2538ecaac42bf442cc19a02",
+                "commerce_hashes": {
+                    "_price": "9b98e316290b68d940b689a902644cfdad6cace0a908a4f89cf5bd5898b041c2",
+                    "_regular_price": "9b98e316290b68d940b689a902644cfdad6cace0a908a4f89cf5bd5898b041c2",
+                    "_sale_price": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_sku": "17d8a87fc6d5cccd2e7eb8765b6811c3dc0e11cbfdf4024c164dcb3376aeb7c9",
+                    "_stock": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_stock_status": "098da002c45802604cc64a9e3a27ff5d45909f9236ce0c50509c6763206713af",
+                    "_manage_stock": "0227ce59e87e525e2554ee7060591a3fe435f6bc1c663ba9c72524a3fdf26871",
+                    "_downloadable": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_virtual": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_downloadable_files": "dfb8cf172c3a7cecb57839639a0ae2d313989ef418ba7709218d52163de53e3d",
+                    "_download_limit": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_download_expiry": "711b8be5ad5a5025a0c31a4b705ebc8114e158600cca701c3f842a4c6414c016",
+                    "_thumbnail_id": "2b3b04c58249f5d0517d97a45b778c201569eb72bef332719f999a7b96f8adfb",
+                    "_product_image_gallery": "7d830f8262c6f94ad424c14ede56b91c36bc674849eea73befac6cb5ca7d55cf",
+                    "_tax_status": "7d967c3ab78c56cd98df3c759ed90c72ea0f313ed32abeec0b3383aac632f144",
+                    "_tax_class": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b"
+                },
+                "categories": [
+                    204,
+                    215
+                ],
+                "currency": "USD",
+                "robots": "",
+                "follow": "",
+                "canonical": ""
+            },
+            "fields": {
+                "seo_title": "High-Resolution Satellite Map of Illinois (GeoTIFF/PSD)",
+                "meta_description": "High-resolution satellite map of Illinois in GeoTIFF/PSD format. Suitable for GIS software, design projects and print production.",
+                "content_sha256": "9954856634f736ec4f439a8ba4efd36e620a5bf8214902337ca55f76b45bb41c"
+            }
+        },
+        {
+            "id": 16047,
+            "invariants": {
+                "url": "https://shustrik-maps.com/product/jupiter-planet-3d-model/",
+                "type": "product",
+                "status": "publish",
+                "slug": "jupiter-planet-3d-model",
+                "h1": "Jupiter Planet 3D Model",
+                "excerpt_sha256": "fc6cd6684cb47c38bc6fab2cfd6df76a490cd3fa6905ac081a09ec672daff4ef",
+                "commerce_hashes": {
+                    "_price": "9b98e316290b68d940b689a902644cfdad6cace0a908a4f89cf5bd5898b041c2",
+                    "_regular_price": "2a71f9a4a1a3317f7e211a4ce05bb5669d5e8b9b74d625441ea2275dbc85f170",
+                    "_sale_price": "9b98e316290b68d940b689a902644cfdad6cace0a908a4f89cf5bd5898b041c2",
+                    "_sku": "6c461e8ab9a66fac3bd14212efe9a9da980094af6f10f1a38963e18c1297ef4b",
+                    "_stock": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_stock_status": "098da002c45802604cc64a9e3a27ff5d45909f9236ce0c50509c6763206713af",
+                    "_manage_stock": "0227ce59e87e525e2554ee7060591a3fe435f6bc1c663ba9c72524a3fdf26871",
+                    "_downloadable": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_virtual": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_downloadable_files": "4787c85ab7244fb56e836653c391c78a0b72d5abe6c1d440e3ac234bea72f57f",
+                    "_download_limit": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_download_expiry": "711b8be5ad5a5025a0c31a4b705ebc8114e158600cca701c3f842a4c6414c016",
+                    "_thumbnail_id": "4a85d43d5157c48833acfd838e1731381b60f881f8d4ebd8db5a3cf31ed97dc1",
+                    "_product_image_gallery": "e8c1f0bb6e49a3d6d475cf3bc181087377af0b9ee3e72943e8d95bb42fb0c790",
+                    "_tax_status": "7d967c3ab78c56cd98df3c759ed90c72ea0f313ed32abeec0b3383aac632f144",
+                    "_tax_class": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b"
+                },
+                "categories": [
+                    86
+                ],
+                "currency": "USD",
+                "robots": "",
+                "follow": "",
+                "canonical": ""
+            },
+            "fields": {
+                "seo_title": "Realistic Jupiter 3D Model for Astronomy & Space Simulations",
+                "meta_description": "Discover our ultra-realistic Jupiter 3D model for space simulations, research, or decor. Perfect for planetary modeling with 4096px textures. Explore now!",
+                "content_sha256": "baa4cd6ac27f04cb7786691374677f37d57bc6564a5070f41d2a4426afbe80f1"
+            }
+        },
+        {
+            "id": 15996,
+            "invariants": {
+                "url": "https://shustrik-maps.com/product/mercury-planet-3d-model/",
+                "type": "product",
+                "status": "publish",
+                "slug": "mercury-planet-3d-model",
+                "h1": "Mercury Planet 3D Model",
+                "excerpt_sha256": "e9501b91a88a2dfad4ad197371e07978132ef38a0b1bc42a993056a2f34641da",
+                "commerce_hashes": {
+                    "_price": "9b98e316290b68d940b689a902644cfdad6cace0a908a4f89cf5bd5898b041c2",
+                    "_regular_price": "2a71f9a4a1a3317f7e211a4ce05bb5669d5e8b9b74d625441ea2275dbc85f170",
+                    "_sale_price": "9b98e316290b68d940b689a902644cfdad6cace0a908a4f89cf5bd5898b041c2",
+                    "_sku": "608dee3f3082f7ecad5a4b4b719b1a37672f244278e7da517596af1eb0897a9c",
+                    "_stock": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_stock_status": "098da002c45802604cc64a9e3a27ff5d45909f9236ce0c50509c6763206713af",
+                    "_manage_stock": "0227ce59e87e525e2554ee7060591a3fe435f6bc1c663ba9c72524a3fdf26871",
+                    "_downloadable": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_virtual": "8c5b18b37b7e7f484a4676075d725f2a590ad75512f95a2ad86d6de04ce0dd07",
+                    "_downloadable_files": "475f49a7b0778910bce2f1fb54591ccc21e005afcb7e0dfa6e187335ce958597",
+                    "_download_limit": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b",
+                    "_download_expiry": "711b8be5ad5a5025a0c31a4b705ebc8114e158600cca701c3f842a4c6414c016",
+                    "_thumbnail_id": "f5e21debff222978d3a27b3532c7ff83a5658d82f56d86ffdb8336dbf317aa8d",
+                    "_product_image_gallery": "128e9b51505a5c13184587a8de9769a1471ebb5dd404e3d527affe507f5c10c5",
+                    "_tax_status": "7d967c3ab78c56cd98df3c759ed90c72ea0f313ed32abeec0b3383aac632f144",
+                    "_tax_class": "36761a168eb691d20edf88ace3d06fb63ec9112f257ac2f20fce1afdc331b40b"
+                },
+                "categories": [
+                    86
+                ],
+                "currency": "USD",
+                "robots": "",
+                "follow": "",
+                "canonical": ""
+            },
+            "fields": {
+                "seo_title": "3D Model of Mercury | High-Resolution Mercury Planet Model",
+                "meta_description": "Explore our high-quality Mercury 3D model, perfect for educational, scientific, and rendering projects. Includes UV-mapped textures for realistic visuals.",
+                "content_sha256": "a9fd748443a1272bd42594020b1ee0a89be26c60225486546e6c59f7a4fdbf9a"
+            }
+        }
+    ]
+}

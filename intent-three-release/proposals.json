@@ -1,0 +1,107 @@
+{
+  "type": "seo-page-brief",
+  "site_profile": "shustrik-maps",
+  "status": "approved",
+  "created_at": "2026-10-04",
+  "source_baseline_utc": "2026-10-04T14:16:45Z",
+  "mutation_allowed": true,
+  "scope": "Three products: exact title, meta description, first paragraph only",
+  "change_count": 9,
+  "products": [
+    {
+      "id": 17483,
+      "slug": "illinois-satellite-map",
+      "url": "https://shustrik-maps.com/product/illinois-satellite-map/",
+      "status": "approved",
+      "before": {
+        "meta_description": "High-resolution satellite map of Illinois in GeoTIFF/PSD format. Suitable for GIS software, design projects and print production.",
+        "first_paragraph_source": "Experience the stunning beauty of Illinois like never before with our Illinois Satellite Map. This meticulously crafted digital map provides an intricate view of Illinois's topography, captured through high-resolution satellite imagery. Whether you're an educator, a design enthusiast, or a map lover, this map offers exceptional versatility and detail for a wide range of uses.",
+        "seo_title": "High-Resolution Satellite Map of Illinois (GeoTIFF/PSD)"
+      },
+      "after": {
+        "meta_description": "Download a static Illinois satellite map as a TIF image: 10871 × 17471 pixels, 24-bit RGB. A digital file without georeferencing, not a live map.",
+        "seo_title": "Illinois Satellite Map | TIF Digital Download",
+        "first_paragraph_text": "This digital download includes one static TIF image of Illinois at 10871 × 17471 pixels in 24-bit RGB. The image is supplied without georeferencing."
+      },
+      "unchanged_h1": "Illinois Satellite Map",
+      "guards": {
+        "noindex_override": "",
+        "price": "15",
+        "content_sha256": "9954856634f736ec4f439a8ba4efd36e620a5bf8214902337ca55f76b45bb41c",
+        "canonical_override": "",
+        "excerpt_sha256": "19a3be69d77a9cdaedfdfcf5eee5178eb100e8acc2538ecaac42bf442cc19a02",
+        "download_config_sha256": "dfb8cf172c3a7cecb57839639a0ae2d313989ef418ba7709218d52163de53e3d"
+      },
+      "lengths": {
+        "title": 45,
+        "meta": 145
+      }
+    },
+    {
+      "id": 16047,
+      "slug": "jupiter-planet-3d-model",
+      "url": "https://shustrik-maps.com/product/jupiter-planet-3d-model/",
+      "status": "approved",
+      "before": {
+        "meta_description": "Discover our ultra-realistic Jupiter 3D model for space simulations, research, or decor. Perfect for planetary modeling with 4096px textures. Explore now!",
+        "first_paragraph_source": "Explore the vastness of the universe with our highly detailed <strong>Jupiter 3D model</strong>. Crafted with cutting-edge technology, this model provides an incredibly realistic visualization of the largest planet in the Solar System, making it ideal for space simulation, planetary modeling, or any astronomy graphics project.",
+        "seo_title": "Realistic Jupiter 3D Model for Astronomy & Space Simulations"
+      },
+      "after": {
+        "meta_description": "Download a Jupiter planet 3D model in C4D format with three TIF files, including two 12288 × 12288 RGB textures. Digital download.",
+        "seo_title": "Jupiter Planet 3D Model for Cinema 4D | C4D + TIF",
+        "first_paragraph_text": "This digital Jupiter planet package contains a C4D model and three TIF files. Two RGB texture files measure 12288 × 12288 pixels at 16 bits per channel, and the additional Back.tif file measures 6000 × 3000 pixels at 8 bits per channel."
+      },
+      "unchanged_h1": "Jupiter Planet 3D Model",
+      "guards": {
+        "noindex_override": "",
+        "price": "15",
+        "content_sha256": "baa4cd6ac27f04cb7786691374677f37d57bc6564a5070f41d2a4426afbe80f1",
+        "canonical_override": "",
+        "excerpt_sha256": "fc6cd6684cb47c38bc6fab2cfd6df76a490cd3fa6905ac081a09ec672daff4ef",
+        "download_config_sha256": "4787c85ab7244fb56e836653c391c78a0b72d5abe6c1d440e3ac234bea72f57f"
+      },
+      "lengths": {
+        "title": 49,
+        "meta": 130
+      }
+    },
+    {
+      "id": 15996,
+      "slug": "mercury-planet-3d-model",
+      "url": "https://shustrik-maps.com/product/mercury-planet-3d-model/",
+      "status": "approved",
+      "before": {
+        "meta_description": "Explore our high-quality Mercury 3D model, perfect for educational, scientific, and rendering projects. Includes UV-mapped textures for realistic visuals.",
+        "first_paragraph_source": "Explore the planet closest to the Sun with our <strong>Mercury 3D model</strong>. This detailed planetary model replicates the surface of Mercury, capturing its unique craters and geographical features with precision. Crafted using the latest 3D visualization technologies, this model is ideal for scientific illustration, space simulations, and educational purposes, as well as creating a stunning space-themed decor.",
+        "seo_title": "3D Model of Mercury | High-Resolution Mercury Planet Model"
+      },
+      "after": {
+        "meta_description": "Download a Mercury planet 3D model in C4D format with three TIF files, including two 12288 × 12288 RGB textures. Digital download.",
+        "seo_title": "Mercury Planet 3D Model for Cinema 4D | C4D + TIF",
+        "first_paragraph_text": "This digital Mercury planet package contains a C4D model and three TIF files. Two RGB texture files measure 12288 × 12288 pixels at 16 bits per channel, and the additional Back.tif file measures 6000 × 3000 pixels at 8 bits per channel."
+      },
+      "unchanged_h1": "Mercury Planet 3D Model",
+      "guards": {
+        "noindex_override": "",
+        "price": "15",
+        "content_sha256": "a9fd748443a1272bd42594020b1ee0a89be26c60225486546e6c59f7a4fdbf9a",
+        "canonical_override": "",
+        "excerpt_sha256": "e9501b91a88a2dfad4ad197371e07978132ef38a0b1bc42a993056a2f34641da",
+        "download_config_sha256": "475f49a7b0778910bce2f1fb54591ccc21e005afcb7e0dfa6e187335ce958597"
+      },
+      "lengths": {
+        "title": 49,
+        "meta": 130
+      }
+    }
+  ],
+  "limitations": [
+    "Approval absent",
+    "No production edit or deploy",
+    "Remaining body scientific/compatibility claims excluded from this minimal scope",
+    "Mercury texture purpose remains unknown"
+  ],
+  "next_action": "Owner review of exact nine-field packet",
+  "approval": "Owner replied да to the exact nine-field packet on 2026-10-04"
+}
