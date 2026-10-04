@@ -1,0 +1,58 @@
+{
+  "utc": "2026-10-04T14:33:27Z",
+  "ok": true,
+  "steps": [
+    {
+      "step": "initial empty isolated cart",
+      "http": 200,
+      "cache": "BYPASS"
+    },
+    {
+      "step": "add Illinois",
+      "http": 200,
+      "cache": "BYPASS"
+    },
+    {
+      "step": "one product cart",
+      "http": 200,
+      "cache": "BYPASS"
+    },
+    {
+      "step": "checkout before payment",
+      "http": 200,
+      "cache": "BYPASS"
+    },
+    {
+      "step": "remove test item",
+      "http": 200,
+      "cache": "BYPASS"
+    },
+    {
+      "step": "final empty cart",
+      "http": 200,
+      "cache": "BYPASS"
+    }
+  ],
+  "media": [
+    {
+      "id": 17483,
+      "http": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "id": 16047,
+      "http": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "id": 15996,
+      "http": 200,
+      "type": "image/jpeg"
+    }
+  ],
+  "cart_final_empty": true,
+  "order_created": false,
+  "payment_submitted": false,
+  "customer_data_entered": false,
+  "payment_js_tested": false
+}
