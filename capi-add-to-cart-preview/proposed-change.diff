@@ -1,0 +1,20 @@
+--- deployed-pinterest-async.php
++++ proposed-pinterest-async.php
+@@ -70,7 +70,7 @@
+         $account= Pinterest_For_WooCommerce()::get_setting('tracking_advertiser');
+         if (!$account || !hash_equals($record['account'],shu_pin_account_hash($account))) { delete_option($key); shu_pin_metric('terminal'); return; }
+         $payload=shu_pin_decrypt($record['sealed']);
+-        if (!is_array($payload) || !in_array($payload['event_name']??'', ['page_visit','view_category'],true)) { delete_option($key); shu_pin_metric('terminal'); return; }
++        if (!is_array($payload) || !in_array($payload['event_name']??'', ['page_visit','view_category','add_to_cart'],true)) { delete_option($key); shu_pin_metric('terminal'); return; }
+         $response=\Automattic\WooCommerce\Pinterest\API\APIV5::send_conversions_api_event((string)$account,$payload);
+         if (isset($response['code'])) { throw new RuntimeException('API status',(int)$response['code']); }
+         $status=$response['events'][0]['status']??'failed';
+@@ -116,7 +116,7 @@
+         public function track_event(string $event_name, \Automattic\WooCommerce\Pinterest\Tracking\Data $data) {
+             // Wrapper is not instanceof Conversions: explicitly preserve installed crawler guard.
+             if (\Automattic\WooCommerce\Pinterest\Utilities\CrawlerDetector::is_crawler_request()) { shu_pin_metric('bot_skipped'); return; }
+-            if (!in_array($event_name,['PageVisit','ViewCategory'],true)) { return $this->original->track_event($event_name,$data); }
++            if (!in_array($event_name,['PageVisit','ViewCategory'],true) && !($event_name==='AddToCart' && get_option('_shu_pin_add_to_cart_async_enabled',false))) { return $this->original->track_event($event_name,$data); }
+             $account= Pinterest_For_WooCommerce()::get_setting('tracking_advertiser');
+             if (!$account) { return $this->original->track_event($event_name,$data); }
+             try { $queued=shu_pin_enqueue($this->original->prepare_request_data($event_name,$data),$account); }

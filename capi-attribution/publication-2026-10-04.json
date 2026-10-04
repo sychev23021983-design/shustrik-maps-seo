@@ -1,0 +1,16 @@
+{
+  "source_commit": "c7e953f",
+  "status": "deployed_then_removed",
+  "own_sha256": "5eaefb79b9e10e8ed0efc827bc35f5fcccad327fbc92fb8046fcfab233d11973",
+  "archive_sha256": "e6a5430907dd18d07bbba25082ff2a6a40e5f8c4b449df3704b8b1cadb74d8a5",
+  "evidence": {
+    "utc": "2026-10-04T06:19:39+00:00",
+    "callback": "AddToCart",
+    "blocking_ms": 1068.29,
+    "total_ms": 1388.07
+  },
+  "rollback": "guarded own-file removal completed, logs retained",
+  "cart": "empty after guest QA",
+  "order_payment": "not submitted",
+  "proposal": "capi-add-to-cart-preview; isolated20PASS; not deployed"
+}
