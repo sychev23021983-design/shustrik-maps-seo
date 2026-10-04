@@ -1,0 +1,29 @@
+{
+  "source_commit": "95dc681e860d6f06e18ef7139c0a662af70f0216",
+  "archive_sha256": "843be450e2a54bdfcc01f8c667e4026d63eff5ac6b6c5feb787e0fac2f634b14",
+  "installed_sha256": "db755d682cf1287201cf46442c8033833da8d52c5591fb4378dea9cc97443c1e",
+  "activated_utc": "2026-10-04T06:41:46Z",
+  "status": "active",
+  "live_cart_queued": 1,
+  "live_cart_delivered": 1,
+  "guest_checkout_usd": 32,
+  "final_cart_empty": true,
+  "order_payment_submitted": false,
+  "runtime_check_utc": "2026-10-04T06:46:04Z",
+  "runtime_status": "degraded",
+  "backup": "/root/shustrik-pinterest-cart-20261004/",
+  "rollback": "disable cart flag then drain before old consumer restoration",
+  "isolated_checks_passed": 20,
+  "pinterest_assessment": {
+    "from": "2026-07-05",
+    "to": "2026-10-02",
+    "sessions": 114,
+    "all_sessions": 13179,
+    "ga4_purchase": 0,
+    "ga4_revenue_usd": 0,
+    "wc_paid_orders": 37,
+    "wc_source_meta_present": 17,
+    "wc_pinterest_paid_orders": 0,
+    "source_complete": false
+  }
+}
