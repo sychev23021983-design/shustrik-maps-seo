@@ -1,0 +1,12 @@
+[
+  {"id":10438,"slug":"support","type":"page","changes":[
+    {"start":"[woodmart_accordion_item title=\"Shipping Policy\"]","end":"[/woodmart_accordion_item]","text":"I only sell digital products; no physical items are shipped. For standard purchases, your download link is provided automatically after successful payment and sent to the email address entered at checkout. Check your spam folder if you cannot find the email. Custom models and special file requests are handled separately; contact me to agree on the details."},
+    {"old":"You can pay for my 3D models with cryptocurrency, VISA/Mastercard, WeChat or PayPal. Contact me for details.","text":"You can pay by credit or debit card or PayPal at checkout. To pay with PayPal, add the product to your cart, proceed to checkout, select PayPal and follow the payment instructions. You do not need to contact me in advance for a standard PayPal purchase. For cryptocurrency payments or custom requests, contact me to agree on the details."}
+  ]},
+  {"id":651,"slug":"faq","type":"page","changes":[
+    {"start":"[vc_toggle title=\"How do I buy 3D models and relief maps?\"]","end":"[/vc_toggle]","text":"Review the product specifications and included formats, then select ADD TO CART or BUY NOW and proceed to checkout. Enter your email address, choose a credit or debit card or PayPal, and follow the payment instructions.<br><br>After successful payment, your download link is provided automatically and sent to the email address entered at checkout. Check your spam folder if you cannot find the email. You do not need to contact me in advance for a standard PayPal purchase.<br><br>For custom models, special file requests or cryptocurrency payments, contact me to agree on the details. If you have trouble downloading a file, contact support for help."}
+  ]},
+  {"id":10018,"slug":null,"type":"cms_block","changes":[
+    {"old":"We accept payments via PayPal. Let us know in advance if you want to use PayPal to pay for products, and we will send you the details.","text":"Pay with PayPal at checkout. Add the product to your cart, proceed to checkout, select PayPal and follow the payment instructions. You do not need to contact me in advance for a standard purchase. After successful payment, your download link is provided automatically and sent by email."}
+  ]}
+]
