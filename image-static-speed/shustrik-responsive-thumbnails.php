@@ -15,7 +15,13 @@ function shu_responsive_product_thumbnail($attr, $attachment, $size) {
     $attr['width'] = $image[1];
     $attr['height'] = $image[2];
     $srcset = wp_get_attachment_image_srcset($attachment->ID, $target);
-    if ($srcset) { $attr['srcset'] = $srcset; }
+    if ($srcset) {
+        // Thumbnail candidates never need the original 1500-2000px lightbox file.
+        $candidates = array_filter(explode(', ', $srcset), function ($candidate) {
+            return preg_match('/\s(\d+)w$/', $candidate, $m) && (int) $m[1] <= 600;
+        });
+        $attr['srcset'] = implode(', ', $candidates);
+    }
     else { unset($attr['srcset']); }
     $attr['sizes'] = $loop ? '(max-width: 767px) 50vw, 300px' : '(max-width: 767px) 211px, 189px';
     $attr['loading'] = 'lazy';
