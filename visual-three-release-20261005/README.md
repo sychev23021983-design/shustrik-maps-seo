@@ -1,0 +1,15 @@
+# Three terrain products: visual application release, 2026-10-05
+
+Owner requested optimizing several more products after approving the standing three-image pattern (home, personal gift, commercial use), image title/alt and product upload. Products: California STL9522, New York State STL9446, Grand Canyon10668. Market: US only, English. No current US rank or uplift claim.
+
+California and New York already received copy/metadata optimization on05Oct: retain those exact current texts, file lists and metadata. Append three labelled AI application scenes. Grand Canyon: clarify C4D/STL and TIF listing, digital deliverable, dedicated canyon rather than statewide terrain, open-base preparation, additional support/finishing and personal-use licence. Replace unsupported accuracy/interactive-map assertions in its description; update SEO title/meta. H1, technical excerpt/numerical specs, prices, downloads, original media, taxonomy, URLs, canonical/robots and payment flow preserved.
+
+Sources: current WordPress snapshot in baseline.json; current semantic map at Vault2026-10-05--arizona-stl/processed/Current Cluster Map.json: GEO-california-stl-cnc, GEO-new-york-stl-cnc, GEO-grand-canyon-stl-cnc and GEO-grand-canyon-3d-model. Broad elevation/relief/data intent remains deferred; no reassignment. Raw reference renders and selected PNGs retained in Vault/Visual Batch2026-10-05. AI concepts do not verify delivered geometry/printed output. Commercial permissions separately agreed; fabrication, finish, mounts and packaging additional. Grand Canyon supports shown are additional to listed open base.
+
+Each page gets3 WebP assets with unchanged pixels/dimensions; combined2,793,878 bytes. Metadata/captions and exact content are in manifest.json. WordPress creates responsive sizes and body images lazy-load. No external CSS/JS introduced.
+
+Validation: PHP syntax and exact --preview against live product identity/current fields/protected commerce hashes passed. Apply only committed/pushed archive after hash verification. Modes: release.php --preview, --apply, --verify, --rollback-preview, --rollback. All three guarded product writes run in one transaction after media import. Import journal prevents blind retries after partial failures.
+
+Backup option: _shustrik_visual_three_backup_20261005. Import journal: _shustrik_visual_three_media_20261005. Rollback restores previous content/gallery/SEO title/meta; retains media. Rollback guards stop after subsequent edits. Run rollback-preview first, then rollback only if authorized, clear scoped caches, verify public pages. No rollback executed during preparation.
+
+After publication: exact DB/media metadata, ordinary/uncached HTTP, H1/canonical/robots/Product offers, nine media, desktop/mobile layout, isolated guest cart/checkout and empty final cart. Real payment, archive geometry and paid delivery are outside this release verification. Global degraded analytics status is unchanged. Measure observational US GSC07Sep–04Oct vs06Oct–02Nov after processing; California/New York have same-day earlier copy edits, so visual effects cannot be isolated causally.
