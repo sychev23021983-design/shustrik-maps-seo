@@ -1,0 +1,151 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-new-mexico-stl-cnc",
+      "product_id": 9445,
+      "primary": "New Mexico topographic map STL",
+      "supporting": [
+        "New Mexico terrain STL",
+        "New Mexico relief map STL",
+        "New Mexico map 3D print",
+        "New Mexico CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; New Mexico is US state, not country Mexico"
+    },
+    {
+      "cluster_id": "GEO-new-jersey-stl-cnc",
+      "product_id": 9444,
+      "primary": "New Jersey topographic map STL",
+      "supporting": [
+        "New Jersey terrain STL",
+        "New Jersey relief map STL",
+        "New Jersey map 3D print",
+        "New Jersey CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; New Mexico is US state, not country Mexico"
+    },
+    {
+      "cluster_id": "GEO-maryland-stl-cnc",
+      "product_id": 9427,
+      "primary": "Maryland topographic map STL",
+      "supporting": [
+        "Maryland terrain STL",
+        "Maryland relief map STL",
+        "Maryland map 3D print",
+        "Maryland CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; New Mexico is US state, not country Mexico"
+    },
+    {
+      "cluster_id": "GEO-louisiana-stl-cnc",
+      "product_id": 9425,
+      "primary": "Louisiana topographic map STL",
+      "supporting": [
+        "Louisiana terrain STL",
+        "Louisiana relief map STL",
+        "Louisiana map 3D print",
+        "Louisiana CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; New Mexico is US state, not country Mexico"
+    },
+    {
+      "cluster_id": "GEO-missouri-stl-cnc",
+      "product_id": 10772,
+      "primary": "Missouri topographic map STL",
+      "supporting": [
+        "Missouri terrain STL",
+        "Missouri relief map STL",
+        "Missouri map 3D print",
+        "Missouri CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; New Mexico is US state, not country Mexico"
+    },
+    {
+      "cluster_id": "GEO-arkansas-stl-cnc",
+      "product_id": 9521,
+      "primary": "Arkansas topographic map STL",
+      "supporting": [
+        "Arkansas terrain STL",
+        "Arkansas relief map STL",
+        "Arkansas map 3D print",
+        "Arkansas CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; New Mexico is US state, not country Mexico"
+    },
+    {
+      "cluster_id": "GEO-alabama-stl-cnc",
+      "product_id": 9519,
+      "primary": "Alabama topographic map STL",
+      "supporting": [
+        "Alabama terrain STL",
+        "Alabama relief map STL",
+        "Alabama map 3D print",
+        "Alabama CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; New Mexico is US state, not country Mexico"
+    },
+    {
+      "cluster_id": "GEO-connecticut-stl-cnc",
+      "product_id": 9523,
+      "primary": "Connecticut topographic map STL",
+      "supporting": [
+        "Connecticut terrain STL",
+        "Connecticut relief map STL",
+        "Connecticut map 3D print",
+        "Connecticut CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; New Mexico is US state, not country Mexico"
+    },
+    {
+      "cluster_id": "GEO-delaware-stl-cnc",
+      "product_id": 9505,
+      "primary": "Delaware topographic map STL",
+      "supporting": [
+        "Delaware terrain STL",
+        "Delaware relief map STL",
+        "Delaware map 3D print",
+        "Delaware CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; New Mexico is US state, not country Mexico"
+    },
+    {
+      "cluster_id": "GEO-rhode-island-stl-cnc",
+      "product_id": 9453,
+      "primary": "Rhode Island topographic map STL",
+      "supporting": [
+        "Rhode Island terrain STL",
+        "Rhode Island relief map STL",
+        "Rhode Island map 3D print",
+        "Rhode Island CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; New Mexico is US state, not country Mexico"
+    }
+  ],
+  "note": "All ten exact STL clusters are absent from the saved core: editorial product mapping only. Proposed paid digital-file queries are editorial hypotheses, not measured expansion. Existing elevation/vector clusters must not be reassigned to STL."
+}
