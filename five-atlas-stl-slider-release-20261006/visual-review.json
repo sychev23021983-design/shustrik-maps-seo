@@ -1,0 +1,26 @@
+{
+  "pass": true,
+  "reviewed": [
+    "usa48_desk",
+    "usa48_wall",
+    "usa48_gift",
+    "usa48_commercial",
+    "usa50_desk",
+    "usa50_wall",
+    "usa50_gift",
+    "usa50_commercial",
+    "asia_desk",
+    "asia_wall",
+    "asia_gift",
+    "asia_commercial",
+    "antarctica_desk",
+    "antarctica_wall",
+    "antarctica_gift",
+    "antarctica_commercial",
+    "moon_desk",
+    "moon_wall",
+    "moon_gift",
+    "moon_commercial"
+  ],
+  "notes": "20 images inspected against source geometry, major terrain/craters and scene materials. AI concepts, not mesh-certified previews. USA50 seams illustrative."
+}
