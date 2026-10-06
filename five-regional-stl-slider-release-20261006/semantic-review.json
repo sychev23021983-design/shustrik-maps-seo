@@ -1,0 +1,81 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-washington-stl-cnc",
+      "product_id": 9461,
+      "primary": "Washington State topographic map STL",
+      "supporting": [
+        "Washington State terrain STL",
+        "Washington State relief map STL",
+        "Washington State map 3D print",
+        "Washington State CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; Washington refers to state, not DC"
+    },
+    {
+      "cluster_id": "GEO-oregon-stl-cnc",
+      "product_id": 9451,
+      "primary": "Oregon topographic map STL",
+      "supporting": [
+        "Oregon terrain STL",
+        "Oregon relief map STL",
+        "Oregon map 3D print",
+        "Oregon CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; Washington refers to state, not DC"
+    },
+    {
+      "cluster_id": "GEO-wyoming-stl-cnc",
+      "product_id": 9464,
+      "primary": "Wyoming topographic map STL",
+      "supporting": [
+        "Wyoming terrain STL",
+        "Wyoming relief map STL",
+        "Wyoming map 3D print",
+        "Wyoming CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; Washington refers to state, not DC"
+    },
+    {
+      "cluster_id": "GEO-idaho-stl-cnc",
+      "product_id": 9388,
+      "primary": "Idaho topographic map STL",
+      "supporting": [
+        "Idaho terrain STL",
+        "Idaho relief map STL",
+        "Idaho map 3D print",
+        "Idaho CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; Washington refers to state, not DC"
+    },
+    {
+      "cluster_id": "GEO-north-carolina-stl-cnc",
+      "product_id": 9447,
+      "primary": "North Carolina topographic map STL",
+      "supporting": [
+        "North Carolina terrain STL",
+        "North Carolina relief map STL",
+        "North Carolina map 3D print",
+        "North Carolina CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; Washington refers to state, not DC"
+    }
+  ],
+  "note": "All five exact STL clusters absent: editorial product mapping only. Proposed paid digital-file queries are editorial hypotheses, not measured expansion. Existing elevation/vector clusters must not be reassigned to STL."
+}
