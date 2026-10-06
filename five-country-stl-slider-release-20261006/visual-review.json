@@ -1,0 +1,26 @@
+{
+  "reviewed": [
+    "france_desk",
+    "france_wall",
+    "france_gift",
+    "france_commercial",
+    "germany_desk",
+    "germany_wall",
+    "germany_gift",
+    "germany_commercial",
+    "italy_desk",
+    "italy_wall",
+    "italy_gift",
+    "italy_commercial",
+    "spain_desk",
+    "spain_wall",
+    "spain_gift",
+    "spain_commercial",
+    "japan_desk",
+    "japan_wall",
+    "japan_gift",
+    "japan_commercial"
+  ],
+  "method": "Individual visual inspection against actual product contour renders; reference extent and major separate islands retained; AI concepts, not certified mesh previews.",
+  "pass": true
+}
