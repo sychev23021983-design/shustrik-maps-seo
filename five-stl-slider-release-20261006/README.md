@@ -1,0 +1,9 @@
+# Next five STL sliders, 2026-10-06
+
+Owner authorized choosing and publishing next five products under the saved STL Product Update Workflow. Scope: Texas9457, Alaska9503, Hawaii9414, Switzerland9489, Iceland9480. Semantic review uses existing Google/English/USA core; no new metrics or ranks. Selection reflects existing product clusters and visual variety, not sales/demand ranking.
+
+Optimize SEO title/meta description, replace the single right-column shared illustration shortcode9586 with own four-JPEG native carousel and short centered **AI-generated application concepts.** Retain all original text blocks, H1/URL/excerpt/specs, galleries, downloads/commerce and every other meta field. Preserve all files and global shared/service/payment blocks. Four concept scenes: ivory plastic desk, small wall artwork, gift box, large grey concrete installation. All island pieces have separate supporting backing; AI concepts do not certify fabrication or extend commercial rights.
+
+Source media20JPEG1500x1000 with title/alt/caption/hash in media.json; exact content and guarded original body/SEO/excerpt/protected fields in manifest.json. Built-in ImageGen uses catalogue render references; raw PNG/prompts/edits/export/semantic-review retained in Vault `Five STL Sliders 2026-10-06`.
+
+release.php runs in existing external WordPress container: --preview / --apply / --verify / --rollback-preview / --rollback. Backups `_shustrik_five_stl_slider_backup_20261006_ID`; media journals `_shustrik_five_stl_slider_media_20261006_ID`. Duplicate import guarded. Per-product SQL transaction and fresh state compare prevent overwriting concurrent edits. Rollback restores prior body and SEO with published-state guards; media retained. After any failure inspect journal and exact state before retry. Do not delete backups/journals to bypass safeguards.
