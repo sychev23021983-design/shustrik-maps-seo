@@ -1,0 +1,81 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-michigan-stl-cnc",
+      "product_id": 9431,
+      "primary": "Michigan topographic map STL",
+      "supporting": [
+        "Michigan terrain STL",
+        "Michigan relief map STL",
+        "Michigan map 3D print",
+        "Michigan CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent"
+    },
+    {
+      "cluster_id": "GEO-pennsylvania-stl-cnc",
+      "product_id": 9452,
+      "primary": "Pennsylvania topographic map STL",
+      "supporting": [
+        "Pennsylvania terrain STL",
+        "Pennsylvania relief map STL",
+        "Pennsylvania map 3D print",
+        "Pennsylvania CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent"
+    },
+    {
+      "cluster_id": "GEO-virginia-stl-cnc",
+      "product_id": 9460,
+      "primary": "Virginia topographic map STL",
+      "supporting": [
+        "Virginia terrain STL",
+        "Virginia relief map STL",
+        "Virginia map 3D print",
+        "Virginia CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent"
+    },
+    {
+      "cluster_id": "GEO-tennessee-stl-cnc",
+      "product_id": 9456,
+      "primary": "Tennessee topographic map STL",
+      "supporting": [
+        "Tennessee terrain STL",
+        "Tennessee relief map STL",
+        "Tennessee map 3D print",
+        "Tennessee CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent"
+    },
+    {
+      "cluster_id": "GEO-south-carolina-stl-cnc",
+      "product_id": 9454,
+      "primary": "South Carolina topographic map STL",
+      "supporting": [
+        "South Carolina terrain STL",
+        "South Carolina relief map STL",
+        "South Carolina map 3D print",
+        "South Carolina CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent"
+    }
+  ],
+  "note": "All five exact STL clusters absent: editorial product mapping only. Proposed paid digital-file queries are editorial hypotheses, not measured expansion. Existing elevation/vector clusters must not be reassigned to STL."
+}
