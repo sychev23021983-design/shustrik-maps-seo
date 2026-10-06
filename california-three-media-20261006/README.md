@@ -1,0 +1,3 @@
+# California three JPEG media upload, 2026-10-06
+
+Owner requested uploading the remaining desk, small wall art and gift concepts to WordPress Media Library. JPEG1500x1000 quality95 RGB, original PNGs preserved, title/alt and AI-caption provided in each manifest. Run each variant/import.php --preview then --apply then --verify. Each variant has a separate guarded import journal; incomplete import blocks blind retry. Existing concrete22049 stays outside scope. Product cards/gallery/content and commerce unchanged, protected by hashes. Exact JPEG hash, format, dimensions, metadata, parent0 verified. Source runtime is external WordPress via owner-approved SSH/Docker; deploy the committed archive only.
