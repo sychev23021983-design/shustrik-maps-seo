@@ -1,0 +1,3 @@
+# Center slider captions, 2026-10-06
+
+Owner requested centered short AI captions on California9522 and Arizona9520. Match only the exact existing short notice block and add text-align:center to its paragraph. Preserve the rest of Description and all product metadata. Preview/apply/verify protect concurrent edits; backup option _shustrik_stl_center_caption_20261006 retains prior content. Restore requires fresh concurrency guard.
