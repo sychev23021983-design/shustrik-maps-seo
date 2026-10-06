@@ -1,0 +1,186 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-indiana-stl-cnc",
+      "product_id": 9416,
+      "primary": "Indiana topographic map STL",
+      "supporting": [
+        "Indiana terrain STL",
+        "Indiana relief map STL",
+        "Indiana map 3D print",
+        "Indiana CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; North/South America are continents; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-iowa-stl-cnc",
+      "product_id": 9417,
+      "primary": "Iowa topographic map STL",
+      "supporting": [
+        "Iowa terrain STL",
+        "Iowa relief map STL",
+        "Iowa map 3D print",
+        "Iowa CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; North/South America are continents; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-kansas-stl-cnc",
+      "product_id": 9418,
+      "primary": "Kansas topographic map STL",
+      "supporting": [
+        "Kansas terrain STL",
+        "Kansas relief map STL",
+        "Kansas map 3D print",
+        "Kansas CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; North/South America are continents; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-north-dakota-stl-cnc",
+      "product_id": 9448,
+      "primary": "North Dakota topographic map STL",
+      "supporting": [
+        "North Dakota terrain STL",
+        "North Dakota relief map STL",
+        "North Dakota map 3D print",
+        "North Dakota CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; North/South America are continents; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-oklahoma-stl-cnc",
+      "product_id": 9450,
+      "primary": "Oklahoma topographic map STL",
+      "supporting": [
+        "Oklahoma terrain STL",
+        "Oklahoma relief map STL",
+        "Oklahoma map 3D print",
+        "Oklahoma CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; North/South America are continents; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-south-dakota-stl-cnc",
+      "product_id": 9455,
+      "primary": "South Dakota topographic map STL",
+      "supporting": [
+        "South Dakota terrain STL",
+        "South Dakota relief map STL",
+        "South Dakota map 3D print",
+        "South Dakota CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; North/South America are continents; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-nebraska-stl-cnc",
+      "product_id": 10743,
+      "primary": "Nebraska topographic map STL",
+      "supporting": [
+        "Nebraska terrain STL",
+        "Nebraska relief map STL",
+        "Nebraska map 3D print",
+        "Nebraska CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; North/South America are continents; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-mississippi-stl-cnc",
+      "product_id": 10763,
+      "primary": "Mississippi topographic map STL",
+      "supporting": [
+        "Mississippi terrain STL",
+        "Mississippi relief map STL",
+        "Mississippi map 3D print",
+        "Mississippi CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; North/South America are continents; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-north-america-stl-cnc",
+      "product_id": 9392,
+      "primary": "North America topographic map STL",
+      "supporting": [
+        "North America terrain STL",
+        "North America relief map STL",
+        "North America map 3D print",
+        "North America CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; North/South America are continents; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-south-america-stl-cnc",
+      "product_id": 9393,
+      "primary": "South America topographic map STL",
+      "supporting": [
+        "South America terrain STL",
+        "South America relief map STL",
+        "South America map 3D print",
+        "South America CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; North/South America are continents; market remains USA"
+    }
+  ],
+  "note": "All ten exact STL clusters are absent from the saved core: editorial product mapping only. Proposed paid digital-file queries are editorial hypotheses, not measured expansion. Existing elevation/vector clusters must not be reassigned to STL.",
+  "related_existing_clusters": [
+    {
+      "cluster_id": "GEO-north-america-relief-map",
+      "source_primary": "shaded relief map of north america",
+      "clean_primary": "North America relief map",
+      "primary_measured_in_planner": "False",
+      "intent": "reference_image_physical_print_digital_mixed",
+      "action": "defer_format_or_assortment",
+      "owner_recommendation": "",
+      "owner_approved": "False",
+      "reason": "No exact requested place and standalone format confirmed; embedded texture/other format is not a replacement",
+      "notes": "[]",
+      "source_keywords": "1",
+      "retained_keywords": "1",
+      "keep": "1",
+      "defer": "0",
+      "exclude": "0",
+      "format": "relief-map",
+      "place": "North America",
+      "catalog_candidates": "[]",
+      "serp_source": "Google US/en parameters; physical location unverified",
+      "serp_utc": "2026-10-05T05:20:26.355Z",
+      "serp_query": "North America relief map",
+      "serp_observed_results": "[{\"title\": \"Explore North American Relief Maps, Hydrological & ...\", \"url\": \"/goto?url=CAESqgEB6zswFVugMadnQexfAbHbY3zcthUpluHcarSHnLWePs6O8woTabztzw_pG_sSDROZvbR8Ss4FFy6iRQ398-_oz7Q3tpIXvZh6u5cJI08feMVQmmJmnqSW7K5hr0ulF7XgfMFD8SGFwhPO_GmImVMq9DPm7Ja6TnZxHXoc4eCYGx6pVxiOTf-ZPLf9ad7nkwKnY-HmocRKIyhyUYowCNm-Q8tw48l_kaGUeA\"}, {\"title\": \"North America Shaded Relief Map | Topographic Wall Art\", \"url\": \"/goto?url=CAESuAEB6zswFcQgHaB17zQRmllHf024-Sho1e9BitxmzQoq2A3rySVY5elzcIcrSnYsP1ZGoJ37eCBWsVmfkqwEhCseDQJBdx9rRjWTkG5IfXm9LQRp7bZBCN15Lphw1gzqeWq4nbi9omob0rh3Gq3T5QwYAn7I9c0zDMh0HxcoK1GyxoeAjFoAnpDeztHSfCB5u14t_YN2YhXbu_xsqvpM6TiCoRvrxnjs20XpPS9FmgNtH6T0LzYC0gPZ\"}, {\"title\": \"3D Viewer - The National Map\", \"url\": \"/goto?url=CAESXwHrOzAVZS9FL8WWOhvZpqYE_AqbH6IVT8h4dDz9Y6-d1TfwvpFY8s9G8APaYvP83zKBQPUH1tBvcQIGHOcKbdIlfuHLrpI4s5tzoe-FGr_oEPHI8e5XhoCnUW_ustSD\"}, {\"title\": \"North America topographic map, elevation, terrain\", \"url\": \"/goto?url=CAESdQHrOzAV43UoKNMQSJeV_Bu2OdyFELiJEmbJ4GE37gNK9CNyeenVhj00pKSHEVilg__Lj5D_GXz_3HEG9nT-h1c8GrIQNprVl-PqsZ0GzWY2Sf0u0-C20b9r8wxIej7iUPqLqfO1FVNSGabYBvhKINnupBcSKg\"}, {\"title\": \"North America Topographic Map Print – 3D Relief Look ...\", \"url\": \"/goto?url=CAESiQEB6zswFUJtHM7B_bL3pW4bPxlj0K4qFQMQ4MtSM7TxS7Zwfi1ksOCRSPsY7nR8el5C7HHQvMs31avhS8DrIrlIoHrfjEMssbIr6NeXHB6anq64SCt5YF4zkmU5__UE7dPKZUaSP0Ak51kfcOvkX8-M7lb9nFhMvSo_EGWmsz__gzm8hbYOOKKb3g\"}, {\"title\": \"A shaded relief map of North America rendered from 3d ...\", \"url\": \"/goto?url=CAESowEB6zswFXsHa7jbALjDOQ-l4aPePU53ByXkVehdy1QingnOCWw-n3tQUsle5L89nugWZ1Cr6Bj_arDH49NZQIo-ewjzwGcFFYzrKZ8ngZZlR7MKD8Yki1B4uYHM2QjIL0W2e1TivXQ8CptI3kKsWyGQETM0CaWQIT1IITp3i0WCqbfqioF4sk2K78lsfMSV_2gGNBXmdhvQev-RJ-y37rsMggJZ\"}]",
+      "intent_confidence": "mixed_representative_query_review; not every query or US-local rank",
+      "demand_representative": "",
+      "publication": "not_authorized_by_core_research",
+      "us_rank_verified": "False",
+      "us_serp_review_status": "pending controlled US review",
+      "targeted_intent_review": "",
+      "owner_approval_scope": ""
+    }
+  ],
+  "search_evidence": "Intent Review.md",
+  "search_engine_verification": "Public web intent review; not controlled Google USA rank capture"
+}
