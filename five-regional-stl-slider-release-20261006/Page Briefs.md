@@ -50,7 +50,7 @@ Primary: Oregon topographic map STL. Support: terrain STL / relief map STL / 3D 
 
 SEO title: Oregon Topographic Map STL | 3D Print & CNC
 
-Meta description: Download a Oregon topographic STL model for 3D printing and CNC projects. Explore display ideas; the listed open-base mesh may need preparation.
+Meta description: Download an Oregon topographic STL model for 3D printing and CNC projects. Explore display ideas; the listed open-base mesh may need preparation.
 
 Listed base: open. Mesh accuracy/readiness/archive not validated by this content release.
 
@@ -78,7 +78,7 @@ Primary: Idaho topographic map STL. Support: terrain STL / relief map STL / 3D p
 
 SEO title: Idaho Topographic Map STL | 3D Print & CNC
 
-Meta description: Download a Idaho topographic STL model for 3D printing and CNC projects. Explore desk, wall and gift ideas for this digital state terrain file.
+Meta description: Download an Idaho topographic STL model for 3D printing and CNC projects. Explore desk, wall and gift ideas for this digital state terrain file.
 
 Listed base: closed. Mesh accuracy/readiness/archive not validated by this content release.
 
