@@ -1,0 +1,151 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-vermont-stl-cnc",
+      "product_id": 9459,
+      "primary": "Vermont topographic map STL",
+      "supporting": [
+        "Vermont terrain STL",
+        "Vermont relief map STL",
+        "Vermont map 3D print",
+        "Vermont CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; Georgia USA is state, West Virginia distinct from Virginia"
+    },
+    {
+      "cluster_id": "GEO-new-hampshire-stl-cnc",
+      "product_id": 9435,
+      "primary": "New Hampshire topographic map STL",
+      "supporting": [
+        "New Hampshire terrain STL",
+        "New Hampshire relief map STL",
+        "New Hampshire map 3D print",
+        "New Hampshire CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; Georgia USA is state, West Virginia distinct from Virginia"
+    },
+    {
+      "cluster_id": "GEO-maine-stl-cnc",
+      "product_id": 9426,
+      "primary": "Maine topographic map STL",
+      "supporting": [
+        "Maine terrain STL",
+        "Maine relief map STL",
+        "Maine map 3D print",
+        "Maine CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; Georgia USA is state, West Virginia distinct from Virginia"
+    },
+    {
+      "cluster_id": "GEO-massachusetts-stl-cnc",
+      "product_id": 9430,
+      "primary": "Massachusetts topographic map STL",
+      "supporting": [
+        "Massachusetts terrain STL",
+        "Massachusetts relief map STL",
+        "Massachusetts map 3D print",
+        "Massachusetts CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; Georgia USA is state, West Virginia distinct from Virginia"
+    },
+    {
+      "cluster_id": "GEO-wisconsin-stl-cnc",
+      "product_id": 9463,
+      "primary": "Wisconsin topographic map STL",
+      "supporting": [
+        "Wisconsin terrain STL",
+        "Wisconsin relief map STL",
+        "Wisconsin map 3D print",
+        "Wisconsin CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; Georgia USA is state, West Virginia distinct from Virginia"
+    },
+    {
+      "cluster_id": "GEO-minnesota-stl-cnc",
+      "product_id": 9510,
+      "primary": "Minnesota topographic map STL",
+      "supporting": [
+        "Minnesota terrain STL",
+        "Minnesota relief map STL",
+        "Minnesota map 3D print",
+        "Minnesota CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; Georgia USA is state, West Virginia distinct from Virginia"
+    },
+    {
+      "cluster_id": "GEO-ohio-stl-cnc",
+      "product_id": 9449,
+      "primary": "Ohio topographic map STL",
+      "supporting": [
+        "Ohio terrain STL",
+        "Ohio relief map STL",
+        "Ohio map 3D print",
+        "Ohio CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; Georgia USA is state, West Virginia distinct from Virginia"
+    },
+    {
+      "cluster_id": "GEO-georgia-stl-cnc",
+      "product_id": 9413,
+      "primary": "Georgia USA topographic map STL",
+      "supporting": [
+        "Georgia USA terrain STL",
+        "Georgia USA relief map STL",
+        "Georgia USA map 3D print",
+        "Georgia USA CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; Georgia USA is state, West Virginia distinct from Virginia"
+    },
+    {
+      "cluster_id": "GEO-kentucky-stl-cnc",
+      "product_id": 9419,
+      "primary": "Kentucky topographic map STL",
+      "supporting": [
+        "Kentucky terrain STL",
+        "Kentucky relief map STL",
+        "Kentucky map 3D print",
+        "Kentucky CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; Georgia USA is state, West Virginia distinct from Virginia"
+    },
+    {
+      "cluster_id": "GEO-west-virginia-stl-cnc",
+      "product_id": 9462,
+      "primary": "West Virginia topographic map STL",
+      "supporting": [
+        "West Virginia terrain STL",
+        "West Virginia relief map STL",
+        "West Virginia map 3D print",
+        "West Virginia CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; Georgia USA is state, West Virginia distinct from Virginia"
+    }
+  ],
+  "note": "All ten exact STL clusters are absent from the saved core: editorial product mapping only. Proposed paid digital-file queries are editorial hypotheses, not measured expansion. Existing elevation/vector clusters must not be reassigned to STL."
+}
