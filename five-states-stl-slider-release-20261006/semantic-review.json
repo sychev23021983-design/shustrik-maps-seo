@@ -1,0 +1,140 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [
+    {
+      "cluster_id": "GEO-florida-stl-cnc",
+      "source_primary": "florida georgia line stl",
+      "clean_primary": "Florida topographic map STL",
+      "primary_measured_in_planner": "False",
+      "intent": "3d_print_file_and_physical_end_product_mixed",
+      "action": "existing_product_candidate",
+      "owner_recommendation": "https://shustrik-maps.com/product/state-of-florida-stl-model/",
+      "owner_approved": "False",
+      "reason": "Exact place/family match in fresh published catalog; public specifications are claims, not archive validation",
+      "notes": "[]",
+      "source_keywords": "1",
+      "retained_keywords": "1",
+      "keep": "0",
+      "defer": "0",
+      "exclude": "1",
+      "format": "stl-cnc",
+      "place": "Florida",
+      "catalog_candidates": "[{\"id\": 9524, \"url\": \"https://shustrik-maps.com/product/state-of-florida-stl-model/\", \"title\": \"Florida Topographic Map STL – 3D Terrain Model for 3D Printing & CNC\", \"claimed_formats\": [], \"excerpt_text\": \"File size: 641MB Model size: 123.0769 mm x 200 mm x 2 mm Projection: Lambert conformal conic Scaling factor: X — 1; Y — 1; Z — 3 Polygons: 13 444 172 Vertices: 6 723 746 Geometry: Polygonal Tris only Base: Closed [html_block id=\\\"11218\\\"]\", \"price\": \"15\", \"downloadable\": \"yes\", \"archive_verified\": false}]",
+      "serp_source": "Google US/en parameters; physical location unverified",
+      "serp_utc": "2026-10-05T05:22:17.315Z",
+      "serp_query": "Florida topographic map STL",
+      "serp_observed_results": "[{\"title\": \"State of Florida Topographic Map 3D Model File | Stl ...\", \"url\": \"/goto?url=CAEShgEB6zswFfLC90vy9KtytE8HFZYw3wlFc3iKnejOyXRFgDGxKcJ6UE2NvC7yPy9bp-RrqvVzLKFEH4aQKc4DnC1bS_5OFhkzPXyqTO4bJwZsaqpPjpDXEcLhqu4YFozFVw3K6rSPcCumyPXkJL1lfy01S7_eCvtrxifAQByeIVjclrxFlVGAKQ\"}, {\"title\": \"Florida, USA (FL) Topographic Map with Hydrographic ...\", \"url\": \"/goto?url=CAESlQEB6zswFS9uDiQqSsuuxYuPBL0a11mE0nFeM2dPzG6W8wa8AQI_VIjq-OoWboijqKFUyHy-u4wrok6Ep_c4QS4wVV1pzXzCL1CINk-rW6xh0Pxs3J1RiIqJPx5uhddzVs1j67AvjYQ4HfrENpuP55XWTUbvjCFprJCfPp9Tq4AzPxUcROdHBQ0L1yHQjOe_J_c_P6MAfg\"}, {\"title\": \"Florida-3D Terrain Raised Relief Maps\", \"url\": \"/goto?url=CAES1wEB6zswFa5NEdJDRR7ozA7FJGyCEk-2nCSYdoST0cXnmqZ9o2b7apzsp584YcVVNXIqdnbiSjIqiNsYiooyfuWNLiOh_lIemeQ2eoaUci_xwtRmfS7obqvpqPF7cVyCweAIEC4NJcbsyQHq1rtPArHmXQiDfNVLmySIkRNDXRaDv2lPwLCSrIzL7vR470HmrlvUrESo4G51i77U_bPVTB7Et6siotvmLlJU8Tq-wGWVzA5PdI9ZqdKfXWab-FpgpRATijoN9BqGDpJQl_1HsmaKfnTKtNp2tQ\"}, {\"title\": \"\\\"topographic map\\\" 3D Models to Print\", \"url\": \"/goto?url=CAESYwHrOzAVGF1Tj3AFqrOZjzAVH2_kSIbiCZbShkI8VumdP5zkajwJd4UJsM5B3FeSxlNzeA5c9MXC_4XvFZohz2UvZz1nnw4SLmwHHszKhCuchM2C71cVEpSi7EMFaIzvr0MGrA\"}, {\"title\": \"Florida Topographic Map STL File 12mm | 3D Print Digital ...\", \"url\": \"/goto?url=CAESiwEB6zswFc7I_U4Mon0et7UTuIaBM5pHQw4yW8SRQxDbL0Y596hMt1dVJodLmLqSQPCUrPAziSlhpZveQuNODn9DPN1XkFiRe6_qvApqXk902mV3ZC3XQBspkT8Ybm0c1t4FAsvweITOLlluFtIFUGRWiFZpFURpZv-q_GSIIKUXt9z0hic37-S4S38N\"}, {\"title\": \"How to Create Stunning 3D Topographic Maps with STLMap\", \"url\": \"/goto?url=CAESZgHrOzAVdC2FAzVhufvCjpry9ArP6WdZC0_Kee9zT2NdNZXGttR2kmmqXBUj9yE6zP5zVuml-qgKBgmzAMy1gUCrXif4QXvPa3hd3NCI1mGR_Mc0yc-zFzlK1FY3eToNmWSnedkOrQ\"}]",
+      "intent_confidence": "mixed_representative_query_review; not every query or US-local rank",
+      "demand_representative": "",
+      "publication": "not_authorized_by_core_research",
+      "us_rank_verified": "False",
+      "us_serp_review_status": "pending controlled US review",
+      "targeted_intent_review": "",
+      "owner_approval_scope": ""
+    }
+  ],
+  "existing_keywords": [
+    {
+      "keyword": "florida georgia line stl",
+      "normalized": "florida georgia line stl",
+      "source_cluster": "GEO-florida-stl-cnc",
+      "clean_cluster": "GEO-florida-stl-cnc",
+      "source_role": "Target",
+      "disposition": "exclude",
+      "use": "none",
+      "reason": "person_or_music",
+      "source_volume": "10",
+      "source_metric_source": "Visible AIKTP suggestion",
+      "source_metric_date": "2026-08-12",
+      "planner_range": "",
+      "planner_lower": "",
+      "planner_upper": "",
+      "planner_status": "not_measured_for_phrase",
+      "planner_period": "",
+      "owner_candidate": "",
+      "ready_for_publication": "False",
+      "product_target_eligible": "False",
+      "extension_source": "",
+      "market": "",
+      "metric_period": "",
+      "active_measurement_market": "US only",
+      "legacy_us_serp_verified": "False"
+    }
+  ],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-colorado-stl-cnc",
+      "product_id": 9504,
+      "primary": "Colorado topographic map STL",
+      "supporting": [
+        "Colorado terrain STL",
+        "Colorado relief map STL",
+        "Colorado map 3D print",
+        "Colorado CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent"
+    },
+    {
+      "cluster_id": "GEO-florida-stl-cnc",
+      "product_id": 9524,
+      "primary": "Florida topographic map STL",
+      "supporting": [
+        "Florida terrain STL",
+        "Florida relief map STL",
+        "Florida map 3D print",
+        "Florida CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent"
+    },
+    {
+      "cluster_id": "GEO-utah-stl-cnc",
+      "product_id": 9458,
+      "primary": "Utah topographic map STL",
+      "supporting": [
+        "Utah terrain STL",
+        "Utah relief map STL",
+        "Utah map 3D print",
+        "Utah CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent"
+    },
+    {
+      "cluster_id": "GEO-montana-stl-cnc",
+      "product_id": 10753,
+      "primary": "Montana topographic map STL",
+      "supporting": [
+        "Montana terrain STL",
+        "Montana relief map STL",
+        "Montana map 3D print",
+        "Montana CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent"
+    },
+    {
+      "cluster_id": "GEO-nevada-stl-cnc",
+      "product_id": 10732,
+      "primary": "Nevada topographic map STL",
+      "supporting": [
+        "Nevada terrain STL",
+        "Nevada relief map STL",
+        "Nevada map 3D print",
+        "Nevada CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent"
+    }
+  ],
+  "note": "Florida existing cluster keep=0: no retained digital STL keyword demand evidence. Other four clusters absent. Proposed paid digital-file queries are editorial hypotheses, not measured expansion. Existing elevation/vector clusters must not be reassigned to STL."
+}

@@ -1,0 +1,26 @@
+{
+  "pass": true,
+  "reviewed": [
+    "colorado_desk",
+    "colorado_wall",
+    "colorado_gift",
+    "colorado_commercial",
+    "florida_desk",
+    "florida_wall",
+    "florida_gift",
+    "florida_commercial",
+    "utah_desk",
+    "utah_wall",
+    "utah_gift",
+    "utah_commercial",
+    "montana_desk",
+    "montana_wall",
+    "montana_gift",
+    "montana_commercial",
+    "nevada_desk",
+    "nevada_wall",
+    "nevada_gift",
+    "nevada_commercial"
+  ],
+  "notes": "20 separate images visually checked against actual SKU renders: contour, orientation, major relief distribution and material. Florida lowland relief; Utah additional support. AI concepts, not certified mesh previews."
+}

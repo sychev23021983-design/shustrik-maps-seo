@@ -1,0 +1,5 @@
+# Colorado, Florida, Utah, Montana and Nevada STL sliders
+
+Authorized scope9504,9524,9458,10753,10732. Google/English/USA core checked. Florida existing cluster keep=0; four others absent. Editorial product query groups saved separately with frequency/rank=null, not measured core expansion. Public intent sources in Intent Review.md. Only two Yoast fields and one9586 illustration reference change per product. Preserve main prose/H1/URL/excerpts/specs/upper galleries/commerce/all other metadata/shared blocks. Utah listed open base reflected in meta and media captions; other four closed.
+
+Four AI concepts each, true JPEG1500x1000 with AI title/alt. Manual native carousel, one slide desktop/mobile, only bold centered AI-generated application concepts notice. PNGs/prompts/source renders saved in Vault. Source commit/push/exact archive SHA, lint/preview guards, apply/verify, guarded rollback-preview, public and browser QA. Backup keys _shustrik_five_states_stl_slider_*_20261006_ID. Inspect journal before retrying partial apply. Rollback retains media.
