@@ -1,0 +1,26 @@
+{
+  "reviewed": [
+    "australia_desk",
+    "australia_wall",
+    "australia_gift",
+    "australia_commercial",
+    "new-zealand_desk",
+    "new-zealand_wall",
+    "new-zealand_gift",
+    "new-zealand_commercial",
+    "norway_desk",
+    "norway_wall",
+    "norway_gift",
+    "norway_commercial",
+    "portugal_desk",
+    "portugal_wall",
+    "portugal_gift",
+    "portugal_commercial",
+    "brazil_desk",
+    "brazil_wall",
+    "brazil_gift",
+    "brazil_commercial"
+  ],
+  "method": "Individual visual inspection against actual SKU renders; mainland coverage and major islands retained; AI fabrication concepts, not certified mesh previews.",
+  "pass": true
+}
