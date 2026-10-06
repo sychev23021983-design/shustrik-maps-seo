@@ -1,0 +1,58 @@
+[
+  {
+    "variant": "desk",
+    "prompt": "Edit the supplied image. Change ONLY the material/colour of the Arizona terrain sculpture from yellow/orange topographic colouring to UNIFORM ivory cream 3D-PRINTED PLASTIC. Warm off-white like ivory PLA, completely unpainted monochrome, matte polymer surface, subtly visible fine FDM layer lines on edges and relief slopes. No yellow, orange, green, terrain colour gradients, plaster, stone, porcelain or metallic finish. Natural lighting creates terrain shadow variation but the entire sculpture has ONE ivory base colour. Preserve exact Arizona outline, all terrain details, shape, upright position, scale, walnut stand, desk, camera framing, plant, book and background unchanged. Realistic small 3D-printed craft. No text/watermark. Landscape 3:2 for final JPEG 1500 x 1000.",
+    "original": "C:\\Users\\syche\\.codex\\generated_images\\01a10ad1-15b1-7223-901f-a61919ea4763\\exec-27fd5d7e-459a-421e-8881-232208180f1e.png",
+    "file": "arizona-desk-ivory-plastic-1500x1000-v2.jpg",
+    "title": "Arizona Terrain — Ivory Plastic Desktop Craft Concept",
+    "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Arizona terrain relief on a walnut desktop stand.",
+    "caption": "AI-generated application concept, not a photograph of a tested print. Digital STL model only; fabrication, colouring, casting, stand, frame and packaging are additional.",
+    "width": 1500,
+    "height": 1000,
+    "tool": "built-in imagegen",
+    "sha256": "e21402f313f01d013417ed98d192cac5eecefffa7fe878f2c673030d53547266",
+    "bytes": 494374
+  },
+  {
+    "variant": "wall",
+    "prompt": "Use case: product-mockup. Generate ONE photorealistic application-concept product photograph, landscape 3:2, final requested 1500 x 1000. Reference image is the actual Arizona terrain render. Strictly preserve recognizable Arizona state outline, north up, straight north/east borders, irregular western Colorado-River edge and diagonal southwest boundary; preserve dominant Grand Canyon incision in the northwest and detailed mountain/plateau/desert structure. Not California, Utah, a generic rectangle or a standalone Grand Canyon patch. Show ENTIRE relief without cropping, physically supported, detailed realistic terrain. No text, lettering, logos, watermark, people or collage. Small home wall artwork: ivory Arizona relief mounted onto dusty sage-green backing in a thin oak frame, about 35 by 45cm, hanging above a modest console beside a ceramic lamp and plant. Furniture establishes intimate small art scale. Entire frame visible, soft daylight, tasteful quiet home setting.",
+    "original": "C:\\Users\\syche\\.codex\\generated_images\\01a10ad1-15b1-7223-901f-a61919ea4763\\exec-d53ad36c-a64d-4103-a1d3-b416cdac1ffe.png",
+    "file": "arizona-wall-1500x1000.jpg",
+    "title": "Arizona Terrain — Small Framed Wall Art Concept",
+    "alt": "AI-generated concept of a warm-toned Arizona terrain relief in an oak frame with sage-green backing above a home console.",
+    "caption": "AI-generated application concept, not a photograph of a tested print. Digital STL model only; fabrication, colouring, casting, stand, frame and packaging are additional.",
+    "width": 1500,
+    "height": 1000,
+    "tool": "built-in imagegen",
+    "sha256": "85e61f8e44ff2dd373c63e49bf62d4654be751472dcf89cf0a8d4dbb0fa6d4fc",
+    "bytes": 589356
+  },
+  {
+    "variant": "gift",
+    "prompt": "Use case: product-mockup. Generate ONE photorealistic application-concept product photograph, landscape 3:2, final requested 1500 x 1000. Reference image is the actual Arizona terrain render. Strictly preserve recognizable Arizona state outline, north up, straight north/east borders, irregular western Colorado-River edge and diagonal southwest boundary; preserve dominant Grand Canyon incision in the northwest and detailed mountain/plateau/desert structure. Not California, Utah, a generic rectangle or a standalone Grand Canyon patch. Show ENTIRE relief without cropping, physically supported, detailed realistic terrain. No text, lettering, logos, watermark, people or collage. A small ivory Arizona terrain relief packed into an open kraft gift box with forest-green tissue paper, lying fully supported. Wide three-quarter overhead composition on walnut table; entire box and relief visible, lid placed adjacent and blank cream envelope with green ribbon. Warm natural daylight, believable crisp packing shadows.",
+    "original": "C:\\Users\\syche\\.codex\\generated_images\\01a10ad1-15b1-7223-901f-a61919ea4763\\exec-185c59bd-1bc1-4509-95fb-c8de26b404b2.png",
+    "file": "arizona-gift-1500x1000.jpg",
+    "title": "Arizona Terrain — Gift Box Concept",
+    "alt": "AI-generated concept of a warm-toned Arizona terrain relief in a kraft gift box with forest-green tissue paper.",
+    "caption": "AI-generated application concept, not a photograph of a tested print. Digital STL model only; fabrication, colouring, casting, stand, frame and packaging are additional.",
+    "width": 1500,
+    "height": 1000,
+    "tool": "built-in imagegen",
+    "sha256": "9d1703139cb5b21c7e71a95e5adf0b83fb454ce4deec42d205dde8e9b7790b0b",
+    "bytes": 725244
+  },
+  {
+    "variant": "commercial",
+    "prompt": "Use case: product-mockup. Generate ONE photorealistic application-concept product photograph, landscape 3:2, final requested 1500 x 1000. Reference image is the actual Arizona terrain render. Strictly preserve recognizable Arizona state outline, north up, straight north/east borders, irregular western Colorado-River edge and diagonal southwest boundary; preserve dominant Grand Canyon incision in the northwest and detailed mountain/plateau/desert structure. Not California, Utah, a generic rectangle or a standalone Grand Canyon patch. Show ENTIRE relief without cropping, physically supported, detailed realistic terrain. No text, lettering, logos, watermark, people or collage. Large approximately 2.5-metre Arizona terrain wall installation made from natural light-to-medium cement-grey CAST CONCRETE with fine pores, matte surface and subtle tonal variation, distinctly concrete not metal or marble. A premium hotel lobby with warm light limestone wall, charcoal lounge seating, walnut console and plants establishes monumental scale. Full relief visible with faithful Arizona outline and terrain, side grazing light gives depth. Horizontal architectural photograph, no painted colours or bronze.",
+    "original": "C:\\Users\\syche\\.codex\\generated_images\\01a10ad1-15b1-7223-901f-a61919ea4763\\exec-9c091cab-1cc2-4950-9139-db5b63cb15c8.png",
+    "file": "arizona-commercial-1500x1000.jpg",
+    "title": "Arizona Terrain — Concrete Commercial Installation Concept",
+    "alt": "AI-generated concept of a large concrete Arizona terrain relief mounted on a hotel lobby wall.",
+    "caption": "AI-generated application concept, not a photograph of a tested print. Digital STL model only; fabrication, colouring, casting, stand, frame and packaging are additional. Commercial use requires separately agreed permission.",
+    "width": 1500,
+    "height": 1000,
+    "tool": "built-in imagegen",
+    "sha256": "25b9e6997fb68cc30f153310d5aee863e26a4a49c8be008954486be6c3dcc74b",
+    "bytes": 736176
+  }
+]
