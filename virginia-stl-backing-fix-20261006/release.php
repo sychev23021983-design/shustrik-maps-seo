@@ -1,0 +1,26 @@
+<?php
+ini_set('display_errors','0');define('WP_USE_THEMES',false);ob_start();require '/var/www/html/wp-load.php';ob_end_clean();
+function fail_fix($s){throw new RuntimeException($s);}
+function state_fix(){ $p=get_post(9460);$meta=get_post_meta(9460);unset($meta['_yoast_wpseo_title'],$meta['_yoast_wpseo_metadesc']);return ['id'=>9460,'content'=>$p->post_content,'h1'=>$p->post_title,'excerpt'=>$p->post_excerpt,'url'=>get_permalink(9460),'gallery'=>get_post_meta(9460,'_product_image_gallery',true),'seo_title'=>get_post_meta(9460,'_yoast_wpseo_title',true),'meta_description'=>get_post_meta(9460,'_yoast_wpseo_metadesc',true),'protected_meta_hash'=>hash('sha256',serialize($meta)),'shared_block_hash'=>hash('sha256',get_post(9586)->post_content)];}
+function stable_fix($a,$b){foreach(['id','h1','excerpt','url','gallery','seo_title','meta_description','protected_meta_hash','shared_block_hash'] as $k)if($a[$k]!==$b[$k])fail_fix('Protected drift '.$k);}
+function refresh_fix(){clean_post_cache(9460);wp_cache_delete(9460,'post_meta');$u=get_permalink(9460);if(function_exists('rocket_clean_files'))rocket_clean_files([$u]);do_action('litespeed_purge_url',$u);}
+try {
+if(PHP_SAPI!=='cli'||rtrim(home_url(),'/')!=='https://shustrik-maps.com')fail_fix('Site');$mode=$argv[1]??'--preview';if(!in_array($mode,['--preview','--apply','--verify','--rollback-preview','--rollback']))fail_fix('Mode');
+$t=json_decode(file_get_contents(__DIR__.'/manifest.json'),true,512,JSON_THROW_ON_ERROR);if($t['id']!==9460||$t['old_media_id']!==22213||$t['remaining_ids']!==[22214,22215,22216])fail_fix('Scope');$m=$t['media'];if(hash_file('sha256',__DIR__.'/'.$m['file'])!==$m['sha256'])fail_fix('Asset');
+$now=state_fix();$key='_shustrik_virginia_backing_fix_20261006';$journal=$key.'_media';$backup=get_option($key,null);
+if(in_array($mode,['--verify','--rollback-preview','--rollback'])){if(!$backup)fail_fix('Missing backup');stable_fix($backup['before'],$now);if($now['content']!==$backup['after'])fail_fix('Published drift');}
+else{if($backup!==null||get_option($journal,null)!==null)fail_fix('Existing backup/journal; inspect before retry');if($now!==$t['before']||substr_count($now['content'],$t['target'])!==1)fail_fix('Baseline drift');}
+if($mode==='--apply'){
+ if(!add_option($journal,['status'=>'importing','ids'=>[]],'',false))fail_fix('Journal');
+ require_once ABSPATH.'wp-admin/includes/file.php';require_once ABSPATH.'wp-admin/includes/media.php';require_once ABSPATH.'wp-admin/includes/image.php';
+ $tmp=wp_tempnam($m['file']);if(!copy(__DIR__.'/'.$m['file'],$tmp))fail_fix('Copy');$aid=media_handle_sideload(['name'=>$m['file'],'tmp_name'=>$tmp],9460,$m['caption']);if(is_wp_error($aid))fail_fix('Import');
+ update_option($journal,['status'=>'imported','ids'=>[$aid]],false);$r=wp_update_post(wp_slash(['ID'=>$aid,'post_title'=>$m['title'],'post_excerpt'=>$m['caption'],'post_content'=>$m['caption']]),true);if(is_wp_error($r))fail_fix('Metadata');update_post_meta($aid,'_wp_attachment_image_alt',wp_slash($m['alt']));
+ $after=str_replace($t['target'],'images="'.implode(',',array_merge([$aid],$t['remaining_ids'])).'"',$now['content']);$backup=['utc'=>gmdate('c'),'before'=>$now,'after'=>$after,'media_id'=>$aid];if(!add_option($key,$backup,'',false))fail_fix('Backup');
+ global $wpdb;$wpdb->query('START TRANSACTION');try{$wpdb->get_var($wpdb->prepare("SELECT ID FROM {$wpdb->posts} WHERE ID=%d FOR UPDATE",9460));refresh_fix();if(state_fix()!==$now)fail_fix('Concurrent edit');$n=$wpdb->query($wpdb->prepare("UPDATE {$wpdb->posts} SET post_content=%s,post_modified=%s,post_modified_gmt=%s WHERE ID=%d AND post_content=%s",$after,current_time('mysql'),current_time('mysql',true),9460,$now['content']));if($n!==1)fail_fix('Write');refresh_fix();$written=state_fix();stable_fix($now,$written);if($written['content']!==$after)fail_fix('Content');$wpdb->query('COMMIT');}catch(Throwable $e){$wpdb->query('ROLLBACK');refresh_fix();throw $e;}
+ update_option($journal,['status'=>'published','ids'=>[$aid]],false);refresh_fix();
+}
+if($mode==='--rollback'){$r=wp_update_post(wp_slash(['ID'=>9460,'post_content'=>$backup['before']['content']]),true);if(is_wp_error($r))fail_fix('Rollback');refresh_fix();stable_fix($backup['before'],state_fix());if(state_fix()['content']!==$backup['before']['content'])fail_fix('Rollback content');}
+$uploaded=null;if(in_array($mode,['--apply','--verify','--rollback-preview'])){$aid=$backup['media_id'];$p=get_post($aid);$d=wp_get_attachment_metadata($aid);if(!$p||$p->post_title!==$m['title']||$p->post_excerpt!==$m['caption']||get_post_meta($aid,'_wp_attachment_image_alt',true)!==$m['alt']||get_post_mime_type($aid)!=='image/jpeg'||$d['width']!==1500||$d['height']!==1000||hash_file('sha256',get_attached_file($aid))!==$m['sha256'])fail_fix('Media drift');if(!get_post(22213)||!file_exists(get_attached_file(22213)))fail_fix('Old media missing');$uploaded=['id'=>$aid,'url'=>wp_get_attachment_url($aid),'title'=>$m['title'],'alt'=>$m['alt']];}
+echo json_encode(['ok'=>true,'mode'=>$mode,'utc'=>gmdate('c'),'id'=>9460,'protected_preserved'=>true,'old_media_retained'=>22213,'media'=>$uploaded],JSON_UNESCAPED_SLASHES|JSON_UNESCAPED_UNICODE)."\n";
+}catch(Throwable $e){echo json_encode(['ok'=>false,'reason'=>$e instanceof RuntimeException?$e->getMessage():'Internal error'])."\n";exit(1);}
+
