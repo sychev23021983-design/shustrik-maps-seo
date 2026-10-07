@@ -1,0 +1,10 @@
+{
+  "commit": "59d5e6119ca5d5765255babafb35078486841fd1",
+  "archive_sha256": "761d780abae7182f5b7f1a5809d36090ff43c3c729367d6502f15969108431e3",
+  "remote_archive_sha256": "761d780abae7182f5b7f1a5809d36090ff43c3c729367d6502f15969108431e3",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/ten-country-59d5e61",
+  "mode": "external",
+  "container": "shustrik-maps-wordpress-1",
+  "lint_pass": true
+}
