@@ -1,0 +1,328 @@
+{
+  "pass": true,
+  "tool": "native ImageGen",
+  "inspected": 40,
+  "review": "All forty outputs visually inspected against own SKU reference: recognizable geography/material/composition; complete desk backing and all separate desk fragments supported; illustrative relief rather than mesh accuracy proof. No labels or watermarks.",
+  "rows": [
+    {
+      "product_id": 9382,
+      "slug": "afghanistan",
+      "scene": "desk",
+      "accepted": true,
+      "desk_solid_backing": true,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-6f30f064-7267-4d09-8376-3e6549cdc7f3.png"
+    },
+    {
+      "product_id": 9382,
+      "slug": "afghanistan",
+      "scene": "wall",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-b4af0f52-ffa1-43fa-b430-efc02085f1fd.png"
+    },
+    {
+      "product_id": 9382,
+      "slug": "afghanistan",
+      "scene": "gift",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-2ac80329-3ea3-4458-83fa-26e929240405.png"
+    },
+    {
+      "product_id": 9382,
+      "slug": "afghanistan",
+      "scene": "commercial",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-26c818bf-5dce-49e1-a5b5-2b84f1f1a683.png"
+    },
+    {
+      "product_id": 9384,
+      "slug": "crete",
+      "scene": "desk",
+      "accepted": true,
+      "desk_solid_backing": true,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-cb9f0194-ad60-44d6-98ed-dfabeb1bc058.png"
+    },
+    {
+      "product_id": 9384,
+      "slug": "crete",
+      "scene": "wall",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-e620fa06-4545-4a23-9763-22cd9925ef39.png"
+    },
+    {
+      "product_id": 9384,
+      "slug": "crete",
+      "scene": "gift",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-36eb126b-492b-4fe1-ab47-cc850043f08e.png"
+    },
+    {
+      "product_id": 9384,
+      "slug": "crete",
+      "scene": "commercial",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-93b7d32e-992a-4c24-aa87-049a675d7186.png"
+    },
+    {
+      "product_id": 9387,
+      "slug": "corsica",
+      "scene": "desk",
+      "accepted": true,
+      "desk_solid_backing": true,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-10e29141-0d32-46b2-a849-2b037b82ae3a.png"
+    },
+    {
+      "product_id": 9387,
+      "slug": "corsica",
+      "scene": "wall",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-19bed400-1e92-4209-af8b-8e03368d1fbe.png"
+    },
+    {
+      "product_id": 9387,
+      "slug": "corsica",
+      "scene": "gift",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-0c6ca7a8-51a5-42ef-94e7-a0e5ac4e1960.png"
+    },
+    {
+      "product_id": 9387,
+      "slug": "corsica",
+      "scene": "commercial",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-534a046d-b912-4cd5-b96b-69d603e5e1a1.png"
+    },
+    {
+      "product_id": 9397,
+      "slug": "algeria",
+      "scene": "desk",
+      "accepted": true,
+      "desk_solid_backing": true,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-92e3f24c-a985-4baa-a84e-73bc27a079a2.png"
+    },
+    {
+      "product_id": 9397,
+      "slug": "algeria",
+      "scene": "wall",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-567e5a64-c8ee-4819-993a-70f5022365e6.png"
+    },
+    {
+      "product_id": 9397,
+      "slug": "algeria",
+      "scene": "gift",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-58d8d332-9612-4c68-be56-03fe21832a95.png"
+    },
+    {
+      "product_id": 9397,
+      "slug": "algeria",
+      "scene": "commercial",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-90db48ed-1916-49f7-85dc-52a199d9019b.png"
+    },
+    {
+      "product_id": 9398,
+      "slug": "andorra",
+      "scene": "desk",
+      "accepted": true,
+      "desk_solid_backing": true,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-e345da8e-3092-4d2e-93c5-76c57bd747ea.png"
+    },
+    {
+      "product_id": 9398,
+      "slug": "andorra",
+      "scene": "wall",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-aa55b514-3f39-4791-8974-2aaced86fce0.png"
+    },
+    {
+      "product_id": 9398,
+      "slug": "andorra",
+      "scene": "gift",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-e6d599a9-4fc9-48ac-9b38-93275dbc2c47.png"
+    },
+    {
+      "product_id": 9398,
+      "slug": "andorra",
+      "scene": "commercial",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-361f67c8-5e61-4360-8a9d-6b21fdda6019.png"
+    },
+    {
+      "product_id": 9399,
+      "slug": "angola",
+      "scene": "desk",
+      "accepted": true,
+      "desk_solid_backing": true,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-1108b2a9-a6c3-494a-a34d-998edfd6d23b.png"
+    },
+    {
+      "product_id": 9399,
+      "slug": "angola",
+      "scene": "wall",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-57dba5ab-06c6-48b1-b8ab-b5a5e4f10572.png"
+    },
+    {
+      "product_id": 9399,
+      "slug": "angola",
+      "scene": "gift",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-cd3d380e-1181-4806-b52d-dc347a61832d.png"
+    },
+    {
+      "product_id": 9399,
+      "slug": "angola",
+      "scene": "commercial",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-bc5bfd6d-8231-45e5-8ff6-61ab501b5978.png"
+    },
+    {
+      "product_id": 9400,
+      "slug": "armenia",
+      "scene": "desk",
+      "accepted": true,
+      "desk_solid_backing": true,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-f6f4afe9-b363-4cb3-9a08-2ee1cc047a14.png"
+    },
+    {
+      "product_id": 9400,
+      "slug": "armenia",
+      "scene": "wall",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-4918dcb5-4956-419f-ab44-6df2a99e748a.png"
+    },
+    {
+      "product_id": 9400,
+      "slug": "armenia",
+      "scene": "gift",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-9f95994f-ba3f-41e3-82a2-e963c290e34b.png"
+    },
+    {
+      "product_id": 9400,
+      "slug": "armenia",
+      "scene": "commercial",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-ea5aa3f4-077c-4428-ab30-53c61992245f.png"
+    },
+    {
+      "product_id": 9401,
+      "slug": "azerbaijan",
+      "scene": "desk",
+      "accepted": true,
+      "desk_solid_backing": true,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-c9392ef6-8c2f-4b31-837e-7154906ddeb8.png"
+    },
+    {
+      "product_id": 9401,
+      "slug": "azerbaijan",
+      "scene": "wall",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-4d8df1bd-69af-4dfc-a6e3-819adf9f4fdd.png"
+    },
+    {
+      "product_id": 9401,
+      "slug": "azerbaijan",
+      "scene": "gift",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-e957ce76-08c8-4f07-ae64-31664d836a0b.png"
+    },
+    {
+      "product_id": 9401,
+      "slug": "azerbaijan",
+      "scene": "commercial",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-be299da1-9524-474d-8258-543a818164de.png"
+    },
+    {
+      "product_id": 9402,
+      "slug": "bangladesh",
+      "scene": "desk",
+      "accepted": true,
+      "desk_solid_backing": true,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-f793936a-0da5-4fa6-863c-22ee6ad0b262.png"
+    },
+    {
+      "product_id": 9402,
+      "slug": "bangladesh",
+      "scene": "wall",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-35466005-f8d2-4465-9446-98a9ddfd7391.png"
+    },
+    {
+      "product_id": 9402,
+      "slug": "bangladesh",
+      "scene": "gift",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-e6226ae8-7f29-4891-a77f-58525aa45cdc.png"
+    },
+    {
+      "product_id": 9402,
+      "slug": "bangladesh",
+      "scene": "commercial",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-84c5e22e-a95e-43c1-8ee3-f764c1e41e0d.png"
+    },
+    {
+      "product_id": 9404,
+      "slug": "dominica",
+      "scene": "desk",
+      "accepted": true,
+      "desk_solid_backing": true,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-cec1e7c2-500c-4eed-82b4-c2df01193ff6.png"
+    },
+    {
+      "product_id": 9404,
+      "slug": "dominica",
+      "scene": "wall",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-4b2eb214-3f9c-4484-8dfe-71606a6f03b7.png"
+    },
+    {
+      "product_id": 9404,
+      "slug": "dominica",
+      "scene": "gift",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-9cfc525b-264c-4014-a325-576d0057869a.png"
+    },
+    {
+      "product_id": 9404,
+      "slug": "dominica",
+      "scene": "commercial",
+      "accepted": true,
+      "desk_solid_backing": false,
+      "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-d9663514-e911-4935-80a4-c7df03b16e2a.png"
+    }
+  ]
+}

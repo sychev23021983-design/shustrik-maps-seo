@@ -1,0 +1,151 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-afghanistan-stl-cnc",
+      "product_id": 9382,
+      "primary": "Afghanistan topographic map STL",
+      "supporting": [
+        "Afghanistan terrain STL",
+        "Afghanistan relief map STL",
+        "Afghanistan map 3D print",
+        "Afghanistan CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial paid digital STL intent; Google/English/USA intended market; no measured metrics"
+    },
+    {
+      "cluster_id": "GEO-crete-stl-cnc",
+      "product_id": 9384,
+      "primary": "Crete topographic map STL",
+      "supporting": [
+        "Crete terrain STL",
+        "Crete relief map STL",
+        "Crete map 3D print",
+        "Crete CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial paid digital STL intent; Google/English/USA intended market; no measured metrics"
+    },
+    {
+      "cluster_id": "GEO-corsica-stl-cnc",
+      "product_id": 9387,
+      "primary": "Corsica topographic map STL",
+      "supporting": [
+        "Corsica terrain STL",
+        "Corsica relief map STL",
+        "Corsica map 3D print",
+        "Corsica CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial paid digital STL intent; Google/English/USA intended market; no measured metrics"
+    },
+    {
+      "cluster_id": "GEO-algeria-stl-cnc",
+      "product_id": 9397,
+      "primary": "Algeria topographic map STL",
+      "supporting": [
+        "Algeria terrain STL",
+        "Algeria relief map STL",
+        "Algeria map 3D print",
+        "Algeria CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial paid digital STL intent; Google/English/USA intended market; no measured metrics"
+    },
+    {
+      "cluster_id": "GEO-andorra-stl-cnc",
+      "product_id": 9398,
+      "primary": "Andorra topographic map STL",
+      "supporting": [
+        "Andorra terrain STL",
+        "Andorra relief map STL",
+        "Andorra map 3D print",
+        "Andorra CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial paid digital STL intent; Google/English/USA intended market; no measured metrics"
+    },
+    {
+      "cluster_id": "GEO-angola-stl-cnc",
+      "product_id": 9399,
+      "primary": "Angola topographic map STL",
+      "supporting": [
+        "Angola terrain STL",
+        "Angola relief map STL",
+        "Angola map 3D print",
+        "Angola CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial paid digital STL intent; Google/English/USA intended market; no measured metrics"
+    },
+    {
+      "cluster_id": "GEO-armenia-stl-cnc",
+      "product_id": 9400,
+      "primary": "Armenia topographic map STL",
+      "supporting": [
+        "Armenia terrain STL",
+        "Armenia relief map STL",
+        "Armenia map 3D print",
+        "Armenia CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial paid digital STL intent; Google/English/USA intended market; no measured metrics"
+    },
+    {
+      "cluster_id": "GEO-azerbaijan-stl-cnc",
+      "product_id": 9401,
+      "primary": "Azerbaijan topographic map STL",
+      "supporting": [
+        "Azerbaijan terrain STL",
+        "Azerbaijan relief map STL",
+        "Azerbaijan map 3D print",
+        "Azerbaijan CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial paid digital STL intent; Google/English/USA intended market; no measured metrics"
+    },
+    {
+      "cluster_id": "GEO-bangladesh-stl-cnc",
+      "product_id": 9402,
+      "primary": "Bangladesh topographic map STL",
+      "supporting": [
+        "Bangladesh terrain STL",
+        "Bangladesh relief map STL",
+        "Bangladesh map 3D print",
+        "Bangladesh CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial paid digital STL intent; Google/English/USA intended market; no measured metrics"
+    },
+    {
+      "cluster_id": "GEO-dominica-stl-cnc",
+      "product_id": 9404,
+      "primary": "Dominica topographic map STL",
+      "supporting": [
+        "Dominica terrain STL",
+        "Dominica relief map STL",
+        "Dominica map 3D print",
+        "Dominica CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial paid digital STL intent; Google/English/USA intended market; no measured metrics"
+    }
+  ],
+  "note": "Ten exact GEO-place-stl-cnc clusters absent in saved core05.10. Editorial mapping only; USA Google English intended market. No measured frequency/ranks or claim of controlled US Google SERP observation. Existing non-STL clusters not reassigned."
+}
