@@ -1,0 +1,151 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-belgium-stl-cnc",
+      "product_id": 9403,
+      "primary": "Belgium topographic map STL",
+      "supporting": [
+        "Belgium terrain STL",
+        "Belgium relief map STL",
+        "Belgium map 3D print",
+        "Belgium CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/island digital STL mapping; intended Google/English/USA market; frequency/rank unmeasured"
+    },
+    {
+      "cluster_id": "GEO-jamaica-stl-cnc",
+      "product_id": 9406,
+      "primary": "Jamaica topographic map STL",
+      "supporting": [
+        "Jamaica terrain STL",
+        "Jamaica relief map STL",
+        "Jamaica map 3D print",
+        "Jamaica CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/island digital STL mapping; intended Google/English/USA market; frequency/rank unmeasured"
+    },
+    {
+      "cluster_id": "GEO-jordan-stl-cnc",
+      "product_id": 9408,
+      "primary": "Jordan topographic map STL",
+      "supporting": [
+        "Jordan terrain STL",
+        "Jordan relief map STL",
+        "Jordan map 3D print",
+        "Jordan CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/island digital STL mapping; intended Google/English/USA market; frequency/rank unmeasured"
+    },
+    {
+      "cluster_id": "GEO-kazakhstan-stl-cnc",
+      "product_id": 9409,
+      "primary": "Kazakhstan topographic map STL",
+      "supporting": [
+        "Kazakhstan terrain STL",
+        "Kazakhstan relief map STL",
+        "Kazakhstan map 3D print",
+        "Kazakhstan CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/island digital STL mapping; intended Google/English/USA market; frequency/rank unmeasured"
+    },
+    {
+      "cluster_id": "GEO-kosovo-stl-cnc",
+      "product_id": 9410,
+      "primary": "Kosovo topographic map STL",
+      "supporting": [
+        "Kosovo terrain STL",
+        "Kosovo relief map STL",
+        "Kosovo map 3D print",
+        "Kosovo CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/island digital STL mapping; intended Google/English/USA market; frequency/rank unmeasured"
+    },
+    {
+      "cluster_id": "GEO-kuwait-stl-cnc",
+      "product_id": 9411,
+      "primary": "Kuwait topographic map STL",
+      "supporting": [
+        "Kuwait terrain STL",
+        "Kuwait relief map STL",
+        "Kuwait map 3D print",
+        "Kuwait CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/island digital STL mapping; intended Google/English/USA market; frequency/rank unmeasured"
+    },
+    {
+      "cluster_id": "GEO-kyrgyzstan-stl-cnc",
+      "product_id": 9412,
+      "primary": "Kyrgyzstan topographic map STL",
+      "supporting": [
+        "Kyrgyzstan terrain STL",
+        "Kyrgyzstan relief map STL",
+        "Kyrgyzstan map 3D print",
+        "Kyrgyzstan CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/island digital STL mapping; intended Google/English/USA market; frequency/rank unmeasured"
+    },
+    {
+      "cluster_id": "GEO-laos-stl-cnc",
+      "product_id": 9420,
+      "primary": "Laos topographic map STL",
+      "supporting": [
+        "Laos terrain STL",
+        "Laos relief map STL",
+        "Laos map 3D print",
+        "Laos CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/island digital STL mapping; intended Google/English/USA market; frequency/rank unmeasured"
+    },
+    {
+      "cluster_id": "GEO-liberia-stl-cnc",
+      "product_id": 9421,
+      "primary": "Liberia topographic map STL",
+      "supporting": [
+        "Liberia terrain STL",
+        "Liberia relief map STL",
+        "Liberia map 3D print",
+        "Liberia CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/island digital STL mapping; intended Google/English/USA market; frequency/rank unmeasured"
+    },
+    {
+      "cluster_id": "GEO-libya-stl-cnc",
+      "product_id": 9422,
+      "primary": "Libya topographic map STL",
+      "supporting": [
+        "Libya terrain STL",
+        "Libya relief map STL",
+        "Libya map 3D print",
+        "Libya CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/island digital STL mapping; intended Google/English/USA market; frequency/rank unmeasured"
+    }
+  ],
+  "note": "All ten exact STL clusters are absent in the saved Google/English/USA core 2026-10-05. Editorial paid digital-file mapping; no measured frequency/rank or controlled Google US SERP observation."
+}
