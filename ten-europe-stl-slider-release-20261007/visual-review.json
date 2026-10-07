@@ -1,0 +1,406 @@
+{
+  "pass": true,
+  "method": "Each native ImageGen result displayed and visually inspected against its product reference before conversion. Concepts do not certify mesh accuracy.",
+  "rows": [
+    {
+      "id": 9482,
+      "slug": "latvia",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9482,
+      "slug": "latvia",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9482,
+      "slug": "latvia",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9482,
+      "slug": "latvia",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9483,
+      "slug": "lithuania",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9483,
+      "slug": "lithuania",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9483,
+      "slug": "lithuania",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9483,
+      "slug": "lithuania",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9484,
+      "slug": "poland",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9484,
+      "slug": "poland",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9484,
+      "slug": "poland",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9484,
+      "slug": "poland",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9485,
+      "slug": "hungary",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9485,
+      "slug": "hungary",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9485,
+      "slug": "hungary",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9485,
+      "slug": "hungary",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9486,
+      "slug": "serbia",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9486,
+      "slug": "serbia",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9486,
+      "slug": "serbia",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9486,
+      "slug": "serbia",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9487,
+      "slug": "slovakia",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9487,
+      "slug": "slovakia",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9487,
+      "slug": "slovakia",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9487,
+      "slug": "slovakia",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9488,
+      "slug": "slovenia",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9488,
+      "slug": "slovenia",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9488,
+      "slug": "slovenia",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9488,
+      "slug": "slovenia",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9490,
+      "slug": "moldova",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9490,
+      "slug": "moldova",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9490,
+      "slug": "moldova",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9490,
+      "slug": "moldova",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9491,
+      "slug": "netherlands",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9491,
+      "slug": "netherlands",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9491,
+      "slug": "netherlands",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9491,
+      "slug": "netherlands",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9492,
+      "slug": "montenegro",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9492,
+      "slug": "montenegro",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9492,
+      "slug": "montenegro",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    },
+    {
+      "id": 9492,
+      "slug": "montenegro",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Outline and relief resemble own reference; desk islands and fragments bonded to common continuous backing where applicable."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-latvia-stl-cnc",
+      "product_id": 9482,
+      "primary": "Latvia topographic map STL",
+      "supporting": [
+        "Latvia terrain STL",
+        "Latvia relief map STL",
+        "Latvia map 3D print",
+        "Latvia CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-lithuania-stl-cnc",
+      "product_id": 9483,
+      "primary": "Lithuania topographic map STL",
+      "supporting": [
+        "Lithuania terrain STL",
+        "Lithuania relief map STL",
+        "Lithuania map 3D print",
+        "Lithuania CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-poland-stl-cnc",
+      "product_id": 9484,
+      "primary": "Poland topographic map STL",
+      "supporting": [
+        "Poland terrain STL",
+        "Poland relief map STL",
+        "Poland map 3D print",
+        "Poland CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-hungary-stl-cnc",
+      "product_id": 9485,
+      "primary": "Hungary topographic map STL",
+      "supporting": [
+        "Hungary terrain STL",
+        "Hungary relief map STL",
+        "Hungary map 3D print",
+        "Hungary CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-serbia-stl-cnc",
+      "product_id": 9486,
+      "primary": "Serbia topographic map STL",
+      "supporting": [
+        "Serbia terrain STL",
+        "Serbia relief map STL",
+        "Serbia map 3D print",
+        "Serbia CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-slovakia-stl-cnc",
+      "product_id": 9487,
+      "primary": "Slovakia topographic map STL",
+      "supporting": [
+        "Slovakia terrain STL",
+        "Slovakia relief map STL",
+        "Slovakia map 3D print",
+        "Slovakia CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-slovenia-stl-cnc",
+      "product_id": 9488,
+      "primary": "Slovenia topographic map STL",
+      "supporting": [
+        "Slovenia terrain STL",
+        "Slovenia relief map STL",
+        "Slovenia map 3D print",
+        "Slovenia CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-moldova-stl-cnc",
+      "product_id": 9490,
+      "primary": "Moldova topographic map STL",
+      "supporting": [
+        "Moldova terrain STL",
+        "Moldova relief map STL",
+        "Moldova map 3D print",
+        "Moldova CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-netherlands-stl-cnc",
+      "product_id": 9491,
+      "primary": "Netherlands topographic map STL",
+      "supporting": [
+        "Netherlands terrain STL",
+        "Netherlands relief map STL",
+        "Netherlands map 3D print",
+        "Netherlands CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-montenegro-stl-cnc",
+      "product_id": 9492,
+      "primary": "Montenegro topographic map STL",
+      "supporting": [
+        "Montenegro terrain STL",
+        "Montenegro relief map STL",
+        "Montenegro map 3D print",
+        "Montenegro CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country STL mapping; intended Google/English/USA; unmeasured"
+    }
+  ],
+  "note": "Exact ten STL clusters absent from saved Google/English/USA core. Editorial digital-file mapping, no measured frequency/rank or controlled localized Google US SERP. Country intent distinct from cities; Belarus excluded."
+}

@@ -1,0 +1,3 @@
+<?php
+ini_set('display_errors','0');define('WP_USE_THEMES',false);ob_start();require '/var/www/html/wp-load.php';ob_end_clean();
+$rows=[];foreach([9482,9483,9484,9485,9486,9487,9488,9490,9491,9492] as $id){$key='_shustrik_ten_europe_stl_slider_backup_20261007_'.$id;$j='_shustrik_ten_europe_stl_slider_media_20261007_'.$id;$b=get_option($key,null);$journal=get_option($j,null);if(!$b||!$journal||$journal['status']!=='published')exit(1);$rows[]=['id'=>$id,'backup_key'=>$key,'journal_key'=>$j,'backup'=>$b,'journal'=>$journal];}echo json_encode(['utc'=>gmdate('c'),'rows'=>$rows],JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES);
