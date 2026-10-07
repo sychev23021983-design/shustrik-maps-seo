@@ -1,0 +1,10 @@
+{
+  "commit": "2265489ea02f2ad8043fa2a887ca5ccca136f397",
+  "archive_sha256": "28ff6cc346f003b5fefcb3a679d1f339c8d2973570c537b4b1166f1b5ebd3565",
+  "remote_archive_sha256": "28ff6cc346f003b5fefcb3a679d1f339c8d2973570c537b4b1166f1b5ebd3565",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/ten-eurasia-2265489",
+  "mode": "external",
+  "container": "shustrik-maps-wordpress-1",
+  "lint_pass": true
+}

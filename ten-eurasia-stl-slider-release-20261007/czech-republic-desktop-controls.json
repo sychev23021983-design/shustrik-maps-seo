@@ -1,0 +1,63 @@
+{
+  "pass": true,
+  "previous": {
+    "active": [
+      {
+        "alt": "AI-generated concept of an ivory Czech Republic terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/06/czech-republic-gift-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of an ivory Czech Republic terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+    "id": 9479,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 3,
+    "viewport": 1440,
+    "visible_count": 1
+  },
+  "lastDot": {
+    "active": [
+      {
+        "alt": "AI-generated concept of a large grey concrete Czech Republic terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/06/czech-republic-commercial-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of a large grey concrete Czech Republic terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+    "id": 9479,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 4,
+    "viewport": 1440,
+    "visible_count": 1
+  },
+  "firstDot": {
+    "active": [
+      {
+        "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Czech Republic terrain relief fully supported on a solid walnut desktop backing panel.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/06/czech-republic-desk-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Czech Republic terrain relief fully supported on a solid walnut desktop backing panel.",
+    "id": 9479,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 1,
+    "viewport": 1440,
+    "visible_count": 1
+  }
+}

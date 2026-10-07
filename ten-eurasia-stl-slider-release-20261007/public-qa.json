@@ -1,0 +1,667 @@
+{
+  "rows": [
+    {
+      "id": 9423,
+      "url": "https://shustrik-maps.com/product/myanmar-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9423,
+      "url": "https://shustrik-maps.com/product/myanmar-stl-model/?ten_eurasia_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9424,
+      "url": "https://shustrik-maps.com/product/turkey-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9424,
+      "url": "https://shustrik-maps.com/product/turkey-stl-model/?ten_eurasia_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9465,
+      "url": "https://shustrik-maps.com/product/ukraine-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9465,
+      "url": "https://shustrik-maps.com/product/ukraine-stl-model/?ten_eurasia_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9466,
+      "url": "https://shustrik-maps.com/product/finland-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9466,
+      "url": "https://shustrik-maps.com/product/finland-stl-model/?ten_eurasia_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9472,
+      "url": "https://shustrik-maps.com/product/ireland-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9472,
+      "url": "https://shustrik-maps.com/product/ireland-stl-model/?ten_eurasia_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9474,
+      "url": "https://shustrik-maps.com/product/sweden-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9474,
+      "url": "https://shustrik-maps.com/product/sweden-stl-model/?ten_eurasia_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9475,
+      "url": "https://shustrik-maps.com/product/north-america-lambert-conformal-conic-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9475,
+      "url": "https://shustrik-maps.com/product/north-america-lambert-conformal-conic-stl-model/?ten_eurasia_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9477,
+      "url": "https://shustrik-maps.com/product/romania-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9477,
+      "url": "https://shustrik-maps.com/product/romania-stl-model/?ten_eurasia_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9479,
+      "url": "https://shustrik-maps.com/product/czech-republic-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9479,
+      "url": "https://shustrik-maps.com/product/czech-republic-stl-model/?ten_eurasia_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9481,
+      "url": "https://shustrik-maps.com/product/luxembourg-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9481,
+      "url": "https://shustrik-maps.com/product/luxembourg-stl-model/?ten_eurasia_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    }
+  ],
+  "media": [
+    {
+      "id": 22426,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/myanmar-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22427,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/myanmar-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22428,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/myanmar-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22429,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/myanmar-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22430,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/turkey-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22431,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/turkey-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22432,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/turkey-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22433,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/turkey-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22434,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/ukraine-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22435,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/ukraine-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22436,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/ukraine-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22437,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/ukraine-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22438,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/finland-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22439,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/finland-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22440,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/finland-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22441,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/finland-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22442,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/ireland-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22443,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/ireland-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22444,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/ireland-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22445,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/ireland-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22446,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/sweden-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22447,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/sweden-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22448,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/sweden-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22449,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/sweden-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22450,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/north-america-lambert-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22451,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/north-america-lambert-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22452,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/north-america-lambert-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22453,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/north-america-lambert-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22454,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/romania-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22455,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/romania-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22456,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/romania-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22457,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/romania-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22458,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/czech-republic-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22459,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/czech-republic-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22460,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/czech-republic-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22461,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/czech-republic-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22462,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/luxembourg-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22463,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/luxembourg-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22464,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/luxembourg-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22465,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/luxembourg-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    }
+  ],
+  "pass": true
+}
