@@ -1,0 +1,166 @@
+{
+  "pass": true,
+  "method": "Each of20 native ImageGen images individually visually inspected against own product reference, no exact mesh match asserted",
+  "images": [
+    {
+      "slug": "haiti",
+      "scene": "desk",
+      "pass": true,
+      "notes": "Haiti C-shaped mainland, southern peninsula, Gonave/Tortuga islands on shared desktop board",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/haiti-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "haiti",
+      "scene": "wall",
+      "pass": true,
+      "notes": "Haiti C-shaped mainland, southern peninsula, Gonave/Tortuga islands on shared desktop board",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/haiti-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "haiti",
+      "scene": "gift",
+      "pass": true,
+      "notes": "Haiti C-shaped mainland, southern peninsula, Gonave/Tortuga islands on shared desktop board",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/haiti-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "haiti",
+      "scene": "commercial",
+      "pass": true,
+      "notes": "Haiti C-shaped mainland, southern peninsula, Gonave/Tortuga islands on shared desktop board",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/haiti-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "belize",
+      "scene": "desk",
+      "pass": true,
+      "notes": "Belize tall mainland, Maya mountains, eastern cayes on shared desktop board",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/belize-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "belize",
+      "scene": "wall",
+      "pass": true,
+      "notes": "Belize tall mainland, Maya mountains, eastern cayes on shared desktop board",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/belize-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "belize",
+      "scene": "gift",
+      "pass": true,
+      "notes": "Belize tall mainland, Maya mountains, eastern cayes on shared desktop board",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/belize-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "belize",
+      "scene": "commercial",
+      "pass": true,
+      "notes": "Belize tall mainland, Maya mountains, eastern cayes on shared desktop board",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/belize-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "bolivia",
+      "scene": "desk",
+      "pass": true,
+      "notes": "Bolivia western Andes, Altiplano and broad eastern lowlands; full desktop underside supported",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/bolivia-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "bolivia",
+      "scene": "wall",
+      "pass": true,
+      "notes": "Bolivia western Andes, Altiplano and broad eastern lowlands; full desktop underside supported",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/bolivia-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "bolivia",
+      "scene": "gift",
+      "pass": true,
+      "notes": "Bolivia western Andes, Altiplano and broad eastern lowlands; full desktop underside supported",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/bolivia-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "bolivia",
+      "scene": "commercial",
+      "pass": true,
+      "notes": "Bolivia western Andes, Altiplano and broad eastern lowlands; full desktop underside supported",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/bolivia-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "bhutan",
+      "scene": "desk",
+      "pass": true,
+      "notes": "Bhutan highest northern peaks, dense north-south valley relief; full desktop underside supported",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/bhutan-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "bhutan",
+      "scene": "wall",
+      "pass": true,
+      "notes": "Bhutan highest northern peaks, dense north-south valley relief; full desktop underside supported",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/bhutan-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "bhutan",
+      "scene": "gift",
+      "pass": true,
+      "notes": "Bhutan highest northern peaks, dense north-south valley relief; full desktop underside supported",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/bhutan-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "bhutan",
+      "scene": "commercial",
+      "pass": true,
+      "notes": "Bhutan highest northern peaks, dense north-south valley relief; full desktop underside supported",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/bhutan-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "bermuda",
+      "scene": "desk",
+      "pass": true,
+      "notes": "Bermuda square bathymetric tile, central elongated shallow bank, small island chain, surrounding submarine slopes; entire desktop tile supported",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/bermuda-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "bermuda",
+      "scene": "wall",
+      "pass": true,
+      "notes": "Bermuda square bathymetric tile, central elongated shallow bank, small island chain, surrounding submarine slopes; entire desktop tile supported",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/bermuda-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "bermuda",
+      "scene": "gift",
+      "pass": true,
+      "notes": "Bermuda square bathymetric tile, central elongated shallow bank, small island chain, surrounding submarine slopes; entire desktop tile supported",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/bermuda-source-1.jpg",
+      "material_scene_pass": true
+    },
+    {
+      "slug": "bermuda",
+      "scene": "commercial",
+      "pass": true,
+      "notes": "Bermuda square bathymetric tile, central elongated shallow bank, small island chain, surrounding submarine slopes; entire desktop tile supported",
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five More Country STL Sliders 2026-10-07/bermuda-source-1.jpg",
+      "material_scene_pass": true
+    }
+  ]
+}

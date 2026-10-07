@@ -1,0 +1,81 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-haiti-stl-cnc",
+      "product_id": 16849,
+      "primary": "Haiti topographic map STL",
+      "supporting": [
+        "Haiti terrain STL",
+        "Haiti relief map STL",
+        "Haiti map 3D print",
+        "Haiti CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-belize-stl-cnc",
+      "product_id": 19729,
+      "primary": "Belize topographic map STL",
+      "supporting": [
+        "Belize terrain STL",
+        "Belize relief map STL",
+        "Belize map 3D print",
+        "Belize CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-bolivia-stl-cnc",
+      "product_id": 19737,
+      "primary": "Bolivia topographic map STL",
+      "supporting": [
+        "Bolivia terrain STL",
+        "Bolivia relief map STL",
+        "Bolivia map 3D print",
+        "Bolivia CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-bhutan-stl-cnc",
+      "product_id": 19746,
+      "primary": "Bhutan topographic map STL",
+      "supporting": [
+        "Bhutan terrain STL",
+        "Bhutan relief map STL",
+        "Bhutan map 3D print",
+        "Bhutan CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-bermuda-stl-cnc",
+      "product_id": 19753,
+      "primary": "Bermuda topographic map STL",
+      "supporting": [
+        "Bermuda terrain STL",
+        "Bermuda relief map STL",
+        "Bermuda map 3D print",
+        "Bermuda CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; Bermuda island territory and surrounding marine relief tile; target USA/Google/English"
+    }
+  ],
+  "note": "All five exact STL clusters are absent from the saved core: editorial product mapping only. Proposed paid digital-file queries are editorial hypotheses, not measured expansion. Existing elevation/vector clusters must not be reassigned to STL."
+}
