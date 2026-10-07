@@ -1,0 +1,151 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-eritrea-stl-cnc",
+      "product_id": 9508,
+      "primary": "Eritrea topographic map STL",
+      "supporting": [
+        "Eritrea terrain STL",
+        "Eritrea relief map STL",
+        "Eritrea map 3D print",
+        "Eritrea CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-estonia-stl-cnc",
+      "product_id": 9509,
+      "primary": "Estonia topographic map STL",
+      "supporting": [
+        "Estonia terrain STL",
+        "Estonia relief map STL",
+        "Estonia map 3D print",
+        "Estonia CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-bosnia-herzegovina-stl-cnc",
+      "product_id": 9513,
+      "primary": "Bosnia and Herzegovina topographic map STL",
+      "supporting": [
+        "Bosnia and Herzegovina terrain STL",
+        "Bosnia and Herzegovina relief map STL",
+        "Bosnia and Herzegovina map 3D print",
+        "Bosnia and Herzegovina CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-bulgaria-stl-cnc",
+      "product_id": 9515,
+      "primary": "Bulgaria topographic map STL",
+      "supporting": [
+        "Bulgaria terrain STL",
+        "Bulgaria relief map STL",
+        "Bulgaria map 3D print",
+        "Bulgaria CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-djibouti-stl-cnc",
+      "product_id": 9517,
+      "primary": "Djibouti topographic map STL",
+      "supporting": [
+        "Djibouti terrain STL",
+        "Djibouti relief map STL",
+        "Djibouti map 3D print",
+        "Djibouti CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-dominican-republic-stl-cnc",
+      "product_id": 9518,
+      "primary": "Dominican Republic topographic map STL",
+      "supporting": [
+        "Dominican Republic terrain STL",
+        "Dominican Republic relief map STL",
+        "Dominican Republic map 3D print",
+        "Dominican Republic CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-egypt-stl-cnc",
+      "product_id": 9525,
+      "primary": "Egypt topographic map STL",
+      "supporting": [
+        "Egypt terrain STL",
+        "Egypt relief map STL",
+        "Egypt map 3D print",
+        "Egypt CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-equatorial-guinea-stl-cnc",
+      "product_id": 9526,
+      "primary": "Equatorial Guinea topographic map STL",
+      "supporting": [
+        "Equatorial Guinea terrain STL",
+        "Equatorial Guinea relief map STL",
+        "Equatorial Guinea map 3D print",
+        "Equatorial Guinea CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-ethiopia-stl-cnc",
+      "product_id": 9528,
+      "primary": "Ethiopia topographic map STL",
+      "supporting": [
+        "Ethiopia terrain STL",
+        "Ethiopia relief map STL",
+        "Ethiopia map 3D print",
+        "Ethiopia CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-papua-new-guinea-stl-cnc",
+      "product_id": 15811,
+      "primary": "Papua New Guinea topographic map STL",
+      "supporting": [
+        "Papua New Guinea terrain STL",
+        "Papua New Guinea relief map STL",
+        "Papua New Guinea map 3D print",
+        "Papua New Guinea CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    }
+  ],
+  "note": "All ten exact STL clusters are absent from the saved core: editorial product mapping only. Proposed paid digital-file queries are editorial hypotheses, not measured expansion. Existing elevation/vector clusters must not be reassigned to STL."
+}

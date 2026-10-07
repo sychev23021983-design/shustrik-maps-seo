@@ -1,0 +1,3 @@
+<?php
+ini_set('display_errors','0');define('WP_USE_THEMES',false);ob_start();require '/var/www/html/wp-load.php';ob_end_clean();
+$rows=[];foreach([9508,9509,9513,9515,9517,9518,9525,9526,9528,15811] as $id){$key='_shustrik_ten_global_more_stl_slider_backup_20261007_'.$id;$j='_shustrik_ten_global_more_stl_slider_media_20261007_'.$id;$b=get_option($key,null);$journal=get_option($j,null);if(!$b||!$journal||$journal['status']!=='published')exit(1);$rows[]=['id'=>$id,'backup_key'=>$key,'journal_key'=>$j,'backup'=>$b,'journal'=>$journal];}echo json_encode(['utc'=>gmdate('c'),'rows'=>$rows],JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES);

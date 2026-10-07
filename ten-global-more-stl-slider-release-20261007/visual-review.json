@@ -1,0 +1,326 @@
+{
+  "pass": true,
+  "method": "Each of 40 native ImageGen results visually inspected against own product reference; conceptual similarity, not exact mesh validation",
+  "images": [
+    {
+      "slug": "eritrea",
+      "scene": "desk",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/eritrea-source-1.jpg",
+      "notes": "Northwestern mountain body, slender coastal arm, Dahlak fragments; all desktop relief on uninterrupted board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "eritrea",
+      "scene": "wall",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/eritrea-source-1.jpg",
+      "notes": "Northwestern mountain body, slender coastal arm, Dahlak fragments; all desktop relief on uninterrupted board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "eritrea",
+      "scene": "gift",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/eritrea-source-1.jpg",
+      "notes": "Northwestern mountain body, slender coastal arm, Dahlak fragments; all desktop relief on uninterrupted board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "eritrea",
+      "scene": "commercial",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/eritrea-source-1.jpg",
+      "notes": "Northwestern mountain body, slender coastal arm, Dahlak fragments; all desktop relief on uninterrupted board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "estonia",
+      "scene": "desk",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/estonia-source-1.jpg",
+      "notes": "Low relief mainland plus Hiiumaa, Saaremaa and small western islands; all desktop parts on continuous board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "estonia",
+      "scene": "wall",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/estonia-source-1.jpg",
+      "notes": "Low relief mainland plus Hiiumaa, Saaremaa and small western islands; all desktop parts on continuous board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "estonia",
+      "scene": "gift",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/estonia-source-1.jpg",
+      "notes": "Low relief mainland plus Hiiumaa, Saaremaa and small western islands; all desktop parts on continuous board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "estonia",
+      "scene": "commercial",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/estonia-source-1.jpg",
+      "notes": "Low relief mainland plus Hiiumaa, Saaremaa and small western islands; all desktop parts on continuous board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "bosnia-herzegovina",
+      "scene": "desk",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/bosnia-herzegovina-source-1.jpg",
+      "notes": "Bosnia country outline and Dinaric ridge pattern; full desktop underside supported.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "bosnia-herzegovina",
+      "scene": "wall",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/bosnia-herzegovina-source-1.jpg",
+      "notes": "Bosnia country outline and Dinaric ridge pattern; full desktop underside supported.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "bosnia-herzegovina",
+      "scene": "gift",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/bosnia-herzegovina-source-1.jpg",
+      "notes": "Bosnia country outline and Dinaric ridge pattern; full desktop underside supported.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "bosnia-herzegovina",
+      "scene": "commercial",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/bosnia-herzegovina-source-1.jpg",
+      "notes": "Bosnia country outline and Dinaric ridge pattern; full desktop underside supported.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "bulgaria",
+      "scene": "desk",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/bulgaria-source-1.jpg",
+      "notes": "East-west Balkan range, southwestern mountains and northern/eastern lowlands; full desktop support.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "bulgaria",
+      "scene": "wall",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/bulgaria-source-1.jpg",
+      "notes": "East-west Balkan range, southwestern mountains and northern/eastern lowlands; full desktop support.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "bulgaria",
+      "scene": "gift",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/bulgaria-source-1.jpg",
+      "notes": "East-west Balkan range, southwestern mountains and northern/eastern lowlands; full desktop support.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "bulgaria",
+      "scene": "commercial",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/bulgaria-source-1.jpg",
+      "notes": "East-west Balkan range, southwestern mountains and northern/eastern lowlands; full desktop support.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "djibouti",
+      "scene": "desk",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/djibouti-source-1.jpg",
+      "notes": "Gulf of Tadjoura visible and western volcanic relief; no unsupported desktop parts.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "djibouti",
+      "scene": "wall",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/djibouti-source-1.jpg",
+      "notes": "Gulf of Tadjoura visible and western volcanic relief; no unsupported desktop parts.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "djibouti",
+      "scene": "gift",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/djibouti-source-1.jpg",
+      "notes": "Gulf of Tadjoura visible and western volcanic relief; no unsupported desktop parts.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "djibouti",
+      "scene": "commercial",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/djibouti-source-1.jpg",
+      "notes": "Gulf of Tadjoura visible and western volcanic relief; no unsupported desktop parts.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "dominican-republic",
+      "scene": "desk",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/dominican-republic-source-1.jpg",
+      "notes": "Dominican country outline without Haiti, central ridges, Samana and southwest peninsulas; fragments on same desktop board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "dominican-republic",
+      "scene": "wall",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/dominican-republic-source-1.jpg",
+      "notes": "Dominican country outline without Haiti, central ridges, Samana and southwest peninsulas; fragments on same desktop board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "dominican-republic",
+      "scene": "gift",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/dominican-republic-source-1.jpg",
+      "notes": "Dominican country outline without Haiti, central ridges, Samana and southwest peninsulas; fragments on same desktop board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "dominican-republic",
+      "scene": "commercial",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/dominican-republic-source-1.jpg",
+      "notes": "Dominican country outline without Haiti, central ridges, Samana and southwest peninsulas; fragments on same desktop board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "egypt",
+      "scene": "desk",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/egypt-source-1.jpg",
+      "notes": "Egypt mainland, Sinai, Gulf of Suez and Nile valley; all desktop components on same solid board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "egypt",
+      "scene": "wall",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/egypt-source-1.jpg",
+      "notes": "Egypt mainland, Sinai, Gulf of Suez and Nile valley; all desktop components on same solid board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "egypt",
+      "scene": "gift",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/egypt-source-1.jpg",
+      "notes": "Egypt mainland, Sinai, Gulf of Suez and Nile valley; all desktop components on same solid board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "egypt",
+      "scene": "commercial",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/egypt-source-1.jpg",
+      "notes": "Egypt mainland, Sinai, Gulf of Suez and Nile valley; all desktop components on same solid board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "equatorial-guinea",
+      "scene": "desk",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/equatorial-guinea-source-1.jpg",
+      "notes": "Rio Muni rectangular mainland and separate Bioko with coastal fragments on same continuous desktop board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "equatorial-guinea",
+      "scene": "wall",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/equatorial-guinea-source-1.jpg",
+      "notes": "Rio Muni rectangular mainland and separate Bioko with coastal fragments on same continuous desktop board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "equatorial-guinea",
+      "scene": "gift",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/equatorial-guinea-source-1.jpg",
+      "notes": "Rio Muni rectangular mainland and separate Bioko with coastal fragments on same continuous desktop board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "equatorial-guinea",
+      "scene": "commercial",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/equatorial-guinea-source-1.jpg",
+      "notes": "Rio Muni rectangular mainland and separate Bioko with coastal fragments on same continuous desktop board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "ethiopia",
+      "scene": "desk",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/ethiopia-source-1.jpg",
+      "notes": "Western highlands, central rift, lower eastern point; full desktop underside supported.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "ethiopia",
+      "scene": "wall",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/ethiopia-source-1.jpg",
+      "notes": "Western highlands, central rift, lower eastern point; full desktop underside supported.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "ethiopia",
+      "scene": "gift",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/ethiopia-source-1.jpg",
+      "notes": "Western highlands, central rift, lower eastern point; full desktop underside supported.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "ethiopia",
+      "scene": "commercial",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/ethiopia-source-1.jpg",
+      "notes": "Western highlands, central rift, lower eastern point; full desktop underside supported.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "papua-new-guinea",
+      "scene": "desk",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/papua-new-guinea-source-1.jpg",
+      "notes": "Eastern New Guinea and New Britain/New Ireland/Bougainville island layout; all fragments fixed to common desktop board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "papua-new-guinea",
+      "scene": "wall",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/papua-new-guinea-source-1.jpg",
+      "notes": "Eastern New Guinea and New Britain/New Ireland/Bougainville island layout; all fragments fixed to common desktop board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "papua-new-guinea",
+      "scene": "gift",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/papua-new-guinea-source-1.jpg",
+      "notes": "Eastern New Guinea and New Britain/New Ireland/Bougainville island layout; all fragments fixed to common desktop board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    },
+    {
+      "slug": "papua-new-guinea",
+      "scene": "commercial",
+      "pass": true,
+      "reference": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Ten More Global STL Sliders 2026-10-07/papua-new-guinea-source-1.jpg",
+      "notes": "Eastern New Guinea and New Britain/New Ireland/Bougainville island layout; all fragments fixed to common desktop board.",
+      "material_and_scene": "Ivory plastic desktop / small framed wall relief / gift box / grey concrete large installation as requested; no logos or labels"
+    }
+  ]
+}
