@@ -1,0 +1,406 @@
+{
+  "pass": true,
+  "method": "All40native ImageGen results displayed and visually inspected against own product reference before conversion. Concepts do not certify exact mesh accuracy.",
+  "rows": [
+    {
+      "id": 9493,
+      "slug": "north-macedonia",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9493,
+      "slug": "north-macedonia",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9493,
+      "slug": "north-macedonia",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9493,
+      "slug": "north-macedonia",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9494,
+      "slug": "croatia",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9494,
+      "slug": "croatia",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9494,
+      "slug": "croatia",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9494,
+      "slug": "croatia",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9495,
+      "slug": "liechtenstein",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9495,
+      "slug": "liechtenstein",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9495,
+      "slug": "liechtenstein",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9495,
+      "slug": "liechtenstein",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9496,
+      "slug": "greece",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9496,
+      "slug": "greece",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9496,
+      "slug": "greece",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9496,
+      "slug": "greece",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9499,
+      "slug": "cyprus",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9499,
+      "slug": "cyprus",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9499,
+      "slug": "cyprus",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9499,
+      "slug": "cyprus",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9500,
+      "slug": "argentina",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9500,
+      "slug": "argentina",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9500,
+      "slug": "argentina",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9500,
+      "slug": "argentina",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9501,
+      "slug": "austria",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9501,
+      "slug": "austria",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9501,
+      "slug": "austria",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9501,
+      "slug": "austria",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9502,
+      "slug": "dr-congo",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9502,
+      "slug": "dr-congo",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9502,
+      "slug": "dr-congo",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9502,
+      "slug": "dr-congo",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9506,
+      "slug": "ecuador",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9506,
+      "slug": "ecuador",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9506,
+      "slug": "ecuador",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9506,
+      "slug": "ecuador",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9507,
+      "slug": "el-salvador",
+      "scene": "desk",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": true,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9507,
+      "slug": "el-salvador",
+      "scene": "wall",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9507,
+      "slug": "el-salvador",
+      "scene": "gift",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    },
+    {
+      "id": 9507,
+      "slug": "el-salvador",
+      "scene": "commercial",
+      "pass": true,
+      "own_geography": true,
+      "scene_and_material": true,
+      "desktop_full_solid_backing": null,
+      "notes": "Own outline and relief locations retained; separate islands and fragments fixed to common continuous backing in desktop scene. Whole map visible; no text, logo or watermark."
+    }
+  ]
+}
