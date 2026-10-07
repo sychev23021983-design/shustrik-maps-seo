@@ -1,0 +1,289 @@
+{
+  "pass": true,
+  "native_calls": 40,
+  "all_outputs_displayed_and_visually_inspected": true,
+  "exact_mesh_match_claimed": false,
+  "notes": "Original shape and relative relief visually recognizable; illustrative geography, not exact mesh certification. All ten desk reliefs fully bonded to visible continuous walnut panel; all shown fragments remain supported. Four distinct scenes per SKU.",
+  "rows": [
+    {
+      "slug": "myanmar",
+      "scene": "desk",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\myanmar-source-1.jpg",
+      "observation": "Ivory plastic relief on solid uninterrupted rectangular walnut backing, all parts supported."
+    },
+    {
+      "slug": "myanmar",
+      "scene": "wall",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\myanmar-source-1.jpg",
+      "observation": "Small oak frame/sage backing, entire geography recognizable."
+    },
+    {
+      "slug": "myanmar",
+      "scene": "gift",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\myanmar-source-1.jpg",
+      "observation": "Ivory relief in kraft gift box with green tissue, geography visible."
+    },
+    {
+      "slug": "myanmar",
+      "scene": "commercial",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\myanmar-source-1.jpg",
+      "observation": "Monumental grey concrete relief on architectural wall, benches establish scale."
+    },
+    {
+      "slug": "turkey",
+      "scene": "desk",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\turkey-source-1.jpg",
+      "observation": "Ivory plastic relief on solid uninterrupted rectangular walnut backing, all parts supported."
+    },
+    {
+      "slug": "turkey",
+      "scene": "wall",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\turkey-source-1.jpg",
+      "observation": "Small oak frame/sage backing, entire geography recognizable."
+    },
+    {
+      "slug": "turkey",
+      "scene": "gift",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\turkey-source-1.jpg",
+      "observation": "Ivory relief in kraft gift box with green tissue, geography visible."
+    },
+    {
+      "slug": "turkey",
+      "scene": "commercial",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\turkey-source-1.jpg",
+      "observation": "Monumental grey concrete relief on architectural wall, benches establish scale."
+    },
+    {
+      "slug": "ukraine",
+      "scene": "desk",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\ukraine-source-1.jpg",
+      "observation": "Ivory plastic relief on solid uninterrupted rectangular walnut backing, all parts supported."
+    },
+    {
+      "slug": "ukraine",
+      "scene": "wall",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\ukraine-source-1.jpg",
+      "observation": "Small oak frame/sage backing, entire geography recognizable."
+    },
+    {
+      "slug": "ukraine",
+      "scene": "gift",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\ukraine-source-1.jpg",
+      "observation": "Ivory relief in kraft gift box with green tissue, geography visible."
+    },
+    {
+      "slug": "ukraine",
+      "scene": "commercial",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\ukraine-source-1.jpg",
+      "observation": "Monumental grey concrete relief on architectural wall, benches establish scale."
+    },
+    {
+      "slug": "finland",
+      "scene": "desk",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\finland-source-1.jpg",
+      "observation": "Ivory plastic relief on solid uninterrupted rectangular walnut backing, all parts supported."
+    },
+    {
+      "slug": "finland",
+      "scene": "wall",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\finland-source-1.jpg",
+      "observation": "Small oak frame/sage backing, entire geography recognizable."
+    },
+    {
+      "slug": "finland",
+      "scene": "gift",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\finland-source-1.jpg",
+      "observation": "Ivory relief in kraft gift box with green tissue, geography visible."
+    },
+    {
+      "slug": "finland",
+      "scene": "commercial",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\finland-source-1.jpg",
+      "observation": "Monumental grey concrete relief on architectural wall, benches establish scale."
+    },
+    {
+      "slug": "ireland",
+      "scene": "desk",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\ireland-source-1.jpg",
+      "observation": "Ivory plastic relief on solid uninterrupted rectangular walnut backing, all parts supported."
+    },
+    {
+      "slug": "ireland",
+      "scene": "wall",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\ireland-source-1.jpg",
+      "observation": "Small oak frame/sage backing, entire geography recognizable."
+    },
+    {
+      "slug": "ireland",
+      "scene": "gift",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\ireland-source-1.jpg",
+      "observation": "Ivory relief in kraft gift box with green tissue, geography visible."
+    },
+    {
+      "slug": "ireland",
+      "scene": "commercial",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\ireland-source-1.jpg",
+      "observation": "Monumental grey concrete relief on architectural wall, benches establish scale."
+    },
+    {
+      "slug": "sweden",
+      "scene": "desk",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\sweden-source-1.jpg",
+      "observation": "Ivory plastic relief on solid uninterrupted rectangular walnut backing, all parts supported."
+    },
+    {
+      "slug": "sweden",
+      "scene": "wall",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\sweden-source-1.jpg",
+      "observation": "Small oak frame/sage backing, entire geography recognizable."
+    },
+    {
+      "slug": "sweden",
+      "scene": "gift",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\sweden-source-1.jpg",
+      "observation": "Ivory relief in kraft gift box with green tissue, geography visible."
+    },
+    {
+      "slug": "sweden",
+      "scene": "commercial",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\sweden-source-1.jpg",
+      "observation": "Monumental grey concrete relief on architectural wall, benches establish scale."
+    },
+    {
+      "slug": "north-america-lambert",
+      "scene": "desk",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\north-america-lambert-source-1.jpg",
+      "observation": "Ivory plastic relief on solid uninterrupted rectangular walnut backing, all parts supported."
+    },
+    {
+      "slug": "north-america-lambert",
+      "scene": "wall",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\north-america-lambert-source-1.jpg",
+      "observation": "Small oak frame/sage backing, entire geography recognizable."
+    },
+    {
+      "slug": "north-america-lambert",
+      "scene": "gift",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\north-america-lambert-source-1.jpg",
+      "observation": "Ivory relief in kraft gift box with green tissue, geography visible."
+    },
+    {
+      "slug": "north-america-lambert",
+      "scene": "commercial",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\north-america-lambert-source-1.jpg",
+      "observation": "Monumental grey concrete relief on architectural wall, benches establish scale."
+    },
+    {
+      "slug": "romania",
+      "scene": "desk",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\romania-source-1.jpg",
+      "observation": "Ivory plastic relief on solid uninterrupted rectangular walnut backing, all parts supported."
+    },
+    {
+      "slug": "romania",
+      "scene": "wall",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\romania-source-1.jpg",
+      "observation": "Small oak frame/sage backing, entire geography recognizable."
+    },
+    {
+      "slug": "romania",
+      "scene": "gift",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\romania-source-1.jpg",
+      "observation": "Ivory relief in kraft gift box with green tissue, geography visible."
+    },
+    {
+      "slug": "romania",
+      "scene": "commercial",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\romania-source-1.jpg",
+      "observation": "Monumental grey concrete relief on architectural wall, benches establish scale."
+    },
+    {
+      "slug": "czech-republic",
+      "scene": "desk",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\czech-republic-source-1.jpg",
+      "observation": "Ivory plastic relief on solid uninterrupted rectangular walnut backing, all parts supported."
+    },
+    {
+      "slug": "czech-republic",
+      "scene": "wall",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\czech-republic-source-1.jpg",
+      "observation": "Small oak frame/sage backing, entire geography recognizable."
+    },
+    {
+      "slug": "czech-republic",
+      "scene": "gift",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\czech-republic-source-1.jpg",
+      "observation": "Ivory relief in kraft gift box with green tissue, geography visible."
+    },
+    {
+      "slug": "czech-republic",
+      "scene": "commercial",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\czech-republic-source-1.jpg",
+      "observation": "Monumental grey concrete relief on architectural wall, benches establish scale."
+    },
+    {
+      "slug": "luxembourg",
+      "scene": "desk",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\luxembourg-source-1.jpg",
+      "observation": "Ivory plastic relief on solid uninterrupted rectangular walnut backing, all parts supported."
+    },
+    {
+      "slug": "luxembourg",
+      "scene": "wall",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\luxembourg-source-1.jpg",
+      "observation": "Small oak frame/sage backing, entire geography recognizable."
+    },
+    {
+      "slug": "luxembourg",
+      "scene": "gift",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\luxembourg-source-1.jpg",
+      "observation": "Ivory relief in kraft gift box with green tissue, geography visible."
+    },
+    {
+      "slug": "luxembourg",
+      "scene": "commercial",
+      "pass": true,
+      "geography_reference": "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Ten Eurasia Atlas STL Sliders 2026-10-07\\luxembourg-source-1.jpg",
+      "observation": "Monumental grey concrete relief on architectural wall, benches establish scale."
+    }
+  ]
+}

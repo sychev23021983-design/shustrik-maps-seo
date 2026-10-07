@@ -1,0 +1,151 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-myanmar-stl-cnc",
+      "product_id": 9423,
+      "primary": "Myanmar topographic map STL",
+      "supporting": [
+        "Myanmar terrain STL",
+        "Myanmar relief map STL",
+        "Myanmar map 3D print",
+        "Myanmar CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/continent STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-turkey-stl-cnc",
+      "product_id": 9424,
+      "primary": "Turkey topographic map STL",
+      "supporting": [
+        "Turkey terrain STL",
+        "Turkey relief map STL",
+        "Turkey map 3D print",
+        "Turkey CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/continent STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-ukraine-stl-cnc",
+      "product_id": 9465,
+      "primary": "Ukraine topographic map STL",
+      "supporting": [
+        "Ukraine terrain STL",
+        "Ukraine relief map STL",
+        "Ukraine map 3D print",
+        "Ukraine CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/continent STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-finland-stl-cnc",
+      "product_id": 9466,
+      "primary": "Finland topographic map STL",
+      "supporting": [
+        "Finland terrain STL",
+        "Finland relief map STL",
+        "Finland map 3D print",
+        "Finland CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/continent STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-ireland-stl-cnc",
+      "product_id": 9472,
+      "primary": "Ireland topographic map STL",
+      "supporting": [
+        "Ireland terrain STL",
+        "Ireland relief map STL",
+        "Ireland map 3D print",
+        "Ireland CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/continent STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-sweden-stl-cnc",
+      "product_id": 9474,
+      "primary": "Sweden topographic map STL",
+      "supporting": [
+        "Sweden terrain STL",
+        "Sweden relief map STL",
+        "Sweden map 3D print",
+        "Sweden CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/continent STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-north-america-lambert-stl-cnc",
+      "product_id": 9475,
+      "primary": "North America Lambert Conformal Conic STL",
+      "supporting": [
+        "North America Lambert topographic STL",
+        "Lambert terrain STL",
+        "North America Lambert map 3D print",
+        "North America Lambert CNC model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/continent STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-romania-stl-cnc",
+      "product_id": 9477,
+      "primary": "Romania topographic map STL",
+      "supporting": [
+        "Romania terrain STL",
+        "Romania relief map STL",
+        "Romania map 3D print",
+        "Romania CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/continent STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-czech-republic-stl-cnc",
+      "product_id": 9479,
+      "primary": "Czech Republic topographic map STL",
+      "supporting": [
+        "Czech Republic terrain STL",
+        "Czech Republic relief map STL",
+        "Czech Republic map 3D print",
+        "Czech Republic CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/continent STL mapping; intended Google/English/USA; unmeasured"
+    },
+    {
+      "cluster_id": "GEO-luxembourg-stl-cnc",
+      "product_id": 9481,
+      "primary": "Luxembourg topographic map STL",
+      "supporting": [
+        "Luxembourg terrain STL",
+        "Luxembourg relief map STL",
+        "Luxembourg map 3D print",
+        "Luxembourg CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial country/continent STL mapping; intended Google/English/USA; unmeasured"
+    }
+  ],
+  "note": "Exact ten STL clusters absent from saved Google/English/USA core. Editorial digital-file intent, no measured frequency/rank and no controlled Google US SERP. Lambert has separate projection-specific intent; broad North America relief metrics are not inherited."
+}
