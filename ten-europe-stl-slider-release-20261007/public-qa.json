@@ -1,0 +1,667 @@
+{
+  "rows": [
+    {
+      "id": 9482,
+      "url": "https://shustrik-maps.com/product/latvia-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9482,
+      "url": "https://shustrik-maps.com/product/latvia-stl-model/?ten_europe_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9483,
+      "url": "https://shustrik-maps.com/product/lithuania-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9483,
+      "url": "https://shustrik-maps.com/product/lithuania-stl-model/?ten_europe_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9484,
+      "url": "https://shustrik-maps.com/product/poland-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9484,
+      "url": "https://shustrik-maps.com/product/poland-stl-model/?ten_europe_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9485,
+      "url": "https://shustrik-maps.com/product/hungary-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9485,
+      "url": "https://shustrik-maps.com/product/hungary-stl-model/?ten_europe_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9486,
+      "url": "https://shustrik-maps.com/product/serbia-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9486,
+      "url": "https://shustrik-maps.com/product/serbia-stl-model/?ten_europe_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9487,
+      "url": "https://shustrik-maps.com/product/slovakia-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9487,
+      "url": "https://shustrik-maps.com/product/slovakia-stl-model/?ten_europe_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9488,
+      "url": "https://shustrik-maps.com/product/slovenia-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9488,
+      "url": "https://shustrik-maps.com/product/slovenia-stl-model/?ten_europe_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9490,
+      "url": "https://shustrik-maps.com/product/moldova-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9490,
+      "url": "https://shustrik-maps.com/product/moldova-stl-model/?ten_europe_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9491,
+      "url": "https://shustrik-maps.com/product/netherlands-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9491,
+      "url": "https://shustrik-maps.com/product/netherlands-stl-model/?ten_europe_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9492,
+      "url": "https://shustrik-maps.com/product/montenegro-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9492,
+      "url": "https://shustrik-maps.com/product/montenegro-stl-model/?ten_europe_qa=20261007",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    }
+  ],
+  "media": [
+    {
+      "id": 22466,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/latvia-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22467,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/latvia-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22468,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/latvia-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22469,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/latvia-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22470,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/lithuania-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22471,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/lithuania-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22472,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/lithuania-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22473,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/lithuania-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22474,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/poland-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22475,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/poland-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22476,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/poland-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22477,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/poland-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22478,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/hungary-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22479,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/hungary-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22480,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/hungary-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22481,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/hungary-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22482,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/serbia-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22483,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/serbia-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22484,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/serbia-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22485,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/serbia-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22486,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/slovakia-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22487,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/slovakia-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22488,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/slovakia-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22489,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/slovakia-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22490,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/slovenia-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22491,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/slovenia-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22492,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/slovenia-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22493,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/slovenia-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22494,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/moldova-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22495,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/moldova-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22496,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/moldova-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22497,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/moldova-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22498,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/netherlands-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22499,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/netherlands-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22500,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/netherlands-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22501,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/netherlands-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22502,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/07/montenegro-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22503,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/07/montenegro-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22504,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/07/montenegro-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22505,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/07/montenegro-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    }
+  ],
+  "pass": true
+}

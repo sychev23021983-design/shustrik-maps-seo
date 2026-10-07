@@ -1,0 +1,10 @@
+{
+  "commit": "a30719e3a7beeaf2d29cdb35b08162d8238e85cd",
+  "archive_sha256": "14674507aa244d06d7dade6973a4c8f19cb41f56959c574215f7f733f040bcd5",
+  "remote_archive_sha256": "14674507aa244d06d7dade6973a4c8f19cb41f56959c574215f7f733f040bcd5",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/ten-europe-a30719e",
+  "mode": "external",
+  "container": "shustrik-maps-wordpress-1",
+  "lint_pass": true
+}
