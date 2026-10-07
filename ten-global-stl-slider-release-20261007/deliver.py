@@ -17,7 +17,7 @@ if mode=='prepare':
  d={'commit':commit,'archive_sha256':sha,'remote_archive_sha256':actual,'target':'https://shustrik-maps.com','wp_source':target,'mode':'external','container':'shustrik-maps-wordpress-1','lint_pass':True}
  (root/'deployment.json').write_text(json.dumps(d,indent=2),encoding='utf-8');print(json.dumps(d))
 else:
- assert mode in ['preview','apply','verify','rollback-preview']
+ assert mode in ['preview','apply','verify','rollback-preview','arrow-preview','arrow-apply','arrow-verify']
  if mode=='apply':assert not (root/'apply.json').exists(),'Apply output exists: inspect before any retry'
- d=json.loads((root/'deployment.json').read_text());output=remote('sudo -n docker exec shustrik-maps-wordpress-1 php '+d['wp_source']+'/release.php --'+mode)
- (root/(mode+'.json')).write_text(output,encoding='utf-8');r=json.loads(next(x for x in output.splitlines() if x.startswith('{')));assert r['ok'];print(json.dumps({'mode':mode,'ok':r['ok'],'products':len(r['rows']),'media':sum(len(x['media']) for x in r['rows'])}))
+ d=json.loads((root/'deployment.json').read_text(encoding='utf-8'));script='arrow-fix.php' if mode.startswith('arrow-') else 'release.php';output=remote('sudo -n docker exec shustrik-maps-wordpress-1 php '+d['wp_source']+'/'+script+' --'+mode)
+ (root/(mode+'.json')).write_text(output,encoding='utf-8');r=json.loads(next(x for x in output.splitlines() if x.startswith('{')));assert r['ok'];print(json.dumps({'mode':mode,'ok':r['ok'],'products':len(r.get('rows',[])),'media':sum(len(x['media']) for x in r.get('rows',[]))}))
