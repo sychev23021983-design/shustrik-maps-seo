@@ -1,0 +1,20 @@
+{
+  "buttons": [
+    {
+      "disabled": "true",
+      "label": "Previous slide",
+      "width": 30,
+      "x": 1359.800048828125
+    },
+    {
+      "disabled": "false",
+      "label": "Next slide",
+      "width": 30,
+      "x": 1389.800048828125
+    }
+  ],
+  "clientWidth": 1425,
+  "navClass": "wd-nav-arrows wd-pos-together wd-hover-1 wd-icon-1",
+  "url": "https://shustrik-maps.com/product/el-salvador-stl-model/",
+  "viewport": 1440
+}

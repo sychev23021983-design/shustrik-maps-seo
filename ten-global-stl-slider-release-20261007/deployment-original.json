@@ -1,0 +1,10 @@
+{
+  "commit": "50ce4d978fb8d6ef5cc353e2c600472c7d032545",
+  "archive_sha256": "173dda4adf417df669c17f3813e2164bb78f1b5b0e841403bbe5b4cee069a58e",
+  "remote_archive_sha256": "173dda4adf417df669c17f3813e2164bb78f1b5b0e841403bbe5b4cee069a58e",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/ten-global-50ce4d9",
+  "mode": "external",
+  "container": "shustrik-maps-wordpress-1",
+  "lint_pass": true
+}
