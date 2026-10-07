@@ -1,0 +1,10 @@
+{
+  "commit": "c3739de8bc47e855f3528fbc7d2779e7b5414699",
+  "archive_sha256": "1d58ea3c758c16266a1af15b1b51a5c52d760a1f2cabe99e400797117cffc221",
+  "remote_archive_sha256": "1d58ea3c758c16266a1af15b1b51a5c52d760a1f2cabe99e400797117cffc221",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/five-next-country-c3739de",
+  "mode": "external",
+  "container": "shustrik-maps-wordpress-1",
+  "lint_pass": true
+}
