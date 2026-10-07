@@ -1,0 +1,10 @@
+{
+  "commit": "16774f00dd945bc2acdaa92a8e8ae530848904d5",
+  "archive_sha256": "594fe5b151ca673dfd4c9334ac194417524c9af641e02d351fcee1d801df10dc",
+  "remote_archive_sha256": "594fe5b151ca673dfd4c9334ac194417524c9af641e02d351fcee1d801df10dc",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/five-more-country-16774f0",
+  "mode": "external",
+  "container": "shustrik-maps-wordpress-1",
+  "lint_pass": true
+}
