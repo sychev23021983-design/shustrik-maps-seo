@@ -1,0 +1,209 @@
+Browser tab: 2, Title: "Cambodia topographic map STL - Google Search", URL: "https://www.google.com/search?q=Cambodia+topographic+map+STL&hl=en&gl=us&pws=0".
+0 AXWebArea Cambodia topographic map STL - Google Search, URL: google.com/search?q=Cambodia+topographic+map+STL&hl=en&gl=us&pws=0
+	1 container gsr
+		2 container
+			3 link Skip to main content
+				4 text Skip to main content
+			5 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		6 container searchform
+			7 container tsf
+				8 container
+					9 link Description: Go to Google Home, Value: google.com/webhp?hl=en&sa=X&ved=2ahUKEwizoN2nz6iXAxUBgP0HHVmcMlYQPHoECAYQBA, ID: logo
+					11 combo box (collapsed) Description: Search, Value: Cambodia topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					12 button  Clear
+					13 button Search by voice
+					14 button Search by image
+			15 button Description: Settings, ID: og-te
+			16 button Share
+			17 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			18 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DCambodia%2Btopographic%2Bmap%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		19 container cnt
+			20 container
+				21 content list
+					22 link Description: AI Mode, Value: google.com/search?q=Cambodia+topographic+map+STL&sca_esv=0df0796090376364&hl=en&gl=us&pws=0&sxsrf=APpeQnsMtp0mmOVRQnsi3Q7YCaZ-j-FzSA:1791400609281&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu966FQ8ncGQP9aqMQ-oQLKB26luuDiNSrOmLXfX_pzs6xowScAmtjpN3Npv9klpkr578v4K02y6WTtxBr1Ai7TxcKbW0AUARQ05IP5xSU4FuDwG95qZWgnN6q51oPCRMO8q6gP-g&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwizoN2nz6iXAxUBgP0HHVmcMlYQ2J8OegQIEhAD
+					23 link (disabled) All
+						24 text All
+					25 link Description: Images, Value: google.com/search?sca_esv=0df0796090376364&hl=en&gl=us&pws=0&sxsrf=APpeQnsMtp0mmOVRQnsi3Q7YCaZ-j-FzSA:1791400609281&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu966FQ8ncGQP9aqMQ-oQLKB26luuDiNSrOmLXfX_pzs6xowScAmtjpN3Npv9klpkr578v4K02y6WTtxBr1Ai7TxcKbW0AUARQ05IP5xSU4FuDwG95qZWgnN6q51oPCRMO8q6gP-g&q=Cambodia+topographic+map+STL&sa=X&ved=2ahUKEwizoN2nz6iXAxUBgP0HHVmcMlYQtKgLegQIFxAB
+					26 link Description: Shopping, Value: google.com/search?sca_esv=0df0796090376364&hl=en&gl=us&pws=0&sxsrf=APpeQnsMtp0mmOVRQnsi3Q7YCaZ-j-FzSA:1791400609281&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu966FQ8ncGQP9aqMQ-oQLKB26luuDiNSrOmLXfX_pzs6xowScAmtjpN3Npv9klpkr578v4K02y6WTtxBr1Ai7TxcKbW0AUARQ05IP5xSU4FuDwG95qZWgnN6q51oPCRMO8q6gP-g&q=Cambodia+topographic+map+STL&ved=1t:220175&ictx=111
+					27 link Description: Videos, Value: google.com/search?sca_esv=0df0796090376364&hl=en&gl=us&pws=0&sxsrf=APpeQnsMtp0mmOVRQnsi3Q7YCaZ-j-FzSA:1791400609281&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu966FQ8ncGQP9aqMQ-oQLKB26luuDiNSrOmLXfX_pzs6xowScAmtjpN3Npv9klpkr578v4K02y6WTtxBr1Ai7TxcKbW0AUARQ05IP5xSU4FuDwG95qZWgnN6q51oPCRMO8q6gP-g&q=Cambodia+topographic+map+STL&sa=X&ved=2ahUKEwizoN2nz6iXAxUBgP0HHVmcMlYQtKgLegQIFRAB
+					28 link Description: Maps, Value: maps.google.com/maps?sca_esv=0df0796090376364&hl=en&gl=us&pws=0&output=search&q=Cambodia+topographic+map+STL&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu966FQ8ncGQP9aqMQ-oQLKB26luuDiNSrOmLXfX_pzs6xowScAmtjpN3Npv9klpkr578v4K02y6WTtxBr1Ai7TxcKbW0AUARQ05IP5xSU4FuDwG95qZWgnN6q51oPCRMO8q6gP-g&entry=mc&ved=1t:200715&ictx=111
+					29 link Description: Short videos, Value: google.com/search?sca_esv=0df0796090376364&hl=en&gl=us&pws=0&sxsrf=APpeQnsMtp0mmOVRQnsi3Q7YCaZ-j-FzSA:1791400609281&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu966FQ8ncGQP9aqMQ-oQLKB26luuDiNSrOmLXfX_pzs6xowScAmtjpN3Npv9klpkr578v4K02y6WTtxBr1Ai7TxcKbW0AUARQ05IP5xSU4FuDwG95qZWgnN6q51oPCRMO8q6gP-g&q=Cambodia+topographic+map+STL&sa=X&ved=2ahUKEwizoN2nz6iXAxUBgP0HHVmcMlYQs6gLegQIFhAB
+					30 button (collapsed) More filters, Secondary Actions: Expand
+						31 container More filters
+							32 text More
+				33 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			34 heading Search Results, Value: 1
+				35 text Search Results
+			36 container center_col
+				37 container gevUs
+					38 container rso
+						39 container
+							40 heading Web results, Value: 2
+								41 text Web results
+							42 link Description: CNC Carving File, Wood Relief Art, 3D Printing Ready Etsy https://www.etsy.com › ... › Digital, Value: google.com/goto?url=CAESiAEB6zswFfVKpdE_-vHqPvoZ6oChWtUF90w9lbj82Xfscf83vf93XsyC7Zd-2l__a9OBHcYVJVhDECg8NgMFenwiJQ4vY3fAp8NHR931YAE0VB0KbmN-8H4jPkHpOyNms5F6G9ORBI42UlGWzuZeGagSrOAQTP-I4chwS39chan_2gAbojVE8cO9
+							43 button About this result
+							44 container
+								45 text Jul 26, 2025  —  Cambodia Terrain Map STL  | CNC Carving File, Wood Relief Art, 3D Printing Ready Loading. Price:$10.95 Loading. Premium Cambodia 3D design - ...
+							46 container
+								47 text $10.95 In stock
+								48 image Rated 5.0 out of 5, (700) user reviews
+								49 text Free delivery
+						50 container
+							51 container
+								52 heading AI Overview, Value: 2
+									53 text AI Overview
+								54 container
+									55 text You can purchase and download a 3D-printable topographic relief model of  Cambodia  in STL format from the
+									56 link Description: Shustrik Maps Cambodia STL Model, Value: google.com/goto?url=CAEScAHrOzAV0hgEPgJHqvnbv771uFkHgMqEUaiby88Bh2fLNxNpxHC5mCkWtKbcJ-buNdOzcdV1SmgjaYt2PoFKV2R10t2LQVvJyF8dvcBmoa6yKv4BOxGCfu1Ar4zddx2hQtuFaGNLyXBrBpTPRIy33x0
+									57 text  store .
+									58 button Related results
+								59 heading Where to Find Cambodia Topographic STL Files, Value: 3
+									60 text Where to Find Cambodia Topographic STL Files
+								61 content list
+									62 container
+										63 AXListMarker •
+										64 text Shustrik Maps : Offers a dedicated  Cambodia Topographic Map STL  optimized for 3D printing and CNC carving featuring exaggerated vertical relief, the Mekong River plains, and the Cardamom Mountains ($15.00).
+									65 container
+										66 AXListMarker •
+										67 text Etsy : Independent digital creators sell high-resolution
+										68 link Description: Cambodia Terrain Map STL Files, Value: google.com/goto?url=CAESiAEB6zswFRO6NvMLKKGzmeMWu42ILtTgp3hMswWLXr5VuPv3yJW2YoZhfCzNSKNkA_f278gnb5wLO3Kl7wHQOryzIolm9g_Oycd2ki_3BGNaMUVXHrIEf2bgX0M1sPBkMrMihhOCrU9Cwz7JCDjIG-ezc3gx7ByU4nAiqw3t-OE7Ry6eRVhNj4Y_
+										69 text  tailored for CNC routers and wood carving.
+								70 content list
+									71 container
+										72 link Description: CNC Carving File, Wood Relief Art, 3D Printing Ready - Etsy. Opens in new tab., Value: google.com/goto?url=CAESiAEB6zswFRO6NvMLKKGzmeMWu42ILtTgp3hMswWLXr5VuPv3yJW2YoZhfCzNSKNkA_f278gnb5wLO3Kl7wHQOryzIolm9g_Oycd2ki_3BGNaMUVXHrIEf2bgX0M1sPBkMrMihhOCrU9Cwz7JCDjIG-ezc3gx7ByU4nAiqw3t-OE7Ry6eRVhNj4Y_
+										73 text Etsy
+										74 button Description: About this result, ID: snui-atr-oprGauy0DOmN9u8P_MmuMA_ys0anh_9
+										75 text Jul 26, 2025 —  Cambodia Terrain Map STL | CNC Carving File, Wood Relief Art, 3D Printing Ready. KineticCarving. Star Seller.
+									76 container
+										77 link Description: Cambodia Topographic Map – STL Model for 3D Printing & CNC. Opens in new tab., Value: google.com/goto?url=CAEScAHrOzAV0hgEPgJHqvnbv771uFkHgMqEUaiby88Bh2fLNxNpxHC5mCkWtKbcJ-buNdOzcdV1SmgjaYt2PoFKV2R10t2LQVvJyF8dvcBmoa6yKv4BOxGCfu1Ar4zddx2hQtuFaGNLyXBrBpTPRIy33x0
+										78 text Shustrik Maps
+										79 button Description: About this result, ID: snui-atr-oprGauy0DOmN9u8P_MmuMA_ys0anh_13
+										80 text Product: Cambodia Topographic Map 3D model for 3D printing and CNC carving ($15.00); also includes Bermuda and Colombia models ($1...
+									81 container
+										82 link Description: 3D CNC Carving File, Wood Relief Art, 3D Printing Ready. Opens in new tab., Value: …
+										83 text Etsy
+										84 button Description: About this result, ID: snui-atr-oprGauy0DOmN9u8P_MmuMA_ys0anh_17
+										85 text Highlights Premium Cambodia 3D design - clean, high-detail 3D models optimized for professional CNC and 3D printing results. High-
+									86 container
+										87 link Description: Buy Cambodia 3d Map Online In India. Opens in new tab., Value: …
+										88 text Etsy
+										89 button Description: About this result, ID: snui-atr-oprGauy0DOmN9u8P_MmuMA_ys0anh_21
+										90 text Cambodia 3d Map * Cambodia Vintage Relief Map, based on 1964 original | Cambodia Wall Art & Home Decor | Framed Print | Topographi...
+									91 container
+										92 link Description: Cambodia relief map collection | 3D Print Model - CGTrader. Opens in new tab., Value: …
+										93 text CGTrader
+										94 button Description: About this result, ID: snui-atr-oprGauy0DOmN9u8P_MmuMA_ys0anh_25
+										95 text Sep 5, 2024 —  Cambodia relief map collection 3D printable model , formats include OBJ, STL, ready for 3D animation and other 3D projects.
+									96 container
+										97 link Description: Countries 3D STL Models for 3D Printing & CNC | Topographic Maps. Opens in new tab., Value: …
+										98 text Shustrik Maps
+										99 button Description: About this result, ID: snui-atr-oprGauy0DOmN9u8P_MmuMA_ys0anh_29
+										100 text Key Features of Our Country STL Models * High-resolution topographic relief based on real geographic data * STL format compatible ...
+									101 container
+										102 link Description: Framed Cambodia Print | Antique Wall Decor | Topographic Map Gift. Opens in new tab., Value: …
+										103 text Etsy
+										104 button Description: About this result, ID: snui-atr-oprGauy0DOmN9u8P_MmuMA_ys0anh_33
+										105 text Highlights Cambodia Relief Map PLEASE READ ALL THE DESCRIPTIONS BEFORE PLACING YOUR ORDER - These are NOT 3D maps. They are printe...
+							106 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								107 text Show more
+						108 container
+							109 heading Web results, Value: 2
+								110 text Web results
+							111 link Value: …, Description: Cambodia Topographic Map – STL Model for 3D Printing & ... Shustrik Maps https://shustrik-maps.com › ... › Countries
+							112 button About this result
+							113 container
+								114 text High-detail Cambodia Topographic Map in STL format . Ideal for 3D printing & CNC carving in education, design, souvenirs, and terrain visualization.
+							115 container
+								116 text $15.00 In stock Free delivery
+						117 container
+							118 link Value: …, Description: Cambodia Topographic Maps - Perry-Castañeda Map Collection The University of Texas at Austin https://maps.lib.utexas.edu › maps › topo › cambodia
+							119 button About this result
+							120 text Map
+							121 text  Collection website is archived as of 2021. List of
+							122 text map
+							123 text  images in this collection: ] Ap Doan Van (
+							124 text topographic
+							125 text ) Bak Anlung (
+							126 text topographic
+							127 text ) Ban Hinlat ( ...
+						128 container
+							129 link Value: …, Description: Cambodia relief map collection | 3D Print Model CGTrader https://www.cgtrader.com › ... › Art & Design › Other
+							130 button About this result
+							131 text Sep 5, 2024  —
+							132 text Cambodia relief map collection 3D printable model
+							133 text  , formats include OBJ, STL, ready for 3D animation and other 3D projects.
+						134 container
+							135 link Description: Cambodia Map Clovernook Center for the Blind & Visually Impaired https://clovernook.org › 3D Designs, Value: …
+							136 button About this result
+							137 text This is a
+							138 text topographical map of Cambodia
+							139 text . Cambodia Map The model is a topographical map of Cambodia. 3D Design .STL File Download Link(s)
+						140 container
+							141 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: …
+							142 button About this result
+							143 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: …
+							144 text In this step-by-step tutorial, we dive into  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! 3D printing.
+						145 container
+							146 link Description: 3D Printing Digital Elevation Models OpenTopography https://opentopography.org › learn, Value: …
+							147 button About this result
+							148 text In the tutorial, we describe step-by-step how to create the standard triangle language (
+							149 text STL
+							150 text ) file that is commonly used in 3D printing.
+						151 container
+							152 link Value: …, Description: Relief Map, Pla, Epoxy Cambodia Topographic Map lesaviateurs.fr https://lesaviateurs.fr › product › category
+							153 button About this result
+							154 text oxy
+							155 text Cambodia Topographic Map
+							156 text  –
+							157 text STL
+							158 text  Model For 3D Printing CNC. 29 USD(tax included) Designs, Materials, and Tips for a Perfect Print, approximate reconstruction ...
+							159 image Rated 4.7 out of 5, (35) user reviews
+						160 container
+							161 link Value: …, Description: Cambodia topographic map, elevation, terrain topographic-map.com https://en-gb.topographic-map.com › map-l4cgt › Cam...
+							162 button About this result
+							163 text Average elevation: 97 m • Cambodia •
+							164 text Cambodia's landscape is characterised by a low-lying central plain
+							165 text  that is surrounded by uplands and low mountains and ...
+				166 container
+					167 container
+						168 heading People also search for, Value: 2
+							169 text People also search for
+						170 link Description: Cambodia topographic map stl free download, Value: …
+						171 link Description: Cambodia topographic map stl pdf, Value: …
+						172 link Description: Cambodia topographic map stl 3d print, Value: …
+						173 link Description: Cambodia topographic map stl download, Value: …
+						174 link Description: Cambodia topographic map stl 2022, Value: …
+					175 heading Page Navigation, Value: 1
+						176 text Page Navigation
+					177 text 1
+					178 link Description: Page 2, Value: …
+					179 link Description: Page 3, Value: …
+					180 link Description: Page 4, Value: …
+					181 link Description: Page 5, Value: …
+					182 link Description: Page 6, Value: …
+					183 link Description: Page 7, Value: …
+					184 link Description: Page 8, Value: …
+					185 link Description: Page 9, Value: …
+					186 link Description: Page 10, Value: …
+					187 heading Next, Value: 2
+						188 link Description: Next, Value: …, ID: pnnext
+			189 container sfooter
+				190 heading Footer Links, Value: 1
+					191 text Footer Links
+				192 container fbar
+					193 container
+						194 button Unknown  - Can't determine location
+							195 container
+								196 text Unknown
+							197 container
+								198 text  -  Can't determine location
+						199 text  -
+						200 button Update location
+							201 text Update location
+					202 container fsl
+						203 link Description: Help, Value: support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+						204 link Description: Send feedback, Value: …
+						205 link Description: Privacy, Value: policies.google.com/privacy?hl=en&fg=1
+						206 link Description: Terms, Value: …
+
+The focused UI element is 0 AXWebArea Cambodia topographic map STL - Google Search, URL: google.com/search?q=Cambodia+topographic+map+STL&hl=en&gl=us&pws=0

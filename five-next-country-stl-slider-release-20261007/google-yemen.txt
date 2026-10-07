@@ -1,0 +1,199 @@
+Browser tab: 2, Title: "Yemen topographic map STL - Google Search", URL: "https://www.google.com/search?q=Yemen+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Yemen topographic map STL - Google Search, URL: google.com/search
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Go to Google Home, Value: google.com/webhp, ID: logo
+					12 combo box (collapsed) Description: Search, Value: Yemen topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search
+					27 link Description: Shopping, Value: google.com/search
+					28 link Description: News, Value: google.com/search
+					29 link Description: Videos, Value: google.com/search
+					30 link Description: Maps, Value: maps.google.com/maps
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Value: google.com/goto, Description: Yemen HD Topographic Terrain 3D Model STL Map ... Etsy https://www.etsy.com › listing › yemen-hd-topographic...
+							44 button About this result
+							45 container
+								46 text 3D-printed, gold-colored map of Yemen . A 3D topographical map of Yemen, showing the country's mountainous terrain and Price:$14.99. STL Map Model for CNC ...
+							47 container
+								48 text $14.99 In stock
+								49 image Rated 4.9 out of 5, (411) user reviews
+								50 text Free delivery
+						51 container
+							52 container
+								53 heading AI Overview, Value: 2
+									54 text AI Overview
+								55 container
+									56 text You can download a pre-made high-polygon 3D topographic model of  Yemen  in STL format for 3D printing and CNC carving from the
+									57 link Description: Cults3D Yemen Topographic Map Listing, Value: google.com/goto
+									58 text .
+									59 button Related results
+								60 heading Model Details, Value: 3
+									61 text Model Details
+								62 content list
+									63 container
+										64 AXListMarker •
+										65 text File Format:  STL (Polygonal triangles only, closed base)
+									66 container
+										67 AXListMarker •
+										68 text File Size:  636 MB
+									69 container
+										70 AXListMarker •
+										71 text Dimensions:  1415 mm x 791 mm x 18 mm (scalable in your slicer)
+								72 content list
+									73 container
+										74 link Description: Yemen Topographic Map – 3D Model for 3D Printing & CNC Carving. Opens in new tab., Value: google.com/goto
+										75 text Cults 3D
+										76 button Description: About this result, ID: snui-atr-epzGauPJLsmTxc8P3rHAiAw_7zb0xk_9
+										77 text Jun 9, 2025 —  3D model description High-polygon 3D model of Yemen in STL format File size: 636 MB Model size: 1415 mm x 791 mm x 18 mm Projectio...
+									78 container
+										79 link Description: Yemen Topographic Map – 3D Model for 3D Printing & CNC Carving. Opens in new tab., Value: google.com/goto
+										80 text Pinterest
+										81 button Description: About this result, ID: snui-atr-epzGauPJLsmTxc8P3rHAiAw_7zb0xk_13
+										82 text May 14, 2025 —  Yemen Topographic Map – 3D Model for 3D Printing & CNC Carving shustrik-maps.com Read it Read it High-polygon 3D model of Yemen in...
+									83 container
+										84 link Description: 3D Printing Digital Elevation Models - OpenTopography. Opens in new tab., Value: google.com/goto
+										85 text OpenTopography
+										86 button Description: About this result, ID: snui-atr-epzGauPJLsmTxc8P3rHAiAw_7zb0xk_17
+										87 text We use the DEMto3D plugin in QGIS to generate the STL file, which can then be viewed and modified using the 3D Builder software. Y...
+									88 container
+										89 link Description: map2stl.com: Create 3d printable STL models from any place on Earth. Opens in new tab., Value: google.com/goto
+										90 text map2stl.com
+										91 button Description: About this result, ID: snui-atr-epzGauPJLsmTxc8P3rHAiAw_7zb0xk_21
+										92 text Settings Box Size: 22.0km x 27.7km Box Scale (sampling rate): 2 Model Scale: 1.00 Vertical Scale Factor: 3.0 Base Height: 3mm Wate...
+							93 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								94 text Show more
+						95 container
+							96 heading Web results, Value: 2
+								97 text Web results
+							98 link Value: google.com/goto, Description: Yemen topographic map, elevation, terrain topographic-map.com https://en-gb.topographic-map.com › map-63hz4 › Ye...
+							99 button About this result
+							100 container
+								101 text Average elevation: 523 m  • Yemen • The central highlands are an extensive high plateau over 2000 m (6562 ft) in elevation. This area is drier than the ...
+						102 container
+							103 link Description: "yemen" 3D Models to Print Yeggi https://www.yeggi.com › yemen, Value: google.com/goto
+							104 button About this result
+							105 text Yemen 3D Topographic Coin 85 mm. Yemen Topographic Map 3D Model for 3D. Download: for sale Website:
+							106 text Yemen Free STL File for 3D
+							107 text . Download: free Website:
+						108 container
+							109 link Description: 3D Printing Digital Elevation Models OpenTopography https://opentopography.org › learn, Value: google.com/goto
+							110 button About this result
+							111 text In the tutorial, we describe step-by-step how to create the standard triangle language (
+							112 text STL
+							113 text ) file that is commonly used in 3D printing.
+							114 text topographic
+							115 text  landforms,
+						116 container
+							117 link Description: Yemen Topographic Relief Map - 3D Render Adobe Stock https://stock.adobe.com › Images › Travel, Value: google.com/goto
+							118 button About this result
+							119 text Download Yemen Topographic Relief Map
+							120 text  - 3D Render Stock Illustration and explore similar illustrations at Adobe Stock.
+						121 container
+							122 link Value: google.com/goto, Description: Topographic Map of Yemen, Asia Nations Online Project https://www.nationsonline.org › oneworld › yemen-topo...
+							123 button About this result
+							124 text The
+							125 text map
+							126 text  shows the Topography of
+							127 text Yemen
+							128 text . Depicted on the
+							129 text map
+							130 text  are neighboring countries with international borders, the location of the national capital Sana'a,
+						131 container
+							132 link Value: google.com/goto, Description: Yemen 1:50000 Scale Topographic Maps (YAR 50(E)) East View Geospatial https://shop.geospatial.com › publication › Yemen-1-to-...
+							133 button About this result
+							134 text Yemen 1:50,000 Scale Topographic Maps
+							135 text  (YAR 50(E)) Type Topographic Scale/Resolution 1:50,000 Region Middle East. Region: Middle East.
+						136 container
+							137 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: google.com/goto
+							138 button About this result
+							139 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: google.com/goto
+							140 text In this step-by-step tutorial, we dive into  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! 3D printing.
+						141 container
+							142 link Value: google.com/goto, Description: Yemen Topographic Map – 3D Model for 3D Printing & ... 3D GO https://3dgo.app › models › yemen-topographic-map-3...
+							143 button About this result
+							144 text Jun 9, 2025  —
+							145 text High-polygon 3D model of Yemen in STL format
+							146 text . File size: 636 MB Model size: 1415 mm x 791 mm x 18 mm. Projection: Mercator
+							147 link Description: Read more, Value: google.com/goto
+						148 container Description: Ads, ID: tadsb
+							149 heading Sponsored Result, Value: 2
+								150 text Sponsored Result
+							151 container
+								152 link Description: 3D Terrain Maps & Modeling – Add Location from SketchUp |... SketchUp https://sketchup.trimble.com, Value: google.com/goto
+								153 container
+									154 button Why this ad?
+								155 text Add new depth, layers, and dimensions to your 3D models using 2D and 3D terrain maps, aerial imagery, and precise shadows with Add Location from SketchUp.
+							156 button Hide sponsored result
+								157 text Hide sponsored result
+				158 container
+					159 container
+						160 heading People also search for, Value: 2
+							161 text People also search for
+						162 link Description: Yemen topographic map stl free download, Value: google.com/search
+						163 link Description: Yemen topographic map stl free, Value: google.com/search
+						164 link Description: Yemen topographic map stl download, Value: google.com/search
+						165 link Description: Yemen topographic map stl 3d print, Value: google.com/search
+					166 heading Page Navigation, Value: 1
+						167 text Page Navigation
+					168 text 1
+					169 link Description: Page 2, Value: google.com/search
+					170 link Description: Page 3, Value: google.com/search
+					171 link Description: Page 4, Value: google.com/search
+					172 link Description: Page 5, Value: google.com/search
+					173 link Description: Page 6, Value: google.com/search
+					174 link Description: Page 7, Value: google.com/search
+					175 link Description: Page 8, Value: google.com/search
+					176 link Description: Page 9, Value: google.com/search
+					177 link Description: Page 10, Value: google.com/search
+					178 heading Next, Value: 2
+						179 link Description: Next, Value: google.com/search, ID: pnnext
+			180 container sfooter
+				181 heading Footer Links, Value: 1
+					182 text Footer Links
+				183 container fbar
+					184 container
+						185 button Unknown  - Can't determine location
+							186 container
+								187 text Unknown
+							188 container
+								189 text  -  Can't determine location
+						190 text  -
+						191 button Update location
+							192 text Update location
+					193 container fsl
+						194 link Description: Help, Value: support.google.com/websearch/
+						195 link Description: Send feedback, Value: google.com/search
+						196 link Description: Privacy, Value: policies.google.com/privacy
+						197 link Description: Terms, Value: policies.google.com/terms
+
+The focused UI element is 1 AXWebArea Yemen topographic map STL - Google Search, URL: google.com/search

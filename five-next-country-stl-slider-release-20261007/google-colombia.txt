@@ -1,0 +1,195 @@
+Browser tab: 2, Title: "Colombia topographic map STL - Google Search", URL: "https://www.google.com/search?q=Colombia+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Colombia topographic map STL - Google Search, URL: google.com/search?q=Colombia+topographic+map+STL&hl=en&gl=us&pws=0
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Go to Google Home, Value: google.com/webhp?hl=en&sa=X&ved=2ahUKEwi807ax0KiXAxVBSPEDHfagC7cQPHoECAYQBA, ID: logo
+					12 combo box (collapsed) Description: Search, Value: Colombia topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DColombia%2Btopographic%2Bmap%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search?q=Colombia+topographic+map+STL&sca_esv=0df0796090376364&hl=en&gl=us&pws=0&sxsrf=APpeQnujVnxs5TplwcC5_N9CnbJLrEx7yg:1791400898053&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYSIu8Q64jU5EwQ-803VaKbd8XGNh2EAGT96nVa30badWXBZxFXVGBd7-kEiIsZZ-f13DKBGPqd0eQ-0mnLlGBSOE4b1ma4glHCEeZpPASvAOtQskzWf_0kuOYc3Tqw9BNyuNgOWXXC6CPz3wWn-wGR0Q2Zu2Q&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwi807ax0KiXAxVBSPEDHfagC7cQ2J8OegQIEhAD
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search?sca_esv=0df0796090376364&hl=en&gl=us&pws=0&sxsrf=APpeQnujVnxs5TplwcC5_N9CnbJLrEx7yg:1791400898053&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYSIu8Q64jU5EwQ-803VaKbd8XGNh2EAGT96nVa30badWXBZxFXVGBd7-kEiIsZZ-f13DKBGPqd0eQ-0mnLlGBSOE4b1ma4glHCEeZpPASvAOtQskzWf_0kuOYc3Tqw9BNyuNgOWXXC6CPz3wWn-wGR0Q2Zu2Q&q=Colombia+topographic+map+STL&sa=X&ved=2ahUKEwi807ax0KiXAxVBSPEDHfagC7cQtKgLegQIFBAB
+					27 link Description: Shopping, Value: google.com/search?sca_esv=0df0796090376364&hl=en&gl=us&pws=0&sxsrf=APpeQnujVnxs5TplwcC5_N9CnbJLrEx7yg:1791400898053&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYSIu8Q64jU5EwQ-803VaKbd8XGNh2EAGT96nVa30badWXBZxFXVGBd7-kEiIsZZ-f13DKBGPqd0eQ-0mnLlGBSOE4b1ma4glHCEeZpPASvAOtQskzWf_0kuOYc3Tqw9BNyuNgOWXXC6CPz3wWn-wGR0Q2Zu2Q&q=Colombia+topographic+map+STL&ved=1t:220175&ictx=111
+					28 link Description: Videos, Value: google.com/search?sca_esv=0df0796090376364&hl=en&gl=us&pws=0&sxsrf=APpeQnujVnxs5TplwcC5_N9CnbJLrEx7yg:1791400898053&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYSIu8Q64jU5EwQ-803VaKbd8XGNh2EAGT96nVa30badWXBZxFXVGBd7-kEiIsZZ-f13DKBGPqd0eQ-0mnLlGBSOE4b1ma4glHCEeZpPASvAOtQskzWf_0kuOYc3Tqw9BNyuNgOWXXC6CPz3wWn-wGR0Q2Zu2Q&q=Colombia+topographic+map+STL&sa=X&ved=2ahUKEwi807ax0KiXAxVBSPEDHfagC7cQtKgLegQIFxAB
+					29 link Description: Forums, Value: google.com/search?sca_esv=0df0796090376364&hl=en&gl=us&pws=0&sxsrf=APpeQnujVnxs5TplwcC5_N9CnbJLrEx7yg:1791400898053&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYSIu8Q64jU5EwQ-803VaKbd8XGNh2EAGT96nVa30badWXBZxFXVGBd7-kEiIsZZ-f13DKBGPqd0eQ-0mnLlGBSOE4b1ma4glHCEeZpPASvAOtQskzWf_0kuOYc3Tqw9BNyuNgOWXXC6CPz3wWn-wGR0Q2Zu2Q&q=Colombia+topographic+map+STL&sa=X&ved=2ahUKEwi807ax0KiXAxVBSPEDHfagC7cQs6gLegQIFRAB
+					30 link Description: Short videos, Value: google.com/search?sca_esv=0df0796090376364&hl=en&gl=us&pws=0&sxsrf=APpeQnujVnxs5TplwcC5_N9CnbJLrEx7yg:1791400898053&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYSIu8Q64jU5EwQ-803VaKbd8XGNh2EAGT96nVa30badWXBZxFXVGBd7-kEiIsZZ-f13DKBGPqd0eQ-0mnLlGBSOE4b1ma4glHCEeZpPASvAOtQskzWf_0kuOYc3Tqw9BNyuNgOWXXC6CPz3wWn-wGR0Q2Zu2Q&q=Colombia+topographic+map+STL&sa=X&ved=2ahUKEwi807ax0KiXAxVBSPEDHfagC7cQs6gLegQIFhAB
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Description: "colombia map" 3D Models to Print Yeggi https://www.yeggi.com › colombia+map, Value: google.com/goto?url=CAESYAHrOzAV3nzWNxkAsJ_sWX594CFWEVsL0hdS8obJ4QIThnh6e72e6UqQUfhGXoU_HvtUj3kjdihhahFIEO-5kGe6TDsTMNEF3YatQbfki6kdR7_MCLYh-CYpFeA9DyuBWw
+							44 button About this result
+							45 container
+								46 text Topographic Map of Colombia 3D Terrain 3D File...  Colombia outline map outline map STL File  for 3D... 3D Miniature STL File. Download: free Website:
+						47 container
+							48 link Description: COLOMBIA 3D MAP by JhonyAristizabal Printables.com https://www.printables.com › model › 917298-colombi..., Value: google.com/goto?url=CAEScgHrOzAVIqr5evB2lnZJcu0QJc-xU6JrmJvH923OMk988uSMkOBT0gDGALW8RU7eqx7SG5dITYDHCWKNpAxKgKqJp4maiKg2gkkm0XMqyCSlTHlRq-6GQvJ17q19YIwk93xR99P8RS69O7yIUhEdC8Mflg
+							49 button About this result
+							50 text Download free 3D printable STL models
+							51 text . COLOMBIA. This map was obtained using real geological information, and qgis to generate the model.
+							52 image Rated 5.0 out of 5, (1) user reviews
+						53 container
+							54 container
+								55 heading AI Overview, Value: 2
+									56 text AI Overview
+								57 container
+									58 text You can  download or purchase 3D topographic map STL files of  Colombia  for 3D printing and CNC carving from platforms like
+									59 link Description: Printables, Value: google.com/goto?url=CAEScgHrOzAVcMV2hs8KNJon89Dk8rNHFcarhGR0cL3TypxkHLgppM9dmcybrZnw3xITVgyAuPjHhKSmvhNdVN4iMx0e2CT679pKTNouca9XX5_lLlJwIztjZFBbzJ-jumxXFS5WJ_ivuPgHnVRQ40o2_QQlIA
+									60 text ,
+									61 link Description: MakerWorld, Value: google.com/goto?url=CAESjQEB6zswFbWJPVSxB6CsruGu7fxwQH6t1JVz7N39BiKM6XmRozTJPBaYfR2lZsb8MNxlbcpx4z-o2JUVJdo22KJ4NiSzFbBGo2EtDdrwrEE5KRjUCxqijUFJ_Kv8o_yWXat79jeZJSbK6IefQeQMRq3v2eInyvkenmAmaUbqiE5EUtLKss-MgXQ9s_SIVrE
+									62 text , or search aggregators like
+									63 link Description: "map of colombia" on Yeggi, Value: google.com/goto?url=CAESYwHrOzAV0hLEMmC9xj4Lucb7JrAChTk54Zhfw0rl-YoDN0uv2xv7pLPeXAF-Olu_DM_-keDAzbLxfDwfdxdFdQ-WOTFs8ZwFYcIGX3jjYA9AeQPmNJWBUPaiDPU-6FEpJ6uU-g
+									64 text .
+									65 button Related results
+								66 heading Where to Find Colombia Topographic STL Files, Value: 3
+									67 text Where to Find Colombia Topographic STL Files
+								68 content list
+									69 container
+										70 AXListMarker •
+										71 text Free Community Models:
+										72 content list
+											73 container
+												74 AXListMarker ◦
+												75 text Printables : Features user-created geological relief models like the  COLOMBIA 3D MAP  by JhonyAristizabal processed from real elevation data. You can also find regional collections like the   which includes a dedicated Colombia STL file.
+								76 content list
+									77 container
+										78 link Description: COLOMBIA 3D MAP by JhonyAristizabal | Download free STL model | Printables.com. Opens in new tab., Value: …
+										79 text Printables.com
+										80 button Description: About this result, ID: snui-atr-wpvGao22NaWI7NYPoovz0AU_ratgja_9
+										81 text Model: COLOMBIA 3D MAP | Creator: JhonyAristizabal | Source: Printables.com (Updated June 19, 2024) Generation Method: Real geolog...
+									82 container
+										83 link Description: 3D CNC Carving File, Wood Relief Art, 3D Printing Ready. Opens in new tab., Value: …
+										84 text Etsy
+										85 button Description: About this result, ID: snui-atr-wpvGao22NaWI7NYPoovz0AU_ratgja_13
+										86 text Highlights Premium Colombia 3D design - clean, high-detail 3D models optimized for professional CNC and 3D printing results. High-
+									87 container
+										88 link Description: 3d Colombia Map. Opens in new tab., Value: google.com/goto?url=CAESZgHrOzAVlDOPpbBirZNJjw2xcTiLTqoJ_oD-lPUcogY_TF4_yOqMssK3dQATZIDOAeCJuTnj4EzjtKaYs4c7hWVHt0080JhN4gOtG4oPGIj1fq-nGyIPxDOzb7VhvrM7HvNI-4DLhg
+										89 text Etsy
+										90 button Description: About this result, ID: snui-atr-wpvGao22NaWI7NYPoovz0AU_ratgja_17
+										91 text 3d Colombia Map * Colombia - Shaded Relief Map - Natural Topography (370) Sale Price $41.16 $41.16 $54.88 Original Price $54.88 (2...
+									92 container
+										93 link Description: "map of colombia" 3D Models to Print - Yeggi. Opens in new tab., Value: …
+										94 text Yeggi
+										95 button Description: About this result, ID: snui-atr-wpvGao22NaWI7NYPoovz0AU_ratgja_21
+										96 text 5000+ "map of colombia" printable 3D Models. Every Day new 3D Models from all over the World. Click to find the best Results for m...
+									97 container
+										98 link Description: Colombia Topographic Map – STL Model for 3D Printing & CNC. Opens in new tab., Value: …
+										99 text Shustrik Maps
+										100 button Description: About this result, ID: snui-atr-wpvGao22NaWI7NYPoovz0AU_ratgja_25
+										101 text High-polygon 3D model of Colombia in STL format Colombia Topographic Map – 3D Model for 3D Printing & CNC Carving quantity You can...
+									102 container
+										103 link Description: Topography Map - Colombia W/ Flag Background - MakerWorld. Opens in new tab., Value: …
+										104 text MakerWorld
+										105 button Description: About this result, ID: snui-atr-wpvGao22NaWI7NYPoovz0AU_ratgja_29
+										106 text Topography Map of Colombia modeled onto a 4x6 Base designed to look like the Colombian flag. Size/Demensions: - 4x6in. - 101x152mm...
+									107 container
+										108 link Description: South America 3D terrain (topography) model. Opens in new tab., Value: …
+										109 text Printables.com
+										110 button Description: About this result, ID: snui-atr-wpvGao22NaWI7NYPoovz0AU_ratgja_33
+										111 text Oct 13, 2024 —  Model files * Argentina stl Argentina stl 147 MB | October 13, 2024 EasyPrint Download * Brazil stl Brazil stl 373 MB | October 13...
+							112 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								113 text Show more
+						114 container
+							115 heading Web results, Value: 2
+								116 text Web results
+							117 link Description: Colombia Terrain Map STL | 3D CNC Carving File, Wood ... Etsy https://www.etsy.com › ... › Digital, Value: …
+							118 button About this result
+							119 container
+								120 text A gray, three-dimensional relief map of Colombia featuring detailed topographical Loading.  Colombia Terrain Map STL  | 3D CNC Carving File, Wood Relief Art, ...
+							121 image Rated 5.0 out of 5, (733) user reviews
+						122 container
+							123 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: …
+							124 button About this result
+							125 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: …
+							126 text In this step-by-step tutorial, we dive into  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! 3D printing.
+						127 container
+							128 link Value: …, Description: Colombia topographic map, elevation, terrain topographic-map.com https://en-gb.topographic-map.com › map-9fpf3 › Colo...
+							129 button About this result
+							130 text Colombia topographic map
+							131 text , Average elevation: 248 m Minimum elevation: -2 m Maximum elevation: 5,683 m. Average elevation: 223 m 3,281 feet), especially
+						132 container
+							133 link Value: …, Description: Colombia W/ Flag Background - Free 3D Print Model MakerWorld https://makerworld.com › models › 2295100-topograp...
+							134 button About this result
+							135 text Topography Map of Colombia modeled onto a 4x6 Base
+							136 text  designed to look like the Colombian flag. Size/Demensions: - 4x6in. - 101x152mm.
+							137 link Description: Read more, Value: …
+						138 container
+							139 link Description: Colombia 3d Map Etsy https://www.etsy.com › market › colombia_3d_map, Value: …
+							140 button About this result
+							141 text Explore unique 3D maps of Colombia,
+							142 text three-dimensional topographical map of Colombia
+							143 text  featuring detailed mountain Colombia Terrain Map STL
+						144 container
+							145 link Description: "map of colombia" 3D Models to Print Yeggi https://www.yeggi.com › map+of+colombia, Value: …
+							146 button About this result
+							147 text Topographic Map of Colombia 3D Terrain 3D File
+							148 text ... map STL File for 3D... Miniature STL File. Download: free Website: DigiMorph
+						149 container
+							150 link Value: …, Description: Category:Topographic maps of Colombia Wikimedia Commons https://commons.wikimedia.org › wiki › Category:Topo...
+							151 button About this result
+							152 text Dec 26, 2025  —  T.
+							153 text Topographic maps of departments of Colombia
+							154 text  (32 C). Category Slideshow. Media in category "Topographic maps of Colombia". The following 57 ...
+							155 link Description: Read more, Value: …
+				156 container
+					157 container
+						158 heading People also search for, Value: 2
+							159 text People also search for
+						160 link Description: Colombia topographic map stl free, Value: …
+						161 link Description: Colombia topographic map stl 3d print, Value: …
+					162 heading Page Navigation, Value: 1
+						163 text Page Navigation
+					164 text 1
+					165 link Description: Page 2, Value: …
+					166 link Description: Page 3, Value: …
+					167 link Description: Page 4, Value: …
+					168 link Description: Page 5, Value: …
+					169 link Description: Page 6, Value: …
+					170 link Description: Page 7, Value: …
+					171 link Description: Page 8, Value: …
+					172 link Description: Page 9, Value: …
+					173 link Description: Page 10, Value: …
+					174 heading Next, Value: 2
+						175 link Description: Next, Value: …, ID: pnnext
+			176 container sfooter
+				177 heading Footer Links, Value: 1
+					178 text Footer Links
+				179 container fbar
+					180 container
+						181 button Unknown  - Can't determine location
+							182 container
+								183 text Unknown
+							184 container
+								185 text  -  Can't determine location
+						186 text  -
+						187 button Update location
+							188 text Update location
+					189 container fsl
+						190 link Description: Help, Value: …
+						191 link Description: Send feedback, Value: …
+						192 link Description: Privacy, Value: …
+						193 link Description: Terms, Value: …
+
+The focused UI element is 1 AXWebArea Colombia topographic map STL - Google Search, URL: google.com/search?q=Colombia+topographic+map+STL&hl=en&gl=us&pws=0

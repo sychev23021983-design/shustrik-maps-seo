@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-07",
+  "market": "USA",
+  "language": "English",
+  "engine": "Google",
+  "mode": "Qualitative intent only; five Google pages observed plus primary seller pages in public search",
+  "limitation": "US requested via gl=us; Google footer cannot determine actual location. No measured volume, GSC position or fixed/local US ranking. Exact five clusters absent in saved05.10 core; new product groups editorial only. Belarus excluded. AI Overview statements are not product evidence.",
+  "decision": "validate first",
+  "decision_scope": "SEO impact needs later measurement; authorized existing-product content release can proceed on confirmed product facts",
+  "observations": [
+    {
+      "slug": "cambodia",
+      "name": "Cambodia",
+      "intent": "Whole-country paid terrain STL/CNC intent; distinguish free tactile map, Phnom Penh city miniature, ordinary maps and framed paper print",
+      "source": "https://www.etsy.com/listing/1457043158/cambodia-hd-topographic-terrain-3d-model",
+      "observation": "Seller listing explicitly describes Cambodia terrain STL digital download for CNC/printing",
+      "google_query": "Cambodia topographic map STL",
+      "google_settings": {
+        "hl": "en",
+        "gl": "us",
+        "pws": "0"
+      },
+      "google_footer_location": "Unknown - Cannot determine location",
+      "us_local_rank_verified": false,
+      "frequency": null,
+      "rank": null,
+      "raw_google_snapshot": "google-cambodia.txt"
+    },
+    {
+      "slug": "colombia",
+      "name": "Colombia",
+      "intent": "Whole-country terrain STL; distinguish Colombia from Columbia, community free models, flag display/outline models and physical maps",
+      "source": "https://cults3d.com/en/3d-model/architecture/topographic-map-of-colombia-3d-terrain",
+      "observation": "Paid creator listing contains Colombia.STL in ZIP and describes terrain for printing/CNC",
+      "google_query": "Colombia topographic map STL",
+      "google_settings": {
+        "hl": "en",
+        "gl": "us",
+        "pws": "0"
+      },
+      "google_footer_location": "Unknown - Cannot determine location",
+      "us_local_rank_verified": false,
+      "frequency": null,
+      "rank": null,
+      "raw_google_snapshot": "google-colombia.txt"
+    },
+    {
+      "slug": "costa-rica",
+      "name": "Costa Rica",
+      "intent": "Whole-country terrain STL; distinguish free MakerWorld, regional/provincial files, paper maps and physical wall art",
+      "source": "https://cults3d.com/en/3d-model/architecture/topographic-map-of-costa-rica-3d-terrain-topomaps3d",
+      "observation": "Paid creator listing contains Costa Rica.STL in ZIP; alternate provincial listing is a separate intent",
+      "google_query": "Costa Rica topographic map STL",
+      "google_settings": {
+        "hl": "en",
+        "gl": "us",
+        "pws": "0"
+      },
+      "google_footer_location": "Unknown - Cannot determine location",
+      "us_local_rank_verified": false,
+      "frequency": null,
+      "rank": null,
+      "raw_google_snapshot": "google-costa-rica.txt"
+    },
+    {
+      "slug": "yemen",
+      "name": "Yemen",
+      "intent": "Whole-country terrain STL including shown islands; exclude outline-only map, free topographic coin, stock render and paper/GIS maps",
+      "source": "https://www.etsy.com/listing/1457217276/yemen-hd-topographic-terrain-3d-model",
+      "observation": "Seller offers Yemen topographic terrain STL digital file via download link; no transfer of seller readiness claims",
+      "google_query": "Yemen topographic map STL",
+      "google_settings": {
+        "hl": "en",
+        "gl": "us",
+        "pws": "0"
+      },
+      "google_footer_location": "Unknown - Cannot determine location",
+      "us_local_rank_verified": false,
+      "frequency": null,
+      "rank": null,
+      "raw_google_snapshot": "google-yemen.txt"
+    },
+    {
+      "slug": "vietnam",
+      "name": "Vietnam",
+      "intent": "Whole-country terrain STL; separate free MakerWorld/simplified island-removed variant, city miniature, GIS maps and stock renders",
+      "source": "https://www.etsy.com/ca/listing/1600306493/vietnam-topographic-map-3d-model-file",
+      "observation": "Seller identifies terrain STL digital download for CNC/printing delivered through PDF with download link",
+      "google_query": "Vietnam topographic map STL",
+      "google_settings": {
+        "hl": "en",
+        "gl": "us",
+        "pws": "0"
+      },
+      "google_footer_location": "Unknown - Cannot determine location",
+      "us_local_rank_verified": false,
+      "frequency": null,
+      "rank": null,
+      "raw_google_snapshot": "google-vietnam.txt"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+Browser tab: 2, Title: "Vietnam topographic map STL - Google Search", URL: "https://www.google.com/search?q=Vietnam+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Vietnam topographic map STL - Google Search, URL: google.com/search?q=Vietnam+topographic+map+STL&hl=en&gl=us&pws=0
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Go to Google Home, Value: google.com/webhp?hl=en&sa=X&ved=2ahUKEwjC4eTU0aiXAxVARPEDHbA3O2QQPHoECAYQBA, ID: logo
+					12 combo box (collapsed) Description: Search, Value: Vietnam topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DVietnam%2Btopographic%2Bmap%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search?q=Vietnam+topographic+map+STL&sca_esv=0df0796090376364&hl=en&gl=us&pws=0&sxsrf=APpeQnun9_tMQDVtiyMJPEceVZMw25G02Q:1791401240646&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu966FQ8ncGQP9aqMQ-oQLKB2_zZ1BqTMEJmKoPv1uHfFUL-FsjNO1f_0QPZUyXzL2qbSyyRDG2dSmIH6eZ5HeBO63huvbY41zZux0lcMxKL1oVC4UVAVNvLKdXy2kRWgtQ-dujvQ&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjC4eTU0aiXAxVARPEDHbA3O2QQ2J8OegQIEhAD
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search?sca_esv=0df0796090376364&hl=en&gl=us&pws=0&sxsrf=APpeQnun9_tMQDVtiyMJPEceVZMw25G02Q:1791401240646&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu966FQ8ncGQP9aqMQ-oQLKB2_zZ1BqTMEJmKoPv1uHfFUL-FsjNO1f_0QPZUyXzL2qbSyyRDG2dSmIH6eZ5HeBO63huvbY41zZux0lcMxKL1oVC4UVAVNvLKdXy2kRWgtQ-dujvQ&q=Vietnam+topographic+map+STL&sa=X&ved=2ahUKEwjC4eTU0aiXAxVARPEDHbA3O2QQtKgLegQIGBAB
+					27 link Description: Shopping, Value: google.com/search?sca_esv=0df0796090376364&hl=en&gl=us&pws=0&sxsrf=APpeQnun9_tMQDVtiyMJPEceVZMw25G02Q:1791401240646&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu966FQ8ncGQP9aqMQ-oQLKB2_zZ1BqTMEJmKoPv1uHfFUL-FsjNO1f_0QPZUyXzL2qbSyyRDG2dSmIH6eZ5HeBO63huvbY41zZux0lcMxKL1oVC4UVAVNvLKdXy2kRWgtQ-dujvQ&q=Vietnam+topographic+map+STL&ved=1t:220175&ictx=111
+					28 link Description: Videos, Value: google.com/search?sca_esv=0df0796090376364&hl=en&gl=us&pws=0&sxsrf=APpeQnun9_tMQDVtiyMJPEceVZMw25G02Q:1791401240646&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu966FQ8ncGQP9aqMQ-oQLKB2_zZ1BqTMEJmKoPv1uHfFUL-FsjNO1f_0QPZUyXzL2qbSyyRDG2dSmIH6eZ5HeBO63huvbY41zZux0lcMxKL1oVC4UVAVNvLKdXy2kRWgtQ-dujvQ&q=Vietnam+topographic+map+STL&sa=X&ved=2ahUKEwjC4eTU0aiXAxVARPEDHbA3O2QQtKgLegQIFRAB
+					29 link Description: Maps, Value: maps.google.com/maps?sca_esv=0df0796090376364&hl=en&gl=us&pws=0&output=search&q=Vietnam+topographic+map+STL&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu966FQ8ncGQP9aqMQ-oQLKB2_zZ1BqTMEJmKoPv1uHfFUL-FsjNO1f_0QPZUyXzL2qbSyyRDG2dSmIH6eZ5HeBO63huvbY41zZux0lcMxKL1oVC4UVAVNvLKdXy2kRWgtQ-dujvQ&entry=mc&ved=1t:200715&ictx=111
+					30 link Description: Short videos, Value: google.com/search?sca_esv=0df0796090376364&hl=en&gl=us&pws=0&sxsrf=APpeQnun9_tMQDVtiyMJPEceVZMw25G02Q:1791401240646&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu966FQ8ncGQP9aqMQ-oQLKB2_zZ1BqTMEJmKoPv1uHfFUL-FsjNO1f_0QPZUyXzL2qbSyyRDG2dSmIH6eZ5HeBO63huvbY41zZux0lcMxKL1oVC4UVAVNvLKdXy2kRWgtQ-dujvQ&q=Vietnam+topographic+map+STL&sa=X&ved=2ahUKEwjC4eTU0aiXAxVARPEDHbA3O2QQs6gLegQIFBAB
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Description: Vietnam Topographic Map 3D Model File | Stl File for CNC ... Etsy https://www.etsy.com › listing › vietnam-topographic-..., Value: google.com/goto?url=CAESiAEB6zswFeyMSLWFx_NWubUPHeKRuhHlceO01fvH7Cg_bYaqeGnZ-NXBGeL4-TiloLCB22jGEowKi3n1cmn382GYeRmff0s5V7PvdKwTk_uaGtm765oIYNR9uKYYYVFquEToTdaRbtUnmUBdpK3tJh6xJPRkVlefo4S3M9iub9X0cugj6gt2X5Vt
+							44 button About this result
+							45 container
+								46 text A 3D model of  Vietnam ,  Vietnam , showing the country's mountainous  terrain  and coastline.  Vietnam Topographic Map  3D Model File
+							47 container
+								48 text $11.98
+								49 image Rated 4.8 out of 5, (163) user reviews
+						50 container
+							51 container
+								52 heading AI Overview, Value: 2
+									53 text AI Overview
+								54 container
+									55 text You can purchase pre-made 3D topographic STL models of Vietnam for 3D printing and CNC routing on marketplaces like
+									56 link Description: Etsy, Value: google.com/goto?url=CAESiAEB6zswFaSd6QFlvM4SfYO720BGkSzs1mpf4CZV6OcW4f7o-WzHA1FaZJLKBXjcBjU4lTY5cUjSEU63ETX5KIsTgUecux-d3nb_DqR_SS34jAorD2E3B5hecOnieTRKGTqGRYgWtRcT2eMkKOn4baItR_IMTn6mzBBOPX90TgpoB0j6e6eulo__
+									57 text  or
+									58 link Description: Shustrik Maps, Value: google.com/goto?url=CAESbwHrOzAVd0L7dfLei0tbn-FF2PMLWwWaK0vd-oNsQg8DP48GcdK4I-sAAIMVU9LWiletSnGZyBoEG17ml3iqNxJJj_itatgI9PNvEZX4kxmCuaOvG0Nn7-hVlTTxm1tHDRfIoQL62AXkmC_zrjWgKw
+									59 text .
+									60 button Related results
+								61 heading Where to Find & Create Vietnam Topographic STL Files, Value: 3
+									62 text Where to Find & Create Vietnam Topographic STL Files
+								63 content list
+									64 container
+										65 AXListMarker •
+										66 text Ready-Made Digital Files:  Platforms like Etsy feature high-mesh-density
+										67 link Description: Vietnam Terrain STL Files, Value: google.com/goto?url=CAESigEB6zswFbm5DPDAHVo_Bf8Szcdnns3b51s0nS23IEj-fsAa-K5XaeLKxs1fqP04WbpE2jm7itFZ0jjhxWuevBEscrrqupQWdCnYAeqvw9XMNGeWWXD5oMwyGSDdyXgyjE1npL1_AhIHMn-4bDg-6EbZzG9LnyBdZupUyfLUnNDq5M3b2nIeUwGhPlw
+										68 text  optimized for resin/FDM 3D printers and CNC wood carving. Prices typically range from $10 to $15.
+										69 link Description: Etsy, Value: google.com/goto?url=CAESiAEB6zswFaSd6QFlvM4SfYO720BGkSzs1mpf4CZV6OcW4f7o-WzHA1FaZJLKBXjcBjU4lTY5cUjSEU63ETX5KIsTgUecux-d3nb_DqR_SS34jAorD2E3B5hecOnieTRKGTqGRYgWtRcT2eMkKOn4baItR_IMTn6mzBBOPX90TgpoB0j6e6eulo__
+										70 button Etsy (+2) - Related results
+											71 text Etsy
+											72 text  +2
+									73 container
+										74 AXListMarker •
+										75 text Free Custom Generation:  You can generate your own free topographic STL models of any region in Vietnam using online terrain tools like  , which converts digital elevation data into 3D-printable files.
+								76 content list
+									77 container
+										78 link Description: Stl File for CNC Milling and 3D Printing | 3D Map STL of Vietnam. Opens in new tab., Value: …
+										79 text Etsy
+										80 button Description: About this result, ID: snui-atr-GZ3Gav7JIuCIxc8P9rv2EA_doj1or_9
+										81 text Codingry 5 out of 5 stars Related searches Hawaii Stl Map Stl Iceland Stl World Stl Delivery Instant Download Your files will be a...
+									82 container
+										83 link Description: Vietnam 3d Map. Opens in new tab., Value: …
+										84 text Etsy
+										85 button Description: About this result, ID: snui-atr-GZ3Gav7JIuCIxc8P9rv2EA_doj1or_13
+										86 text Vietnam 3d Map * Vietnam Topographic Map 3D Model File | Stl File for CNC Milling and 3D Printing | 3D Map STL of Vietnam (163) $1...
+									87 container
+										88 link Description: Vietnam Terrain Map STL | CNC Carving File, Wood Relief Art .... Opens in new tab., Value: …
+										89 text Etsy
+										90 button Description: About this result, ID: snui-atr-GZ3Gav7JIuCIxc8P9rv2EA_doj1or_17
+										91 text Vietnam Topographic Map 3D Model File | Stl File for CNC Milling and 3D Printing | 3D Map STL of Vietnam $11.90 Veteran STL File |
+									92 container
+										93 link Description: Vietnam Topographic Map – STL Model for 3D Printing & CNC. Opens in new tab., Value: …
+										94 text Shustrik Maps
+										95 button Description: About this result, ID: snui-atr-GZ3Gav7JIuCIxc8P9rv2EA_doj1or_21
+										96 text High-polygon 3D model of Vietnam in STL format Vietnam Topographic Map – 3D Model for 3D Printing & CNC Carving quantity You can a...
+									97 container
+										98 link Description: Make 3D Printed Terrain Maps of Any Location for FREE!, Video, watch on YouTube, Value: …
+										99 text YouTube · Neil Hailey Design
+										100 button Description: About this result, ID: snui-atr-GZ3Gav7JIuCIxc8P9rv2EA_doj1or_24
+										101 button ID: vv-GZ3Gav7JIuCIxc8P9rv2EA_doj1or_25, Description: Make 3D Printed Terrain Maps of Any Location for FREE! by Neil Hailey Design on YouTube. Play on Google. - 8:10
+											102 container
+												103 image
+												104 text 8:10
+									105 container
+										106 link Description: Simplified Vietnam Map by Wljump - Thingiverse. Opens in new tab., Value: …
+										107 text Thingiverse
+										108 button Description: About this result, ID: snui-atr-GZ3Gav7JIuCIxc8P9rv2EA_doj1or_29
+										109 text Dec 15, 2023 —  Removed Islands for simplified printing. Also removed Name plate for single body printing (Simple2). Tags. maptopographic map. Lic...
+							110 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								111 text Show more
+						112 container
+							113 heading Web results, Value: 2
+								114 text Web results
+							115 link Value: …, Description: Vietnam 3d Render Topographic Map Pinterest https://www.pinterest.com › ideas › vietnam-3d-render-...
+							116 button About this result
+							117 container
+								118 text Vietnam 3d render topographic map . Discover Pinterest's best ideas and inspiration for Vietnam 3d render topographic map. Get inspired and try out new things.
+								119 link Description: Read more, Value: …
+						120 container
+							121 link Value: …, Description: Vietnam Topographic Maps The University of Texas at Austin https://maps.lib.utexas.edu › maps › topo › vietnam
+							122 button About this result
+							123 text Vietnam Topographic Maps
+							124 text . Vietnam Topographic Maps 1:50,000 U.S. Army Map Service, Series L7014 Clickable Index Map. A Ro (topographic) A Sap (topographic) An ...
+						125 container
+							126 link Value: …, Description: Vietnam Topographic Map – STL Model for 3D Printing & ... Shustrik Maps https://shustrik-maps.com › ... › Countries
+							127 button About this result
+							128 text High-detail Vietnam Topographic Map in STL format
+							129 text . Ideal for 3D printing & CNC carving in education, design, souvenirs, and terrain visualization.
+							130 text $15.00
+							131 text In stock
+							132 text Free delivery
+						133 container
+							134 link Value: …, Description: 3D Topographic Map of Vietnam - Free 3D Print Model MakerWorld https://makerworld.com › models › 2885766-3d-topogr...
+							135 button About this result
+							136 text Download this free 3D print file designed by Emoticon.
+							137 text 3D Topographic Map of Vietnam
+							138 text . The bottom of the model has an octogram spiral layer to prevent Hanoi ...
+						139 container
+							140 link Value: …, Description: Vietnam topographic map, elevation, terrain topographic-map.com https://en-gb.topographic-map.com › map-59dt6 › Viet...
+							141 button About this result
+							142 text Name: Vietnam topographic map, elevation, terrain. Location: Vietnam (7.69209 102.14386 23.39269 114.85726).
+							143 text Average elevation: 173 m
+							144 text . Minimum elevation: -3 m.
+							145 link Description: Read more, Value: …
+						146 container
+							147 link Description: Simplified Vietnam Map by Wljump Thingiverse https://www.thingiverse.com › thing:6378662, Value: …
+							148 button About this result
+							149 text Dec 15, 2023  —
+							150 text Removed Islands for simplified printing
+							151 text . Also removed Name plate for single body printing (Simple2). Tags. maptopographic map. License.
+							152 link Description: Read more, Value: …
+						153 container
+							154 link Value: …, Description: Vietnam Terrain Map STL | CNC Carving File, Wood Relief ... Etsy https://www.etsy.com › ... › Digital
+							155 button About this result
+							156 text Jul 26, 2025  —  A gray,
+							157 text three-dimensional topographical map of Vietnam
+							158 text  featuring detailed terrain. The Price:$10.95 with an order, High-resolution STL relief ...
+							159 text $10.95
+							160 image Rated 5.0 out of 5, (1) user reviews
+						161 container
+							162 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: …
+							163 button About this result
+							164 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: …
+							165 text ...  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! 🗺️ Learn how to create breathtaking maps with just ...
+				166 container
+					167 heading Page Navigation, Value: 1
+						168 text Page Navigation
+					169 text 1
+					170 link Description: Page 2, Value: …
+					171 link Description: Page 3, Value: …
+					172 link Description: Page 4, Value: …
+					173 link Description: Page 5, Value: …
+					174 link Description: Page 6, Value: …
+					175 link Description: Page 7, Value: …
+					176 link Description: Page 8, Value: …
+					177 link Description: Page 9, Value: …
+					178 link Description: Page 10, Value: …
+					179 heading Next, Value: 2
+						180 link Description: Next, Value: …, ID: pnnext
+			181 container sfooter
+				182 heading Footer Links, Value: 1
+					183 text Footer Links
+				184 container fbar
+					185 container
+						186 button Unknown  - Can't determine location
+							187 container
+								188 text Unknown
+							189 container
+								190 text  -  Can't determine location
+						191 text  -
+						192 button Update location
+							193 text Update location
+					194 container fsl
+						195 link Description: Help, Value: support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+						196 link Description: Send feedback, Value: …
+						197 link Description: Privacy, Value: …
+						198 link Description: Terms, Value: …
+
+The focused UI element is 1 AXWebArea Vietnam topographic map STL - Google Search, URL: google.com/search?q=Vietnam+topographic+map+STL&hl=en&gl=us&pws=0

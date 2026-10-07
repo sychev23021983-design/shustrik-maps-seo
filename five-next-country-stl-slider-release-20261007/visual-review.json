@@ -1,0 +1,186 @@
+{
+  "pass": true,
+  "method": "Each of 20 native ImageGen results individually visually inspected against its own product reference; exact mesh match not claimed",
+  "images": [
+    {
+      "slug": "cambodia",
+      "scene": "desk",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": true,
+      "notes": "Broad compact mainland outline matching reference, low central Tonle Sap and Mekong plains, higher Cardamom ridges in southwest, small northeastern highlands. Preserve tiny southwest coastal islands from reference."
+    },
+    {
+      "slug": "cambodia",
+      "scene": "wall",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": null,
+      "notes": "Broad compact mainland outline matching reference, low central Tonle Sap and Mekong plains, higher Cardamom ridges in southwest, small northeastern highlands. Preserve tiny southwest coastal islands from reference."
+    },
+    {
+      "slug": "cambodia",
+      "scene": "gift",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": null,
+      "notes": "Broad compact mainland outline matching reference, low central Tonle Sap and Mekong plains, higher Cardamom ridges in southwest, small northeastern highlands. Preserve tiny southwest coastal islands from reference."
+    },
+    {
+      "slug": "cambodia",
+      "scene": "commercial",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": null,
+      "notes": "Broad compact mainland outline matching reference, low central Tonle Sap and Mekong plains, higher Cardamom ridges in southwest, small northeastern highlands. Preserve tiny southwest coastal islands from reference."
+    },
+    {
+      "slug": "colombia",
+      "scene": "desk",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": true,
+      "notes": "Full Colombia silhouette, northern narrow Guajira extension, three long Andes ranges in western half, broad smooth eastern Amazon and Orinoco lowlands, Caribbean and Pacific coasts. Do not substitute Columbia city or generic mountain mass."
+    },
+    {
+      "slug": "colombia",
+      "scene": "wall",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": null,
+      "notes": "Full Colombia silhouette, northern narrow Guajira extension, three long Andes ranges in western half, broad smooth eastern Amazon and Orinoco lowlands, Caribbean and Pacific coasts. Do not substitute Columbia city or generic mountain mass."
+    },
+    {
+      "slug": "colombia",
+      "scene": "gift",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": null,
+      "notes": "Full Colombia silhouette, northern narrow Guajira extension, three long Andes ranges in western half, broad smooth eastern Amazon and Orinoco lowlands, Caribbean and Pacific coasts. Do not substitute Columbia city or generic mountain mass."
+    },
+    {
+      "slug": "colombia",
+      "scene": "commercial",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": null,
+      "notes": "Full Colombia silhouette, northern narrow Guajira extension, three long Andes ranges in western half, broad smooth eastern Amazon and Orinoco lowlands, Caribbean and Pacific coasts. Do not substitute Columbia city or generic mountain mass."
+    },
+    {
+      "slug": "costa-rica",
+      "scene": "desk",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": true,
+      "notes": "Full Costa Rica diagonal northwest-southeast outline, Nicoya peninsula in southwest separated by gulf, Osa peninsula lower right, central northwest-southeast volcanic mountain spine, flatter northern and Caribbean plains. Tiny off-shore fragments fixed on same backing."
+    },
+    {
+      "slug": "costa-rica",
+      "scene": "wall",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": null,
+      "notes": "Full Costa Rica diagonal northwest-southeast outline, Nicoya peninsula in southwest separated by gulf, Osa peninsula lower right, central northwest-southeast volcanic mountain spine, flatter northern and Caribbean plains. Tiny off-shore fragments fixed on same backing."
+    },
+    {
+      "slug": "costa-rica",
+      "scene": "gift",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": null,
+      "notes": "Full Costa Rica diagonal northwest-southeast outline, Nicoya peninsula in southwest separated by gulf, Osa peninsula lower right, central northwest-southeast volcanic mountain spine, flatter northern and Caribbean plains. Tiny off-shore fragments fixed on same backing."
+    },
+    {
+      "slug": "costa-rica",
+      "scene": "commercial",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": null,
+      "notes": "Full Costa Rica diagonal northwest-southeast outline, Nicoya peninsula in southwest separated by gulf, Osa peninsula lower right, central northwest-southeast volcanic mountain spine, flatter northern and Caribbean plains. Tiny off-shore fragments fixed on same backing."
+    },
+    {
+      "slug": "yemen",
+      "scene": "desk",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": true,
+      "notes": "Full Yemen wide east-west mainland outline, high rugged western mountains and escarpment, dry low northern interior and gentler eastern uplands, long southern coastline. Separate Socotra island southeast and all small western Red Sea islands in own reference positions fixed to common panel."
+    },
+    {
+      "slug": "yemen",
+      "scene": "wall",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": null,
+      "notes": "Full Yemen wide east-west mainland outline, high rugged western mountains and escarpment, dry low northern interior and gentler eastern uplands, long southern coastline. Separate Socotra island southeast and all small western Red Sea islands in own reference positions fixed to common panel."
+    },
+    {
+      "slug": "yemen",
+      "scene": "gift",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": null,
+      "notes": "Full Yemen wide east-west mainland outline, high rugged western mountains and escarpment, dry low northern interior and gentler eastern uplands, long southern coastline. Separate Socotra island southeast and all small western Red Sea islands in own reference positions fixed to common panel."
+    },
+    {
+      "slug": "yemen",
+      "scene": "commercial",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": null,
+      "notes": "Full Yemen wide east-west mainland outline, high rugged western mountains and escarpment, dry low northern interior and gentler eastern uplands, long southern coastline. Separate Socotra island southeast and all small western Red Sea islands in own reference positions fixed to common panel."
+    },
+    {
+      "slug": "vietnam",
+      "scene": "desk",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": true,
+      "notes": "Full Vietnam long slender S-shaped north-south silhouette: broad mountainous northern body, extremely narrow curved central coast with western Annamite spine, wider southern Mekong delta foot curving southwest; northern delta flatter. Preserve coastal islands in same positions, all fixed to common backing. Do not add Laos, Cambodia, or separate distant unshown territories."
+    },
+    {
+      "slug": "vietnam",
+      "scene": "wall",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": null,
+      "notes": "Full Vietnam long slender S-shaped north-south silhouette: broad mountainous northern body, extremely narrow curved central coast with western Annamite spine, wider southern Mekong delta foot curving southwest; northern delta flatter. Preserve coastal islands in same positions, all fixed to common backing. Do not add Laos, Cambodia, or separate distant unshown territories."
+    },
+    {
+      "slug": "vietnam",
+      "scene": "gift",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": null,
+      "notes": "Full Vietnam long slender S-shaped north-south silhouette: broad mountainous northern body, extremely narrow curved central coast with western Annamite spine, wider southern Mekong delta foot curving southwest; northern delta flatter. Preserve coastal islands in same positions, all fixed to common backing. Do not add Laos, Cambodia, or separate distant unshown territories."
+    },
+    {
+      "slug": "vietnam",
+      "scene": "commercial",
+      "pass": true,
+      "material_scene_pass": true,
+      "geography_pass": true,
+      "continuous_backing_pass": null,
+      "notes": "Full Vietnam long slender S-shaped north-south silhouette: broad mountainous northern body, extremely narrow curved central coast with western Annamite spine, wider southern Mekong delta foot curving southwest; northern delta flatter. Preserve coastal islands in same positions, all fixed to common backing. Do not add Laos, Cambodia, or separate distant unshown territories."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 19785,
+    "slug": "cambodia",
+    "name": "Cambodia",
+    "geo": "Broad compact mainland outline matching reference, low central Tonle Sap and Mekong plains, higher Cardamom ridges in southwest, small northeastern highlands. Preserve tiny southwest coastal islands from reference."
+  },
+  {
+    "id": 19801,
+    "slug": "colombia",
+    "name": "Colombia",
+    "geo": "Full Colombia silhouette, northern narrow Guajira extension, three long Andes ranges in western half, broad smooth eastern Amazon and Orinoco lowlands, Caribbean and Pacific coasts. Do not substitute Columbia city or generic mountain mass."
+  },
+  {
+    "id": 19809,
+    "slug": "costa-rica",
+    "name": "Costa Rica",
+    "geo": "Full Costa Rica diagonal northwest-southeast outline, Nicoya peninsula in southwest separated by gulf, Osa peninsula lower right, central northwest-southeast volcanic mountain spine, flatter northern and Caribbean plains. Tiny off-shore fragments fixed on same backing."
+  },
+  {
+    "id": 19851,
+    "slug": "yemen",
+    "name": "Yemen",
+    "geo": "Full Yemen wide east-west mainland outline, high rugged western mountains and escarpment, dry low northern interior and gentler eastern uplands, long southern coastline. Separate Socotra island southeast and all small western Red Sea islands in own reference positions fixed to common panel."
+  },
+  {
+    "id": 19859,
+    "slug": "vietnam",
+    "name": "Vietnam",
+    "geo": "Full Vietnam long slender S-shaped north-south silhouette: broad mountainous northern body, extremely narrow curved central coast with western Annamite spine, wider southern Mekong delta foot curving southwest; northern delta flatter. Preserve coastal islands in same positions, all fixed to common backing. Do not add Laos, Cambodia, or separate distant unshown territories."
+  }
+]

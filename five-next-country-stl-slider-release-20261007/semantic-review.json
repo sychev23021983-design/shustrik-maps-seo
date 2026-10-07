@@ -1,0 +1,183 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-cambodia-stl-cnc",
+      "product_id": 19785,
+      "primary": "Cambodia topographic map STL",
+      "supporting": [
+        "Cambodia terrain STL",
+        "Cambodia relief map STL",
+        "Cambodia map 3D print",
+        "Cambodia CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-colombia-stl-cnc",
+      "product_id": 19801,
+      "primary": "Colombia topographic map STL",
+      "supporting": [
+        "Colombia terrain STL",
+        "Colombia relief map STL",
+        "Colombia map 3D print",
+        "Colombia CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-costa-rica-stl-cnc",
+      "product_id": 19809,
+      "primary": "Costa Rica topographic map STL",
+      "supporting": [
+        "Costa Rica terrain STL",
+        "Costa Rica relief map STL",
+        "Costa Rica map 3D print",
+        "Costa Rica CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-yemen-stl-cnc",
+      "product_id": 19851,
+      "primary": "Yemen topographic map STL",
+      "supporting": [
+        "Yemen terrain STL",
+        "Yemen relief map STL",
+        "Yemen map 3D print",
+        "Yemen CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-vietnam-stl-cnc",
+      "product_id": 19859,
+      "primary": "Vietnam topographic map STL",
+      "supporting": [
+        "Vietnam terrain STL",
+        "Vietnam relief map STL",
+        "Vietnam map 3D print",
+        "Vietnam CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    }
+  ],
+  "note": "All five exact STL clusters are absent from the saved core: editorial product mapping only. Proposed paid digital-file queries are editorial hypotheses, not measured expansion. Existing elevation/vector clusters must not be reassigned to STL.",
+  "qualitative_google_review": {
+    "date": "2026-10-07",
+    "market": "USA",
+    "language": "English",
+    "engine": "Google",
+    "mode": "Qualitative intent only; five Google pages observed plus primary seller pages in public search",
+    "limitation": "US requested via gl=us; Google footer cannot determine actual location. No measured volume, GSC position or fixed/local US ranking. Exact five clusters absent in saved05.10 core; new product groups editorial only. Belarus excluded. AI Overview statements are not product evidence.",
+    "decision": "validate first",
+    "decision_scope": "SEO impact needs later measurement; authorized existing-product content release can proceed on confirmed product facts",
+    "observations": [
+      {
+        "slug": "cambodia",
+        "name": "Cambodia",
+        "intent": "Whole-country paid terrain STL/CNC intent; distinguish free tactile map, Phnom Penh city miniature, ordinary maps and framed paper print",
+        "source": "https://www.etsy.com/listing/1457043158/cambodia-hd-topographic-terrain-3d-model",
+        "observation": "Seller listing explicitly describes Cambodia terrain STL digital download for CNC/printing",
+        "google_query": "Cambodia topographic map STL",
+        "google_settings": {
+          "hl": "en",
+          "gl": "us",
+          "pws": "0"
+        },
+        "google_footer_location": "Unknown - Cannot determine location",
+        "us_local_rank_verified": false,
+        "frequency": null,
+        "rank": null,
+        "raw_google_snapshot": "google-cambodia.txt"
+      },
+      {
+        "slug": "colombia",
+        "name": "Colombia",
+        "intent": "Whole-country terrain STL; distinguish Colombia from Columbia, community free models, flag display/outline models and physical maps",
+        "source": "https://cults3d.com/en/3d-model/architecture/topographic-map-of-colombia-3d-terrain",
+        "observation": "Paid creator listing contains Colombia.STL in ZIP and describes terrain for printing/CNC",
+        "google_query": "Colombia topographic map STL",
+        "google_settings": {
+          "hl": "en",
+          "gl": "us",
+          "pws": "0"
+        },
+        "google_footer_location": "Unknown - Cannot determine location",
+        "us_local_rank_verified": false,
+        "frequency": null,
+        "rank": null,
+        "raw_google_snapshot": "google-colombia.txt"
+      },
+      {
+        "slug": "costa-rica",
+        "name": "Costa Rica",
+        "intent": "Whole-country terrain STL; distinguish free MakerWorld, regional/provincial files, paper maps and physical wall art",
+        "source": "https://cults3d.com/en/3d-model/architecture/topographic-map-of-costa-rica-3d-terrain-topomaps3d",
+        "observation": "Paid creator listing contains Costa Rica.STL in ZIP; alternate provincial listing is a separate intent",
+        "google_query": "Costa Rica topographic map STL",
+        "google_settings": {
+          "hl": "en",
+          "gl": "us",
+          "pws": "0"
+        },
+        "google_footer_location": "Unknown - Cannot determine location",
+        "us_local_rank_verified": false,
+        "frequency": null,
+        "rank": null,
+        "raw_google_snapshot": "google-costa-rica.txt"
+      },
+      {
+        "slug": "yemen",
+        "name": "Yemen",
+        "intent": "Whole-country terrain STL including shown islands; exclude outline-only map, free topographic coin, stock render and paper/GIS maps",
+        "source": "https://www.etsy.com/listing/1457217276/yemen-hd-topographic-terrain-3d-model",
+        "observation": "Seller offers Yemen topographic terrain STL digital file via download link; no transfer of seller readiness claims",
+        "google_query": "Yemen topographic map STL",
+        "google_settings": {
+          "hl": "en",
+          "gl": "us",
+          "pws": "0"
+        },
+        "google_footer_location": "Unknown - Cannot determine location",
+        "us_local_rank_verified": false,
+        "frequency": null,
+        "rank": null,
+        "raw_google_snapshot": "google-yemen.txt"
+      },
+      {
+        "slug": "vietnam",
+        "name": "Vietnam",
+        "intent": "Whole-country terrain STL; separate free MakerWorld/simplified island-removed variant, city miniature, GIS maps and stock renders",
+        "source": "https://www.etsy.com/ca/listing/1600306493/vietnam-topographic-map-3d-model-file",
+        "observation": "Seller identifies terrain STL digital download for CNC/printing delivered through PDF with download link",
+        "google_query": "Vietnam topographic map STL",
+        "google_settings": {
+          "hl": "en",
+          "gl": "us",
+          "pws": "0"
+        },
+        "google_footer_location": "Unknown - Cannot determine location",
+        "us_local_rank_verified": false,
+        "frequency": null,
+        "rank": null,
+        "raw_google_snapshot": "google-vietnam.txt"
+      }
+    ]
+  }
+}
