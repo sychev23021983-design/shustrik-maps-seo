@@ -1,0 +1,1608 @@
+{
+  "pass": true,
+  "desktop": "1440x1000",
+  "mobile": "390x844",
+  "next_previous_and_dots_passed": 20,
+  "samples": [
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Belgium terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/belgium-desk-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Belgium terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9403,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Belgium terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/belgium-wall-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Belgium terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9403,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Belgium terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/belgium-gift-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Belgium terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9403,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Belgium terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/belgium-commercial-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Belgium terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9403,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Belgium terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/belgium-desk-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Belgium terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9403,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Belgium terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/belgium-wall-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Belgium terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9403,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Belgium terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/belgium-gift-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Belgium terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9403,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Belgium terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/belgium-commercial-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Belgium terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9403,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Jamaica terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/jamaica-desk-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Jamaica terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9406,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Jamaica terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/jamaica-wall-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Jamaica terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9406,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Jamaica terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/jamaica-gift-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Jamaica terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9406,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Jamaica terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/jamaica-commercial-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Jamaica terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9406,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Jamaica terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/jamaica-desk-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Jamaica terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9406,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Jamaica terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/jamaica-wall-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Jamaica terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9406,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Jamaica terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/jamaica-gift-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Jamaica terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9406,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Jamaica terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/jamaica-commercial-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Jamaica terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9406,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Jordan terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/jordan-desk-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Jordan terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9408,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Jordan terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/jordan-wall-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Jordan terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9408,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Jordan terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/jordan-gift-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Jordan terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9408,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Jordan terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/jordan-commercial-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Jordan terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9408,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Jordan terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/jordan-desk-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Jordan terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9408,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Jordan terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/jordan-wall-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Jordan terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9408,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Jordan terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/jordan-gift-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Jordan terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9408,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Jordan terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/jordan-commercial-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Jordan terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9408,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Kazakhstan terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kazakhstan-desk-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Kazakhstan terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9409,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Kazakhstan terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kazakhstan-wall-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Kazakhstan terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9409,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Kazakhstan terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kazakhstan-gift-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Kazakhstan terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9409,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Kazakhstan terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kazakhstan-commercial-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Kazakhstan terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9409,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Kazakhstan terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kazakhstan-desk-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Kazakhstan terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9409,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Kazakhstan terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kazakhstan-wall-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Kazakhstan terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9409,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Kazakhstan terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kazakhstan-gift-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Kazakhstan terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9409,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Kazakhstan terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kazakhstan-commercial-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Kazakhstan terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9409,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Kosovo terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kosovo-desk-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Kosovo terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9410,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Kosovo terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kosovo-wall-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Kosovo terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9410,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Kosovo terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kosovo-gift-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Kosovo terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9410,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Kosovo terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kosovo-commercial-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Kosovo terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9410,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Kosovo terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kosovo-desk-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Kosovo terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9410,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Kosovo terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kosovo-wall-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Kosovo terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9410,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Kosovo terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kosovo-gift-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Kosovo terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9410,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Kosovo terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kosovo-commercial-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Kosovo terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9410,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Kuwait terrain relief fully supported on a solid walnut desktop backing panel. All separate geography fragments are fixed to the same continuous backing.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kuwait-desk-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Kuwait terrain relief fully supported on a solid walnut desktop backing panel. All separate geography fragments are fixed to the same continuous backing.",
+      "id": 9411,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Kuwait terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kuwait-wall-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Kuwait terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9411,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Kuwait terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kuwait-gift-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Kuwait terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9411,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Kuwait terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kuwait-commercial-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Kuwait terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9411,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Kuwait terrain relief fully supported on a solid walnut desktop backing panel. All separate geography fragments are fixed to the same continuous backing.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kuwait-desk-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Kuwait terrain relief fully supported on a solid walnut desktop backing panel. All separate geography fragments are fixed to the same continuous backing.",
+      "id": 9411,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Kuwait terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kuwait-wall-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Kuwait terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9411,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Kuwait terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kuwait-gift-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Kuwait terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9411,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Kuwait terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kuwait-commercial-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Kuwait terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9411,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Kyrgyzstan terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kyrgyzstan-desk-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Kyrgyzstan terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9412,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Kyrgyzstan terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kyrgyzstan-wall-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Kyrgyzstan terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9412,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Kyrgyzstan terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kyrgyzstan-gift-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Kyrgyzstan terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9412,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Kyrgyzstan terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kyrgyzstan-commercial-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Kyrgyzstan terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9412,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Kyrgyzstan terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kyrgyzstan-desk-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Kyrgyzstan terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9412,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Kyrgyzstan terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kyrgyzstan-wall-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Kyrgyzstan terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9412,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Kyrgyzstan terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kyrgyzstan-gift-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Kyrgyzstan terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9412,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Kyrgyzstan terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/kyrgyzstan-commercial-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Kyrgyzstan terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9412,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Laos terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/laos-desk-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Laos terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9420,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Laos terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/laos-wall-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Laos terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9420,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Laos terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/laos-gift-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Laos terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9420,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Laos terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/laos-commercial-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Laos terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9420,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Laos terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/laos-desk-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Laos terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9420,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Laos terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/laos-wall-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Laos terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9420,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Laos terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/laos-gift-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Laos terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9420,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Laos terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/laos-commercial-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Laos terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9420,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Liberia terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/liberia-desk-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Liberia terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9421,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Liberia terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/liberia-wall-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Liberia terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9421,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Liberia terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/liberia-gift-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Liberia terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9421,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Liberia terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/liberia-commercial-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Liberia terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9421,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Liberia terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/liberia-desk-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Liberia terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9421,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Liberia terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/liberia-wall-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Liberia terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9421,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Liberia terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/liberia-gift-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Liberia terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9421,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Liberia terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/liberia-commercial-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Liberia terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9421,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Libya terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/libya-desk-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Libya terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9422,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Libya terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/libya-wall-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Libya terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9422,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Libya terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/libya-gift-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Libya terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9422,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Libya terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/libya-commercial-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Libya terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9422,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Libya terrain relief fully supported on a solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/libya-desk-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Libya terrain relief fully supported on a solid walnut desktop backing panel.",
+      "id": 9422,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Libya terrain relief in an oak frame with sage-green backing above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/libya-wall-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Libya terrain relief in an oak frame with sage-green backing above a home console.",
+      "id": 9422,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory Libya terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/libya-gift-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory Libya terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "id": 9422,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete Libya terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/libya-commercial-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete Libya terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+      "id": 9422,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 390,
+      "visible_count": 1
+    }
+  ]
+}
