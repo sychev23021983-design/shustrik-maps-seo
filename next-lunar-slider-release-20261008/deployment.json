@@ -1,0 +1,10 @@
+{
+  "commit": "a785368d7163127fd1927f5c7757156315a37a4b",
+  "archive_sha256": "e784b28a4db3717f1d5c9a83bad5774c80ece2278bbc2785dac1675ae8132bba",
+  "remote_archive_sha256": "e784b28a4db3717f1d5c9a83bad5774c80ece2278bbc2785dac1675ae8132bba",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/next-lunar-a785368",
+  "mode": "external",
+  "container": "shustrik-maps-wordpress-1",
+  "lint_pass": true
+}

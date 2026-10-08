@@ -184,7 +184,7 @@ Browser tab: 10, Title: "Sheikh Zayed bust STL - Google Search", URL: "https://w
 								183 text Unknown
 							184 container
 								185 text  -  Can't determine location
-						186 text  - 
+						186 text  -
 						187 button Update location
 							188 text Update location
 					189 container fsl

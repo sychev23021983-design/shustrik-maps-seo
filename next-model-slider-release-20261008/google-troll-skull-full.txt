@@ -144,7 +144,7 @@ Browser tab: 10, Title: "troll face skull STL - Google Search", URL: "https://ww
 								132 text Unknown
 							133 container
 								134 text  -  Can't determine location
-						135 text  - 
+						135 text  -
 						136 button Update location
 							137 text Update location
 					138 container fsl

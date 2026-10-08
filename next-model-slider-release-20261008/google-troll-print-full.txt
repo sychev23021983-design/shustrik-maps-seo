@@ -129,7 +129,7 @@ Browser tab: 10, Title: "trollface skull 3D print - Google Search", URL: "https:
 								128 text Unknown
 							129 container
 								130 text  -  Can't determine location
-						131 text  - 
+						131 text  -
 						132 button Update location
 							133 text Update location
 					134 container fsl

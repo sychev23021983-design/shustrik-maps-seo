@@ -1,0 +1,3669 @@
+{
+  "published_products": 516,
+  "remaining_by_stl_icon": [
+    {
+      "id": 9512,
+      "title": "Belarus Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "belarus-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9516,
+      "title": "Denmark Topographic Map STL model",
+      "slug": "denmark-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16743,
+      "title": "Moon Surface 3D Model",
+      "slug": "moon-surface-3d-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16812,
+      "title": "Abstract Female Face Silhouette 3D Model",
+      "slug": "abstract-female-face-silhouette-3d-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": false
+    }
+  ],
+  "all_products": [
+    {
+      "id": 9382,
+      "title": "Afghanistan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "afghanistan-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9383,
+      "title": "Relief map of France",
+      "slug": "relief-map-of-france",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9384,
+      "title": "Crete Island 3D Topographic Map STL – Printable Relief Model for 3D Printing & CNC",
+      "slug": "crete-island-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9498,
+      "title": "3D Printed Earth STL Model – Exaggerated Relief Topography for 3D Printing & CNC",
+      "slug": "earth-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9385,
+      "title": "Africa Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "africa-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9386,
+      "title": "Minsk City 3D model",
+      "slug": "minsk-city-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9387,
+      "title": "Corsica Island STL model",
+      "slug": "corsica-island-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9499,
+      "title": "Cyprus Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "cyprus-island-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9388,
+      "title": "Idaho Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-idaho-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9389,
+      "title": "Washington State 1883 Historical Relief Map",
+      "slug": "washington-state-1883-historical-relief-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9390,
+      "title": "Antarctica Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "antarctica-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9391,
+      "title": "Australia Topographic Map STL– 3D Model for 3D Printing & CNC Carving",
+      "slug": "australia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9392,
+      "title": "North America STL model",
+      "slug": "north-america-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9393,
+      "title": "South America 3D STL Map – Topographic Model for 3D Printing & CNC",
+      "slug": "south-america-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9395,
+      "title": "Asia Topographic Map STL – 3D Terrain Model of Asia for 3D Printing & CNC",
+      "slug": "asia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9396,
+      "title": "Albania Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "albania-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9397,
+      "title": "Algeria Topographic Map - 3D Model for 3D Printing & CNC Carving",
+      "slug": "algeria-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9398,
+      "title": "Andorra Topographic Map STL – 3D Terrain Model for 3D Printing & CNC Milling",
+      "slug": "andorra-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9399,
+      "title": "Angola Topographic Map – 3D Terrain Model for Printing & CNC Carving",
+      "slug": "angola-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9500,
+      "title": "Argentina Topographic Map – 3D Terrain Model for Printing & CNC",
+      "slug": "argentina-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9400,
+      "title": "Armenia Topographic Map – 3D Terrain Model for Printing & CNC Carving",
+      "slug": "armenia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9501,
+      "title": "Austria Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "ausrtia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9401,
+      "title": "Azerbaijan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "azerbaijan-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9402,
+      "title": "Bangladesh Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "bangladesh-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9512,
+      "title": "Belarus Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "belarus-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9403,
+      "title": "Belgium Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "belgium-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9513,
+      "title": "Bosnia & Herzegovina Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "bosnia-and-herzegovina-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9514,
+      "title": "Brazil Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "brazil-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9515,
+      "title": "Bulgaria Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "bulgaria-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9502,
+      "title": "DR Congo Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "democratic-republic-of-congo-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9516,
+      "title": "Denmark Topographic Map STL model",
+      "slug": "denmark-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9517,
+      "title": "Djibouti Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "djibouti-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9404,
+      "title": "Dominica Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "dominica-island-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9518,
+      "title": "Dominican Republic Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "dominican-republic-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9519,
+      "title": "Alabama Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-alabama-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9503,
+      "title": "State of Alaska STL model",
+      "slug": "state-of-alaska-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9520,
+      "title": "Arizona Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-arizona-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9521,
+      "title": "Arkansas Topographic Map STL Models – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-arkansas-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9522,
+      "title": "Topographic California Map STL Model",
+      "slug": "state-of-california-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9504,
+      "title": "Colorado Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-colorado-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9523,
+      "title": "Connecticut Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-connecticut-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9505,
+      "title": "Topographic Map Delaware STL Model",
+      "slug": "state-of-delaware-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9524,
+      "title": "Florida Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-florida-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9506,
+      "title": "Ecuador Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "ecuador-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9525,
+      "title": "Egypt Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "egypt-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9507,
+      "title": "El Salvador Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "el-salvador-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9526,
+      "title": "Equatorial Guinea STL model",
+      "slug": "equatorial-guinea-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9508,
+      "title": "Eritrea STL model",
+      "slug": "eritrea-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9509,
+      "title": "Estonia STL model",
+      "slug": "estonia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9528,
+      "title": "Ethiopia STL model",
+      "slug": "ethiopia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9405,
+      "title": "France Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "france-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9406,
+      "title": "Jamaica Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "jamaica-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9407,
+      "title": "Japan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "japan-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9408,
+      "title": "Jordan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "jordan-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9409,
+      "title": "Kazakhstan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "kazakhstan-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9410,
+      "title": "Kosovo Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "kosovo-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9411,
+      "title": "Kuwait STL model",
+      "slug": "kuwait-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9412,
+      "title": "Kyrgyzstan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "kyrgyzstan-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9413,
+      "title": "Topographic Map of Georgia USA STL Model",
+      "slug": "state-of-georgia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9414,
+      "title": "Hawaii Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-hawaii-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9415,
+      "title": "Illinois Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-illinois-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9416,
+      "title": "Indiana Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-indiana-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9417,
+      "title": "Iowa Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-iowa-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9418,
+      "title": "Kansas Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-kansas-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9419,
+      "title": "Kentucky Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-kentucky-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9420,
+      "title": "Laos Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "laos-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9421,
+      "title": "Liberia STL model",
+      "slug": "liberia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9422,
+      "title": "Libya STL model",
+      "slug": "libya-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9423,
+      "title": "Myanmar STL model",
+      "slug": "myanmar-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9424,
+      "title": "Turkey Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "turkey-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9425,
+      "title": "Louisiana Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-louisiana-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9426,
+      "title": "Maine Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-maine-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9427,
+      "title": "Maryland Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-maryland-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9428,
+      "title": "Relief map of Italy",
+      "slug": "relief-map-of-italy",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9429,
+      "title": "Relief map of Taiwan",
+      "slug": "relief-map-of-taiwan",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9430,
+      "title": "Massachusetts Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-massachusetts-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9431,
+      "title": "Michigan Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-michigan-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9432,
+      "title": "Relief map of Japan",
+      "slug": "relief-map-of-japan",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9510,
+      "title": "Minnesota Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-minnesota-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9529,
+      "title": "Relief map of Afghanistan",
+      "slug": "relief-map-of-afghanistan",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9433,
+      "title": "Relief map of Slovakia",
+      "slug": "relief-map-of-slovakia",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9434,
+      "title": "Relief map of Ukraine",
+      "slug": "relief-map-of-ukraine",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9435,
+      "title": "New Hampshire Topographic Map STL Model",
+      "slug": "state-of-new-hampshire-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9436,
+      "title": "Relief map of Belarus",
+      "slug": "relief-map-of-belarus",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9437,
+      "title": "Relief map of Bulgaria",
+      "slug": "relief-map-of-bulgaria",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9438,
+      "title": "Relief map of Hungary",
+      "slug": "relief-map-of-hungary",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9439,
+      "title": "Relief map of Kosovo",
+      "slug": "relief-map-of-kosovo",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9440,
+      "title": "Relief map of Moldova",
+      "slug": "relief-map-of-moldova",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9441,
+      "title": "Relief map of Austria",
+      "slug": "relief-map-of-austria",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9442,
+      "title": "Relief map of Germany",
+      "slug": "relief-map-of-germany",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9443,
+      "title": "Relief map of Switzerland",
+      "slug": "relief-map-of-switzerland",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9444,
+      "title": "New Jersey Topographic Map STL Model",
+      "slug": "state-of-new-jersey-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9445,
+      "title": "New Mexico Topographic Map STL Model",
+      "slug": "state-of-new-mexico-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9446,
+      "title": "New York Topographic Map STL Model",
+      "slug": "state-of-new-york-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9447,
+      "title": "North Carolina Topographic Map STL Model",
+      "slug": "state-of-north-carolina-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9448,
+      "title": "North Dakota Topographic Map STL Model",
+      "slug": "state-of-north-dakota-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9449,
+      "title": "Ohio Topographic Map STL Model",
+      "slug": "state-of-ohio-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9450,
+      "title": "Oklahoma Topographic Map STL Model",
+      "slug": "state-of-oklahoma-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9451,
+      "title": "State of Oregon STL model",
+      "slug": "state-of-oregon-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9452,
+      "title": "State of Pennsylvania STL model",
+      "slug": "state-of-pennsylvania-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9453,
+      "title": "State of Rhode Island STL model",
+      "slug": "state-of-rhode-island-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9454,
+      "title": "State of South Carolina STL model",
+      "slug": "state-of-south-carolina-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9455,
+      "title": "State of South Dakota STL model",
+      "slug": "state-of-south-dakota-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9456,
+      "title": "State of Tennessee STL model",
+      "slug": "state-of-tennessee-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9457,
+      "title": "State of Texas STL model",
+      "slug": "state-of-texas-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9458,
+      "title": "State of Utah STL model",
+      "slug": "state-of-utah-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9459,
+      "title": "State of Vermont STL model",
+      "slug": "state-of-vermont-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9460,
+      "title": "State of Virginia STL model",
+      "slug": "state-of-virginia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9461,
+      "title": "State of Washington STL model",
+      "slug": "state-of-washington-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9462,
+      "title": "State of West Virginia STL model",
+      "slug": "state-of-west-virginia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9463,
+      "title": "State of Wisconsin STL model",
+      "slug": "state-of-wisconsin-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9464,
+      "title": "State of Wyoming STL model",
+      "slug": "state-of-wyoming-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9465,
+      "title": "Ukraine Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "ukraine-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9466,
+      "title": "Finland Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "finland-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9467,
+      "title": "Germany Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "germany-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9468,
+      "title": "Italy Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "italy-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9469,
+      "title": "Mexico Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "mexico-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9470,
+      "title": "Topographic map New Zealand STL model",
+      "slug": "new-zealand-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9471,
+      "title": "Norway Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "norway-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9472,
+      "title": "Ireland Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "ireland-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9473,
+      "title": "Spain Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "spain-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9474,
+      "title": "Sweden Topographic Map – STL Model for 3D Printing & CNC",
+      "slug": "sweden-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9475,
+      "title": "North America 3D Topographic Map STL Model – Lambert Conformal Conic Projection",
+      "slug": "north-america-lambert-conformal-conic-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9476,
+      "title": "Portugal Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "portugal-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9477,
+      "title": "Romania Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "romania-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9478,
+      "title": "China Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "china-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9479,
+      "title": "Czech Republic Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "czech-republic-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9480,
+      "title": "Iceland Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "iceland-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9481,
+      "title": "Luxembourg Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "luxembourg-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9482,
+      "title": "Latvia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "latvia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9483,
+      "title": "Lithuania Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "lithuania-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9484,
+      "title": "Poland Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "poland-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9485,
+      "title": "Hungary Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "hungary-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9486,
+      "title": "Serbia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "serbia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9487,
+      "title": "Slovakia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "slovakia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9488,
+      "title": "Slovenia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "slovenia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9489,
+      "title": "Switzerland Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "switzerland-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9490,
+      "title": "Moldova Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "moldova-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9491,
+      "title": "Netherlands Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "netherlands-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9492,
+      "title": "Montenegro Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "montenegro-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9493,
+      "title": "North Macedonia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "north-macedonia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9494,
+      "title": "Croatia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "croatia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9495,
+      "title": "Liechtenstein Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "liechtenstein-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9496,
+      "title": "Greece Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "greece-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 9497,
+      "title": "Physical features of the United States",
+      "slug": "physical-features-of-the-united-states",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 9985,
+      "title": "Italy terrain 3D model",
+      "slug": "3d-model-of-italy-relief",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10043,
+      "title": "Africa C4D Terrain Model with TIF Textures",
+      "slug": "3d-model-of-africa-relief",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10078,
+      "title": "Ukraine map 3D model",
+      "slug": "ukraine-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10102,
+      "title": "USA map 3D model",
+      "slug": "usa-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10125,
+      "title": "New Zealand Elevation 3D Model",
+      "slug": "3d-map-new-zealand",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10140,
+      "title": "Antarctica Elevation Map 3D Model",
+      "slug": "antarctica-with-ice-3d-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 10161,
+      "title": "Portugal Terrain 3D Model in C4D and OBJ",
+      "slug": "3d-model-of-portugal-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10181,
+      "title": "Relief map of Romania",
+      "slug": "relief-map-of-romania",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10186,
+      "title": "Australia terrain 3D model",
+      "slug": "australia-terrain-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10216,
+      "title": "3D Model of Europe (C4D, OBJ) with High-Res Relief & Textures",
+      "slug": "europe-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10238,
+      "title": "World Map 3D Model",
+      "slug": "world-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10258,
+      "title": "North Pole 3D model",
+      "slug": "north-pole-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10276,
+      "title": "Corsica and Sardinia 3D model",
+      "slug": "corsica-and-sardinia-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10324,
+      "title": "World Map Dymaxion 3D Model",
+      "slug": "world-map-dymaxion-3d-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 10342,
+      "title": "North America 3D model",
+      "slug": "north-america-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10362,
+      "title": "3D Model of South America",
+      "slug": "3d-map-of-south-america-c4d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10394,
+      "title": "Cyprus terrain without water 3D model",
+      "slug": "cyprus-without-water-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10437,
+      "title": "Italy hydrographic and orografic map 1853",
+      "slug": "italy-hydrographic-and-orografic-map-1853",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10523,
+      "title": "Crete terrain without water 3D model",
+      "slug": "crete-relief-without-water-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10543,
+      "title": "Greenland terrain without water 3D model",
+      "slug": "greenland-relief-without-water-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10560,
+      "title": "Bali 3D terrain without water",
+      "slug": "bali-3d-relief-without-water",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10577,
+      "title": "Japan 3D terrain without water",
+      "slug": "japan-3d-relief-without-water",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10595,
+      "title": "Hawaii 3D terrain without water",
+      "slug": "hawaii-3d-relief-without-water",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10612,
+      "title": "Taiwan 3D terrain without water",
+      "slug": "taiwan-3d-relief-without-water",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10632,
+      "title": "Sicily 3D relief without water",
+      "slug": "sicily-3d-relief-without-water",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10643,
+      "title": "Map of South America 1819",
+      "slug": "map-of-south-america-1819",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10659,
+      "title": "Map of Switzerland 1892",
+      "slug": "map-of-switzerland-1892",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10668,
+      "title": "Grand Canyon 3D model",
+      "slug": "the-grand-canyon-in-arizona-3d",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 10723,
+      "title": "Appalachian Trail 1981 Relief Map",
+      "slug": "appalachian-trail-1981-relief-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10732,
+      "title": "Nevada Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-nevada-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 10743,
+      "title": "Nebraska Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-nebraska-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 10753,
+      "title": "Montana Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-montana-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 10763,
+      "title": "Mississippi Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-mississippi-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 10772,
+      "title": "Missouri Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-missouri-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 10781,
+      "title": "Relief map of Greece",
+      "slug": "relief-map-of-greece",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10824,
+      "title": "Australia Relief Map 3D model",
+      "slug": "relief-map-of-australia-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10853,
+      "title": "Relief map of the state of California 3D model",
+      "slug": "relief-map-of-the-state-of-california-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10878,
+      "title": "Relief map of Germany 3D model",
+      "slug": "relief-map-of-germany-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10897,
+      "title": "Relief map of Turkey 3D model",
+      "slug": "relief-map-of-turkey-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10920,
+      "title": "Relief map of Austria 3D model",
+      "slug": "relief-map-of-austria-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10943,
+      "title": "Relief map of France 3D model",
+      "slug": "relief-map-of-france-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10965,
+      "title": "Relief map of Switzerland 3D model",
+      "slug": "relief-map-of-switzerland-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 10990,
+      "title": "Slovakia Terrain 3D model",
+      "slug": "slovakia-terrain-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11013,
+      "title": "Taiwan Terrain 3D model",
+      "slug": "taiwan-terrain-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11039,
+      "title": "Afghanistan Terrain Model in C4D and OBJ",
+      "slug": "afghanistan-terrain-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11075,
+      "title": "Hawaii Terrain 3D model",
+      "slug": "hawaii-terrain-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11099,
+      "title": "China 3d model",
+      "slug": "china-terrain-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11159,
+      "title": "Iceland Terrain Without Water 3D Model",
+      "slug": "iceland-terrain-without-water-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11334,
+      "title": "Greece 3D model terrain",
+      "slug": "greece-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11358,
+      "title": "Japan 3D model terrain",
+      "slug": "japan-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11382,
+      "title": "Azerbaijan Terrain Model in C4D and OBJ",
+      "slug": "azerbaijan-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11410,
+      "title": "Belarus 3D model terrain",
+      "slug": "belarus-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11434,
+      "title": "Egypt 3D model terrain",
+      "slug": "egypt-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11460,
+      "title": "Brazil 3D model terrain",
+      "slug": "brazil-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11517,
+      "title": "Earth 3D model Terrain Without Water",
+      "slug": "earth-3d-model-terrain-without-water",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11551,
+      "title": "Montana 3D model terrain",
+      "slug": "montana-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11579,
+      "title": "Indiana 3D model terrain",
+      "slug": "indiana-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11719,
+      "title": "Crimea 3D Model Terrain",
+      "slug": "crimea-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11786,
+      "title": "Arabian Peninsula 3D Model Terrain",
+      "slug": "arabian-peninsula-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11819,
+      "title": "Colorado State 3D Model Terrain Map",
+      "slug": "colorado-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11845,
+      "title": "Africa C4D Terrain Model with Texture Maps",
+      "slug": "africa-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11882,
+      "title": "Australia C4D Terrain Model with Texture Maps",
+      "slug": "australia-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11912,
+      "title": "South America 3D Model Terrain",
+      "slug": "south-america-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11943,
+      "title": "China 3D Model Terrain",
+      "slug": "china-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 11973,
+      "title": "United States 3D Model Terrain",
+      "slug": "united-states-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12026,
+      "title": "Japan Map 3D model",
+      "slug": "japan-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12050,
+      "title": "Ukraine 3D Model Terrain",
+      "slug": "ukraine-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12076,
+      "title": "Germany 3D Model Terrain",
+      "slug": "germany-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12106,
+      "title": "Italy 3D Model Terrain",
+      "slug": "italy-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12131,
+      "title": "France 3D Model Terrain",
+      "slug": "france-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12159,
+      "title": "Turkey 3D Model Terrain",
+      "slug": "turkey-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12186,
+      "title": "Switzerland 3D Model Terrain",
+      "slug": "switzerland-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12209,
+      "title": "Greece 3D Model Terrain",
+      "slug": "greece-3d-model-terrain-2",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12235,
+      "title": "Canada 3D Model Terrain",
+      "slug": "canada-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12262,
+      "title": "Mexico 3D Model Terrain",
+      "slug": "mexico-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12290,
+      "title": "Alberta 3D Model Terrain",
+      "slug": "alberta-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12313,
+      "title": "British Columbia 3D Model Terrain",
+      "slug": "british-columbia-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12335,
+      "title": "Manitoba 3D Model Terrain",
+      "slug": "manitoba-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12370,
+      "title": "Alabama State Terrain Map 3D Model",
+      "slug": "alabama-state-terrain-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12394,
+      "title": "Arizona State Terrain Map 3D Model",
+      "slug": "arizona-state-terrain-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12421,
+      "title": "Arkansas State Terrain Map 3D Model",
+      "slug": "arkansas-state-terrain-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12446,
+      "title": "California State Terrain Map 3D Model",
+      "slug": "california-state-terrain-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12468,
+      "title": "Idaho State Terrain Map 3D Model",
+      "slug": "idaho-state-terrain-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12491,
+      "title": "Montana State Terrain Map 3D Model",
+      "slug": "montana-state-terrain-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12517,
+      "title": "Oregon State Terrain Map 3D Model",
+      "slug": "oregon-state-terrain-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12543,
+      "title": "Nevada State Terrain Map 3D Model",
+      "slug": "nevada-state-terrain-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12567,
+      "title": "New Mexico State Terrain Map 3D Model",
+      "slug": "new-mexico-state-terrain-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12594,
+      "title": "Utah State Terrain Map 3D Model",
+      "slug": "utah-state-terrain-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12618,
+      "title": "Jordan 3D Model Terrain Map",
+      "slug": "jordan-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12646,
+      "title": "Washington 3D Model State Terrain Map",
+      "slug": "washington-3d-model-state-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12672,
+      "title": "United Arab Emirates 3D Model Terrain Map",
+      "slug": "united-arab-emirates-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12697,
+      "title": "Israel 3D Model Terrain Map",
+      "slug": "israel-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12721,
+      "title": "Saudi Arabia 3D Model Terrain Map",
+      "slug": "saudi-arabia-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12756,
+      "title": "Kansas 3D Model State Terrain Map",
+      "slug": "kansas-3d-model-state-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12782,
+      "title": "Texas 3D Model State Terrain Map",
+      "slug": "texas-3d-model-state-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12807,
+      "title": "Azerbaijan OBJ Terrain Model with Texture Maps",
+      "slug": "azerbaijan-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12835,
+      "title": "Mongolia 3D Model Terrain Map",
+      "slug": "mongolia-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12871,
+      "title": "India 3D Model Terrain Map",
+      "slug": "india-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12895,
+      "title": "Iran 3D Model Terrain 3D Map",
+      "slug": "iran-3d-model-terrain-3d-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12939,
+      "title": "Kazakhstan 3D Model Terrain Map",
+      "slug": "kazakhstan-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12965,
+      "title": "Russia 3D Model Terrain Map",
+      "slug": "russia-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 12994,
+      "title": "Laos 3D Model Terrain Map",
+      "slug": "laos-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 13017,
+      "title": "Afghanistan OBJ Terrain Model with Texture Maps",
+      "slug": "afghanistan-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 13041,
+      "title": "Armenia 3D Model Terrain Map",
+      "slug": "armenia-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 13063,
+      "title": "Iraq 3D Model Terrain Map",
+      "slug": "iraq-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 13087,
+      "title": "Syria 3D Model Terrain Map",
+      "slug": "syria-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 13113,
+      "title": "Yemen 3D Model Terrain Map",
+      "slug": "yemen-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 13136,
+      "title": "Austria 3D Model Terrain Map",
+      "slug": "austria-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 13160,
+      "title": "Belgium 3D Model Terrain Map",
+      "slug": "belgium-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 13187,
+      "title": "United Kingdom 3D Model Terrain Map",
+      "slug": "united-kingdom-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 13211,
+      "title": "Albania 3D Model Terrain Map",
+      "slug": "albania-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 13233,
+      "title": "Portugal C4D Terrain Model with Texture Maps",
+      "slug": "portugal-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 13257,
+      "title": "Spain 3D Model Terrain Map",
+      "slug": "spain-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 13287,
+      "title": "Romania 3D Model Terrain Map",
+      "slug": "romania-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 13313,
+      "title": "New Zealand Terrain Map 3D Model",
+      "slug": "new-zealand-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 13338,
+      "title": "Asia 3D Model Terrain",
+      "slug": "asia-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 13363,
+      "title": "Europe Terrain Map 3D Model",
+      "slug": "europe-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 13390,
+      "title": "North America Map 3D Model",
+      "slug": "north-america-3d-model-terrain",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 14618,
+      "title": "Libya 3D Model Terrain Map",
+      "slug": "libya-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 14662,
+      "title": "Algeria 3D Model Terrain Map",
+      "slug": "algeria-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 14700,
+      "title": "Nebraska 3D Model State Terrain Map",
+      "slug": "nebraska-3d-model-state-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 14727,
+      "title": "Iowa 3D Model State Terrain Map",
+      "slug": "iowa-3d-model-state-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 14772,
+      "title": "South Dakota 3D Model State Terrain Map",
+      "slug": "south-dakota-3d-model-state-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 14796,
+      "title": "North Dakota 3D Model State Terrain Map",
+      "slug": "north-dakota-3d-model-state-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 14822,
+      "title": "Wyoming 3D Model State Terrain Map",
+      "slug": "wyoming-3d-model-state-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 14848,
+      "title": "Bulgaria 3D Model Terrain Map",
+      "slug": "bulgaria-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 14870,
+      "title": "North Korea 3D Model Terrain Map",
+      "slug": "north-korea-3d-model-terrain-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 15427,
+      "title": "India 3d map",
+      "slug": "india-3d-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 15452,
+      "title": "United Kingdom & Ireland 3d map",
+      "slug": "united-kingdom-3d-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 15461,
+      "title": "Vietnam 3D Map",
+      "slug": "vietnam-3d-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 15469,
+      "title": "Israel 3D Map",
+      "slug": "israel-3d-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 15483,
+      "title": "Bangladesh 3D Map",
+      "slug": "bangladesh-3d-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 15492,
+      "title": "Pakistan 3D Map",
+      "slug": "pakistan-3d-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 15518,
+      "title": "Serbia 3D Map",
+      "slug": "serbia-3d-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 15527,
+      "title": "Sheikh Zayed 3D Model",
+      "slug": "sheik-zayed-3d-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 15548,
+      "title": "China 3D Map",
+      "slug": "china-3d-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 15665,
+      "title": "50 United States of America 3D Model",
+      "slug": "50-united-states-of-america-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 15678,
+      "title": "Burj Al Arab Hotel 3D Model",
+      "slug": "burj-al-arab-hotel-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 15698,
+      "title": "Burj Khalifa Dubai 3D Model",
+      "slug": "burj-khalifa-dubai-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 15811,
+      "title": "Papua New Guinea STL model",
+      "slug": "papua-new-guinea-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 15954,
+      "title": "World Earth Map 3D Model",
+      "slug": "world-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 15996,
+      "title": "Mercury Planet 3D Model",
+      "slug": "mercury-planet-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16015,
+      "title": "Venus Planet 3D Model",
+      "slug": "venus-planet-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16033,
+      "title": "Mars Planet 3D Model",
+      "slug": "mars-planet-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16047,
+      "title": "Jupiter Planet 3D Model",
+      "slug": "jupiter-planet-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16064,
+      "title": "Pluto Dwarf Planet 3D Model",
+      "slug": "pluto-dwarf-planet-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16088,
+      "title": "Neptune Planet 3D Model",
+      "slug": "neptune-planet-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16110,
+      "title": "Moon 3D Model",
+      "slug": "moon-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16131,
+      "title": "Moon STL file",
+      "slug": "moon-stl-file",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 16151,
+      "title": "3D Model of Saturn",
+      "slug": "3d-model-of-saturn",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16165,
+      "title": "Uranus 3D Model",
+      "slug": "uranus-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16379,
+      "title": "Zion Canyon Trail 3D Model",
+      "slug": "zion-canyon-trail-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 16409,
+      "title": "Saskatchewan Terrain 3D Map 3D Model",
+      "slug": "saskatchewan-terrain-3d-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16433,
+      "title": "Ontario Terrain 3D Map 3D Model",
+      "slug": "ontario-terrain-3d-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16481,
+      "title": "Quebec Terrain 3D Map 3D Model",
+      "slug": "quebec-terrain-3d-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16505,
+      "title": "New Brunswik Terrain 3D Map 3D Model",
+      "slug": "new-brunswik-terrain-3d-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16528,
+      "title": "Nova Scotia Terrain 3D Map 3D Model",
+      "slug": "nova-scotia-terrain-3d-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16552,
+      "title": "Prince Edward Island Terrain 3D Map 3D Model",
+      "slug": "prince-edward-island-terrain-3d-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16575,
+      "title": "Yukon Terrain 3D Map 3D Model",
+      "slug": "yukon-terrain-3d-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16599,
+      "title": "Nunavut Terrain 3D Map 3D Model",
+      "slug": "nunavut-terrain-3d-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16624,
+      "title": "Northwest Territories Terrain 3D Map 3D Model",
+      "slug": "northwest-territories-terrain-3d-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16649,
+      "title": "Newfoundland and Labrador Terrain 3D Map 3D Model",
+      "slug": "newfoundland-and-labrador-terrain-3d-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16696,
+      "title": "Copernicus Lunar Crater 3D Model",
+      "slug": "copernicus-lunar-crater-3d-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 16728,
+      "title": "Theophilus Lunar Crater 3D Model",
+      "slug": "theophilus-lunar-crater-3d-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 16743,
+      "title": "Moon Surface 3D Model",
+      "slug": "moon-surface-3d-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16772,
+      "title": "Geoid Height STL Model – Artistic Earth Gravity Surface for 3D Printing",
+      "slug": "geoid-height-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 16784,
+      "title": "Earth’s Gravity Map 3D Model – Global Gravity Anomalies with Color & Height Maps",
+      "slug": "earths-gravity-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16812,
+      "title": "Abstract Female Face Silhouette 3D Model",
+      "slug": "abstract-female-face-silhouette-3d-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16849,
+      "title": "Haiti Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "haiti-terrain-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 16863,
+      "title": "Argentina Terrain 3D Model",
+      "slug": "argentina-terrain-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16889,
+      "title": "Bolivia Terrain 3D Model",
+      "slug": "bolivia-terrain-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16914,
+      "title": "Brazil Terrain 3D Model",
+      "slug": "brazil-terrain-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16938,
+      "title": "Chile Terrain 3D Model",
+      "slug": "chile-terrain-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16961,
+      "title": "Colombia Terrain 3D Model",
+      "slug": "colombia-terrain-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16987,
+      "title": "Ecuador Terrain 3D Model – High-Resolution Landscape with Height Map & Textures",
+      "slug": "ecuador-terrain-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17010,
+      "title": "Paraguay Terrain 3D Model",
+      "slug": "paraguay-terrain-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17034,
+      "title": "Peru Terrain 3D Model",
+      "slug": "peru-terrain-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17057,
+      "title": "Venezuela Terrain 3D Model",
+      "slug": "venezuela-terrain-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17082,
+      "title": "Jamaica Terrain 3D Model",
+      "slug": "jamaica-terrain-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17159,
+      "title": "Map",
+      "slug": "test",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17168,
+      "title": "Australia Topographic TIFF Map for Flat-Surface Printing",
+      "slug": "australia-3d-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17178,
+      "title": "New Zealand 3D Map",
+      "slug": "new-zealand-3d-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17205,
+      "title": "Earth 3D Model with High-Resolution Satellite Maps and DEM Data",
+      "slug": "earth-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17277,
+      "title": "Austria Height Map",
+      "slug": "austria-height-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17288,
+      "title": "Austria Satellite Map",
+      "slug": "austria-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17297,
+      "title": "Outline Map of USA with States",
+      "slug": "outline-map-of-usa-with-states",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17305,
+      "title": "Outline Map of USA",
+      "slug": "outline-map-of-usa",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17310,
+      "title": "Satellite Map of USA",
+      "slug": "satellite-map-of-usa",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17316,
+      "title": "India Satellite Image",
+      "slug": "india-satellite-image",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17322,
+      "title": "Africa Satellite Map",
+      "slug": "africa-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17328,
+      "title": "North America Satellite Map",
+      "slug": "north-america-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17334,
+      "title": "South America Satellite Map",
+      "slug": "south-america-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17340,
+      "title": "Europe Satellite Map",
+      "slug": "europe-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17346,
+      "title": "Asia Satellite Map",
+      "slug": "asia-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17352,
+      "title": "Australia Satellite Map",
+      "slug": "australia-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17359,
+      "title": "North Korea Night Satellite Map",
+      "slug": "north-korea-night-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17364,
+      "title": "United States Night Satellite Map",
+      "slug": "united-states-night-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17370,
+      "title": "North America from space at night",
+      "slug": "satellite-image-of-america-at-night",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17385,
+      "title": "Satellite Picture of Korea at Night",
+      "slug": "satellite-picture-of-korea-at-night",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17408,
+      "title": "Spain Satellite Map",
+      "slug": "spain-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17416,
+      "title": "Spain Night Satellite Map",
+      "slug": "spain-night-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17422,
+      "title": "Alabama Satellite Map",
+      "slug": "alabama-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17429,
+      "title": "Arizona Satellite Map",
+      "slug": "arizona-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17435,
+      "title": "Arkansas Satellite Map",
+      "slug": "arkansas-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17441,
+      "title": "California Satellite Map",
+      "slug": "california-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17447,
+      "title": "Colorado Satellite Map",
+      "slug": "colorado-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17454,
+      "title": "Connecticut Satellite Map",
+      "slug": "connecticut-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17459,
+      "title": "Delaware Satellite Map",
+      "slug": "delaware-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17465,
+      "title": "Florida Satellite Map",
+      "slug": "florida-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17471,
+      "title": "Georgia Satellite Map",
+      "slug": "georgia-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17477,
+      "title": "Idaho Satellite Map",
+      "slug": "idaho-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17483,
+      "title": "Illinois Satellite Map",
+      "slug": "illinois-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17489,
+      "title": "Indiana Satellite Map",
+      "slug": "indiana-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17495,
+      "title": "Iowa Satellite Map",
+      "slug": "iowa-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17501,
+      "title": "Kansas Satellite Map",
+      "slug": "kansas-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17507,
+      "title": "Kentucky Satellite Map",
+      "slug": "kentucky-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17513,
+      "title": "Louisiana Satellite Map",
+      "slug": "louisiana-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17519,
+      "title": "Maine Satellite Map",
+      "slug": "maine-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17525,
+      "title": "Maryland Satellite Map",
+      "slug": "maryland-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17530,
+      "title": "Massachusetts Satellite Map",
+      "slug": "massachusetts-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17544,
+      "title": "Afghanistan Satellite Map",
+      "slug": "afghanistan-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17550,
+      "title": "Albania Satellite Map",
+      "slug": "albania-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17556,
+      "title": "Algeria Satellite Map",
+      "slug": "algeria-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17562,
+      "title": "High-Resolution Satellite Map of Andorra in TIFF Format",
+      "slug": "andorra-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17568,
+      "title": "Angola Satellite Map",
+      "slug": "angola-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17574,
+      "title": "Argentina Satellite Map",
+      "slug": "argentina-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17580,
+      "title": "Armenia Satellite Map",
+      "slug": "armenia-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17585,
+      "title": "Australia Satellite Map",
+      "slug": "australia-satellite-map-2",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17597,
+      "title": "Azerbaijan Satellite Map",
+      "slug": "azerbaijan-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17603,
+      "title": "Bahamas Satellite Map",
+      "slug": "bahamas-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17609,
+      "title": "Brazil Satellite Map",
+      "slug": "brazil-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17615,
+      "title": "China Satellite Map",
+      "slug": "china-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17622,
+      "title": "Costa Rica Satellite Map",
+      "slug": "costa-rica-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17628,
+      "title": "Cuba Satellite Map",
+      "slug": "cuba-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17635,
+      "title": "Egypt Satellite Map",
+      "slug": "egypt-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17641,
+      "title": "El Salvador Satellite Map",
+      "slug": "el-salvador-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17647,
+      "title": "Eritrea Satellite Map",
+      "slug": "eritrea-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17653,
+      "title": "Ethiopia Satellite Map",
+      "slug": "ethiopia-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17659,
+      "title": "France Satellite Map",
+      "slug": "france-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17669,
+      "title": "Iceland Satellite Map",
+      "slug": "iceland-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17675,
+      "title": "Indonesia Satellite Map",
+      "slug": "indonesia-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17687,
+      "title": "Iran Satellite Map",
+      "slug": "iran-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17693,
+      "title": "Iraq Satellite Map",
+      "slug": "iraq-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17699,
+      "title": "Ireland Satellite Map",
+      "slug": "ireland-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17705,
+      "title": "Israel Satellite Map",
+      "slug": "israel-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17711,
+      "title": "Italy Satellite Map",
+      "slug": "italy-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17717,
+      "title": "Georgia Satellite Map",
+      "slug": "georgia-satellite-map-2",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17723,
+      "title": "Germany Satellite Map",
+      "slug": "germany-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17729,
+      "title": "Greece Satellite Map",
+      "slug": "greece-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17736,
+      "title": "Haiti Satellite Map",
+      "slug": "haiti-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17742,
+      "title": "Honduras Satellite Map",
+      "slug": "honduras-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17748,
+      "title": "Jamaica Satellite Map",
+      "slug": "jamaica-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17754,
+      "title": "Japan Satellite Map",
+      "slug": "japan-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17760,
+      "title": "Maldives Satellite Map",
+      "slug": "maldives-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17766,
+      "title": "Mexico Satellite Map",
+      "slug": "mexico-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17772,
+      "title": "Nepal Satellite Map",
+      "slug": "nepal-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17778,
+      "title": "New Zealand Satellite Image",
+      "slug": "new-zealand-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17784,
+      "title": "Nigeria Satellite Map",
+      "slug": "nigeria-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17790,
+      "title": "North Korea Satellite Map",
+      "slug": "north-korea-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17796,
+      "title": "Norway Satellite Map",
+      "slug": "norway-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17803,
+      "title": "Palestine Satellite Map",
+      "slug": "palestine-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17808,
+      "title": "Peru Satellite Map",
+      "slug": "peru-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17814,
+      "title": "Philippines Satellite Map",
+      "slug": "philippines-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17819,
+      "title": "Puerto Rico Satellite Map",
+      "slug": "puerto-rico-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17824,
+      "title": "Yemen Satellite Map",
+      "slug": "yemen-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17830,
+      "title": "Vietnam Satellite Map",
+      "slug": "vietnam-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17836,
+      "title": "Ukraine Satellite Map",
+      "slug": "ukraine-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17842,
+      "title": "United Kingdom Satellite Map",
+      "slug": "united-kingdom-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17847,
+      "title": "Taiwan Satellite Map",
+      "slug": "taiwan-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17852,
+      "title": "Turkey Satellite Map",
+      "slug": "turkey-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17858,
+      "title": "Saudi Arabia Satellite Map",
+      "slug": "saudi-arabia-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17864,
+      "title": "South Africa Satellite Map",
+      "slug": "south-africa-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17870,
+      "title": "South Korea Satellite Map",
+      "slug": "south-korea-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17876,
+      "title": "Spain Satellite Map",
+      "slug": "spain-satellite-map-2",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17882,
+      "title": "Sri Lanka Satellite Map",
+      "slug": "sri-lanka-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17888,
+      "title": "Syria Satellite Map",
+      "slug": "syria-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 17994,
+      "title": "Florida State Terrain Map 3D Model",
+      "slug": "florida-state-terrain-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 18013,
+      "title": "Rocky Mountain National Park Map",
+      "slug": "rocky-mountain-national-park-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 18040,
+      "title": "Bali 3D Model",
+      "slug": "bali-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 18062,
+      "title": "Sydney Opera House 3D Model",
+      "slug": "sydney-opera-house-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 18263,
+      "title": "Prepayment for 3D model",
+      "slug": "prepayment-for-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 18582,
+      "title": "Prepayment for 3D model 2",
+      "slug": "prepayment-for-3d-model-2",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 18625,
+      "title": "Prepayment for Renders",
+      "slug": "prepayment-for-renders",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 18703,
+      "title": "Prepayment for Satellite Map",
+      "slug": "prepayment-for-satellite-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 18721,
+      "title": "Pendant \"Nautilus\" in Maori Style",
+      "slug": "pendant-nautilus-in-maori-style",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 18757,
+      "title": "Florida State Rendering Fee",
+      "slug": "florida-state-rendering-fee",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 18793,
+      "title": "Prepayment for 3D model 3",
+      "slug": "prepayment-for-3d-model-3",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 18811,
+      "title": "Europe Topographic Map STL – 3D Model for 3D Printing & CNC (Equidistant Conic Projection)",
+      "slug": "europe-3d-print-model-equidistan-conic",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 18848,
+      "title": "Prepayment for 3D model",
+      "slug": "prepayment-for-3d-model-4",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 18856,
+      "title": "Prepayment for 3D model Mexico+",
+      "slug": "prepayment-for-3d-model-mexico",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 18873,
+      "title": "Complete USA Topographic Map STL – 50 States 3D Terrain Model for 3D Printing & CNC",
+      "slug": "complete-usa-50-states-topographic-map-3d-model-for-3d-printing-cnc-carving",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 18884,
+      "title": "USA 48 States Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "usa-48-states-topographic-map-3d-model-for-3d-printing-cnc-carving",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19300,
+      "title": "Prepayment for 3D models",
+      "slug": "prepayment-for-3d-models",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 19308,
+      "title": "Prepayment for Render",
+      "slug": "prepayment-for-render",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 19313,
+      "title": "Contiguous 48 USA States 3D Model",
+      "slug": "contiguous-48-usa-states",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 19354,
+      "title": "Zimbabwe Map 3D Model",
+      "slug": "zimbabwe-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 19379,
+      "title": "Zimbabwe Terrain Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "zimbabwe-terrain-map-3d-model-for-3d-printing-cnc-carving",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19397,
+      "title": "Greenland Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "greenland-topographic-map-3d-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19410,
+      "title": "Panama Topographic Map – 3D Model",
+      "slug": "panama-topographic-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 19439,
+      "title": "Authagraph World Map – 3D Model",
+      "slug": "authagraph-world-map-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 19462,
+      "title": "Authagraph World Map",
+      "slug": "authagraph-world-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 19546,
+      "title": "Denmark Terrain 3D Model",
+      "slug": "denmark-terrain-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 19729,
+      "title": "Belize Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "belize-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19737,
+      "title": "Bolivia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "bolivia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19746,
+      "title": "Bhutan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "bhutan-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19753,
+      "title": "Bermuda Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "bermuda-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19785,
+      "title": "Cambodia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "cambodia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19801,
+      "title": "Colombia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "colombia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19809,
+      "title": "Costa Rica Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "costa-rica-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19851,
+      "title": "Yemen Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "yemen-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19859,
+      "title": "Vietnam Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "vietnam-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19867,
+      "title": "Venezuela Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "venezuela-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19875,
+      "title": "Uzbekistan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "uzbekistan-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19883,
+      "title": "Uruguay Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "uruguay-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19891,
+      "title": "UAE Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "uae-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19908,
+      "title": "Taiwan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "taiwan-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19916,
+      "title": "Tajikistan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "tajikistan-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19923,
+      "title": "Thailand Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "thailand-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19939,
+      "title": "Turkmenistan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "turkmenistan-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 19947,
+      "title": "Saudi Arabia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "saudi-arabia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 20036,
+      "title": "Russia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "russia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 20045,
+      "title": "Prepayment for ADD",
+      "slug": "prepayment-for-add",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 20046,
+      "title": "Oman Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "oman-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 20070,
+      "title": "Peru Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "peru-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 20078,
+      "title": "Paraguay Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "paraguay-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 20086,
+      "title": "Panama Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "panama-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 20095,
+      "title": "Pakistan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "pakistan-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 20110,
+      "title": "Nepal Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "nepal-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 20134,
+      "title": "North Korea Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "north-korea-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 20175,
+      "title": "Mongolia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "mongolia-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 20192,
+      "title": "Troll Face 3D Model for 3D Printing",
+      "slug": "troll-face-3d-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 20199,
+      "title": "Zombie Monster Storage Box 3D Model",
+      "slug": "zombie-monster-box-3d-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 20311,
+      "title": "India Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "india-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 20320,
+      "title": "Iran Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "iran-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 20329,
+      "title": "Iraq Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "iraq-stl-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 20345,
+      "title": "Israel Topographic Map – 3D Printable STL Terrain Model for CNC Carving",
+      "slug": "israel-topographic-map-3d-model-for-3d-printing-cnc-carving",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 20490,
+      "title": "Prepayment for 3D model GAZA",
+      "slug": "prepayment-for-3d-model-gaza",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 20692,
+      "title": "Prepayment Earth Regular Dodecahedron",
+      "slug": "prepayment-earth-regular-dodecaedron",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 20694,
+      "title": "Prepayment for Renders",
+      "slug": "prepayment-for-renders-2",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 20943,
+      "title": "3D Model of Andorra in C4D and OBJ with High-Resolution Textures",
+      "slug": "3d-model-of-andorra",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 20964,
+      "title": "Prepayment for 3D model Isla Nublar from Jurassic Park",
+      "slug": "prepayment-for-3d-model-isla-nublar-from-jurassic-park",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 20967,
+      "title": "Prepayment for MAP",
+      "slug": "prepayment-for-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 20976,
+      "title": "3D Printed Modular Earth Globe (STL in 12-Part Dodecahedron for 3D Printing)",
+      "slug": "3d-printed-earth-dodecahedron",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 20997,
+      "title": "Prepayment for MAP3",
+      "slug": "prepayment-for-map3",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21004,
+      "title": "Prepayment for 3D model",
+      "slug": "prepayment-for-3d-model-5",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21007,
+      "title": "Prepayment for 3D models",
+      "slug": "prepayment-for-3d-models-2",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21042,
+      "title": "Prepayment for Render",
+      "slug": "prepayment-for-render-2",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21049,
+      "title": "Prepayment for 3D model NC",
+      "slug": "prepayment-for-3d-model-nc",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21056,
+      "title": "Prepayment for 3D model Hands",
+      "slug": "prepayment-for-3d-model-hands",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21077,
+      "title": "Prepayment for Earth Full Color Model",
+      "slug": "prepayment-for-earth-full-color-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21118,
+      "title": "Israel 3D Topographic Map STL – High-Precision Relief Model for 3D Printing & CNC",
+      "slug": "israel-3d-topographic-map-stl",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 21146,
+      "title": "3D Printed Earth STL Model with Rivers – Detailed Topography for 3D Printing & CNC",
+      "slug": "earth-stl-with-rivers",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 21286,
+      "title": "Prepayment for 3D model Russia",
+      "slug": "prepayment-for-3d-model-russia",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21381,
+      "title": "New Zealand Flag 3D Medallion STL – Kiwi Bird Relief Model for 3D Printing & CNC",
+      "slug": "new-zealand-medallion-kiwi-stl",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": true
+    },
+    {
+      "id": 21442,
+      "title": "Galapagos Islands 3D Terrain Model (OBJ) – DEM + Satellite Map)",
+      "slug": "galapagos-islands-3d-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21460,
+      "title": "Prepayment for 3D model Ermoupolis",
+      "slug": "prepayment-for-3d-model-ermoupolis",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21467,
+      "title": "Prepayment for 3D model Table",
+      "slug": "prepayment-for-3d-model-table",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21609,
+      "title": "Prepayment for 3D model Globe zoom 400",
+      "slug": "prepayment-for-3d-model-globe",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21614,
+      "title": "Prepayment for 3D model Moon",
+      "slug": "prepayment-for-3d-model-moon",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21623,
+      "title": "Prepayment for 3D models",
+      "slug": "prepayment-for-3d-models-3",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21629,
+      "title": "Prepayment for 3D model Turkey Site",
+      "slug": "prepayment-for-3d-model-turkey-site",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21679,
+      "title": "Prepayment for 3D models_",
+      "slug": "prepayment-for-3d-models_",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21781,
+      "title": "Prepayment for 3D model California",
+      "slug": "prepayment-for-3d-model-california",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21818,
+      "title": "Prepayment for 3D models Gores12",
+      "slug": "prepayment-for-3d-models-gores12",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21843,
+      "title": "Prepayment for 3D models Ukraine",
+      "slug": "prepayment-for-3d-models-ukraine",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21850,
+      "title": "Prepayment for Python script",
+      "slug": "prepayment-for-python-script",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21859,
+      "title": "Prepayment for 3D model Buildings",
+      "slug": "prepayment-for-3d-model-buildings",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21863,
+      "title": "Prepayment for 3D model+vector",
+      "slug": "prepayment-for-3d-modelvector",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21884,
+      "title": "Prepayment for Satellite Maps",
+      "slug": "prepayment-for-satellite-maps",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21901,
+      "title": "Prepayment for Kyrgyzstan model",
+      "slug": "prepayment-for-kyrgyzstan-model",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 21920,
+      "title": "Prepayment for Authagraph Map",
+      "slug": "prepayment-for-authagraph-map",
+      "has_stl_format_icon": false,
+      "ai_concepts_present": false
+    }
+  ],
+  "historical_exclusions": {
+    "Denmark": "Completed earlier per Ten More Global STL report; original carousel remains, do not repeat",
+    "Belarus": "Owner excluded",
+    "Prepayment": "Not a product STL release"
+  },
+  "scope_pending": "Resolved: Copernicus and Theophilus are actual listed STL+C4D products; included to complete five. Architecture conversion-on-request products are excluded.",
+  "confirmed_remaining_stl": [
+    {
+      "id": 16743,
+      "title": "Moon Surface 3D Model",
+      "slug": "moon-surface-3d-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": false
+    },
+    {
+      "id": 16812,
+      "title": "Abstract Female Face Silhouette 3D Model",
+      "slug": "abstract-female-face-silhouette-3d-model",
+      "has_stl_format_icon": true,
+      "ai_concepts_present": false
+    }
+  ]
+}

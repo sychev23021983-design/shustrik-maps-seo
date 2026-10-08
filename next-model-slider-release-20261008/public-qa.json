@@ -1,0 +1,205 @@
+{
+  "rows": [
+    {
+      "id": 15527,
+      "url": "https://shustrik-maps.com/product/sheik-zayed-3d-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 15527,
+      "url": "https://shustrik-maps.com/product/sheik-zayed-3d-model/?next_models_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 20192,
+      "url": "https://shustrik-maps.com/product/troll-face-3d-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 20192,
+      "url": "https://shustrik-maps.com/product/troll-face-3d-model/?next_models_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 20199,
+      "url": "https://shustrik-maps.com/product/zombie-monster-box-3d-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 20199,
+      "url": "https://shustrik-maps.com/product/zombie-monster-box-3d-model/?next_models_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    }
+  ],
+  "media": [
+    {
+      "id": 22775,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/10/sheikh-zayed-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22776,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/10/sheikh-zayed-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22777,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/10/sheikh-zayed-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22778,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/10/sheikh-zayed-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22779,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/troll-skull-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22780,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/troll-skull-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22781,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/troll-skull-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22782,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/troll-skull-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22783,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/zombie-box-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22784,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/zombie-box-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22785,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/zombie-box-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22786,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/zombie-box-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    }
+  ],
+  "pass": true
+}

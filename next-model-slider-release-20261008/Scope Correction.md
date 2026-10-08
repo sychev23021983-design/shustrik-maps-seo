@@ -1,0 +1,3 @@
+# Scope correction
+
+Initial title/excerpt keyword screening missed four STL-icon products. The first three own-reference cards were already published once. The subsequent format-icon audit found Copernicus Lunar Crater16696, Theophilus Lunar Crater16728, Moon Surface16743 and Abstract Female Face Silhouette16812. Copernicus and Theophilus are explicitly STL+C4D in their specifications and were selected to complete the owner-requested five. The earlier suggestion to use Burj architecture conversions and the claim of only three remaining are superseded. No C4D-only conversion product was published. Denmark is excluded by the historical completion record; Belarus excluded by owner.

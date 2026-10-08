@@ -164,7 +164,7 @@ Browser tab: 10, Title: "Sheikh Zayed bust 3D printing - Google Search", URL: "h
 								163 text Unknown
 							164 container
 								165 text  -  Can't determine location
-						166 text  - 
+						166 text  -
 						167 button Update location
 							168 text Update location
 					169 container fsl

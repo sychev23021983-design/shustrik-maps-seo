@@ -175,7 +175,7 @@ Browser tab: 10, Title: "zombie monster storage box STL - Google Search", URL: "
 								174 text Unknown
 							175 container
 								176 text  -  Can't determine location
-						177 text  - 
+						177 text  -
 						178 button Update location
 							179 text Update location
 					180 container fsl
