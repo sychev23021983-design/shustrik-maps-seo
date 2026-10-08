@@ -1,0 +1,10 @@
+{
+  "commit": "eed40cd9ca37f3403485a4ceae3a9fb60b0f5a4e",
+  "archive_sha256": "d5950ea7f191af4a1c17a68ba7d3ae9abbf1fd8de39cd959a48ae0fc5de0b269",
+  "remote_archive_sha256": "d5950ea7f191af4a1c17a68ba7d3ae9abbf1fd8de39cd959a48ae0fc5de0b269",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/five-asia-country-eed40cd",
+  "mode": "external",
+  "container": "shustrik-maps-wordpress-1",
+  "lint_pass": true
+}
