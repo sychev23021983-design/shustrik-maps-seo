@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-08",
+  "market": "USA",
+  "language": "English",
+  "parameters": {
+    "hl": "en",
+    "gl": "us",
+    "pws": 0
+  },
+  "location_footer": "Unknown / cannot determine location",
+  "metrics_measured": false,
+  "rows": [
+    {
+      "product_id": 20345,
+      "query": "Israel topographic map STL",
+      "url": "https://www.google.com/search?q=Israel+topographic+map+STL&hl=en&gl=us&pws=0",
+      "google_raw": "google-israel.txt",
+      "observation": "Paid STL marketplace listings and free Printables files observed. Country STL digital intent supported; reference-specific outline retained.",
+      "primary_source": "https://shustrik-maps.com/product/israel-topographic-map-3d-model-for-3d-printing-cnc-carving/",
+      "frequency": null,
+      "rank": null,
+      "actual_us_location_confirmed": false
+    },
+    {
+      "product_id": 21118,
+      "query": "Israel extended coverage terrain STL",
+      "url": "https://www.google.com/search?q=Israel+extended+coverage+terrain+STL&hl=en&gl=us&pws=0",
+      "google_raw": "google-israel-extended.txt",
+      "observation": "Paid author STL result with125MB specification alongside free terrain, broader surrounding-area files and unrelated simulation terrain. Extended coverage is an editorial SKU distinction supported by the own listing, not measured keyword demand. Keep separate file/reference; no territorial expansion.",
+      "primary_source": "https://shustrik-maps.com/product/israel-3d-topographic-map-stl/",
+      "frequency": null,
+      "rank": null,
+      "actual_us_location_confirmed": false
+    },
+    {
+      "product_id": 19379,
+      "query": "Zimbabwe terrain map STL",
+      "url": "https://www.google.com/search?q=Zimbabwe+terrain+map+STL&hl=en&gl=us&pws=0",
+      "google_raw": "google-zimbabwe.txt",
+      "observation": "Paid own/author STL listings, free Thingiverse terrain and ordinary relief/elevation maps observed. Target digital terrain file, not physical model or ordinary map.",
+      "primary_source": "https://shustrik-maps.com/product/zimbabwe-terrain-map-3d-model-for-3d-printing-cnc-carving/",
+      "frequency": null,
+      "rank": null,
+      "actual_us_location_confirmed": false
+    },
+    {
+      "product_id": 16772,
+      "query": "artistic geoid height STL",
+      "url": "https://www.google.com/search?q=artistic+geoid+height+STL&hl=en&gl=us&pws=0",
+      "google_raw": "google-geoid.txt",
+      "observation": "Paid artistic geoid author/own listings alongside free geophysical globe and geodesy/elevation outputs. Retain artistic conceptual scope, no scientific precision claims.",
+      "primary_source": "https://shustrik-maps.com/product/geoid-height-stl-model/",
+      "frequency": null,
+      "rank": null,
+      "actual_us_location_confirmed": false
+    },
+    {
+      "product_id": 20976,
+      "query": "modular Earth globe STL dodecahedron",
+      "url": "https://www.google.com/search?q=modular+Earth+globe+STL+dodecahedron&hl=en&gl=us&pws=0",
+      "google_raw": "google-modular-earth.txt",
+      "observation": "Own12-part STL and other modular/rhombic globe, paper-polyhedron and ordinary globe results observed. Preserve own regular-dodecahedron12part listing; exclude paper and rhombic alternatives. AI Overview claims ignored.",
+      "primary_source": "https://shustrik-maps.com/product/3d-printed-earth-dodecahedron/",
+      "frequency": null,
+      "rank": null,
+      "actual_us_location_confirmed": false
+    }
+  ]
+}

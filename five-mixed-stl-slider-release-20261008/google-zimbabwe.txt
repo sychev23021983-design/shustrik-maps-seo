@@ -1,0 +1,171 @@
+Browser tab: 7, Title: "Zimbabwe terrain map STL - Google Search", URL: "https://www.google.com/search?q=Zimbabwe+terrain+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Zimbabwe terrain map STL - Google Search, URL: google.com/search?q=Zimbabwe+terrain+map+STL&hl=en&gl=us&pws=0
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp?hl=en&ictx=2&sa=X&ved=2ahUKEwj2vM3_7amXAxUphv0HHcuZMrQQPXoECAYQBA
+					12 combo box (collapsed) Description: Search, Value: Zimbabwe terrain map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DZimbabwe%2Bterrain%2Bmap%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search?q=Zimbabwe+terrain+map+STL&sca_esv=f15b6346d67b4a35&hl=en&gl=us&pws=0&sxsrf=APpeQnsojqtsdTZ0Tr7G-R6kMPAMdt8ghw:1791443206375&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYS0UkvKdZAJprgUu75aBO7-BFwkyGYulVVZVVForGzWqsJjxKgDHmnCriX00kvPGGF5SpiQULNKXzssg6TklKeYciUVMtFsFU60BSiyGKrYtRMlqPJCVQEPwiSeH--BcW0KLZUqFQnMuCX5EBUu7_iNLtUwlA&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwj2vM3_7amXAxUphv0HHcuZMrQQ2J8OegQIEhAD
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search?sca_esv=f15b6346d67b4a35&hl=en&gl=us&pws=0&sxsrf=APpeQnsojqtsdTZ0Tr7G-R6kMPAMdt8ghw:1791443206375&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYS0UkvKdZAJprgUu75aBO7-BFwkyGYulVVZVVForGzWqsJjxKgDHmnCriX00kvPGGF5SpiQULNKXzssg6TklKeYciUVMtFsFU60BSiyGKrYtRMlqPJCVQEPwiSeH--BcW0KLZUqFQnMuCX5EBUu7_iNLtUwlA&q=Zimbabwe+terrain+map+STL&sa=X&ved=2ahUKEwj2vM3_7amXAxUphv0HHcuZMrQQtKgLegQIGBAB
+					27 link Description: Shopping, Value: google.com/search?sca_esv=f15b6346d67b4a35&hl=en&gl=us&pws=0&sxsrf=APpeQnsojqtsdTZ0Tr7G-R6kMPAMdt8ghw:1791443206375&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYS0UkvKdZAJprgUu75aBO7-BFwkyGYulVVZVVForGzWqsJjxKgDHmnCriX00kvPGGF5SpiQULNKXzssg6TklKeYciUVMtFsFU60BSiyGKrYtRMlqPJCVQEPwiSeH--BcW0KLZUqFQnMuCX5EBUu7_iNLtUwlA&q=Zimbabwe+terrain+map+STL&ved=1t:220175&ictx=111
+					28 link Description: News, Value: google.com/search?sca_esv=f15b6346d67b4a35&hl=en&gl=us&pws=0&sxsrf=APpeQnsojqtsdTZ0Tr7G-R6kMPAMdt8ghw:1791443206375&q=Zimbabwe+terrain+map+STL&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYS0UkvKdZAJprgUu75aBO7-BFwkyGYulVVZVVForGzWqsJjxKgDHmnCriX00kvPGGF5SpiQULNKXzssg6TklKeYciUVMtFsFU60BSiyGKrYtRMlqPJCVQEPwiSeH--BcW0KLZUqFQnMuCX5EBUu7_iNLtUwlA&sa=X&ved=2ahUKEwj2vM3_7amXAxUphv0HHcuZMrQQ0pQJegQIFRAB
+					29 link Description: Videos, Value: google.com/search?sca_esv=f15b6346d67b4a35&hl=en&gl=us&pws=0&sxsrf=APpeQnsojqtsdTZ0Tr7G-R6kMPAMdt8ghw:1791443206375&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYS0UkvKdZAJprgUu75aBO7-BFwkyGYulVVZVVForGzWqsJjxKgDHmnCriX00kvPGGF5SpiQULNKXzssg6TklKeYciUVMtFsFU60BSiyGKrYtRMlqPJCVQEPwiSeH--BcW0KLZUqFQnMuCX5EBUu7_iNLtUwlA&q=Zimbabwe+terrain+map+STL&sa=X&ved=2ahUKEwj2vM3_7amXAxUphv0HHcuZMrQQtKgLegQIFBAB
+					30 link Description: Maps, Value: maps.google.com/maps?sca_esv=f15b6346d67b4a35&hl=en&gl=us&pws=0&output=search&q=Zimbabwe+terrain+map+STL&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYS0UkvKdZAJprgUu75aBO7-BFwkyGYulVVZVVForGzWqsJjxKgDHmnCriX00kvPGGF5SpiQULNKXzssg6TklKeYciUVMtFsFU60BSiyGKrYtRMlqPJCVQEPwiSeH--BcW0KLZUqFQnMuCX5EBUu7_iNLtUwlA&entry=mc&ved=1t:200715&ictx=111
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Description: Zimbabwe Topographic Terrain 3D Model STL Map ... Etsy https://www.etsy.com › listing › zimbabwe-topographic..., Value: google.com/goto?url=CAESiAEB6zswFQ8iDm-okMfILv2b9mNkRIWznaVXe9vtfMAHsHX_1od_jWKxQ5bfYkKQOA8LoeXEpW696pFbTVUfaT77kxEuHBCiRlUdRI9DTDTKryK5nzfI6yfU_beEuCIL1hsGeOdmjYsNVRT_iOCdCZPr4NXHUNgXoJUBgQKqzGbxmHDrIxYYXjzr
+							44 button About this result
+							45 container
+								46 text A 3D relief map of Zimbabwe, showing the country's topography.  Zimbabwe, showing the country's varied terrain  and Price:$14.99. Map Model for CNC Milling and ...
+							47 container
+								48 text $14.99 In stock
+								49 image Rated 4.8 out of 5, (412) user reviews
+								50 text Free delivery
+						51 container
+							52 container
+								53 heading AI Overview, Value: 2
+									54 text AI Overview
+								55 container
+									56 text You can  buy a ready-made digital 
+									57 text Zimbabwe terrain map STL file
+									58 text  for 3D printing and CNC carving on marketplaces like 
+									59 link Description: Cults 3D, Value: google.com/goto?url=CAES4wEB6zswFcE_N6FllNIXXjkqxfV1NzUU7NOoyLW2IyzaxzK9bDOOnySb1Bfb_ZL7zoFz8DIJ_ocRkEaal9Qv1tFllZC6FSY7gPFMgo-lefoDKsn95jcS4q-RTUGqVLz85pkxePCibrv96oG0D6f-z4WTxRVxbKiJlcyWkmEeBSDngEjeu2XtBX_APzFYqjffrs6EAWRzd5PwftXOaWlKTPTwHwZVDsQjXAshiYZTMUyOkqugrxyJt3rFD1upLpC2QegLvmpWivjzA4KJ4Es4D60hbG3TYDB7ucZld_xHYFCI9z_toQ
+									60 text  or 
+									61 link Description: Etsy, Value: google.com/goto?url=CAESiAEB6zswFWTH8pKgIXwQUx57vtZhINQrkm_pgjUpTeAhf1TQE7yGytQBYLRRU-Eg0ecGJshciGneS2DOMeXqcxCwRxXMJZ0a40Qbj5KEgY4HaXV421Izejvx-1CUTS66DDCH6NF9WE5GKWaE0ndY2gVCADnhxslj9WC4WbEFm7wEBGhRyZHkgvFm
+									62 text .
+								63 heading Where to Find Zimbabwe Terrain STL Files, Value: 3
+									64 text Where to Find Zimbabwe Terrain STL Files
+								65 content list
+									66 container
+										67 AXListMarker • 
+										68 text Ready-to-Print Models:
+										69 content list
+											70 container
+												71 AXListMarker ◦ 
+												72 text Cults 3D  offers high-resolution topographic terrain mesh files designed for FDM and SLA 3D printers.
+											73 container
+												74 AXListMarker ◦ 
+												75 link Description: Shustrik Maps, Value: google.com/goto?url=CAES2QEB6zswFQSBs0JhwW1P53IpPF7i6voObmxRgNY5iTIJxyvn7gOfLfSDym7lfi1-Vd0pqvuIh6_NsWOc3KnMXcQJ_pED0neKcif8G_H74V18iqofUbhupWJTtzDeMhN87vTHpBIfrT8oip-2l9WNVA-R6fBJcFc6jPqIlExHSxr_hLV8-GdwEsCLUboOnAqnIK-sZtz5D3s32DP-qbafi6W0FDP5BFy-vXDiRQKg7ssCsQr7V2ZstnLZd5D0-grmxA6Y23qBnXg-vA3QkdBl9lCVjAyq0qIA8UqR
+												76 text  provides detailed geospatial relief models optimized for CNC carving and 3D printing.
+							77 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								78 text Show more
+						79 container
+							80 heading Web results, Value: 2
+								81 text Web results
+							82 link Value: …, Description: Zimbabwe Terrain Map 3D Model for Printing & CNC Carving Shustrik Maps https://shustrik-maps.com › ... › Countries
+							83 button About this result
+							84 container
+								85 text Bring  Zimbabwe  to life high-resolution 3D model of the  Zimbabwe terrain map , crafted for FDM/SLA 3D printing and CNC carving.  STL  and heightmap-ready formats … ...
+							86 container
+								87 text $15.00 In stock Free delivery
+						88 container
+							89 link Value: …, Description: Zimbabwe Terrain Map – 3D Model for 3D Printing & CNC ... Cults 3D https://cults3d.com › architecture › zimbabwe-terrain-m...
+							90 button About this result
+							91 text Jun 9, 2025  — 
+							92 text Explore Zimbabwe with a 3D Printable Terrain Map
+							93 text . 3D model: File size: 423 MB Model size: 181 mm x 166 mm x 2.3 mm. Projection: Mercator
+							94 link Description: Read more, Value: …
+							95 text 30-day returns
+						96 container
+							97 link Value: …, Description: Zimbabwe topographic map, elevation, terrain topographic-map.com https://en-gb.topographic-map.com › map-nbs8 › Zimb...
+							98 button About this result
+							99 text Most of the country is elevated, consisting of a central plateau (high veld) stretching from the southwest northwards with altitudes between 1,000 and 1,600 m.
+							100 link Description: Read more, Value: …
+						101 container
+							102 link Description: Topographic Zimbabwe Thingiverse https://www.thingiverse.com › thing:3095420, Value: …
+							103 button About this result
+							104 text Sep 11, 2018  —  Download millions of 3D models and files for your 3D printer, 
+							105 text Topographic map of Zimbabwe
+							106 text . All my topographic maps are scaled by the same ...
+						107 container
+							108 link Description: "zimbabwe" 3D Models to Print Yeggi https://www.yeggi.com › zimbabwe, Value: …
+							109 button About this result
+							110 text Zimbabwe Terrain Map 3D Model
+							111 text  for 3D Printing topographic, topo, map, landscape, terrain, geography, mountain, stl, cnc, Download: free Website: 3dprint, ...
+						112 container
+							113 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: …
+							114 button About this result
+							115 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: …
+							116 text In this step-by-step tutorial, we dive into  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! STL files ...
+						117 container
+							118 link Value: …, Description: Welcome to TouchTerrain, the free web app for creating 3D ... TouchTerrain https://touchterrain.geol.iastate.edu
+							119 button About this result
+							120 text Click a location to start. Welcome to 
+							121 text TouchTerrain
+							122 text , a web app for creating 3D printable 
+							123 text terrain
+							124 text  models. Select a starting area by clicking on it.
+							125 link Description: Read more, Value: …
+						126 container
+							127 link Description: Free relief map of Zimbabwe Blue Green Atlas https://www.bluegreenatlas.com › maps › relief_map_o..., Value: …
+							128 button About this result
+							129 text Free relief map of Zimbabwe
+							130 text . The 3D relief maps of this website are made by me. They are available under the Creative Commons Attribution 4.0 International ...
+							131 link Description: Read more, Value: …
+				132 container
+					133 container
+						134 heading People also search for, Value: 2
+							135 text People also search for
+						136 link Description: Zimbabwe terrain map stl 3d print, Value: …
+						137 link Description: Zimbabwe terrain map stl download, Value: …
+					138 heading Page Navigation, Value: 1
+						139 text Page Navigation
+					140 text 1
+					141 link Description: Page 2, Value: …
+					142 link Description: Page 3, Value: …
+					143 link Description: Page 4, Value: …
+					144 link Description: Page 5, Value: …
+					145 link Description: Page 6, Value: …
+					146 link Description: Page 7, Value: …
+					147 link Description: Page 8, Value: …
+					148 link Description: Page 9, Value: …
+					149 link Description: Page 10, Value: …
+					150 heading Next, Value: 2
+						151 link Description: Next, Value: …, ID: pnnext
+			152 container sfooter
+				153 heading Footer Links, Value: 1
+					154 text Footer Links
+				155 container fbar
+					156 container
+						157 button Unknown  - Can't determine location
+							158 container
+								159 text Unknown
+							160 container
+								161 text  -  Can't determine location
+						162 text  - 
+						163 button Update location
+							164 text Update location
+					165 container fsl
+						166 link Description: Help, Value: …
+						167 link Description: Send feedback, Value: …
+						168 link Description: Privacy, Value: …
+						169 link Description: Terms, Value: …
+
+The focused UI element is 1 AXWebArea Zimbabwe terrain map STL - Google Search, URL: google.com/search?q=Zimbabwe+terrain+map+STL&hl=en&gl=us&pws=0

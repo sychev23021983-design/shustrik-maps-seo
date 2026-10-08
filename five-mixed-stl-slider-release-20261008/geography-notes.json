@@ -1,0 +1,13 @@
+{
+  "references": 10,
+  "reviewed": 5,
+  "geometry": {
+    "israel": "Narrow tall relief with distinct inner cutout notches along eastern side; preserve reference boundary, jagged mountainous north, deep basin and triangular southern tip. Use this SKU reference alone; do not fill reference cutouts or expand coverage.",
+    "israel-extended": "Narrow tall elongated relief with continuous interior surface and broad angular middle-west shoulder, pointed southern tip, mountainous north/east. Preserve this distinct extended-coverage reference; do not add cutouts from the other Israel SKU, political boundaries, labels or territorial claims.",
+    "zimbabwe": "Broad roughly shield-like landlocked silhouette: left-west protruding arm, short straight step near top edge, ragged east edge, rounded bottom and diagonal southeast. Broad central plateau, rugged eastern highlands. Preserve proportions and terrain.",
+    "geoid": "Artistic irregular potato-like Earth geoid globe with strongly exaggerated surface, artificially raised Africa/Europe/Asia continents and depressed oceans as in reference. It is conceptual sculpture, not scientific gravity data or ordinary terrain globe. Preserve irregular bulges and recognizable reference continents.",
+    "modular-earth": "Assembled Earth relief globe made of 12 curved pentagonal dodecahedron tiles. Preserve globe shape and subtle pentagonal seams and North America/Greenland orientation of reference; reference rainbow colors denote parts only, replace with requested material. Do not make flat polygon planet or a smooth ordinary globe, and no exploded floating pieces."
+  },
+  "globe_support": "Whole geoid and assembled modular globe desktop concepts use form-fitting continuous solid cradle integrated with a solid base. Wall hemisphere presentation is additional fabrication adaptation, not included mesh guarantee.",
+  "distinct_israel": "Two individual SKU references and coverages retained without territorial expansion."
+}

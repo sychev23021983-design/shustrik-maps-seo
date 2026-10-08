@@ -1,0 +1,187 @@
+{
+  "pass": true,
+  "tool": "native ImageGen",
+  "reviewed": [
+    {
+      "slug": "israel",
+      "scene": "desk",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "continuous solid backing or form-fitting solid cradle; no unsupported elements"
+    },
+    {
+      "slug": "israel",
+      "scene": "wall",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "supported"
+    },
+    {
+      "slug": "israel",
+      "scene": "gift",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "supported"
+    },
+    {
+      "slug": "israel",
+      "scene": "commercial",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "supported"
+    },
+    {
+      "slug": "israel-extended",
+      "scene": "desk",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "continuous solid backing or form-fitting solid cradle; no unsupported elements"
+    },
+    {
+      "slug": "israel-extended",
+      "scene": "wall",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "supported"
+    },
+    {
+      "slug": "israel-extended",
+      "scene": "gift",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "supported"
+    },
+    {
+      "slug": "israel-extended",
+      "scene": "commercial",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "supported"
+    },
+    {
+      "slug": "zimbabwe",
+      "scene": "desk",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "continuous solid backing or form-fitting solid cradle; no unsupported elements"
+    },
+    {
+      "slug": "zimbabwe",
+      "scene": "wall",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "supported"
+    },
+    {
+      "slug": "zimbabwe",
+      "scene": "gift",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "supported"
+    },
+    {
+      "slug": "zimbabwe",
+      "scene": "commercial",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "supported"
+    },
+    {
+      "slug": "geoid",
+      "scene": "desk",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "continuous solid backing or form-fitting solid cradle; no unsupported elements"
+    },
+    {
+      "slug": "geoid",
+      "scene": "wall",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "supported"
+    },
+    {
+      "slug": "geoid",
+      "scene": "gift",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "supported"
+    },
+    {
+      "slug": "geoid",
+      "scene": "commercial",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "supported"
+    },
+    {
+      "slug": "modular-earth",
+      "scene": "desk",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "continuous solid backing or form-fitting solid cradle; no unsupported elements"
+    },
+    {
+      "slug": "modular-earth",
+      "scene": "wall",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "supported"
+    },
+    {
+      "slug": "modular-earth",
+      "scene": "gift",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "supported"
+    },
+    {
+      "slug": "modular-earth",
+      "scene": "commercial",
+      "pass": true,
+      "reference_geometry": true,
+      "material_scene": true,
+      "whole_model_visible": true,
+      "support": "supported"
+    }
+  ],
+  "rejected": "Initial Israel commercial variants included an extra globe; regenerated from country-only prompt, final replacements reviewed."
+}

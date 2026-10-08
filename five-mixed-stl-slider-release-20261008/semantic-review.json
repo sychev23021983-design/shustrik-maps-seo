@@ -1,0 +1,81 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-israel-stl-cnc",
+      "product_id": 20345,
+      "primary": "Israel topographic map STL",
+      "supporting": [
+        "Israel terrain STL",
+        "Israel relief map STL",
+        "Israel map 3D print",
+        "Israel CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; distinct country coverage, artistic geoid or 12-part Earth; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-israel-extended-stl-cnc",
+      "product_id": 21118,
+      "primary": "Israel terrain STL extended coverage",
+      "supporting": [
+        "Israel Extended Coverage terrain STL",
+        "Israel Extended Coverage relief map STL",
+        "Israel Extended Coverage map 3D print",
+        "Israel Extended Coverage CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; distinct country coverage, artistic geoid or 12-part Earth; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-zimbabwe-stl-cnc",
+      "product_id": 19379,
+      "primary": "Zimbabwe terrain map STL",
+      "supporting": [
+        "Zimbabwe terrain STL",
+        "Zimbabwe relief map STL",
+        "Zimbabwe map 3D print",
+        "Zimbabwe CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; distinct country coverage, artistic geoid or 12-part Earth; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-geoid-stl-cnc",
+      "product_id": 16772,
+      "primary": "artistic geoid height STL",
+      "supporting": [
+        "artistic Earth gravity surface STL",
+        "decorative geoid 3D print"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; distinct country coverage, artistic geoid or 12-part Earth; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-modular-earth-stl-cnc",
+      "product_id": 20976,
+      "primary": "modular Earth globe STL",
+      "supporting": [
+        "12-part dodecahedron globe STL",
+        "Earth puzzle globe 3D print",
+        "modular globe assembly"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; distinct country coverage, artistic geoid or 12-part Earth; market remains USA"
+    }
+  ],
+  "note": "All five exact STL clusters are absent from the saved core: editorial product mapping only. Proposed paid digital-file queries are editorial hypotheses, not measured expansion. Existing elevation/vector clusters must not be reassigned to STL.",
+  "fresh_intent_evidence": "intent-evidence.json",
+  "google_results_observed": 5,
+  "location_confirmed": false
+}
