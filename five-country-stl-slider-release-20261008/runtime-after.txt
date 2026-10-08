@@ -1,0 +1,2 @@
+/shustrik-maps-wordpress-1 running 0 2026-08-28T05:54:09.048858196Z {"80/tcp":[{"HostIp":"127.0.0.1","HostPort":"8083"}]}
+/shustrik-maps-db-1 running 0 2026-08-28T05:54:08.884034687Z {}

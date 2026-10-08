@@ -1,0 +1,3 @@
+## Targeted Shustrik Maps — Five Country STL, 2026-10-08 08:17 МСК
+
+External https://shustrik-maps.com; source 37e0231545d5dbcb7304a696cb7678102f070552; archive ef8ba261c1a0d864e4fdd14c72f724363111989dc996615b7408773063cb71db local/VPS совпал. Venezuela, Uzbekistan, Uruguay, UAE, Taiwan: SEO и20JPEG опубликованы. DB5/5,media20/20,HTTP10/10,browser40/40,rollback-preview прошли; исходные тексты/данные сохранены. SSH WireGuard/sudo Docker доступны; WP/DB running/restart0/StartedAt/ports before/after совпали: WP127.0.0.1:8083,DB безpublished ports. Build/restart/local change нет. P1 analytics/recovery/consent,индекс10.10,yellow/degraded сохранены. Другие проекты не проверялись. [[01 Projects/WordPress/shustrik-maps.com/Five Country STL Sliders 2026-10-08/Release Report]].
