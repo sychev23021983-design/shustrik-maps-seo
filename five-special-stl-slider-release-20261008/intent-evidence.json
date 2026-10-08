@@ -1,0 +1,70 @@
+{
+  "created_at": "2026-10-08",
+  "site_profile": "shustrik-maps",
+  "engine": "Google",
+  "language": "English",
+  "requested_market": "USA",
+  "params": {
+    "hl": "en",
+    "gl": "us",
+    "pws": 0
+  },
+  "actual_location": "Unknown / Cannot determine location",
+  "us_local_rank_verified": false,
+  "frequency_measured": false,
+  "rows": [
+    {
+      "query": "Antarctica with ice STL terrain model",
+      "evidence": "google-antarctica.txt",
+      "observation": "Paid terrain digital file competes with free ice/bedrock examples; separate circular polar ice-and-bathymetry SKU from the existing Antarctica outline STL.",
+      "public_links_observed": [
+        "https://cults3d.com/en/3d-model/various/antarctica-continent-and-relief-model",
+        "https://touchterrain.geol.iastate.edu/"
+      ],
+      "frequency": null,
+      "rank": null
+    },
+    {
+      "query": "Dymaxion world map STL",
+      "evidence": "google-dymaxion.txt",
+      "observation": "Free printable net, paid own world-terrain model, projection explanation; avoid foldable globe, puzzle and vector intent.",
+      "public_links_observed": [
+        "https://www.thingiverse.com/thing:148102",
+        "https://www.bfi.org/about-fuller/big-ideas/dymaxion-map/"
+      ],
+      "frequency": null,
+      "rank": null
+    },
+    {
+      "query": "Zion Canyon Trail STL CNC model",
+      "evidence": "google-zion.txt",
+      "observation": "Paid CNC terrain, free trail-area terrain, broader national-park STL; own narrow corridor and listed open base preserved.",
+      "public_links_observed": [
+        "https://www.kineticcarving.com/products/zion-national-park-terrain-map-stl",
+        "https://www.thingiverse.com/thing:226414"
+      ],
+      "frequency": null,
+      "rank": null
+    },
+    {
+      "query": "New Zealand Kiwi medallion STL relief",
+      "evidence": "google-kiwi.txt",
+      "observation": "Own commercial medallion/Cults plus STL collections, physical challenge medals; do not promise physical medal or currency.",
+      "public_links_observed": [
+        "https://cults3d.com/en/3d-model/architecture/new-zealand-flag-3d-medallion-stl-kiwi-bird-relief-model-for-3d-printing-cnc"
+      ],
+      "frequency": null,
+      "rank": null
+    },
+    {
+      "query": "Nautilus Maori pendant STL model",
+      "evidence": "google-nautilus.txt",
+      "observation": "Own named pendant/Cults, generic free pendant, competing submarine STL; retain exact Maori-style spiral pendant intent.",
+      "public_links_observed": [
+        "https://cults3d.com/en/3d-model/jewelry/pendant-nautilus-in-maori-style"
+      ],
+      "frequency": null,
+      "rank": null
+    }
+  ]
+}

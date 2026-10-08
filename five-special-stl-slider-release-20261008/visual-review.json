@@ -1,0 +1,106 @@
+{
+  "pass": true,
+  "individually_inspected": 20,
+  "rows": [
+    {
+      "key": "antarctica-ice_desk",
+      "pass": true,
+      "note": "Round polar disc, central ice dome and surrounding ocean-floor relief; complete circular perimeter; desk flush against full walnut panel, no gap."
+    },
+    {
+      "key": "antarctica-ice_wall",
+      "pass": true,
+      "note": "Small oak-framed polar disc on sage backing; circular ice+ocean relief retained."
+    },
+    {
+      "key": "antarctica-ice_gift",
+      "pass": true,
+      "note": "Full polar disc visible on fitted support in kraft box with green tissue."
+    },
+    {
+      "key": "antarctica-ice_commercial",
+      "pass": true,
+      "note": "Grey concrete polar disc and bathymetry retained; large lobby scale with visitors."
+    },
+    {
+      "key": "dymaxion_desk",
+      "pass": true,
+      "note": "Angular unfolded net, two upper-right peaks and asymmetric lower points retained; all tips flush-supported on full walnut panel."
+    },
+    {
+      "key": "dymaxion_wall",
+      "pass": true,
+      "note": "Small oak-framed angular net with warm tan relief and sage backing; actual tan tone recorded in alt."
+    },
+    {
+      "key": "dymaxion_gift",
+      "pass": true,
+      "note": "Wide angular net in fitted green insert in kraft box; all triangular tips supported."
+    },
+    {
+      "key": "dymaxion_commercial",
+      "pass": true,
+      "note": "Large grey concrete angular terrain net on dark museum backing; visitor scale."
+    },
+    {
+      "key": "zion-trail_desk",
+      "pass": true,
+      "note": "Tall narrow canyon strip, central valley/tributary relief; all back flush on solid walnut panel."
+    },
+    {
+      "key": "zion-trail_wall",
+      "pass": true,
+      "note": "Small tall framed canyon tile on sage backing, full rectangular coverage."
+    },
+    {
+      "key": "zion-trail_gift",
+      "pass": true,
+      "note": "Tall ivory canyon tile in fitted box insert and green tissue."
+    },
+    {
+      "key": "zion-trail_commercial",
+      "pass": true,
+      "note": "Large tall grey concrete canyon corridor on lobby wall with visitors."
+    },
+    {
+      "key": "kiwi-medallion_desk",
+      "pass": true,
+      "note": "Round rimmed kiwi medallion, bird head/beak left, Union Jack and four stars retained; flush-backed walnut panel."
+    },
+    {
+      "key": "kiwi-medallion_wall",
+      "pass": true,
+      "note": "Small framed ivory medallion with four stars and bird head, sage backing."
+    },
+    {
+      "key": "kiwi-medallion_gift",
+      "pass": true,
+      "note": "Ivory medallion with correct head/flag/stars in green supported gift insert and tissue."
+    },
+    {
+      "key": "kiwi-medallion_commercial",
+      "pass": true,
+      "note": "Large grey concrete circular flag/kiwi medallion, four stars, visitor scale."
+    },
+    {
+      "key": "nautilus_desk",
+      "pass": true,
+      "note": "Asymmetric pendant, clockwise spiral/cutouts/top cord hole and curved lobes retained; solid walnut visible behind all negative spaces and fully supporting shape."
+    },
+    {
+      "key": "nautilus_wall",
+      "pass": true,
+      "note": "Small framed ivory pendant with spiral/top cord hole on sage backing."
+    },
+    {
+      "key": "nautilus_gift",
+      "pass": true,
+      "note": "Ivory pendant with spiral and cord hole in forest-green fitted felt insert in kraft box; alt describes insert rather than tissue."
+    },
+    {
+      "key": "nautilus_commercial",
+      "pass": true,
+      "note": "Large grey concrete asymmetric spiral pendant enlargement on dark museum backing, visitor scale."
+    }
+  ]
+}

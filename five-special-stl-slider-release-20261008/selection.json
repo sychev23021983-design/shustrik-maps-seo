@@ -1,0 +1,37 @@
+{
+  "source_head": "3883e2ca876ff0e8e16d3b9283a647dd177e0ed1",
+  "method": "Fresh full 516-product live catalog and previous release logs, exact SKU and file format. Three terrain maps with explicitly included STL, two decorative STL models. Conversion-on-request-only C4D products and prepayment placeholders excluded. Denmark conservatively excluded per previous completion log. Belarus excluded. None has AI slider completion.",
+  "selected": [
+    {
+      "id": 10140,
+      "title": "Antarctica Elevation Map 3D Model",
+      "slug": "antarctica-with-ice-3d-model",
+      "ai_notice": false
+    },
+    {
+      "id": 10324,
+      "title": "World Map Dymaxion 3D Model",
+      "slug": "world-map-dymaxion-3d-model",
+      "ai_notice": false
+    },
+    {
+      "id": 16379,
+      "title": "Zion Canyon Trail 3D Model",
+      "slug": "zion-canyon-trail-3d-model",
+      "ai_notice": false
+    },
+    {
+      "id": 21381,
+      "title": "New Zealand Flag 3D Medallion STL – Kiwi Bird Relief Model for 3D Printing & CNC",
+      "slug": "new-zealand-medallion-kiwi-stl",
+      "ai_notice": false
+    },
+    {
+      "id": 18721,
+      "title": "Pendant \"Nautilus\" in Maori Style",
+      "slug": "pendant-nautilus-in-maori-style",
+      "ai_notice": false
+    }
+  ],
+  "published_product_count": 516
+}
