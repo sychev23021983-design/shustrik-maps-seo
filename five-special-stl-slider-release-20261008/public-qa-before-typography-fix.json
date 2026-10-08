@@ -1,0 +1,337 @@
+{
+  "rows": [
+    {
+      "id": 10140,
+      "url": "https://shustrik-maps.com/product/antarctica-with-ice-3d-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 10140,
+      "url": "https://shustrik-maps.com/product/antarctica-with-ice-3d-model/?five_special_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 10324,
+      "url": "https://shustrik-maps.com/product/world-map-dymaxion-3d-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 10324,
+      "url": "https://shustrik-maps.com/product/world-map-dymaxion-3d-model/?five_special_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 16379,
+      "url": "https://shustrik-maps.com/product/zion-canyon-trail-3d-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 16379,
+      "url": "https://shustrik-maps.com/product/zion-canyon-trail-3d-model/?five_special_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 21381,
+      "url": "https://shustrik-maps.com/product/new-zealand-medallion-kiwi-stl/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 21381,
+      "url": "https://shustrik-maps.com/product/new-zealand-medallion-kiwi-stl/?five_special_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 18721,
+      "url": "https://shustrik-maps.com/product/pendant-nautilus-in-maori-style/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": false,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": false
+    },
+    {
+      "id": 18721,
+      "url": "https://shustrik-maps.com/product/pendant-nautilus-in-maori-style/?five_special_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": false,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": false
+    }
+  ],
+  "media": [
+    {
+      "id": 22746,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/antarctica-ice-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22747,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/antarctica-ice-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22748,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/antarctica-ice-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22749,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/antarctica-ice-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22750,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/dymaxion-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22751,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/dymaxion-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22752,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/dymaxion-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22753,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/dymaxion-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22754,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/zion-trail-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22755,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/zion-trail-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22756,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/zion-trail-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22757,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/zion-trail-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22758,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22759,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22760,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22761,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22762,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22763,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22764,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22765,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    }
+  ],
+  "pass": false
+}

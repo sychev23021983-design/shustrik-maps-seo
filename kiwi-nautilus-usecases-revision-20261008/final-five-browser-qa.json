@@ -1,0 +1,810 @@
+{
+  "pass": true,
+  "samples": [
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory plastic circular Antarctica ice-and-ocean-floor terrain disc fully supported on a continuous solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/antarctica-ice-desk-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory plastic circular Antarctica ice-and-ocean-floor terrain disc fully supported on a continuous solid walnut desktop backing panel.",
+      "id": 10140,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a small ivory circular Antarctica ice-and-ocean-floor terrain disc mounted on solid sage-green backing in an oak wall frame above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/antarctica-ice-wall-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a small ivory circular Antarctica ice-and-ocean-floor terrain disc mounted on solid sage-green backing in an oak wall frame above a home console.",
+      "id": 10140,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory circular Antarctica ice-and-ocean-floor terrain disc fully supported in a kraft gift box with forest-green tissue.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/antarctica-ice-gift-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory circular Antarctica ice-and-ocean-floor terrain disc fully supported in a kraft gift box with forest-green tissue.",
+      "id": 10140,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete circular Antarctica ice-and-ocean-floor terrain disc fixed to a charcoal backing wall in a museum lobby with visitors for scale.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/antarctica-ice-commercial-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete circular Antarctica ice-and-ocean-floor terrain disc fixed to a charcoal backing wall in a museum lobby with visitors for scale.",
+      "id": 10140,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory plastic circular Antarctica ice-and-ocean-floor terrain disc fully supported on a continuous solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/antarctica-ice-desk-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory plastic circular Antarctica ice-and-ocean-floor terrain disc fully supported on a continuous solid walnut desktop backing panel.",
+      "id": 10140,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a small ivory circular Antarctica ice-and-ocean-floor terrain disc mounted on solid sage-green backing in an oak wall frame above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/antarctica-ice-wall-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a small ivory circular Antarctica ice-and-ocean-floor terrain disc mounted on solid sage-green backing in an oak wall frame above a home console.",
+      "id": 10140,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory circular Antarctica ice-and-ocean-floor terrain disc fully supported in a kraft gift box with forest-green tissue.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/antarctica-ice-gift-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory circular Antarctica ice-and-ocean-floor terrain disc fully supported in a kraft gift box with forest-green tissue.",
+      "id": 10140,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete circular Antarctica ice-and-ocean-floor terrain disc fixed to a charcoal backing wall in a museum lobby with visitors for scale.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/antarctica-ice-commercial-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete circular Antarctica ice-and-ocean-floor terrain disc fixed to a charcoal backing wall in a museum lobby with visitors for scale.",
+      "id": 10140,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory plastic angular unfolded Dymaxion world terrain net fully supported on a continuous solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/dymaxion-desk-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory plastic angular unfolded Dymaxion world terrain net fully supported on a continuous solid walnut desktop backing panel.",
+      "id": 10324,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a small warm tan angular unfolded Dymaxion world terrain net mounted on solid sage-green backing in an oak wall frame above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/dymaxion-wall-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a small warm tan angular unfolded Dymaxion world terrain net mounted on solid sage-green backing in an oak wall frame above a home console.",
+      "id": 10324,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory angular unfolded Dymaxion world terrain net fully supported in a kraft gift box with forest-green tissue.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/dymaxion-gift-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory angular unfolded Dymaxion world terrain net fully supported in a kraft gift box with forest-green tissue.",
+      "id": 10324,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete angular unfolded Dymaxion world terrain net fixed to a charcoal backing wall in a museum lobby with visitors for scale.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/dymaxion-commercial-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete angular unfolded Dymaxion world terrain net fixed to a charcoal backing wall in a museum lobby with visitors for scale.",
+      "id": 10324,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory plastic angular unfolded Dymaxion world terrain net fully supported on a continuous solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/dymaxion-desk-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory plastic angular unfolded Dymaxion world terrain net fully supported on a continuous solid walnut desktop backing panel.",
+      "id": 10324,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a small warm tan angular unfolded Dymaxion world terrain net mounted on solid sage-green backing in an oak wall frame above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/dymaxion-wall-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a small warm tan angular unfolded Dymaxion world terrain net mounted on solid sage-green backing in an oak wall frame above a home console.",
+      "id": 10324,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory angular unfolded Dymaxion world terrain net fully supported in a kraft gift box with forest-green tissue.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/dymaxion-gift-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory angular unfolded Dymaxion world terrain net fully supported in a kraft gift box with forest-green tissue.",
+      "id": 10324,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete angular unfolded Dymaxion world terrain net fixed to a charcoal backing wall in a museum lobby with visitors for scale.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/dymaxion-commercial-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete angular unfolded Dymaxion world terrain net fixed to a charcoal backing wall in a museum lobby with visitors for scale.",
+      "id": 10324,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory plastic tall narrow Zion Canyon Trail terrain tile fully supported on a continuous solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/04/zion-trail-desk-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory plastic tall narrow Zion Canyon Trail terrain tile fully supported on a continuous solid walnut desktop backing panel.",
+      "id": 16379,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a small ivory tall narrow Zion Canyon Trail terrain tile mounted on solid sage-green backing in an oak wall frame above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/04/zion-trail-wall-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a small ivory tall narrow Zion Canyon Trail terrain tile mounted on solid sage-green backing in an oak wall frame above a home console.",
+      "id": 16379,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory tall narrow Zion Canyon Trail terrain tile fully supported in a kraft gift box with forest-green tissue.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/04/zion-trail-gift-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory tall narrow Zion Canyon Trail terrain tile fully supported in a kraft gift box with forest-green tissue.",
+      "id": 16379,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete tall narrow Zion Canyon Trail terrain tile fixed to a charcoal backing wall in a museum lobby with visitors for scale.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/04/zion-trail-commercial-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete tall narrow Zion Canyon Trail terrain tile fixed to a charcoal backing wall in a museum lobby with visitors for scale.",
+      "id": 16379,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory plastic tall narrow Zion Canyon Trail terrain tile fully supported on a continuous solid walnut desktop backing panel.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/04/zion-trail-desk-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory plastic tall narrow Zion Canyon Trail terrain tile fully supported on a continuous solid walnut desktop backing panel.",
+      "id": 16379,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a small ivory tall narrow Zion Canyon Trail terrain tile mounted on solid sage-green backing in an oak wall frame above a home console.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/04/zion-trail-wall-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a small ivory tall narrow Zion Canyon Trail terrain tile mounted on solid sage-green backing in an oak wall frame above a home console.",
+      "id": 16379,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory tall narrow Zion Canyon Trail terrain tile fully supported in a kraft gift box with forest-green tissue.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/04/zion-trail-gift-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory tall narrow Zion Canyon Trail terrain tile fully supported in a kraft gift box with forest-green tissue.",
+      "id": 16379,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a large grey concrete tall narrow Zion Canyon Trail terrain tile fixed to a charcoal backing wall in a museum lobby with visitors for scale.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/04/zion-trail-commercial-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a large grey concrete tall narrow Zion Canyon Trail terrain tile fixed to a charcoal backing wall in a museum lobby with visitors for scale.",
+      "id": 16379,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a small ivory plastic New Zealand flag and kiwi bird commemorative medallion resting in an adult hand.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-handheld-revision-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a small ivory plastic New Zealand flag and kiwi bird commemorative medallion resting in an adult hand.",
+      "id": 21381,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an antique-brass-finish New Zealand kiwi and flag medallion in a clear collector capsule on a dark velvet tray.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-capsule-revision-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an antique-brass-finish New Zealand kiwi and flag medallion in a clear collector capsule on a dark velvet tray.",
+      "id": 21381,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an antique-bronze-finish New Zealand kiwi and flag commemorative medallion in a small navy-blue gift presentation box.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-gift-revision-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an antique-bronze-finish New Zealand kiwi and flag commemorative medallion in a small navy-blue gift presentation box.",
+      "id": 21381,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a small antique-brass-finish New Zealand kiwi and flag medallion displayed with a suede travel keepsake pouch.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-pouch-revision-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a small antique-brass-finish New Zealand kiwi and flag medallion displayed with a suede travel keepsake pouch.",
+      "id": 21381,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a small ivory plastic New Zealand flag and kiwi bird commemorative medallion resting in an adult hand.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-handheld-revision-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a small ivory plastic New Zealand flag and kiwi bird commemorative medallion resting in an adult hand.",
+      "id": 21381,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an antique-brass-finish New Zealand kiwi and flag medallion in a clear collector capsule on a dark velvet tray.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-capsule-revision-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an antique-brass-finish New Zealand kiwi and flag medallion in a clear collector capsule on a dark velvet tray.",
+      "id": 21381,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an antique-bronze-finish New Zealand kiwi and flag commemorative medallion in a small navy-blue gift presentation box.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-gift-revision-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an antique-bronze-finish New Zealand kiwi and flag commemorative medallion in a small navy-blue gift presentation box.",
+      "id": 21381,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a small antique-brass-finish New Zealand kiwi and flag medallion displayed with a suede travel keepsake pouch.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-pouch-revision-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a small antique-brass-finish New Zealand kiwi and flag medallion displayed with a suede travel keepsake pouch.",
+      "id": 21381,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a small ivory plastic Maori-style Nautilus spiral pendant worn on a dark cord at the collarbone of an adult woman in a linen shirt.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-necklace-revision-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a small ivory plastic Maori-style Nautilus spiral pendant worn on a dark cord at the collarbone of an adult woman in a linen shirt.",
+      "id": 18721,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory plastic Maori-style Nautilus spiral keychain attached through its top hole to the zipper of an olive-green backpack.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-backpack-revision-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory plastic Maori-style Nautilus spiral keychain attached through its top hole to the zipper of an olive-green backpack.",
+      "id": 18721,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a small ivory plastic Maori-style Nautilus spiral keychain attached by a metal split ring to house keys beside a wallet.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-keys-revision-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a small ivory plastic Maori-style Nautilus spiral keychain attached by a metal split ring to house keys beside a wallet.",
+      "id": 18721,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory plastic Maori-style Nautilus spiral keychain with a metal split ring in a small kraft gift box with a forest-green insert.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-gift-revision-1500x1000-1.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory plastic Maori-style Nautilus spiral keychain with a metal split ring in a small kraft gift box with a forest-green insert.",
+      "id": 18721,
+      "mode": "desktop",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 1440,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a small ivory plastic Maori-style Nautilus spiral pendant worn on a dark cord at the collarbone of an adult woman in a linen shirt.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-necklace-revision-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a small ivory plastic Maori-style Nautilus spiral pendant worn on a dark cord at the collarbone of an adult woman in a linen shirt.",
+      "id": 18721,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 1,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory plastic Maori-style Nautilus spiral keychain attached through its top hole to the zipper of an olive-green backpack.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-backpack-revision-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory plastic Maori-style Nautilus spiral keychain attached through its top hole to the zipper of an olive-green backpack.",
+      "id": 18721,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 2,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of a small ivory plastic Maori-style Nautilus spiral keychain attached by a metal split ring to house keys beside a wallet.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-keys-revision-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of a small ivory plastic Maori-style Nautilus spiral keychain attached by a metal split ring to house keys beside a wallet.",
+      "id": 18721,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 3,
+      "viewport": 390,
+      "visible_count": 1
+    },
+    {
+      "active": [
+        {
+          "alt": "AI-generated concept of an ivory plastic Maori-style Nautilus spiral keychain with a metal split ring in a small kraft gift box with a forest-green insert.",
+          "loaded": true,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-gift-revision-1500x1000-1-766x511.jpg"
+        }
+      ],
+      "align": "center",
+      "arrows": 2,
+      "bold": "600",
+      "dots": 4,
+      "expected_alt": "AI-generated concept of an ivory plastic Maori-style Nautilus spiral keychain with a metal split ring in a small kraft gift box with a forest-green insert.",
+      "id": 18721,
+      "mode": "mobile",
+      "overflow": false,
+      "slide": 4,
+      "viewport": 390,
+      "visible_count": 1
+    }
+  ],
+  "screenshots_visually_reviewed": true,
+  "current_slides": 20,
+  "desktop_mobile_samples": 40,
+  "controls_passed": 10,
+  "evidence_scope": "Three unchanged terrain products from initial QA and two revised decorative products from repeated QA"
+}

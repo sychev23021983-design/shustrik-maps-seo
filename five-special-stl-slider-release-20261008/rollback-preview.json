@@ -1,0 +1,52 @@
+{
+  "ok": true,
+  "mode": "--rollback-preview",
+  "utc": "2026-10-08T09:42:37+00:00",
+  "rows": [
+    {
+      "id": 10140,
+      "url": "https://shustrik-maps.com/product/antarctica-with-ice-3d-model/",
+      "seo_title": "Antarctica with Ice STL | Topographic Terrain 3D Model",
+      "meta_description": "Download the Antarctica with ice terrain model in C4D and STL formats. Explore relief display concepts for this digital polar stereographic model.",
+      "h1": "Antarctica Elevation Map 3D Model",
+      "media": [],
+      "protected_preserved": true
+    },
+    {
+      "id": 10324,
+      "url": "https://shustrik-maps.com/product/world-map-dymaxion-3d-model/",
+      "seo_title": "Dymaxion World Map STL | Fuller Projection Terrain Model",
+      "meta_description": "Download the Dymaxion world terrain model in OBJ and STL formats. The listing has an open base; display and fabrication concepts need added support.",
+      "h1": "World Map Dymaxion 3D Model",
+      "media": [],
+      "protected_preserved": true
+    },
+    {
+      "id": 16379,
+      "url": "https://shustrik-maps.com/product/zion-canyon-trail-3d-model/",
+      "seo_title": "Zion Canyon Trail STL | Open-Base Terrain Model for CNC",
+      "meta_description": "Download the Zion Canyon Trail model with an additional open-base STL for CNC. Preparing it for 3D printing requires closing the bottom and checking the mesh.",
+      "h1": "Zion Canyon Trail 3D Model",
+      "media": [],
+      "protected_preserved": true
+    },
+    {
+      "id": 21381,
+      "url": "https://shustrik-maps.com/product/new-zealand-medallion-kiwi-stl/",
+      "seo_title": "New Zealand Kiwi Medallion STL | Flag Relief 3D Model",
+      "meta_description": "Download the New Zealand Kiwi medallion STL featuring a wavy flag and bird relief. Explore desktop, wall and gift concepts for this digital model.",
+      "h1": "New Zealand Flag 3D Medallion STL – Kiwi Bird Relief Model for 3D Printing & CNC",
+      "media": [],
+      "protected_preserved": true
+    },
+    {
+      "id": 18721,
+      "url": "https://shustrik-maps.com/product/pendant-nautilus-in-maori-style/",
+      "seo_title": "Nautilus Pendant STL | Maori-Style Spiral Relief Model",
+      "meta_description": "Download the Nautilus pendant STL with a Maori-style shell and central spiral. Explore 3D printing, CNC, desktop, wall and gift application concepts.",
+      "h1": "Pendant \"Nautilus\" in Maori Style",
+      "media": [],
+      "protected_preserved": true
+    }
+  ]
+}

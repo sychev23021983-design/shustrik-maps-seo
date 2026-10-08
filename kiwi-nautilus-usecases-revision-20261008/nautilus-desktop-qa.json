@@ -1,0 +1,82 @@
+[
+  {
+    "active": [
+      {
+        "alt": "AI-generated concept of a small ivory plastic Maori-style Nautilus spiral pendant worn on a dark cord at the collarbone of an adult woman in a linen shirt.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-necklace-revision-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of a small ivory plastic Maori-style Nautilus spiral pendant worn on a dark cord at the collarbone of an adult woman in a linen shirt.",
+    "id": 18721,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 1,
+    "viewport": 1440,
+    "visible_count": 1
+  },
+  {
+    "active": [
+      {
+        "alt": "AI-generated concept of an ivory plastic Maori-style Nautilus spiral keychain attached through its top hole to the zipper of an olive-green backpack.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-backpack-revision-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of an ivory plastic Maori-style Nautilus spiral keychain attached through its top hole to the zipper of an olive-green backpack.",
+    "id": 18721,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 2,
+    "viewport": 1440,
+    "visible_count": 1
+  },
+  {
+    "active": [
+      {
+        "alt": "AI-generated concept of a small ivory plastic Maori-style Nautilus spiral keychain attached by a metal split ring to house keys beside a wallet.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-keys-revision-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of a small ivory plastic Maori-style Nautilus spiral keychain attached by a metal split ring to house keys beside a wallet.",
+    "id": 18721,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 3,
+    "viewport": 1440,
+    "visible_count": 1
+  },
+  {
+    "active": [
+      {
+        "alt": "AI-generated concept of an ivory plastic Maori-style Nautilus spiral keychain with a metal split ring in a small kraft gift box with a forest-green insert.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-gift-revision-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of an ivory plastic Maori-style Nautilus spiral keychain with a metal split ring in a small kraft gift box with a forest-green insert.",
+    "id": 18721,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 4,
+    "viewport": 1440,
+    "visible_count": 1
+  }
+]

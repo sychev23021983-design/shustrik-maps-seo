@@ -1,0 +1,139 @@
+{
+  "rows": [
+    {
+      "id": 21381,
+      "url": "https://shustrik-maps.com/product/new-zealand-medallion-kiwi-stl/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 21381,
+      "url": "https://shustrik-maps.com/product/new-zealand-medallion-kiwi-stl/?kiwi_nautilus_usecases_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 18721,
+      "url": "https://shustrik-maps.com/product/pendant-nautilus-in-maori-style/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 18721,
+      "url": "https://shustrik-maps.com/product/pendant-nautilus-in-maori-style/?kiwi_nautilus_usecases_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    }
+  ],
+  "media": [
+    {
+      "id": 22766,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-handheld-revision-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22767,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-capsule-revision-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22768,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-gift-revision-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22769,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-pouch-revision-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22770,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-necklace-revision-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22771,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-backpack-revision-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22772,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-keys-revision-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22773,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-gift-revision-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    }
+  ],
+  "pass": true
+}

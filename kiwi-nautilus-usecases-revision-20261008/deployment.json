@@ -1,0 +1,10 @@
+{
+  "commit": "79f6673948bd7dc9b6270de813fe16ca85cf7c22",
+  "archive_sha256": "d6ddba8daa3d900684f473a262b49d4892439137673c36b792299db52c333585",
+  "remote_archive_sha256": "d6ddba8daa3d900684f473a262b49d4892439137673c36b792299db52c333585",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/kiwi-nautilus-usecases-79f6673",
+  "mode": "external",
+  "container": "shustrik-maps-wordpress-1",
+  "lint_pass": true
+}

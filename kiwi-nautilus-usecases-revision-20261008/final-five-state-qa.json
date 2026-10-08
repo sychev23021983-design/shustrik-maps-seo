@@ -1,0 +1,26 @@
+{
+  "pass": true,
+  "rows": [
+    {
+      "id": 10140,
+      "final_current_state_matches": true
+    },
+    {
+      "id": 10324,
+      "final_current_state_matches": true
+    },
+    {
+      "id": 16379,
+      "final_current_state_matches": true
+    },
+    {
+      "id": 21381,
+      "final_current_state_matches": true
+    },
+    {
+      "id": 18721,
+      "final_current_state_matches": true
+    }
+  ],
+  "superseded_media_preserved": 8
+}
