@@ -1,0 +1,46 @@
+{
+  "pass": true,
+  "individually_inspected": 8,
+  "rows": [
+    {
+      "key": "kiwi-medallion_handheld",
+      "pass": true,
+      "note": "Ivory medallion in adult hand; rim, kiwi head/beak left, Union Jack and four stars preserved; no stand/panel."
+    },
+    {
+      "key": "kiwi-medallion_capsule",
+      "pass": true,
+      "note": "Brass finished souvenir medallion in clear collector capsule on velvet tray; four stars and kiwi/flag retained; no currency denomination."
+    },
+    {
+      "key": "kiwi-medallion_gift",
+      "pass": true,
+      "note": "Bronze/brass finished medallion in small navy velvet gift box; full face visible, no large plaque."
+    },
+    {
+      "key": "kiwi-medallion_pouch",
+      "pass": true,
+      "note": "Brass medallion in front of suede pouch and unbranded luggage tag; whole face visible, travel scale."
+    },
+    {
+      "key": "nautilus_necklace",
+      "pass": true,
+      "note": "Ivory asymmetric Nautilus pendant on dark cord through existing hole at woman's neck; spiral/cutouts visible, modest shirt, no backing."
+    },
+    {
+      "key": "nautilus_backpack",
+      "pass": true,
+      "note": "Ivory Nautilus keychain attached by metal ring through existing top hole to olive backpack zipper; real size and negative spaces."
+    },
+    {
+      "key": "nautilus_keys",
+      "pass": true,
+      "note": "Ivory Nautilus keychain attached to plain keys, lying by wallet; complete spiral and cord hole."
+    },
+    {
+      "key": "nautilus_gift",
+      "pass": true,
+      "note": "Ivory Nautilus keychain and split ring in small kraft box with green fitted insert; no frame/statue/concrete."
+    }
+  ]
+}
