@@ -1,0 +1,39 @@
+administrative-p.ptr.network
+atria-atria-api-1 Up 41 hours
+atria-atria-web-1 Up 41 hours
+dca-bot Up 3 days (healthy)
+crypto-analyzer-frontend-1 Up 5 days
+crypto-analyzer-worker-1 Up 5 days
+crypto-analyzer-beat-1 Up 5 days
+crypto-analyzer-optimizer-1 Up 5 days
+crypto-analyzer-backend-1 Up 5 days
+family-doctor-frontend Up 6 days
+family-doctor-api Up 6 days
+atria-atria-db-1 Up 7 days (healthy)
+itc-hub-backend-1 Up 9 days (healthy)
+itc-hub-web-blue Up 9 days
+itc-hub-module-agent-1 Up 9 days (healthy)
+itc-hub-module-db-provisioner-1 Up 9 days (healthy)
+itc-hub-postgres-1 Up 9 days (healthy)
+panel-panel-1 Up 10 days
+panel-docker-socket-proxy-1 Up 10 days
+atria-atria-rspamd-1 Up 2 weeks (healthy)
+atria-atria-proxy-1 Up 2 weeks
+itc-module-support-0-1-20-6486198bef74 Up 3 weeks (healthy)
+itc-hub-module-docker-proxy-1 Up 4 weeks
+family-doctor-bot Up 4 weeks
+crypto-analyzer-redis-1 Up 5 weeks
+shustrik-maps-wordpress-1 Up 5 weeks
+shustrik-maps-db-1 Up 5 weeks
+ops-frontend Up 5 weeks
+ops-backend Up 5 weeks
+uptime-kuma Up 5 weeks (healthy)
+cube-maps-server Up 5 weeks
+family-doctor-db Up 5 weeks (healthy)
+osm-tool-frontend-1 Up 5 weeks
+osm-tool-backend-1 Up 5 weeks
+postgres Up 5 weeks
+fit-maria-wordpress-1 Up 5 weeks
+fit-maria-db-1 Up 5 weeks
+/shustrik-maps-wordpress-1 running 0 2026-08-28T05:54:09.048858196Z {"80/tcp":[{"HostIp":"127.0.0.1","HostPort":"8083"}]}
+/shustrik-maps-db-1 running 0 2026-08-28T05:54:08.884034687Z {}

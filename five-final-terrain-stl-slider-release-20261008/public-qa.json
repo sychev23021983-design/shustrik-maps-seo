@@ -1,0 +1,337 @@
+{
+  "rows": [
+    {
+      "id": 9498,
+      "url": "https://shustrik-maps.com/product/earth-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9498,
+      "url": "https://shustrik-maps.com/product/earth-stl-model/?five_final_terrain_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9396,
+      "url": "https://shustrik-maps.com/product/albania-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9396,
+      "url": "https://shustrik-maps.com/product/albania-stl-model/?five_final_terrain_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9415,
+      "url": "https://shustrik-maps.com/product/state-of-illinois-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 9415,
+      "url": "https://shustrik-maps.com/product/state-of-illinois-stl-model/?five_final_terrain_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 19397,
+      "url": "https://shustrik-maps.com/product/greenland-topographic-map-3d-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 19397,
+      "url": "https://shustrik-maps.com/product/greenland-topographic-map-3d-model/?five_final_terrain_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 21146,
+      "url": "https://shustrik-maps.com/product/earth-stl-with-rivers/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 21146,
+      "url": "https://shustrik-maps.com/product/earth-stl-with-rivers/?five_final_terrain_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    }
+  ],
+  "media": [
+    {
+      "id": 22726,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/04/earth-relief-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22727,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/04/earth-relief-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22728,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/04/earth-relief-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22729,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/04/earth-relief-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22730,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/albania-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22731,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/albania-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22732,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/albania-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22733,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/albania-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22734,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/illinois-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22735,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/illinois-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22736,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/illinois-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22737,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/illinois-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22738,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/greenland-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22739,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/greenland-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22740,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/greenland-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22741,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/greenland-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22742,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/earth-rivers-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22743,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/earth-rivers-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22744,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/earth-rivers-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22745,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/earth-rivers-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    }
+  ],
+  "pass": true
+}

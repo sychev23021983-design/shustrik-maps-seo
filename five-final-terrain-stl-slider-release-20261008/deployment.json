@@ -1,0 +1,10 @@
+{
+  "commit": "a805c80851d6f2e9f5b196ea1ad71a5f1d6ae519",
+  "archive_sha256": "c9d51e90345c495511ec7185f59433f03252ddefb61c8afbea6fa99500cf5bac",
+  "remote_archive_sha256": "c9d51e90345c495511ec7185f59433f03252ddefb61c8afbea6fa99500cf5bac",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/five-final-terrain-a805c80",
+  "mode": "external",
+  "container": "shustrik-maps-wordpress-1",
+  "lint_pass": true
+}

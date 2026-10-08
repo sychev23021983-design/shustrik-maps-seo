@@ -1,0 +1,82 @@
+[
+  {
+    "active": [
+      {
+        "alt": "AI-generated concept of an ivory plastic Earth globe with exaggerated relief and Africa facing forward fully seated in a continuous solid walnut cradle integrated into a rectangular desktop base.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/04/earth-relief-desk-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of an ivory plastic Earth globe with exaggerated relief and Africa facing forward fully seated in a continuous solid walnut cradle integrated into a rectangular desktop base.",
+    "id": 9498,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 1,
+    "viewport": 1440,
+    "visible_count": 1
+  },
+  {
+    "active": [
+      {
+        "alt": "AI-generated concept of a small framed hemisphere adaptation of the Earth globe with exaggerated relief and Africa facing forward, mounted on a solid sage-green backing; ivory relief and oak frame.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/04/earth-relief-wall-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of a small framed hemisphere adaptation of the Earth globe with exaggerated relief and Africa facing forward, mounted on a solid sage-green backing; ivory relief and oak frame.",
+    "id": 9498,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 2,
+    "viewport": 1440,
+    "visible_count": 1
+  },
+  {
+    "active": [
+      {
+        "alt": "AI-generated concept of an ivory plastic Earth globe with exaggerated relief and Africa facing forward supported by a fitted insert in a kraft gift box with forest-green tissue.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/04/earth-relief-gift-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of an ivory plastic Earth globe with exaggerated relief and Africa facing forward supported by a fitted insert in a kraft gift box with forest-green tissue.",
+    "id": 9498,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 3,
+    "viewport": 1440,
+    "visible_count": 1
+  },
+  {
+    "active": [
+      {
+        "alt": "AI-generated concept of a large grey concrete Earth globe with exaggerated relief and Africa facing forward supported by a fitted solid pedestal in a museum lobby.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/04/earth-relief-commercial-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of a large grey concrete Earth globe with exaggerated relief and Africa facing forward supported by a fitted solid pedestal in a museum lobby.",
+    "id": 9498,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 4,
+    "viewport": 1440,
+    "visible_count": 1
+  }
+]
