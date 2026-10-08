@@ -1,0 +1,16 @@
+[
+  {
+    "query": "Copernicus lunar crater STL",
+    "url": "https://www.google.com/search?q=Copernicus+lunar+crater+STL&hl=en&gl=us&pws=0",
+    "file": "google-copernicus.txt",
+    "location": "Unknown",
+    "observations": "Paid own digital model intent mixed with free NASA-derived lunar models, general lunar information and gaming terrain. No metric/rank claims."
+  },
+  {
+    "query": "Theophilus lunar crater STL",
+    "url": "https://www.google.com/search?q=Theophilus+lunar+crater+STL&hl=en&gl=us&pws=0",
+    "file": "google-theophilus.txt",
+    "location": "Unknown",
+    "observations": "Paid own digital model intent mixed with free NASA-derived lunar models, general lunar information and gaming terrain. No metric/rank claims."
+  }
+]

@@ -1,0 +1,176 @@
+Browser tab: 11, Title: "Theophilus lunar crater STL - Google Search", URL: "https://www.google.com/search?q=Theophilus+lunar+crater+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Theophilus lunar crater STL - Google Search, URL: google.com/search?q=Theophilus+lunar+crater+STL&hl=en&gl=us&pws=0
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp?hl=en&ictx=2&sa=X&ved=2ahUKEwiujKieqqqXAxWySvEDHWFGKUsQPXoECAYQBA
+					12 combo box (collapsed) Description: Search, Value: Theophilus lunar crater STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DTheophilus%2Blunar%2Bcrater%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search?q=Theophilus+lunar+crater+STL&sca_esv=e2130cf16db8d2a2&hl=en&gl=us&pws=0&sxsrf=APpeQnuB7jw66fDSBiPOAN2AWnxgEXK3CQ:1791459376899&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8If6UlQdzA3eae6DyEgB_K-Oo1DvwvNqNRv3gdbsoRfWHVTF95OvL34AXg7os5ZtnLg-hyVSE-sxRQ5Br450XBMGBoSj7SjsaRwd0OfiTicAThWwJFQ&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiujKieqqqXAxWySvEDHWFGKUsQ2J8OegQIExAD
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search?sca_esv=e2130cf16db8d2a2&hl=en&gl=us&pws=0&sxsrf=APpeQnuB7jw66fDSBiPOAN2AWnxgEXK3CQ:1791459376899&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8If6UlQdzA3eae6DyEgB_K-Oo1DvwvNqNRv3gdbsoRfWHVTF95OvL34AXg7os5ZtnLg-hyVSE-sxRQ5Br450XBMGBoSj7SjsaRwd0OfiTicAThWwJFQ&q=Theophilus+lunar+crater+STL&sa=X&ved=2ahUKEwiujKieqqqXAxWySvEDHWFGKUsQtKgLegQIGRAB
+					27 link Description: Shopping, Value: google.com/search?sca_esv=e2130cf16db8d2a2&hl=en&gl=us&pws=0&sxsrf=APpeQnuB7jw66fDSBiPOAN2AWnxgEXK3CQ:1791459376899&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8If6UlQdzA3eae6DyEgB_K-Oo1DvwvNqNRv3gdbsoRfWHVTF95OvL34AXg7os5ZtnLg-hyVSE-sxRQ5Br450XBMGBoSj7SjsaRwd0OfiTicAThWwJFQ&q=Theophilus+lunar+crater+STL&ved=1t:220175&ictx=111
+					28 link Description: Videos, Value: google.com/search?sca_esv=e2130cf16db8d2a2&hl=en&gl=us&pws=0&sxsrf=APpeQnuB7jw66fDSBiPOAN2AWnxgEXK3CQ:1791459376899&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8If6UlQdzA3eae6DyEgB_K-Oo1DvwvNqNRv3gdbsoRfWHVTF95OvL34AXg7os5ZtnLg-hyVSE-sxRQ5Br450XBMGBoSj7SjsaRwd0OfiTicAThWwJFQ&q=Theophilus+lunar+crater+STL&sa=X&ved=2ahUKEwiujKieqqqXAxWySvEDHWFGKUsQtKgLegQIFxAB
+					29 link Description: News, Value: google.com/search?sca_esv=e2130cf16db8d2a2&hl=en&gl=us&pws=0&sxsrf=APpeQnuB7jw66fDSBiPOAN2AWnxgEXK3CQ:1791459376899&q=Theophilus+lunar+crater+STL&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8If6UlQdzA3eae6DyEgB_K-Oo1DvwvNqNRv3gdbsoRfWHVTF95OvL34AXg7os5ZtnLg-hyVSE-sxRQ5Br450XBMGBoSj7SjsaRwd0OfiTicAThWwJFQ&sa=X&ved=2ahUKEwiujKieqqqXAxWySvEDHWFGKUsQ0pQJegQIGBAB
+					30 link Description: Forums, Value: google.com/search?sca_esv=e2130cf16db8d2a2&hl=en&gl=us&pws=0&sxsrf=APpeQnuB7jw66fDSBiPOAN2AWnxgEXK3CQ:1791459376899&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8If6UlQdzA3eae6DyEgB_K-Oo1DvwvNqNRv3gdbsoRfWHVTF95OvL34AXg7os5ZtnLg-hyVSE-sxRQ5Br450XBMGBoSj7SjsaRwd0OfiTicAThWwJFQ&q=Theophilus+lunar+crater+STL&sa=X&ved=2ahUKEwiujKieqqqXAxWySvEDHWFGKUsQs6gLegQIFRAB
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container rcnt
+				38 container Odp5De
+					39 container
+						40 container
+							41 heading AI Overview, Value: 2
+								42 text AI Overview
+							43 container
+								44 text You can buy a digital
+								45 link Description: Theophilus Lunar Crater 3D Model, Value: google.com/goto?url=CAESfgHrOzAVxIG6F0vQhnM-OgJr3uT-qFUDo71qd1ZPKLrudsDbfpFXlDrkVnsTj8YIiHU0ci0w_ecPma_o4YALFEB8UVm8wBaFqNKQpxhc60GRzDpkbPOSy1D8vL1JOKLkFZfWnSzd5YxoLVGyATEOdJTdUmIK7zXbP-IIcTROOA
+								46 text  in STL format from  Shustrik Maps .
+								47 button Related results
+							48 heading Overview of Theophilus Crater, Value: 3
+								49 text Overview of Theophilus Crater
+							50 content list
+								51 container
+									52 AXListMarker •
+									53 text Location:  Situated in the central highlands near Mare Nectaris on the visible side of the Moon.
+								54 container
+									55 AXListMarker •
+									56 text Dimensions:  Approximately 100 km (60 miles) in diameter and 3.2 km (2.7 to 2.8 miles) deep.
+							57 container
+								58 container
+									59 content list
+										60 container
+											61 link Description: Theophilus Lunar Crater 3D Model. Opens in new tab., Value: google.com/goto?url=CAESfgHrOzAVxIG6F0vQhnM-OgJr3uT-qFUDo71qd1ZPKLrudsDbfpFXlDrkVnsTj8YIiHU0ci0w_ecPma_o4YALFEB8UVm8wBaFqNKQpxhc60GRzDpkbPOSy1D8vL1JOKLkFZfWnSzd5YxoLVGyATEOdJTdUmIK7zXbP-IIcTROOA
+											62 text Shustrik Maps
+											63 button Description: About this result, ID: snui-atr-MYDHauysLcqGxc8Pp6XwqAE_jmhygc_28
+											64 text Theophilus Lunar Crater 3D Model
+											65 text 3D Models * Format: C4D (Cinema 4D 2023.2.1) and STL * File size (unzipped): 573 MB/477 MB * Polygons: 9 999 390 * Vertices: 5 008...
+									66 button Description: Show all related results, ID: rw0ISc
+						67 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+							68 text Show more
+				69 container center_col
+					70 container gevUs
+						71 container rso
+							72 container
+								73 heading Web results, Value: 2
+									74 text Web results
+								75 link Description: Lunar Surface Craters - Digital STL Black Site Studios https://blacksitestudio.com › products › lunar-surface-cra..., Value: google.com/goto?url=CAEStgEB6zswFfT4-GXduTCApM-LFZU1cTaF-ptwc3q2w9K6SI6lbwkps7A7tA7-1C4viu09o2-IQOrWXzL0M3qwUNZXbeFPCKhqnQjCOiiroHzUbA2Zu6K-jfPMSDBkR6Z0LwVxgsBft_vG59gktDXt6MW00oqfbhJYwEl-zSQdpMYguiCOPxFDQXHLbK4wB7nl1Sg-v8ttGEfCL414EiT33TPKcduyl_OMP9T1Y5Et0a049Ce3dS-K2g
+								76 button About this result
+								77 container
+									78 text These  STL files are scaled to work with 28mm-32mm miniatures . They are best printed on a resin or FDM (In the case of the larger items) printer. These files ...
+								79 text $6.99
+							80 container
+								81 link Description: Theophilus Lunar Crater 3D Model Pinterest https://www.pinterest.com › pin › products--51383263..., Value: google.com/goto?url=CAESdgHrOzAVc41nTwAP-sqoIRNzy_rdydy2agZt7pVYMYilkBZX8z668Phrf0LIO5bV8vuHpBXcMmIXJWrkwycr6I1ZD-P_p8BxXUuZqfZd_ld4sWNNItVb-EnySGY_uKPPA33uZ0rHPPnEtM1831Hf2y9ry8iz0LI
+								82 button About this result
+								83 text 3D Model of
+								84 text Theophilus Crater
+								85 text  on the
+								86 text Moon
+								87 text  3D Models Format: C4D.
+								88 text STL
+								89 text  File size (unzipped): 573 MB/477 MB Polygons: 9 999 390 … these models are 3D printable! ...
+							90 container
+								91 link Description: Theophilus Lunar Crater 3D Model Shustrik Maps https://shustrik-maps.com › ... › Space objects, Value: …
+								92 button About this result
+								93 text Explore the Theophilus lunar crater with our 3D model
+								94 text . $15.00 Current price is: $15.00. STL File size (unzipped): 573 MB/477 MB Polygons: 9 999 … diameter of ...
+								95 text $15.00
+								96 text Free delivery
+							97 container
+								98 link Value: …, Description: 3D Printed Moon Copernicus Crater Desk Décor Instructables https://www.instructables.com › Workshop › 3D Printing
+								99 button About this result
+								100 text Aug 15, 2021  —  These Instructables show how to make a fully customizable 3D
+								101 text moon crater
+								102 text  model including generating Files, Processing files, and 3D printing.
+							103 container
+								104 link Description: Lunar Craters Printable Scenery https://www.printablescenery.com › Shop, Value: google.com/goto?url=CAEScgHrOzAVKL-44poUonUFvtFdpfuqRKnUNk7HaHq0vIfmzsraYji72TaeIQRk4O6lSPu6R1Vc4gq6iNSirlMWD_lWdEdnqOOHoIvjnv_jxdFTvrxFCjrUUrU1d7WTFyOVcR2rasgMZcph0cZTgk1sDlAtDQ
+								105 button About this result
+								106 text Sep 1, 2020  —
+								107 text 3D printable Lunar Craters set
+								108 text  contains four craters that can be used as scatter terrain in any tabletop wargaming or roleplaying games. $9.95
+							109 container
+								110 link Value: …, Description: Theophilus Crater — Lunar Sunrise Over the Central Peaks aapod2.com https://www.aapod2.com › blog › theophilus-crater-lunar...
+								111 button About this result
+								112 text Oct 19, 2025  —  Carved into the lunar surface near Mare Nectaris, the Theophilus Crater
+								113 text spans nearly 100 kilometers in diameter and rises over 3200 meters
+								114 text  ...
+							115 container
+								116 link Description: Theophilus (crater) Wikipedia https://en.wikipedia.org › wiki › Theophilus_(crater), Value: …
+								117 button About this result
+								118 text Theophilus is a prominent lunar impact crater
+								119 text  that lies between Sinus Asperitatis in the north and Mare Nectaris to the southeast. Diameter 100 km Depth 4.1
+							120 container
+								121 link Description: Moon - Copernicus Crater NASA Science (.gov) https://science.nasa.gov › moon-copernicus-crater, Value: …
+								122 button About this result
+								123 text May 8, 2025  —
+								124 text Copernicus is a large young crater visible
+								125 text  with binoculars slightly northwest of the center of the Moon's Earth-facing hemisphere.
+							126 container
+								127 link Value: …, Description: Moon crater plato by V0ltcraft | Download free STL model Printables.com https://www.printables.com › model › 487492-moon-cr...
+								128 button About this result
+								129 text May 22, 2023  —
+								130 text The Crater Plato is a very interesting object to observe with a Telescope
+								131 text . The smaller Craters are used to check the optical resolution of your ...
+								132 link Description: Read more, Value: …
+					133 container
+						134 container
+							135 heading People also search for, Value: 2
+								136 text People also search for
+							137 link Description: Theophilus lunar crater stl free, Value: …
+							138 link Description: Blacksite studios Lunar, Value: …
+							139 link Description: Lunar Board Game, Value: …
+							140 link Description: Modular hills STL, Value: …
+							141 link Description: Post apocalyptic stl, Value: …
+							142 link Description: Post apocalyptic terrain STL, Value: …
+						143 heading Page Navigation, Value: 1
+							144 text Page Navigation
+						145 text 1
+						146 link Description: Page 2, Value: …
+						147 link Description: Page 3, Value: …
+						148 link Description: Page 4, Value: …
+						149 link Description: Page 5, Value: …
+						150 link Description: Page 6, Value: …
+						151 link Description: Page 7, Value: …
+						152 link Description: Page 8, Value: …
+						153 link Description: Page 9, Value: …
+						154 link Description: Page 10, Value: …
+						155 heading Next, Value: 2
+							156 link Description: Next, Value: …, ID: pnnext
+			157 container sfooter
+				158 heading Footer Links, Value: 1
+					159 text Footer Links
+				160 container fbar
+					161 container
+						162 button Unknown  - Can't determine location
+							163 container
+								164 text Unknown
+							165 container
+								166 text  -  Can't determine location
+						167 text  -
+						168 button Update location
+							169 text Update location
+					170 container fsl
+						171 link Description: Help, Value: …
+						172 link Description: Send feedback, Value: …
+						173 link Description: Privacy, Value: …
+						174 link Description: Terms, Value: …
+
+The focused UI element is 1 AXWebArea Theophilus lunar crater STL - Google Search, URL: google.com/search?q=Theophilus+lunar+crater+STL&hl=en&gl=us&pws=0

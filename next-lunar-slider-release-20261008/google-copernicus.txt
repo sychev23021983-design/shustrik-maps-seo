@@ -1,0 +1,219 @@
+Browser tab: 11, Title: "Copernicus lunar crater STL - Google Search", URL: "https://www.google.com/search?q=Copernicus+lunar+crater+STL&hl=en&gl=us&pws=0".
+0 AXWebArea Copernicus lunar crater STL - Google Search, URL: google.com/search
+	1 container gsr
+		2 container
+			3 link Skip to main content
+				4 text Skip to main content
+			5 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196
+		6 container searchform
+			7 container tsf
+				8 container
+					9 link Description: Learn more about World Space Week 2026, Value: google.com/webhp
+					11 combo box (collapsed) Description: Search, Value: Copernicus lunar crater STL, ID: ti6dpd, Secondary Actions: Expand
+					12 button  Clear
+					13 button Search by voice
+					14 button Search by image
+			15 button Description: Settings, ID: og-te
+			16 button Share
+			17 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			18 link Description: Sign in, Value: accounts.google.com/ServiceLogin
+		19 container cnt
+			20 container
+				21 content list
+					22 link Description: AI Mode, Value: google.com/search
+					23 link (disabled) All
+						24 text All
+					25 link Description: Images, Value: google.com/search
+					26 link Description: Videos, Value: google.com/search
+					27 link Description: Shopping, Value: google.com/search
+					28 link Description: News, Value: google.com/search
+					29 link Description: Forums, Value: google.com/search
+					30 button (collapsed) More filters, Secondary Actions: Expand
+						31 container More filters
+							32 text More
+				33 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			34 heading Search Results, Value: 1
+				35 text Search Results
+			36 container center_col
+				37 container gevUs
+					38 container rso
+						39 container
+							40 heading Web results, Value: 2
+								41 text Web results
+							42 link Description: Moon - Copernicus Crater NASA Science (.gov) https://science.nasa.gov › moon-copernicus-crater, Value: google.com/goto
+							43 button About this result
+							44 container
+								45 text May 8, 2025  —  Copernicus is a large young crater visible with binoculars  slightly northwest of the center of the Moon's Earth-facing hemisphere.
+						46 container
+							47 container
+								48 heading AI Overview, Value: 2
+									49 text AI Overview
+								50 container
+									51 text You can  download an official, free 3D printable STL model of the Moon's Copernicus crater directly from the
+									52 link Description: NASA 3D Resources Catalog, Value: google.com/goto
+									53 text .
+									54 button Related results
+								55 heading Where to Find Free Copernicus STL Files, Value: 3
+									56 text Where to Find Free Copernicus STL Files
+								57 content list
+									58 container
+										59 AXListMarker •
+										60 text NASA Science:  The official  Copernicus Crater NASA 3D Model  provides a topography scan rendered with vertical exaggeration, optimized for easy FDM or resin printing without heavy supports.
+										61 link Description: NASA Science (.gov), Value: google.com/goto
+										62 button NASA Science (.gov) (+2) - Related results
+											63 text NASA Science (.gov)
+											64 text  +2
+									65 container
+										66 AXListMarker •
+										67 text MyMiniFactory:  Community-shared derivatives based on NASA's data are available on the  .
+								68 content list
+									69 container
+										70 link Description: Moon - Copernicus Crater - NASA Science. Opens in new tab., Value: google.com/goto
+										71 text NASA Science (.gov)
+										72 button Description: About this result, ID: snui-atr-mn_HatLeFdesxc8P_uOeiQE_nmwf30_5
+										73 text May 8, 2025 —  Moon – Copernicus Crater. One of the more prominent craters on the Moon is named Copernicus. Copernicus is a large young crater vi...
+									74 container
+										75 link Description: 3D Printable Copernicus Crater by NASA. Opens in new tab., Value: google.com/goto
+										76 text MyMiniFactory
+										77 button Description: About this result, ID: snui-atr-mn_HatLeFdesxc8P_uOeiQE_nmwf30_9
+										78 text Jul 3, 2017 —  Send Message to NASA Please enter the code below See your Inbox Author/Origin: Northeast Planetary Data Center, NASA RPIF System, ...
+									79 container
+										80 link Description: Copernicus 3D Printable Terrain Model – Free STL & 3MF. Opens in new tab., Value: google.com/goto
+										81 text TerraPrinter
+										82 button Description: About this result, ID: snui-atr-mn_HatLeFdesxc8P_uOeiQE_nmwf30_13
+										83 text Copernicus 3D printable terrain model A free, print-ready 3D model of Copernicus, generated from real elevation data. Download it ...
+									84 container
+										85 link Description: 3D Printable Copernicus Crater, moon by Conor O'Kane. Opens in new tab., Value: google.com/goto
+										86 text MyMiniFactory
+										87 button Description: About this result, ID: snui-atr-mn_HatLeFdesxc8P_uOeiQE_nmwf30_16
+										88 text Jul 7, 2017 —  Model: 3D printable file of the Moon's Copernicus Crater based on NASA's 3D model library. Creators: Northeast Planetary Data Cent...
+									89 container
+										90 link Value: google.com/goto, Description: 3D Model of Copernicus Crater on the Moon: Realistic Visual Representation of a Lunar Geographic Feature. Opens in new tab.
+										91 text Shustrik Maps
+										92 button Description: About this result, ID: snui-atr-mn_HatLeFdesxc8P_uOeiQE_nmwf30_20
+										93 text Product: Copernicus Lunar Crater 3D Model (priced $15.00, down from $25.00). Formats & Specs: C4D and STL formats; 572 MB/477 MB u...
+									94 container
+										95 link Description: Copernicus (lunar crater) | The Solar System Wiki | Fandom. Opens in new tab., Value: google.com/goto
+										96 text The Solar System Wiki
+										97 button Description: About this result, ID: snui-atr-mn_HatLeFdesxc8P_uOeiQE_nmwf30_24
+										98 text Characteristics: Lunar impact crater in eastern Oceanus Procellarum (9.62°N 20.08°W); diameter 93 km, depth 3.8 km. Formed ~800 mi...
+									99 container
+										100 link Description: Copernicus Crater — 3D Print the Moon. Opens in new tab., Value: google.com/goto
+										101 text orbitstudio3d.com
+										102 button Description: About this result, ID: snui-atr-mn_HatLeFdesxc8P_uOeiQE_nmwf30_28
+										103 text Coordinates are the center point OrbitStudio uses for this destination. * What is OrbitStudio? OrbitStudio turns real NASA lunar e...
+									104 container
+										105 link Description: Copernicus crater by Luca Vidoni | Download free STL model. Opens in new tab., Value: google.com/goto
+										106 text Printables.com
+										107 button Description: About this result, ID: snui-atr-mn_HatLeFdesxc8P_uOeiQE_nmwf30_31
+										108 text Description PDF 3d plate with NASA's3d scan of Copernicus crater. print it with resin or high quality profile.
+							109 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								110 text Show more
+						111 container
+							112 heading Web results, Value: 2
+								113 text Web results
+							114 link Value: google.com/goto, Description: 3D Printed Moon Copernicus Crater Desk Décor Instructables https://www.instructables.com › Workshop › 3D Printing
+							115 button About this result
+							116 container
+								117 text Aug 15, 2021  —  These Instructables show how to  make a fully customizable 3D moon crater model  including generating Files, Processing files, and 3D printing.
+						118 container
+							119 link Value: google.com/goto, Description: Lunar Surface Craters - Digital STL Black Site Studios https://blacksitestudio.com › products › lunar-surface-cra...
+							120 button About this result
+							121 text These
+							122 text STL files are scaled to work with 28mm-32mm miniatures
+							123 text . They are best printed on a resin or FDM (In the case of the larger items) printer. These files ...
+							124 link Description: Read more, Value: google.com/goto
+							125 text $6.99
+						126 container
+							127 link Description: Copernicus (lunar crater) Wikipedia https://en.wikipedia.org › wiki › Copernicus_(lunar_cra..., Value: google.com/goto
+							128 button About this result
+							129 text Co
+							130 text pernicus Crater is a lunar impact crater located in eastern Oceanus Procellarum. it as "one of the grandest craters" Diameter c. 93 km Depth c. 3.8
+						131 container
+							132 link Value: google.com/goto, Description: Copernicus crater 3d - Lunar Observing and Imaging Cloudy Nights https://www.cloudynights.com › forums › topic › 99570...
+							133 button About this result
+							134 text Mar 18, 2026  —
+							135 text Copernicus crater
+							136 text  is one of the most spectacular and recognizable impact
+							137 text craters
+							138 text  on the
+							139 text Moon
+							140 text . With a diameter of about 93 km and walls ...
+							141 link Description: Read more, Value: google.com/goto
+						142 container
+							143 link Description: Copernicus Central Peak Lunar Reconnaissance Orbiter Camera https://lroc.im-ldi.com › images, Value: google.com/goto
+							144 button About this result
+							145 text Jun 27, 2012  —
+							146 text Copernicus crater
+							147 text  was a candidate landing site for the Apollo 18
+							148 text lunar
+							149 text  landing mission, which was unfortunately cancelled.
+						150 container
+							151 link Description: Copernicus Lunar Crater 3D Model Shustrik Maps https://shustrik-maps.com › ... › Space objects, Value: google.com/goto
+							152 button About this result
+							153 text Explore the Copernicus crater on the Moon with our 3D model
+							154 text . Current price is: $15.00. STL File size (unzipped): 572 MB/477 MB Polygons: 9 999 $15.00
+						155 container
+							156 link Value: google.com/goto, Description: File:Copernicus Crater 3D.stl Wikimedia Commons https://commons.wikimedia.org › wiki › File:Copernicu...
+							157 button About this result
+							158 text Aug 3, 2015  —
+							159 text STL file: 960 × 540 pixels
+							160 text . 3D model of the Copernicus lunar crater. This file is in the public domain in the United States because it was ...
+						161 container
+							162 link Value: google.com/goto, Description: Copernicus Crater (The Moon) - Download Free 3D model ... Sketchfab https://sketchfab.com › copernicus-crater-the-moon-96...
+							163 button About this result
+							164 text May 7, 2019  —
+							165 text Copernicus Crater - The Moon
+							166 text  · Diameter: 93 km · Depth: 3.8 km · Coordinates: 9.62°N 20.08°W · Vertical Exaggeration: 8x · Colors indicate elevation.
+							167 link Description: Read more, Value: google.com/goto
+				168 container
+					169 container
+						170 heading People also search for, Value: 2
+							171 text People also search for
+						172 link Description: Crater copernicus moon map, Value: google.com/search
+						173 link Description: Copernicus crater Moon, Value: google.com/search
+						174 link Description: Copernicus crater size, Value: google.com/search
+						175 link Description: Tycho crater, Value: google.com/search
+						176 link Description: Copernicus Crater location, Value: google.com/search
+						177 link Description: Copernicus crater depth, Value: google.com/search
+						178 link Description: How was the copernicus crater formed, Value: google.com/search
+						179 link Description: Moon stl, Value: google.com/search
+					180 heading Notices about Filtered Results, Value: 2
+						181 text Notices about Filtered Results
+					182 container
+						183 text Some results may have been removed under data protection law in Europe.
+						184 link Description: Learn more, Value: google.com/policies/faq
+					185 heading Page Navigation, Value: 1
+						186 text Page Navigation
+					187 text 1
+					188 link Description: Page 2, Value: google.com/search
+					189 link Description: Page 3, Value: google.com/search
+					190 link Description: Page 4, Value: google.com/search
+					191 link Description: Page 5, Value: google.com/search
+					192 link Description: Page 6, Value: google.com/search
+					193 link Description: Page 7, Value: google.com/search
+					194 link Description: Page 8, Value: google.com/search
+					195 link Description: Page 9, Value: google.com/search
+					196 link Description: Page 10, Value: google.com/search
+					197 heading Next, Value: 2
+						198 link Description: Next, Value: google.com/search, ID: pnnext
+			199 container sfooter
+				200 heading Footer Links, Value: 1
+					201 text Footer Links
+				202 container fbar
+					203 container
+						204 button Unknown  - Can't determine location
+							205 container
+								206 text Unknown
+							207 container
+								208 text  -  Can't determine location
+						209 text  -
+						210 button Update location
+							211 text Update location
+					212 container fsl
+						213 link Description: Help, Value: support.google.com/websearch/
+						214 link Description: Send feedback, Value: google.com/search
+						215 link Description: Privacy, Value: policies.google.com/privacy
+						216 link Description: Terms, Value: policies.google.com/terms
+
+The focused UI element is 0 AXWebArea Copernicus lunar crater STL - Google Search, URL: google.com/search

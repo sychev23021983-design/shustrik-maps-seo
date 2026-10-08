@@ -1,0 +1,32 @@
+{
+  "site_profile": "shustrik-maps",
+  "language": "English",
+  "engine": "Google",
+  "market": "USA",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "editorial_clusters": [
+    {
+      "product_id": 16696,
+      "primary": "Copernicus Lunar Crater STL",
+      "supporting": [
+        "lunar crater 3D print",
+        "Moon relief CNC"
+      ],
+      "volume": null,
+      "rank": null
+    },
+    {
+      "product_id": 16728,
+      "primary": "Theophilus Lunar Crater STL",
+      "supporting": [
+        "lunar crater 3D print",
+        "Moon relief CNC"
+      ],
+      "volume": null,
+      "rank": null
+    }
+  ],
+  "decision": "validate first",
+  "note": "Later demand experiment only; publication of existing goods already authorized. Free NASA/derivative files, physical products and generic lunar game terrain are separate intents."
+}
