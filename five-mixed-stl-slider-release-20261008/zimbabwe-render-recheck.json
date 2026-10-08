@@ -1,0 +1,7 @@
+{
+  "initial_observation": "Zimbabwe desktop screenshot was blank although DOM active/visible/loaded checks passed. Mobile image was visible.",
+  "recheck": "Viewport refresh rendered the image; subsequent fresh desktop reload without resize showed the first image. Repeated four-slide desktop controls passed, first and second scenes visually seen. No WordPress content or container changes used for this recheck.",
+  "root_cause": "Not established; recorded as transient browser rendering observation, not proof of a specific CSS defect.",
+  "final_desktop_screenshot": "zimbabwe-desktop.png",
+  "pass": true
+}

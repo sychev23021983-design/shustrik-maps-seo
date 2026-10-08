@@ -41,9 +41,9 @@ Browser tab: 7, Title: "artistic geoid height STL - Google Search", URL: "https:
 							41 heading AI Overview, Value: 2
 								42 text AI Overview
 							43 container
-								44 text You can download an artistic, exaggerated 3D-printable model of the Earth's gravity field from platforms like 
+								44 text You can download an artistic, exaggerated 3D-printable model of the Earth's gravity field from platforms like
 								45 link Description: Cults3D, Value: google.com/goto
-								46 text  or 
+								46 text  or
 								47 link Description: 3Dexport, Value: google.com/goto
 								48 text .
 								49 button Related results
@@ -51,11 +51,11 @@ Browser tab: 7, Title: "artistic geoid height STL - Google Search", URL: "https:
 								51 text About the Artistic Geoid Model
 							52 content list
 								53 container
-									54 AXListMarker • 
+									54 AXListMarker •
 									55 text Concept:  A visual representation of Earth's gravity-defined shape (the geoid), which looks like an irregular potato rather than a smooth sphere.
 									56 button Related results
 								57 container
-									58 AXListMarker • 
+									58 AXListMarker •
 									59 text Exaggeration:  Scientific geoid variations are tiny (within ±100 meters), so artistic models intentionally exaggerate these heights to make the differences visible as a physical sculpture.
 							60 container
 								61 container
@@ -86,7 +86,7 @@ Browser tab: 7, Title: "artistic geoid height STL - Google Search", URL: "https:
 							86 container
 								87 link Value: google.com/goto, Description: Geoid Height STL Model – Artistic Earth Gravity Surface Shustrik Maps https://shustrik-maps.com › 3D MODELS › World
 								88 button About this result
-								89 text Geoid Height STL Model is 
+								89 text Geoid Height STL Model is
 								90 text an artistic three-dimensional interpretation of the Earth's gravity-defined shape
 								91 text , created for visual exploration, decorative 3D ...
 								92 link Description: Read more, Value: google.com/goto
@@ -97,16 +97,16 @@ Browser tab: 7, Title: "artistic geoid height STL - Google Search", URL: "https:
 								97 link Value: google.com/goto, Description: Geophysical Globe: Geoid by Jeff Winterbourne Printables.com https://www.printables.com › model › collections
 								98 button About this result
 								99 text Geoid height
-								100 text  globe of the EIGEN-6C4 
+								100 text  globe of the EIGEN-6C4
 								101 text Geoid
-								102 text  model. | Download free 3D printable 
+								102 text  model. | Download free 3D printable
 								103 text STL
 								104 text  models. Collection of 591 models 2
 								105 image Rated 5.0 out of 5, (1) user reviews
 							106 container
 								107 link Value: google.com/goto, Description: Geoid Height STL Model Artistic Earth Gravity Surface ... 3DExport https://3dexport.com › 3D Print Models › Terrain
 								108 button About this result
-								109 text Feb 16, 2026  —  Geoid Height STL Model is 
+								109 text Feb 16, 2026  —  Geoid Height STL Model is
 								110 text an artistic three-dimensional interpretation of the Earth's gravity-defined shape
 								111 text , created for visual exploration, ...
 								112 link Description: Read more, Value: google.com/goto
@@ -115,7 +115,7 @@ Browser tab: 7, Title: "artistic geoid height STL - Google Search", URL: "https:
 							115 container
 								116 link Value: google.com/goto, Description: Geoid Height STL Model – Artistic Earth Gravity Surface for ... Cults 3D https://cults3d.com › art › geoid-height-stl-model-artisti...
 								117 button About this result
-								118 text Jan 19, 2026  —  Geoid Height STL Model is 
+								118 text Jan 19, 2026  —  Geoid Height STL Model is
 								119 text an artistic three-dimensional interpretation of the Earth's gravity-defined shape
 								120 text , created for visual exploration, ...
 								121 link Description: Read more, Value: google.com/goto
@@ -123,13 +123,13 @@ Browser tab: 7, Title: "artistic geoid height STL - Google Search", URL: "https:
 							123 container
 								124 link Description: "geoid art model" 3D Models to Print Yeggi https://www.yeggi.com › geoid+art+model, Value: google.com/goto
 								125 button About this result
-								126 text Geoid Height STL Model artistic geoid model, conceptual … 
+								126 text Geoid Height STL Model artistic geoid model, conceptual …
 								127 text geoid height stl model
 								128 text , Download: free Website:
 							129 container
 								130 link Value: google.com/goto, Description: How to define Pix4D outputs with respect to a Geoid model Pix4D https://support.pix4d.com › en-us › articles
 								131 button About this result
-								132 text The Z coordinate (altitude) can be given with respect to an ellipsoid (ellipsoidal height) or with respect to a geoid (orthometric or 
+								132 text The Z coordinate (altitude) can be given with respect to an ellipsoid (ellipsoidal height) or with respect to a geoid (orthometric or
 								133 text geoid height
 								134 text ).
 							135 container
@@ -173,7 +173,7 @@ Browser tab: 7, Title: "artistic geoid height STL - Google Search", URL: "https:
 								173 text Unknown
 							174 container
 								175 text  -  Can't determine location
-						176 text  - 
+						176 text  -
 						177 button Update location
 							178 text Update location
 					179 container fsl

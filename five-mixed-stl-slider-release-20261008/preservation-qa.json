@@ -1,0 +1,36 @@
+{
+  "pass": true,
+  "rows": [
+    {
+      "id": 20345,
+      "source_prose_and_protected": true,
+      "old_media_preserved": 8,
+      "backup_matches_baseline": true
+    },
+    {
+      "id": 21118,
+      "source_prose_and_protected": true,
+      "old_media_preserved": 7,
+      "backup_matches_baseline": true
+    },
+    {
+      "id": 19379,
+      "source_prose_and_protected": true,
+      "old_media_preserved": 7,
+      "backup_matches_baseline": true
+    },
+    {
+      "id": 16772,
+      "source_prose_and_protected": true,
+      "old_media_preserved": 10,
+      "backup_matches_baseline": true
+    },
+    {
+      "id": 20976,
+      "source_prose_and_protected": true,
+      "old_media_preserved": 8,
+      "backup_matches_baseline": true
+    }
+  ],
+  "runtime_unchanged": true
+}

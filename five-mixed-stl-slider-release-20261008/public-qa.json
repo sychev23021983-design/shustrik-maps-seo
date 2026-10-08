@@ -1,0 +1,337 @@
+{
+  "rows": [
+    {
+      "id": 20345,
+      "url": "https://shustrik-maps.com/product/israel-topographic-map-3d-model-for-3d-printing-cnc-carving/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 20345,
+      "url": "https://shustrik-maps.com/product/israel-topographic-map-3d-model-for-3d-printing-cnc-carving/?five_mixed_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 21118,
+      "url": "https://shustrik-maps.com/product/israel-3d-topographic-map-stl/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 21118,
+      "url": "https://shustrik-maps.com/product/israel-3d-topographic-map-stl/?five_mixed_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 19379,
+      "url": "https://shustrik-maps.com/product/zimbabwe-terrain-map-3d-model-for-3d-printing-cnc-carving/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 19379,
+      "url": "https://shustrik-maps.com/product/zimbabwe-terrain-map-3d-model-for-3d-printing-cnc-carving/?five_mixed_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 16772,
+      "url": "https://shustrik-maps.com/product/geoid-height-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 16772,
+      "url": "https://shustrik-maps.com/product/geoid-height-stl-model/?five_mixed_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 20976,
+      "url": "https://shustrik-maps.com/product/3d-printed-earth-dodecahedron/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 20976,
+      "url": "https://shustrik-maps.com/product/3d-printed-earth-dodecahedron/?five_mixed_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    }
+  ],
+  "media": [
+    {
+      "id": 22706,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/06/israel-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22707,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/06/israel-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22708,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/06/israel-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22709,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/06/israel-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22710,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/israel-extended-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22711,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/israel-extended-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22712,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/israel-extended-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22713,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/israel-extended-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22714,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/zimbabwe-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22715,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/zimbabwe-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22716,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/zimbabwe-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22717,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/zimbabwe-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22718,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/geoid-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22719,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/geoid-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22720,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/geoid-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22721,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/geoid-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22722,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/09/modular-earth-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22723,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/09/modular-earth-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22724,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/09/modular-earth-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22725,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/09/modular-earth-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    }
+  ],
+  "pass": true
+}

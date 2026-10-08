@@ -42,7 +42,7 @@ Browser tab: 7, Title: "modular Earth globe STL dodecahedron - Google Search", U
 								42 heading AI Overview, Value: 2
 									43 text AI Overview
 								44 container
-									45 text You can find the popular  12-part modular geometric Earth globe STL model designed on a dodecahedron/rhombic dodecahedron puzzle structure on 
+									45 text You can find the popular  12-part modular geometric Earth globe STL model designed on a dodecahedron/rhombic dodecahedron puzzle structure on
 									46 link Description: Cults3D, Value: google.com/goto
 									47 text .
 									48 button Related results
@@ -50,20 +50,20 @@ Browser tab: 7, Title: "modular Earth globe STL dodecahedron - Google Search", U
 									50 text Model Details
 								51 content list
 									52 container
-										53 AXListMarker • 
+										53 AXListMarker •
 										54 text Design:  12-part regular dodecahedron or rhombic dodecahedron puzzle layout.
 									55 container
-										56 AXListMarker • 
+										56 AXListMarker •
 										57 text File Specifications:  Split into 12 distinct STL segments ( 1.stl  through  12.stl ), featuring high-polygon tris geometry.
 									58 container
-										59 AXListMarker • 
+										59 AXListMarker •
 										60 text Dimensions:  Standard printed size roughly around 215 x 213 x 216 mm.
 									61 container
-										62 AXListMarker • 
+										62 AXListMarker •
 										63 text Compatibility:  Optimized for both FDM and SLA desktop 3D printers.
 									64 container
-										65 AXListMarker • 
-										66 text Availability:  Available on marketplaces like  Cults3D  and creator catalogs like 
+										65 AXListMarker •
+										66 text Availability:  Available on marketplaces like  Cults3D  and creator catalogs like
 										67 link Description: Shustrik Maps, Value: google.com/goto
 										68 text .
 										69 button Related results
@@ -71,10 +71,10 @@ Browser tab: 7, Title: "modular Earth globe STL dodecahedron - Google Search", U
 									71 text If you'd like, let me know:
 									72 content list
 										73 container
-											74 AXListMarker • 
+											74 AXListMarker •
 											75 text Your  printer type  (FDM or SLA)
 										76 container
-											77 AXListMarker • 
+											77 AXListMarker •
 											78 text Whether you are looking for a  free or paid  file variant
 									79 text I can help you find alternative low-poly or puzzle globes.
 								80 container
@@ -127,21 +127,21 @@ Browser tab: 7, Title: "modular Earth globe STL dodecahedron - Google Search", U
 							127 container
 								128 link Description: GLOBE models for 3D printer Printables.com https://www.printables.com › tag › globe, Value: google.com/goto
 								129 button About this result
-								130 text Explore collection of globe designs that are perfect for your 3D printer. 
+								130 text Explore collection of globe designs that are perfect for your 3D printer.
 								131 text Download and 3D print STL models
 								132 text  tagged with globe. Customizable Snow Globe
 							133 container
 								134 link Value: google.com/goto, Description: Earth on a dodecahedron - Download Free 3D model by C. ... Sketchfab https://sketchfab.com › earth-on-a-dodecahedron-8879...
 								135 button About this result
-								136 text Jan 21, 2024  —  This folded 
+								136 text Jan 21, 2024  —  This folded
 								137 text dodecahedron
-								138 text  was obtained using a dodecahedral projection of the 
+								138 text  was obtained using a dodecahedral projection of the
 								139 text globe
 								140 text . The original SVG file (unfolded) can be retrived from ...
 							141 container
 								142 link Value: google.com/goto, Description: 3D Printed Modular Earth Globe (STL in 12-Part Rhomben ... Cults 3D https://cults3d.com › architecture › 3d-printed-modular...
 								143 button About this result
-								144 text Sep 23, 2025  —  The 3D Printed Modular Earth Globe is a 
+								144 text Sep 23, 2025  —  The 3D Printed Modular Earth Globe is a
 								145 text highly detailed STL model
 								146 text , split into 12 unique sections based on a rhombic dodecahedron geometry.
 								147 link Description: Read more, Value: google.com/goto
@@ -149,7 +149,7 @@ Browser tab: 7, Title: "modular Earth globe STL dodecahedron - Google Search", U
 							149 container
 								150 link Description: 3d Earth Template Printable Pinterest https://www.pinterest.com › Explore, Value: google.com/goto
 								151 button About this result
-								152 text Find and save ideas about 
+								152 text Find and save ideas about
 								153 text 3d earth template printable
 								154 text . Make A Globe Dodecahedron World -dodecahedron Paper Globe Pattern for Kids | Printable world globe, ...
 							155 container
@@ -160,7 +160,7 @@ Browser tab: 7, Title: "modular Earth globe STL dodecahedron - Google Search", U
 							160 container
 								161 link Value: google.com/goto, Description: Multi-Color Scale Model Globe of Earth by Altos Thingiverse https://www.thingiverse.com › thing:3945241
 								162 button About this result
-								163 text Oct 29, 2019  —  This is a 
+								163 text Oct 29, 2019  —  This is a
 								164 text multi-color, scale-model globe of the Earth
 								165 text . Includes all of the continents and many of the islands and lakes that are visible ...
 							166 container
@@ -204,7 +204,7 @@ Browser tab: 7, Title: "modular Earth globe STL dodecahedron - Google Search", U
 								204 text Unknown
 							205 container
 								206 text  -  Can't determine location
-						207 text  - 
+						207 text  -
 						208 button Update location
 							209 text Update location
 					210 container fsl

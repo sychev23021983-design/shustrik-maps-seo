@@ -97,9 +97,9 @@ Browser tab: 7, Title: "Israel topographic map STL - Google Search", URL: "https
 								183 heading AI Overview, Value: 2
 									184 text AI Overview
 								185 container
-									186 text You can find and download 3D printable topographic map STL files of  Israel  on platforms like 
+									186 text You can find and download 3D printable topographic map STL files of  Israel  on platforms like
 									187 link Description: Printables, Value: google.com/goto
-									188 text  and 
+									188 text  and
 									189 link Description: Cults 3D, Value: google.com/goto
 									190 text .
 									191 button Related results
@@ -107,13 +107,13 @@ Browser tab: 7, Title: "Israel topographic map STL - Google Search", URL: "https
 									193 text Popular Sources for Israel Topographic STL Files
 								194 content list
 									195 container
-										196 AXListMarker • 
+										196 AXListMarker •
 										197 text Anson Liu's Topographic Map : Available on  Printables , this free Creative Commons model features Israel and Palestine at a 1:2500000 scale with 5x elevation and a 3D-printable magnetic display stand.
 										198 link Description: Printables.com, Value: google.com/goto
 										199 button Printables.com - Related results
 											200 text Printables.com
 									201 container
-										202 AXListMarker • 
+										202 AXListMarker •
 										203 text Shustrik's High-Precision Relief Model : Available on  Cults 3D , this detailed terrain model (~125–265 MB file size) covers Israel, the Gaza Strip, and surrounding areas optimized for 3D printing and CNC routing.
 								204 content list
 									205 container
@@ -158,7 +158,7 @@ Browser tab: 7, Title: "Israel topographic map STL - Google Search", URL: "https
 						119 container
 							120 link Value: google.com/goto, Description: Israel Topographic Map STL Terrain Model | 3D Print Model CGTrader https://www.cgtrader.com › ... › Art & Design › Other
 							121 button About this result
-							122 text Aug 13, 2025  —  This printable 
+							122 text Aug 13, 2025  —  This printable
 							123 text Israel map STL
 							124 text  accurately represents the country's landscapes, including the Judean Mountains, Negev Desert, coastal plains, and ...
 							125 text $22.00
@@ -173,7 +173,7 @@ Browser tab: 7, Title: "Israel topographic map STL - Google Search", URL: "https
 						134 container
 							135 link Value: google.com/goto, Description: Israel Topographic Map – 3D Model for 3D Printing & CNC ... Cults 3D https://cults3d.com › architecture › israel-topographic-...
 							136 button About this result
-							137 text Jun 16, 2025  — 
+							137 text Jun 16, 2025  —
 							138 text High-polygon 3D model of Israel in STL format
 							139 text . File size: 265 MB Model size: 181 mm x 502 mm x 11 mm. Projection: Mercator
 							140 link Description: Read more, Value: google.com/goto
@@ -210,7 +210,7 @@ Browser tab: 7, Title: "Israel topographic map STL - Google Search", URL: "https
 								171 text Unknown
 							172 container
 								173 text  -  Can't determine location
-						174 text  - 
+						174 text  -
 						175 button Update location
 							176 text Update location
 					177 container fsl

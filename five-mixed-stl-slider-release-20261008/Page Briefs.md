@@ -46,7 +46,7 @@ Listed base: closed. Mesh accuracy/readiness/archive not validated by this conte
 
 https://shustrik-maps.com/product/israel-3d-topographic-map-stl/
 
-Primary: Israel Extended Coverage topographic map STL. Support: terrain STL / relief map STL / 3D print / CNC terrain. Exclude free/physical-only/ordinary maps/vector/elevation-data and county/city-only intent.
+Primary: Israel terrain STL, extended coverage as an editorial SKU differentiator. Support: terrain STL / relief map STL / 3D print / CNC terrain. Exclude free/physical-only/ordinary maps/vector/elevation-data and county/city-only intent.
 
 SEO title: Israel Terrain STL | Extended Coverage for 3D Print & CNC
 
@@ -74,7 +74,7 @@ Listed base: closed. Mesh accuracy/readiness/archive not validated by this conte
 
 https://shustrik-maps.com/product/geoid-height-stl-model/
 
-Primary: Artistic Geoid topographic map STL. Support: terrain STL / relief map STL / 3D print / CNC terrain. Exclude free/physical-only/ordinary maps/vector/elevation-data and county/city-only intent.
+Primary: artistic geoid height STL. Support: artistic Earth gravity surface STL / decorative geoid 3D print. Exclude free/physical-only/ordinary maps/vector/elevation-data and county/city-only intent.
 
 SEO title: Artistic Geoid Height STL | Earth Gravity Surface 3D Print
 
@@ -88,7 +88,7 @@ Listed base: not stated. Mesh accuracy/readiness/archive not validated by this c
 
 https://shustrik-maps.com/product/3d-printed-earth-dodecahedron/
 
-Primary: Modular Earth Globe topographic map STL. Support: terrain STL / relief map STL / 3D print / CNC terrain. Exclude free/physical-only/ordinary maps/vector/elevation-data and county/city-only intent.
+Primary: modular Earth globe STL. Support:12-part regular dodecahedron globe STL / puzzle globe3Dprint / assembly. Exclude free/physical-only/ordinary maps/vector/elevation-data and county/city-only intent.
 
 SEO title: Modular Earth Globe STL | 12-Part Dodecahedron 3D Print
 

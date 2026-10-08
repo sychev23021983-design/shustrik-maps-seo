@@ -1,0 +1,82 @@
+[
+  {
+    "active": [
+      {
+        "alt": "AI-generated concept of an ivory plastic artistic irregular geoid globe with raised continents fully seated in a continuous solid walnut cradle integrated into a rectangular desktop base.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/05/geoid-desk-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of an ivory plastic artistic irregular geoid globe with raised continents fully seated in a continuous solid walnut cradle integrated into a rectangular desktop base.",
+    "id": 16772,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 1,
+    "viewport": 1440,
+    "visible_count": 1
+  },
+  {
+    "active": [
+      {
+        "alt": "AI-generated concept of a small framed hemisphere adaptation of the artistic irregular geoid globe with raised continents, mounted on a solid sage-green backing; ivory relief and oak frame.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/05/geoid-wall-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of a small framed hemisphere adaptation of the artistic irregular geoid globe with raised continents, mounted on a solid sage-green backing; ivory relief and oak frame.",
+    "id": 16772,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 2,
+    "viewport": 1440,
+    "visible_count": 1
+  },
+  {
+    "active": [
+      {
+        "alt": "AI-generated concept of an ivory plastic artistic irregular geoid globe with raised continents supported by a fitted insert in a kraft gift box with forest-green tissue.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/05/geoid-gift-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of an ivory plastic artistic irregular geoid globe with raised continents supported by a fitted insert in a kraft gift box with forest-green tissue.",
+    "id": 16772,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 3,
+    "viewport": 1440,
+    "visible_count": 1
+  },
+  {
+    "active": [
+      {
+        "alt": "AI-generated concept of a large grey concrete artistic irregular geoid globe with raised continents supported by a fitted solid pedestal in a museum lobby.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/05/geoid-commercial-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of a large grey concrete artistic irregular geoid globe with raised continents supported by a fitted solid pedestal in a museum lobby.",
+    "id": 16772,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 4,
+    "viewport": 1440,
+    "visible_count": 1
+  }
+]

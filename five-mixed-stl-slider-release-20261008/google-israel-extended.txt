@@ -41,9 +41,9 @@ Browser tab: 7, Title: "Israel extended coverage terrain STL - Google Search", U
 							158 heading AI Overview, Value: 2
 								159 text AI Overview
 							160 container
-								161 text You can find 3D printable STL files of Israel's topographic terrain and relief maps on digital marketplaces like 
+								161 text You can find 3D printable STL files of Israel's topographic terrain and relief maps on digital marketplaces like
 								162 link Description: Cults3D, Value: google.com/goto?url=CAEShQEB6zswFckfqB6-djwyRd8qJDaaKk_Og9sfAgECLt2p3N5zklaHxIOadEMj8MnYWpz94YvAbxlB9F3c5E-psgDNPKAwQk2yszMp5YkScMsuj2YP0GR_yq4Bqu2Vzq47qoERbsRCq4VXaXB5TCsF-b9xDPrwQwfatU85A8YuC229_mHHVefT
-								163 text  and 
+								163 text  and
 								164 link Description: Etsy, Value: google.com/goto?url=CAESiQEB6zswFWSXAbsVFmkMCy9Ml6xjB2H2IsiMCMHQmcrn6RkKZwwS28nJ7VXbMX3Aqiq7j-ElmXSbZNo-3BTNjeKLjVCarlRKd5K9xN4jIYLHuk5TTBAVT-vYZlw2y65alcx665ZE47wKnaK6YfAVGtyTGB2puKZ9gTylELuyOKBeogJojTGOPQeHpg
 								165 text .
 								166 button Related results
@@ -51,11 +51,11 @@ Browser tab: 7, Title: "Israel extended coverage terrain STL - Google Search", U
 								168 text Available Israel Terrain STL Options
 							169 content list
 								170 container
-									171 AXListMarker • 
+									171 AXListMarker •
 									172 text High-Precision Topographic Relief:  Digital elevation models covering Israel, the Gaza Strip, and surrounding areas optimized for 3D printing and CNC wood carving are sold by creators like Shustrik on  Cults3D .
 									173 button Related results
 								174 container
-									175 AXListMarker • 
+									175 AXListMarker •
 									176 text Community Terrain Models:  Free and open terrain mesh files optimized for hobbyists are shared on platforms like   and  .
 							177 container
 								178 container
@@ -97,37 +97,37 @@ Browser tab: 7, Title: "Israel extended coverage terrain STL - Google Search", U
 							64 container
 								65 link Description: Israel Terrain STL File: 3D Topographic Map Model for ... Etsy https://www.etsy.com › ... › Digital, Value: …
 								66 button About this result
-								67 text Nov 16, 2025  — 
+								67 text Nov 16, 2025  —
 								68 text Israel Terrain STL file
 								69 text  featuring a high-resolution 3D topographic map model, ideal for Loading Hm, CNC carving, laser cutting, and 3D printing ...
 								70 text $10.95
 								71 image Rated 5.0 out of 5, (10) user reviews
 								72 text Missing:
 								73 text extended
-								74 text  ‎| Show results with: 
+								74 text  ‎| Show results with:
 								75 link Description: extended, Value: …
 							76 container
 								77 link Description: israel topographic map 3D Models STLFinder https://www.stlfinder.com › 3D Models, Value: …
 								78 button About this result
-								79 text Find 13 
+								79 text Find 13
 								80 text israel topographic map 3D models
 								81 text  for 3D printing, CNC and design. High-Precision Relief Model for 3D Printing. Print Model in Terrain
 							82 container
 								83 link Value: …, Description: Israel Terrain Map STL | CNC Carving File, Wood Relief Art ... Etsy https://www.etsy.com › ... › Digital
 								84 button About this result
-								85 text Price:$10.95 Loading. 
+								85 text Price:$10.95 Loading.
 								86 text Israel Terrain design
 								87 text  - clean, high-detail 3D models optimized for professional CNC and 3D printing results. High-resolution STL relief ...
 								88 text $10.95
 								89 image Rated 5.0 out of 5, (3) user reviews
 								90 text Missing:
 								91 text extended
-								92 text  ‎| Show results with: 
+								92 text  ‎| Show results with:
 								93 link Description: extended, Value: …
 							94 container
 								95 link Value: …, Description: DEM | ETM10m Enhanced Terrain Mesh for Israel Flightsim.to https://flightsim.to › ... › Terrain Enhancements
 								96 button About this result
-								97 text This add-on provides an 
+								97 text This add-on provides an
 								98 text Enhanced Terrain Mesh for Israel
 								99 text , utilizing 10-meter resolution data derived from the Sentinel-1A mission.
 								100 image Rated 5.0 out of 5, (2) user reviews
@@ -135,7 +135,7 @@ Browser tab: 7, Title: "Israel extended coverage terrain STL - Google Search", U
 							102 container
 								103 link Description: Israel 3D Topographic Map STL Cults 3D https://cults3d.com › architecture › israel-3d-topographi..., Value: …
 								104 button About this result
-								105 text Jan 10, 2026  — 
+								105 text Jan 10, 2026  —
 								106 text Israel 3D Topographic Map STL
 								107 text  – High-Precision Relief Model for 3D Printing & CNC. File size: 125 MB Model size: 15 mm x 40 mm x 1 mm
 								108 link Description: Read more, Value: …
@@ -144,7 +144,7 @@ Browser tab: 7, Title: "Israel extended coverage terrain STL - Google Search", U
 							111 container
 								112 link Value: …, Description: Jerusalem, Israel - 3D Terrain Model Sketchfab https://sketchfab.com › jerusalem-israel-3d-terrain-mod...
 								113 button About this result
-								114 text Jan 2, 2021  — 
+								114 text Jan 2, 2021  —
 								115 text Jerusalem is a city in the Middle East
 								116 text , on a plateau in the Judaean Mountains between the Mediterranean and the Dead Sea.
 					117 container
@@ -178,7 +178,7 @@ Browser tab: 7, Title: "Israel extended coverage terrain STL - Google Search", U
 								145 text Unknown
 							146 container
 								147 text  -  Can't determine location
-						148 text  - 
+						148 text  -
 						149 button Update location
 							150 text Update location
 					151 container fsl

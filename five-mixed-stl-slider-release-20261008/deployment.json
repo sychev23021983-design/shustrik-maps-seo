@@ -1,0 +1,10 @@
+{
+  "commit": "1c99466888f29bcf37636a2e16ea688135c4b879",
+  "archive_sha256": "1086bb7d426104dcc3feab7ffedba244f2e98ccab3c49b09e9a61b9647aa0b33",
+  "remote_archive_sha256": "1086bb7d426104dcc3feab7ffedba244f2e98ccab3c49b09e9a61b9647aa0b33",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/five-mixed-1c99466",
+  "mode": "external",
+  "container": "shustrik-maps-wordpress-1",
+  "lint_pass": true
+}

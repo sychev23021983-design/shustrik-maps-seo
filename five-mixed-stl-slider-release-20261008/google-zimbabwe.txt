@@ -53,25 +53,25 @@ Browser tab: 7, Title: "Zimbabwe terrain map STL - Google Search", URL: "https:/
 								53 heading AI Overview, Value: 2
 									54 text AI Overview
 								55 container
-									56 text You can  buy a ready-made digital 
+									56 text You can  buy a ready-made digital
 									57 text Zimbabwe terrain map STL file
-									58 text  for 3D printing and CNC carving on marketplaces like 
+									58 text  for 3D printing and CNC carving on marketplaces like
 									59 link Description: Cults 3D, Value: google.com/goto?url=CAES4wEB6zswFcE_N6FllNIXXjkqxfV1NzUU7NOoyLW2IyzaxzK9bDOOnySb1Bfb_ZL7zoFz8DIJ_ocRkEaal9Qv1tFllZC6FSY7gPFMgo-lefoDKsn95jcS4q-RTUGqVLz85pkxePCibrv96oG0D6f-z4WTxRVxbKiJlcyWkmEeBSDngEjeu2XtBX_APzFYqjffrs6EAWRzd5PwftXOaWlKTPTwHwZVDsQjXAshiYZTMUyOkqugrxyJt3rFD1upLpC2QegLvmpWivjzA4KJ4Es4D60hbG3TYDB7ucZld_xHYFCI9z_toQ
-									60 text  or 
+									60 text  or
 									61 link Description: Etsy, Value: google.com/goto?url=CAESiAEB6zswFWTH8pKgIXwQUx57vtZhINQrkm_pgjUpTeAhf1TQE7yGytQBYLRRU-Eg0ecGJshciGneS2DOMeXqcxCwRxXMJZ0a40Qbj5KEgY4HaXV421Izejvx-1CUTS66DDCH6NF9WE5GKWaE0ndY2gVCADnhxslj9WC4WbEFm7wEBGhRyZHkgvFm
 									62 text .
 								63 heading Where to Find Zimbabwe Terrain STL Files, Value: 3
 									64 text Where to Find Zimbabwe Terrain STL Files
 								65 content list
 									66 container
-										67 AXListMarker • 
+										67 AXListMarker •
 										68 text Ready-to-Print Models:
 										69 content list
 											70 container
-												71 AXListMarker ◦ 
+												71 AXListMarker ◦
 												72 text Cults 3D  offers high-resolution topographic terrain mesh files designed for FDM and SLA 3D printers.
 											73 container
-												74 AXListMarker ◦ 
+												74 AXListMarker ◦
 												75 link Description: Shustrik Maps, Value: google.com/goto?url=CAES2QEB6zswFQSBs0JhwW1P53IpPF7i6voObmxRgNY5iTIJxyvn7gOfLfSDym7lfi1-Vd0pqvuIh6_NsWOc3KnMXcQJ_pED0neKcif8G_H74V18iqofUbhupWJTtzDeMhN87vTHpBIfrT8oip-2l9WNVA-R6fBJcFc6jPqIlExHSxr_hLV8-GdwEsCLUboOnAqnIK-sZtz5D3s32DP-qbafi6W0FDP5BFy-vXDiRQKg7ssCsQr7V2ZstnLZd5D0-grmxA6Y23qBnXg-vA3QkdBl9lCVjAyq0qIA8UqR
 												76 text  provides detailed geospatial relief models optimized for CNC carving and 3D printing.
 							77 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
@@ -88,7 +88,7 @@ Browser tab: 7, Title: "Zimbabwe terrain map STL - Google Search", URL: "https:/
 						88 container
 							89 link Value: …, Description: Zimbabwe Terrain Map – 3D Model for 3D Printing & CNC ... Cults 3D https://cults3d.com › architecture › zimbabwe-terrain-m...
 							90 button About this result
-							91 text Jun 9, 2025  — 
+							91 text Jun 9, 2025  —
 							92 text Explore Zimbabwe with a 3D Printable Terrain Map
 							93 text . 3D model: File size: 423 MB Model size: 181 mm x 166 mm x 2.3 mm. Projection: Mercator
 							94 link Description: Read more, Value: …
@@ -101,7 +101,7 @@ Browser tab: 7, Title: "Zimbabwe terrain map STL - Google Search", URL: "https:/
 						101 container
 							102 link Description: Topographic Zimbabwe Thingiverse https://www.thingiverse.com › thing:3095420, Value: …
 							103 button About this result
-							104 text Sep 11, 2018  —  Download millions of 3D models and files for your 3D printer, 
+							104 text Sep 11, 2018  —  Download millions of 3D models and files for your 3D printer,
 							105 text Topographic map of Zimbabwe
 							106 text . All my topographic maps are scaled by the same ...
 						107 container
@@ -117,9 +117,9 @@ Browser tab: 7, Title: "Zimbabwe terrain map STL - Google Search", URL: "https:/
 						117 container
 							118 link Value: …, Description: Welcome to TouchTerrain, the free web app for creating 3D ... TouchTerrain https://touchterrain.geol.iastate.edu
 							119 button About this result
-							120 text Click a location to start. Welcome to 
+							120 text Click a location to start. Welcome to
 							121 text TouchTerrain
-							122 text , a web app for creating 3D printable 
+							122 text , a web app for creating 3D printable
 							123 text terrain
 							124 text  models. Select a starting area by clicking on it.
 							125 link Description: Read more, Value: …
@@ -159,7 +159,7 @@ Browser tab: 7, Title: "Zimbabwe terrain map STL - Google Search", URL: "https:/
 								159 text Unknown
 							160 container
 								161 text  -  Can't determine location
-						162 text  - 
+						162 text  -
 						163 button Update location
 							164 text Update location
 					165 container fsl
