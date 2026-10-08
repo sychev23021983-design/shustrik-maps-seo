@@ -1,0 +1,10 @@
+{
+  "commit": "c65c85a91b9f9c1cd9153c25b92026cfec2903cc",
+  "archive_sha256": "e7548911d04d285f6b233acab197a70248ac21ddb90dc7a9acba04c6bed954da",
+  "remote_archive_sha256": "e7548911d04d285f6b233acab197a70248ac21ddb90dc7a9acba04c6bed954da",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/kiwi-hand-fix-c65c85a",
+  "mode": "external",
+  "container": "shustrik-maps-wordpress-1",
+  "lint_pass": true
+}

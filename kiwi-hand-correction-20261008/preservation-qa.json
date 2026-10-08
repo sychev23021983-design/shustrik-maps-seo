@@ -1,0 +1,16 @@
+{
+  "pass": true,
+  "product_id": 21381,
+  "new_media_id": 22774,
+  "old_media_id_retained": 22766,
+  "only_one_gallery_id_replaced": true,
+  "all_product_metadata_exact": true,
+  "seo_exact": true,
+  "original_text_exact": true,
+  "h1_url_excerpt_gallery_exact": true,
+  "other_four_product_hashes_exact": true,
+  "other_three_slide_media_exact": true,
+  "old_four_media_unchanged_verified_by_release": true,
+  "backup_matches": true,
+  "runtime_unchanged": true
+}
