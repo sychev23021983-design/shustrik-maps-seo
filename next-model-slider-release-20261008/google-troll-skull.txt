@@ -1,0 +1,19 @@
+Browser tab: 10, Title: "troll face skull STL - Google Search", URL: "https://www.google.com/search?q=troll%20face%20skull%20STL&hl=en&gl=us&pws=0".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 46-51
++						143 container
++							144 container
++								145 heading AI Overview, Value: 2
++									146 text AI Overview
++								147 container
++									148 link google.com/goto
++									149 button
++								150 heading Where to Find Troll Face Skull STLs, Value: 3
++								151 content list
++									152 container
++										153 link google.com/goto
++										154 link google.com/goto
++										155 button
++							156 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
++								157 text Show more
+The focused UI element is 1 AXWebArea troll face skull STL - Google Search, URL: google.com/search

@@ -1,0 +1,156 @@
+Browser tab: 10, Title: "troll face skull STL - Google Search", URL: "https://www.google.com/search?q=troll%20face%20skull%20STL&hl=en&gl=us&pws=0".
+1 AXWebArea troll face skull STL - Google Search, URL: google.com/search
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp
+					11 combo box (collapsed) Description: Search, Value: troll face skull STL, ID: ti6dpd, Secondary Actions: Expand
+					12 button  Clear
+					13 button Search by voice
+					14 button Search by image
+			15 button Description: Settings, ID: og-te
+			16 button Share
+			17 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			18 link Description: Sign in, Value: accounts.google.com/ServiceLogin
+		19 container cnt
+			20 container
+				21 content list
+					22 link Description: AI Mode, Value: google.com/search
+					23 link (disabled) All
+						24 text All
+					25 link Description: Images, Value: google.com/search
+					26 link Description: Videos, Value: google.com/search
+					27 link Description: Shopping, Value: google.com/search
+					28 link Description: News, Value: google.com/search
+					29 link Description: Short videos, Value: google.com/search
+					30 button (collapsed) More filters, Secondary Actions: Expand
+						31 container More filters
+							32 text More
+				33 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			34 heading Search Results, Value: 1
+				35 text Search Results
+			36 container center_col
+				37 container gevUs
+					38 container rso
+						39 container
+							40 heading Web results, Value: 2
+								41 text Web results
+							42 link Description: "troll skull" 3D Models to Print Yeggi https://www.yeggi.com › troll+skull, Value: google.com/goto
+							43 button About this result
+							44 container
+								45 text troll skull  Models. Download: free Website:  Troll Skull  Meme Mask - 3D Print  STL  Calavera.  Troll Face  3D Model for 3D Printing 3D File.  STL  mask model mask
+						143 container
+							144 container
+								145 container
+									146 heading AI Overview, Value: 2
+										147 text AI Overview
+									148 container
+										149 text You can find 3D printable STL files for the meme-inspired Troll Face skull (sometimes called  Homo trollius )  on platforms like
+										150 link Description: CGTrader, Value: google.com/goto
+										151 text  or aggregators like
+										152 link Description: Yeggi, Value: google.com/goto
+										153 text , with options ranging from free downloads to low-cost premium files.
+										154 link Description: CGTrader, Value: google.com/goto
+										155 button CGTrader (+1) - Related results
+											156 text CGTrader
+											157 text  +1
+							158 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								159 text Show more
+						52 container
+							53 heading Web results, Value: 2
+								54 text Web results
+							55 link Value: google.com/goto, Description: 3D printed Trollface skull with PLA filament on A1 mini Facebook · Jason Montello 8 reactions · 1 year ago
+							56 button About this result
+							57 container
+								58 text The main content is a 3D rendering of a blue octagonal object with a hollow center. The object is positioned centrally, with a partial view ...
+								59 link Description: Read more, Value: google.com/goto
+						60 container
+							61 link Description: 3D Printed Trollface Skull : r/3Dprinting Reddit · r/3Dprinting 1 comment · 1 year ago, Value: google.com/goto
+							62 button About this result
+							63 link Description: 3D Printed Trollface Skull : r/3Dprinting by BusyNoise315 on Reddit. Play on Reddit. 1:05, Value: google.com/goto
+							64 text Just finished 3D printing this hilarious Trollface's Skull  from the classic memes. Printed with PLA filament on my Bambulab al Mini. Click here ...
+						65 container
+							66 link Description: TROLL models for 3D printer Printables.com https://www.printables.com › tag › troll, Value: google.com/goto
+							67 button About this result
+							68 text Explore collection of troll designs that are perfect for your 3D printer.
+							69 text Download and 3D print STL models
+							70 text  tagged with troll. Troll Skull Troll Skull.  ...
+						71 container
+							72 link Description: 3d printed Skull Troll Face (homo trollius) eBay https://www.ebay.com › ... › Action Figures, Value: google.com/goto
+							73 button About this result
+							74 text The
+							75 text 3D printed Skull Troll Face
+							76 text  (homo trollius) is an original action figure featuring a unique Troll character design. Manufactured in 2022, this personalized ...
+							77 link Description: Read more, Value: google.com/goto
+						78 container
+							79 link Description: Troll Face 3D Model for 3D Printing Shustrik Maps https://shustrik-maps.com › 3D MODELS › ART, Value: google.com/goto
+							80 button About this result
+							81 text Troll Face for 3D Printing —
+							82 text in STL format
+							83 text . Face jawbone and skeletal parts, Skull size: 127 mm x 155 mm x 117 mm. Included STL format (for most slicers)
+							84 text $15.00
+							85 text In stock
+						86 container
+							87 link Value: google.com/goto, Description: 3D Printed Trollface Skull: A Hilarious Meme Creation TikTok · LaserEngravingAND3dPrinting 16K+ views · 1 year ago
+							88 button About this result
+							89 link Value: google.com/goto, Description: 3D Printed Trollface Skull: A Hilarious Meme Creation by laserengravingand3dprint on TikTok. Play on TikTok. 1:05
+							90 text Just finished 3D printing this hilarious Trollface's Skull  from the classic memes – “Homo Trollius” Printed with PLA filament on my Bambulab ...
+						91 container
+							92 link Description: Skull Troll Face AssetsFree.com https://assetsfree.com › 3D print model › Creatures, Value: google.com/goto
+							93 button About this result
+							94 text Jul 3, 2025  —
+							95 text The “Skull+Troll+Face” 3D model
+							96 text  is a unique and captivating blend of a skull and a troll face, perfect for adding a touch of whimsical ...
+							97 link Description: Read more, Value: google.com/goto
+						98 container
+							99 link Value: google.com/goto, Description: Trollface 3D print files - free & premium STL models CGTrader https://www.cgtrader.com › 3D Print Models
+							100 button About this result
+							101 text Download 49 Trollface free & premium 3D print files
+							102 text  ready for FDM, SLA, SLS and, other 3D printers, available formats STL, OBJ, 3DM, and more.
+				103 container
+					104 container
+						105 heading People also search for, Value: 2
+							106 text People also search for
+						107 link Description: Troll face skull stl free download, Value: google.com/search
+						108 link Description: Troll face skull stl free, Value: google.com/search
+						109 link Description: Troll face skull stl reddit, Value: google.com/search
+						110 link Description: Troll face skull stl download, Value: google.com/search
+					111 heading Page Navigation, Value: 1
+						112 text Page Navigation
+					113 text 1
+					114 link Description: Page 2, Value: google.com/search
+					115 link Description: Page 3, Value: google.com/search
+					116 link Description: Page 4, Value: google.com/search
+					117 link Description: Page 5, Value: google.com/search
+					118 link Description: Page 6, Value: google.com/search
+					119 link Description: Page 7, Value: google.com/search
+					120 link Description: Page 8, Value: google.com/search
+					121 link Description: Page 9, Value: google.com/search
+					122 link Description: Page 10, Value: google.com/search
+					123 heading Next, Value: 2
+						124 link Description: Next, Value: google.com/search, ID: pnnext
+			125 container sfooter
+				126 heading Footer Links, Value: 1
+					127 text Footer Links
+				128 container fbar
+					129 container
+						130 button Unknown  - Can't determine location
+							131 container
+								132 text Unknown
+							133 container
+								134 text  -  Can't determine location
+						135 text  - 
+						136 button Update location
+							137 text Update location
+					138 container fsl
+						139 link Description: Help, Value: support.google.com/websearch/
+						140 link Description: Send feedback, Value: google.com/search
+						141 link Description: Privacy, Value: policies.google.com/privacy
+						142 link Description: Terms, Value: policies.google.com/terms
+
+The focused UI element is 1 AXWebArea troll face skull STL - Google Search, URL: google.com/search

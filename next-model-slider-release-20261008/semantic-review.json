@@ -1,0 +1,60 @@
+{
+  "site_profile": "shustrik-maps",
+  "language": "English",
+  "market": "USA",
+  "engine": "Google",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "editorial_clusters": [
+    {
+      "product_id": 15527,
+      "primary": "Sheikh Zayed bust STL",
+      "supporting": [
+        "Sheikh Zayed portrait 3D model",
+        "Sheikh Zayed sculpture CNC"
+      ],
+      "excluded": [
+        "Sheikh Zayed Grand Mosque",
+        "Sheikh Mohamed bin Zayed",
+        "physical ready-made bust",
+        "free STL"
+      ],
+      "frequency": null,
+      "rank": null
+    },
+    {
+      "product_id": 20192,
+      "primary": "troll face skull STL",
+      "supporting": [
+        "trollface skull 3D print",
+        "troll face skull with stand STL"
+      ],
+      "excluded": [
+        "plain Trollface flat meme",
+        "anatomical medical skull",
+        "commercial license",
+        "free identical file"
+      ],
+      "frequency": null,
+      "rank": null
+    },
+    {
+      "product_id": 20199,
+      "primary": "zombie monster box STL",
+      "supporting": [
+        "monster storage box 3D print",
+        "Halloween storage box STL"
+      ],
+      "excluded": [
+        "Zombicide organizer",
+        "Kingdom Death storage",
+        "humanoid zombie figure",
+        "food-safe container"
+      ],
+      "frequency": null,
+      "rank": null
+    }
+  ],
+  "decision": "validate first",
+  "note": "Publication already authorized by owner workflow; validate first refers only to a later demand/SEO measurement. Exact digital STL intent, known assortment and public SERPs reviewed. Google location Unknown despite hl=en/gl=us/pws=0. No keyword-service metrics collected."
+}

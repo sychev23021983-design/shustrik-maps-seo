@@ -1,0 +1,38 @@
+[
+  {
+    "query": "Sheikh Zayed bust STL",
+    "url": "https://www.google.com/search?q=Sheikh+Zayed+bust+STL&hl=en&gl=us&pws=0",
+    "file": "google-sheikh-bust.txt",
+    "market_parameters": "hl=en/gl=us/pws=0",
+    "actual_location": "Unknown",
+    "observations": "Paid digital bust intent present; many unrelated Grand Mosque and different Sheikh results; exclude those. No volume/rank claims."
+  },
+  {
+    "query": "Sheikh Zayed bust 3D printing",
+    "url": "https://www.google.com/search?q=Sheikh%20Zayed%20bust%203D%20printing&hl=en&gl=us&pws=0",
+    "file": "google-sheikh-print-full.txt",
+    "market_parameters": "hl=en/gl=us/pws=0",
+    "actual_location": "not separately verified"
+  },
+  {
+    "query": "troll face skull STL",
+    "url": "https://www.google.com/search?q=troll%20face%20skull%20STL&hl=en&gl=us&pws=0",
+    "file": "google-troll-skull-full.txt",
+    "market_parameters": "hl=en/gl=us/pws=0",
+    "actual_location": "not separately verified"
+  },
+  {
+    "query": "trollface skull 3D print",
+    "url": "https://www.google.com/search?q=trollface%20skull%203D%20print&hl=en&gl=us&pws=0",
+    "file": "google-troll-print-full.txt",
+    "market_parameters": "hl=en/gl=us/pws=0",
+    "actual_location": "not separately verified"
+  },
+  {
+    "query": "zombie monster storage box STL",
+    "url": "https://www.google.com/search?q=zombie%20monster%20storage%20box%20STL&hl=en&gl=us&pws=0",
+    "file": "google-zombie-box-full.txt",
+    "market_parameters": "hl=en/gl=us/pws=0",
+    "actual_location": "not separately verified"
+  }
+]

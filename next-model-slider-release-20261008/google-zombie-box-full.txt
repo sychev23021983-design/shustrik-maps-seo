@@ -1,0 +1,187 @@
+Browser tab: 10, Title: "zombie monster storage box STL - Google Search", URL: "https://www.google.com/search?q=zombie%20monster%20storage%20box%20STL&hl=en&gl=us&pws=0".
+1 AXWebArea zombie monster storage box STL - Google Search, URL: google.com/search
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp
+					11 combo box (collapsed) Description: Search, Value: zombie monster storage box STL, ID: ti6dpd, Secondary Actions: Expand
+					12 button  Clear
+					13 button Search by voice
+					14 button Search by image
+			15 button Description: Settings, ID: og-te
+			16 button Share
+			17 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			18 link Description: Sign in, Value: accounts.google.com/ServiceLogin
+		19 container cnt
+			20 container
+				21 content list
+					22 link Description: AI Mode, Value: google.com/search
+					23 link (disabled) All
+						24 text All
+					25 link Description: Images, Value: google.com/search
+					26 link Description: Shopping, Value: google.com/search
+					27 link Description: Videos, Value: google.com/search
+					28 link Description: Short videos, Value: google.com/search
+					29 link Description: Forums, Value: google.com/search
+					30 button (collapsed) More filters, Secondary Actions: Expand
+						31 container More filters
+							32 text More
+				33 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			34 heading Search Results, Value: 1
+				35 text Search Results
+			36 container appbar
+				37 container Refinement
+					38 container B1cDYe
+						39 content list
+							40 checkbox Description: All filters., Value: 0
+							41 link Description: 3D filter. Not selected., Value: google.com/search
+							42 link Description: Free filter. Not selected., Value: google.com/search
+							43 link Description: For Sale filter. Not selected., Value: google.com/search
+							44 link Description: Pink filter. Not selected., Value: google.com/search
+							45 link Description: Diy filter. Not selected., Value: google.com/search
+							46 link Description: Board & Card Games filter. Not selected., Value: google.com/search
+							47 link Description: Large filter. Not selected., Value: google.com/search
+							48 link Description: Reviews filter. Not selected., Value: google.com/search
+							49 link Description: Storage Containers, Boxes & Bins filter. Not selected., Value: google.com/search
+							50 link Description: Blue filter. Not selected., Value: google.com/search
+							51 link Description: Software filter. Not selected., Value: google.com/search
+							52 link Description: Purple filter. Not selected., Value: google.com/search
+							53 link Description: Toy filter. Not selected., Value: google.com/search
+							54 link Description: Girl filter. Not selected., Value: google.com/search
+							55 link Description: Under $10 filter. Not selected., Value: google.com/search
+							56 link Description: Clothes filter. Not selected., Value: google.com/search
+							57 link Description: Buy filter. Not selected., Value: google.com/search
+							58 link Description: Brown filter. Not selected., Value: google.com/search
+							59 link Description: Black filter. Not selected., Value: google.com/search
+							60 link Description: Board Game filter. Not selected., Value: google.com/search
+							61 link Description: Small business filter. Not selected., Value: google.com/search
+							62 link Description: Free shipping filter. Not selected., Value: google.com/search
+			63 container center_col
+				64 container gevUs
+					65 container rso
+						66 container
+							67 heading Web results, Value: 2
+								68 text Web results
+							69 link Description: Zombie Monster Storage Box 3D Model Shustrik Maps https://shustrik-maps.com › 3D MODELS › ART, Value: google.com/goto
+							70 button About this result
+							71 container
+								72 text Download a fun, spooky Zombie Monster Box 3D model … $15.00 File size: 3.48 MB Description.  Print-ready 3D model (.STL format ) $15.00 Current price is: $15.00.
+							73 container
+								74 text $15.00 In stock Free delivery
+						75 container
+							76 link Value: google.com/goto, Description: Monster Box 3D STL – Unique Model for 3D Printing Cults 3D https://cults3d.com › home › monster-box-3d-stl-uniqu...
+							77 button About this result
+							78 text Mar 10, 2025  —
+							79 text The Monster Box is a fun and quirky 3D model
+							80 text  designed to look like a cartoonish drawer with a face, glasses, and a toothy grin. It's perfect for ...
+							81 link Description: Read more, Value: google.com/goto
+						82 container
+							83 link Value: google.com/goto, Description: Zombie Monster Storage Box 3D Model Pinterest https://www.pinterest.com › pin › file-size-348-mb-mo...
+							84 button About this result
+							85 text File size: 3.48 MB Model size: 90 mm x 90.
+							86 text Monster Storage Box 3D Model
+							87 text  US$15.00 Product sold by shustrik-maps.com. File size: 3.48 MB Model size: 90 mm x 90 ...
+						88 container
+							89 link Value: google.com/goto, Description: Kingdom Death: Monster - Monster Storage Boxes Printables.com https://www.printables.com › model › 1617032-kingdo...
+							90 button About this result
+							91 text Storage boxes for Kingdom Death monsters, all 30 of them. Includes integral card trays to use during showdon. |
+							92 text Download free 3D printable STL models
+							93 text .
+						94 container
+							95 link Value: google.com/goto, Description: Boss Monster Box - all expansions sleeved 2024 by drehmos Thingiverse https://www.thingiverse.com › thing:6488860
+							96 button About this result
+							97 text Feb 16, 2024  —  cards, all sleeved.
+							98 text Boss Monster Storage Box for ALL EXPANSIONS
+							99 text . Modern Zombie, Civilian and Soldier Standee Set
+						100 container
+							101 link Description: Zombie Storage Box Etsy https://www.etsy.com › market › zombie_storage_box, Value: google.com/goto
+							102 button About this result
+							103 text Zombie Storage Box STL File
+							104 text  – Digital 3d Printer file – no supports (359) Sale Price $4.20 $4.20 $7.00 Original Price $7.00 (40% off) textured monster face ...
+							105 container
+								106 image Rated 4.5 out of 5,
+								107 text store rating  (
+								108 link Description: 1.1K user reviews, Value: google.com/m/storepages
+								109 text )
+							110 text $4 to $115
+						111 container
+							112 link Description: Roll Up Storage Box | Square Organizer • 3D files ... Facebook · Cults. 60+ reactions · 3 months ago, Value: google.com/goto
+							113 button About this result
+							114 link Description: Roll Up Storage Box | Square Organizer • 3D files ... by Cults. on Facebook. Play on Facebook. 0:18, Value: google.com/goto
+							115 text This video showcases the creation of a functional, 3D-printed modular toolbox using a Prusa XL printer. It highlights the design's ...
+						116 container
+							117 link Description: Free Custom Box Generator for 3D Printing YouTube · 3D Revolution 35K+ views · 2 years ago, Value: google.com/goto
+							118 button About this result
+							119 link Description: Free Custom Box Generator for 3D Printing by 3D Revolution on YouTube. Play on YouTube. 12:12, Value: google.com/goto
+							120 text Quickly and easily generate a custom box for 3D printing  using this simple free tool. Access Bento3D at https://bento3d.design/ Free Custom Box ...
+							121 container
+								122 button (collapsed) 3 key moments in this video, Secondary Actions: Expand
+									123 text 3 key moments in this video
+						124 container
+							125 link Value: google.com/goto, Description: Best STL organizers for Marvel Zombies? : r/zombicide Reddit · r/zombicide 20+ comments · 3 months ago
+							126 button About this result
+							127 text So I'm mostly looking for solutions that allow vertical
+							128 text storage
+							129 text  for the normal sized heroes, the bystanders, and the shield agents/
+							130 text zombies
+							131 text .
+							132 link Description: Read more, Value: google.com/goto
+						133 container
+							134 link Value: google.com/goto, Description: Where to find Zombicide 2nd edition box organizer STL files? Facebook · Zombicide 2.0 👌 3 comments · 6 months ago
+							135 button About this result
+							136 text Hi Zombiecider! Does anyone happen to have the STL or 3MF file for an organizer for the Zombicide 2nd Edition box and the connection clips? Top answer:  Look on yeggi, it'll come up on there.
+						137 container
+							138 container
+								139 heading Popular products, Value: 2
+									140 text Popular products
+								141 button About this result
+							142 content list
+								143 button Zombie Monster Storage Box 3D Model. Current Price: $15.00. Custom 3D Models and 3D Maps. Free delivery by Sun. Go to product viewer for this item.
+								144 button Zombie Storage Box STL File - Digital 3d Printer file - no supports. 40% OFF. Current Price: $4.20. Was $7.00. Etsy - InArtWeTrust3d. Free delivery. Go to product viewer for this item.
+								145 button Zombie Storage Box STL File - Digital 3d Printer File - no supports. 30% OFF. Current Price: $4.90. Was $7.00. Etsy - Hedgehog3dArtStudio. Free delivery. Go to product viewer for this item.
+								146 button Zombie Head Storage Box | 3D printed Halloween Decor | Unique Storage Container | Horror Fan Gift. 25% OFF. Current Price: $18.75. Was $25. Etsy - Seller. Go to product viewer for this item.
+				147 container
+					148 container
+						149 heading People also search for, Value: 2
+							150 text People also search for
+						151 link Description: Zombie monster storage box stl free, Value: google.com/search
+						152 link Description: Zombie monster storage box stl download, Value: google.com/search
+					153 heading Page Navigation, Value: 1
+						154 text Page Navigation
+					155 text 1
+					156 link Description: Page 2, Value: google.com/search
+					157 link Description: Page 3, Value: google.com/search
+					158 link Description: Page 4, Value: google.com/search
+					159 link Description: Page 5, Value: google.com/search
+					160 link Description: Page 6, Value: google.com/search
+					161 link Description: Page 7, Value: google.com/search
+					162 link Description: Page 8, Value: google.com/search
+					163 link Description: Page 9, Value: google.com/search
+					164 link Description: Page 10, Value: google.com/search
+					165 heading Next, Value: 2
+						166 link Description: Next, Value: google.com/search, ID: pnnext
+			167 container sfooter
+				168 heading Footer Links, Value: 1
+					169 text Footer Links
+				170 container fbar
+					171 container
+						172 button Unknown  - Can't determine location
+							173 container
+								174 text Unknown
+							175 container
+								176 text  -  Can't determine location
+						177 text  - 
+						178 button Update location
+							179 text Update location
+					180 container fsl
+						181 link Description: Help, Value: support.google.com/websearch/
+						182 link Description: Send feedback, Value: google.com/search
+						183 link Description: Privacy, Value: policies.google.com/privacy
+						184 link Description: Terms, Value: policies.google.com/terms
+
+The focused UI element is 1 AXWebArea zombie monster storage box STL - Google Search, URL: google.com/search

@@ -1,0 +1,196 @@
+Browser tab: 10, Title: "Sheikh Zayed bust STL - Google Search", URL: "https://www.google.com/search?q=Sheikh+Zayed+bust+STL&hl=en&gl=us&pws=0".
+0 AXWebArea Sheikh Zayed bust STL - Google Search, URL: google.com/search
+	1 container gsr
+		2 container
+			3 link Skip to main content
+				4 text Skip to main content
+			5 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196
+		6 container searchform
+			7 container tsf
+				8 container
+					9 link Description: Learn more about World Space Week 2026, Value: google.com/webhp
+					11 combo box (collapsed) Description: Search, Value: Sheikh Zayed bust STL, ID: ti6dpd, Secondary Actions: Expand
+					12 button  Clear
+					13 button Search by voice
+					14 button Search by image
+			15 button Description: Settings, ID: og-te
+			16 button Share
+			17 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			18 link Description: Sign in, Value: accounts.google.com/ServiceLogin
+		19 container cnt
+			20 container
+				21 content list
+					22 link Description: AI Mode, Value: google.com/search
+					23 link (disabled) All
+						24 text All
+					25 link Description: Images, Value: google.com/search
+					26 link Description: Shopping, Value: google.com/search
+					27 link Description: Videos, Value: google.com/search
+					28 link Description: News, Value: google.com/search
+					29 link Description: Forums, Value: google.com/search
+					30 button (collapsed) More filters, Secondary Actions: Expand
+						31 container More filters
+							32 text More
+				33 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			34 heading Search Results, Value: 1
+				35 text Search Results
+			36 container center_col
+				37 container gevUs
+					38 container rso
+						39 container
+							40 heading Web results, Value: 2
+								41 text Web results
+							42 link Description: "sheikh zayed" 3D Models to Print Yeggi https://www.yeggi.com › sheikh+zayed, Value: google.com/goto
+							43 button About this result
+							44 container
+								45 text Sheikh Mohamed bin Zayed Al Nahyan bust STL File ... ed Grand Mosque Free STL File for 3D. Zayed Al Nahyan bust 3D model
+						46 container
+							47 container
+								48 heading AI Overview, Value: 2
+									49 text AI Overview
+								50 container
+									51 text You can find  3D printable STL files of the  Sheikh Zayed bust  on repositories like
+									52 link Description: CGTrader, Value: google.com/goto
+									53 text  and aggregator search engines like
+									54 link Description: Yeggi, Value: google.com/goto
+									55 text .
+								56 heading Where to Find Models, Value: 3
+									57 text Where to Find Models
+								58 content list
+									59 container
+										60 AXListMarker •
+										61 text Paid/Premium Busts:  Detailed sculpture files of Sheikh Zayed bin Sultan Al Nahyan are available on  CGTrader  (typically priced around $15).
+									62 container
+										63 AXListMarker •
+										64 text Search Aggregators:  Use  Yeggi  to cross-search free and paid options across platforms like Cults3D, Thingiverse, and MyMiniFactory.
+										65 button Related results
+								66 content list
+									67 container
+										68 link Description: Sheikh Zayed 3D Model. Opens in new tab., Value: google.com/goto
+										69 text Shustrik Maps
+										70 button Description: About this result, ID: snui-atr-SXfHap_aEeOI9u8PpdT2qAQ_duxgs8_36
+										71 text High-resolution Sheikh Zayed 3D Model Sheikh Zayed 3D Model quantity You can also purchase this product using MasterCard/Visa on R...
+									72 container
+										73 link Description: "sheikh zayed" 3D Models to Print - yeggi. Opens in new tab., Value: google.com/goto
+										74 text Yeggi
+										75 button Description: About this result, ID: snui-atr-SXfHap_aEeOI9u8PpdT2qAQ_duxgs8_40
+										76 text Platforms: Cults, CGTrader, Thingiverse, Creality Cloud, MakerNest, MyMiniFactory, Printables, yeggi. Content: 3D printable models...
+									77 container
+										78 link Description: "sheikh zayed mosque" 3D Models to Print - yeggi. Opens in new tab., Value: google.com/goto
+										79 text Yeggi
+										80 button Description: About this result, ID: snui-atr-SXfHap_aEeOI9u8PpdT2qAQ_duxgs8_44
+										81 text 3D Printable Models and Files: Listings from platforms including CGTrader, Cults, Thingiverse, Creality Cloud, MakerNest, MyMiniFa...
+									82 container
+										83 link Description: Sheikh 3D Models – Free & Premium Downloads | CGTrader. Opens in new tab., Value: google.com/goto
+										84 text CGTrader
+										85 button Description: About this result, ID: snui-atr-SXfHap_aEeOI9u8PpdT2qAQ_duxgs8_48
+										86 text CGTrader offers 98 free and premium 3D models related to Sheikh, Arab architecture, and Zelda franchises, available in formats lik...
+									87 container
+										88 link Description: "sheikh zayed free" 3D Models to Print. Opens in new tab., Value: google.com/goto
+										89 text Yeggi
+										90 button Description: About this result, ID: snui-atr-SXfHap_aEeOI9u8PpdT2qAQ_duxgs8_52
+										91 text » random » * Download: for sale Website: Cults Tags Sheikh Zayed to Sheikh Mohamed Bin Zayed 3D Opti... Text customizable, functio...
+									92 container
+										93 link Description: Sheikh Mohamed bin Zayed Al Nahyan bust. Opens in new tab., Value: google.com/goto
+										94 text Cults 3D
+										95 button Description: About this result, ID: snui-atr-SXfHap_aEeOI9u8PpdT2qAQ_duxgs8_56
+										96 text Apr 14, 2025 —  3D model description Sheikh Mohamed bin Zayed Al Nahyan/ President of the United Arab Emirates and Ruler of Abu Dhabi 3d-printable...
+									97 container
+										98 link Description: STL files explained | Learn about the STL file format - Adobe. Opens in new tab., Value: google.com/goto
+										99 text Adobe
+										100 button Description: About this result, ID: snui-atr-SXfHap_aEeOI9u8PpdT2qAQ_duxgs8_60
+										101 text STL is a file format commonly used for 3D printing and computer-aided design (CAD). The name STL is an acronym that stands for ste...
+							102 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								103 text Show more
+						104 container
+							105 heading Web results, Value: 2
+								106 text Web results
+							107 link Description: Sheikh 3D Models – Free & Premium Downloads CGTrader https://www.cgtrader.com › 3D Models, Value: google.com/goto
+							108 button About this result
+							109 container
+								110 text Download 98 free and premium  Sheikh  3D models, available. Available in any file format including.  Sheikh Zayed  Sculpture  Bust  3D printable model
+						111 container
+							112 link Value: google.com/goto, Description: Sheikh Zayed 3D Model: Sculpture for 3D Printing and Milling Shustrik Maps https://shustrik-maps.com › 3D MODELS › ART
+							113 button About this result
+							114 text Our highly accurate bust of the Sheikh Zayed is
+							115 text ready for 3D printing on SLA/DLP printers and CNC milling
+							116 text . 76 x 48 x 68 m File size: 400
+							117 text $40.00
+							118 text In stock
+							119 text Free delivery
+						120 container
+							121 link Value: google.com/goto, Description: Sheikh Zayed Mosque - Detailed 3D Model Sketchfab https://sketchfab.com › sheikh-zayed-mosque-detailed-...
+							122 button About this result
+							123 text Nov 25, 2025  —
+							124 text Explore the beauty of the Sheikh Zayed Grand Mosque
+							125 text  with this highly detailed 3D model, capturing its iconic domes, minarets, and intricate ...
+						126 container
+							127 link Description: "sheikh" 3D Models to Print Yeggi https://www.yeggi.com › sheikh, Value: google.com/goto
+							128 button About this result
+							129 text Sheikh Mohamed bin Zayed Al Nahyan bust STL File
+							130 text ... - Abu Dhabi STL File. A 3D printable model of Sheikh Zayed bin Sultan
+						131 container
+							132 link Description: Download Sheikh STL files for 3D printers Cults 3D https://cults3d.com › tags › sheikh, Value: google.com/goto
+							133 button About this result
+							134 text Discover 3D models for 3D printing related to Sheikh.
+							135 text Download your favorite STL files
+							136 text  and make them with your 3D printer. Have a good time!
+						137 container
+							138 link Description: Zayed Mosque 3D Models download - Free3D Free3D.com https://free3d.com › zayed-mosque, Value: google.com/goto
+							139 button About this result
+							140 text 7 Zayed Mosque 3d models found
+							141 text . Available for download in .blend .obj .c4d .3ds .max .ma and many more formats.
+						142 container
+							143 link Description: Abu Dhabi Sheikh Zayed Grand Mosque - Free 3D Print ... MakerWorld https://makerworld.com › models, Value: google.com/goto
+							144 text ·
+							145 link Description: Translate this page, Value: google.com/goto
+							146 button About this result
+							147 text Download this free 3D print file
+							148 text  designed by Captain.Kadir. The Sheikh Zayed Grand Mosque is located in Abu Dhabi, the capital city of the United Arab ...
+						149 container
+							150 link Value: google.com/goto, Description: Sheikh Zayed Mosque, Abu Dhabi, United Arab Emirates Thingiverse https://www.thingiverse.com › thing:753754
+							151 button About this result
+							152 text Apr 2, 2015  —
+							153 text Download millions of 3D models and files
+							154 text  for your 3D printer, laser cutter, or CNC. From custom parts to unique designs, you can find them ...
+				155 container
+					156 container
+						157 heading People also search for, Value: 2
+							158 text People also search for
+						159 link Description: Sheikh zayed bust stl free, Value: google.com/search
+						160 link Description: Sheikh zayed bust stl free download, Value: google.com/search
+						161 link Description: Sheikh zayed bust stl download, Value: google.com/search
+					162 heading Page Navigation, Value: 1
+						163 text Page Navigation
+					164 text 1
+					165 link Description: Page 2, Value: google.com/search
+					166 link Description: Page 3, Value: google.com/search
+					167 link Description: Page 4, Value: google.com/search
+					168 link Description: Page 5, Value: google.com/search
+					169 link Description: Page 6, Value: google.com/search
+					170 link Description: Page 7, Value: google.com/search
+					171 link Description: Page 8, Value: google.com/search
+					172 link Description: Page 9, Value: google.com/search
+					173 link Description: Page 10, Value: google.com/search
+					174 heading Next, Value: 2
+						175 link Description: Next, Value: google.com/search, ID: pnnext
+			176 container sfooter
+				177 heading Footer Links, Value: 1
+					178 text Footer Links
+				179 container fbar
+					180 container
+						181 button Unknown  - Can't determine location
+							182 container
+								183 text Unknown
+							184 container
+								185 text  -  Can't determine location
+						186 text  - 
+						187 button Update location
+							188 text Update location
+					189 container fsl
+						190 link Description: Help, Value: support.google.com/websearch/
+						191 link Description: Send feedback, Value: google.com/search
+						192 link Description: Privacy, Value: policies.google.com/privacy
+						193 link Description: Terms, Value: policies.google.com/terms
+
+The focused UI element is 0 AXWebArea Sheikh Zayed bust STL - Google Search, URL: google.com/search

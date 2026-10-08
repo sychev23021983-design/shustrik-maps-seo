@@ -1,0 +1,9 @@
+Browser tab: 10, Title: "trollface skull 3D print - Google Search", URL: "https://www.google.com/search?q=trollface%20skull%203D%20print&hl=en&gl=us&pws=0".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 39-42
++						139 container folsrch-response-3a67f4ad-1
++							140 heading Thinking Searching Thinking a little longer, Value: 2
++								141 text Thinking Searching
++								142 text Thinking a little longer
++							143 progress indicator Generating
+The focused UI element is 1 AXWebArea trollface skull 3D print - Google Search, URL: google.com/search?q=trollface%20skull%203D%20print&hl=en&gl=us&pws=0

@@ -1,0 +1,3 @@
+Browser tab: 10, Title: "zombie monster storage box STL - Google Search", URL: "https://www.google.com/search?q=zombie%20monster%20storage%20box%20STL&hl=en&gl=us&pws=0".
+There has been no change in the accessibility tree.
+The focused UI element is 1 AXWebArea zombie monster storage box STL - Google Search, URL: google.com/search

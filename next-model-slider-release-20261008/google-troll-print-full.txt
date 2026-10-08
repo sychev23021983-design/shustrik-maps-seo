@@ -1,0 +1,141 @@
+Browser tab: 10, Title: "trollface skull 3D print - Google Search", URL: "https://www.google.com/search?q=trollface%20skull%203D%20print&hl=en&gl=us&pws=0".
+1 AXWebArea trollface skull 3D print - Google Search, URL: google.com/search?q=trollface%20skull%203D%20print&hl=en&gl=us&pws=0
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp?hl=en&ictx=2&sa=X&ved=2ahUKEwirhcLZo6qXAxWASvEDHVqOKEsQPXoECAYQBA
+					11 combo box (collapsed) Description: Search, Value: trollface skull 3D print, ID: ti6dpd, Secondary Actions: Expand
+					12 button  Clear
+					13 button Search by voice
+					14 button Search by image
+			15 button Description: Settings, ID: og-te
+			16 button Share
+			17 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			18 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dtrollface%2520skull%25203D%2520print%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		19 container cnt
+			20 container
+				21 content list
+					22 link Description: AI Mode, Value: google.com/search?q=trollface+skull+3D+print&sca_esv=e2130cf16db8d2a2&hl=en&gl=us&pws=0&sxsrf=APpeQnsv_iDbhT2Cpke3Qe4CSnipPzX9JA:1791457622007&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9lnQJN2b4NlD2btUk2oQl-kovYfDA0m3BksMG5pr7u-F84zjaHjcXuXnPdmPSCZ4k1m8r1_RrnWlnc5k2SXYFy2e5QxhWT7FgcvQ1DFBW8tegTZrfIvaL2SpHOPeUZY2A1yQ6Dg&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwirhcLZo6qXAxWASvEDHVqOKEsQ2J8OegQIEhAD
+					23 link (disabled) All
+						24 text All
+					25 link Description: Images, Value: google.com/search?sca_esv=e2130cf16db8d2a2&hl=en&gl=us&pws=0&sxsrf=APpeQnsv_iDbhT2Cpke3Qe4CSnipPzX9JA:1791457622007&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9lnQJN2b4NlD2btUk2oQl-kovYfDA0m3BksMG5pr7u-F84zjaHjcXuXnPdmPSCZ4k1m8r1_RrnWlnc5k2SXYFy2e5QxhWT7FgcvQ1DFBW8tegTZrfIvaL2SpHOPeUZY2A1yQ6Dg&q=trollface+skull+3D+print&sa=X&ved=2ahUKEwirhcLZo6qXAxWASvEDHVqOKEsQtKgLegQIGRAB
+					26 link Description: Shopping, Value: google.com/search?sca_esv=e2130cf16db8d2a2&hl=en&gl=us&pws=0&sxsrf=APpeQnsv_iDbhT2Cpke3Qe4CSnipPzX9JA:1791457622007&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9lnQJN2b4NlD2btUk2oQl-kovYfDA0m3BksMG5pr7u-F84zjaHjcXuXnPdmPSCZ4k1m8r1_RrnWlnc5k2SXYFy2e5QxhWT7FgcvQ1DFBW8tegTZrfIvaL2SpHOPeUZY2A1yQ6Dg&q=trollface+skull+3D+print&ved=1t:220175&ictx=111
+					27 link Description: Videos, Value: google.com/search?sca_esv=e2130cf16db8d2a2&hl=en&gl=us&pws=0&sxsrf=APpeQnsv_iDbhT2Cpke3Qe4CSnipPzX9JA:1791457622007&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9lnQJN2b4NlD2btUk2oQl-kovYfDA0m3BksMG5pr7u-F84zjaHjcXuXnPdmPSCZ4k1m8r1_RrnWlnc5k2SXYFy2e5QxhWT7FgcvQ1DFBW8tegTZrfIvaL2SpHOPeUZY2A1yQ6Dg&q=trollface+skull+3D+print&sa=X&ved=2ahUKEwirhcLZo6qXAxWASvEDHVqOKEsQtKgLegQIFhAB
+					28 link Description: News, Value: google.com/search?sca_esv=e2130cf16db8d2a2&hl=en&gl=us&pws=0&sxsrf=APpeQnsv_iDbhT2Cpke3Qe4CSnipPzX9JA:1791457622007&q=trollface+skull+3D+print&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9lnQJN2b4NlD2btUk2oQl-kovYfDA0m3BksMG5pr7u-F84zjaHjcXuXnPdmPSCZ4k1m8r1_RrnWlnc5k2SXYFy2e5QxhWT7FgcvQ1DFBW8tegTZrfIvaL2SpHOPeUZY2A1yQ6Dg&sa=X&ved=2ahUKEwirhcLZo6qXAxWASvEDHVqOKEsQ0pQJegQIFxAB
+					29 link Description: Short videos, Value: google.com/search?sca_esv=e2130cf16db8d2a2&hl=en&gl=us&pws=0&sxsrf=APpeQnsv_iDbhT2Cpke3Qe4CSnipPzX9JA:1791457622007&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9lnQJN2b4NlD2btUk2oQl-kovYfDA0m3BksMG5pr7u-F84zjaHjcXuXnPdmPSCZ4k1m8r1_RrnWlnc5k2SXYFy2e5QxhWT7FgcvQ1DFBW8tegTZrfIvaL2SpHOPeUZY2A1yQ6Dg&q=trollface+skull+3D+print&sa=X&ved=2ahUKEwirhcLZo6qXAxWASvEDHVqOKEsQs6gLegQIFRAB
+					30 button (collapsed) More filters, Secondary Actions: Expand
+						31 container More filters
+							32 text More
+				33 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			34 heading Search Results, Value: 1
+				35 text Search Results
+			36 container rcnt
+				37 container Odp5De
+					38 container dEwkXc
+						39 container B2Jtyd
+							40 heading Thinking, Value: 2
+								41 text Thinking
+							42 progress indicator Generating
+				43 container center_col
+					44 container gevUs
+						45 container rso
+							46 container
+								47 heading Web results, Value: 2
+									48 text Web results
+								49 link Description: Troll Face 3D Model for 3D Printing Shustrik Maps https://shustrik-maps.com › 3D MODELS › ART, Value: google.com/goto?url=CAESsgEB6zswFVnLGBKhL1Y9ZSLc8LhVOSQV5Wsz1MUkQC_FnmJZvSZtfEZsvRt31vEFD5GWj9zIvJWD1iR47MbXd98Wi9pBlc-IQ1Vy6EgWPk58gRIg6K4rt_noTphzBzJgcNQx-tF4j0NYFxlStobKBkPQwbPm1yMlh0Za4IqbrzPIb3Sq_bdIrd83B2PA4rrG2lEyS-xMJFkoNJnuEbhSxEgj4S4QV_n3xA4wyMfE9lrid5UP
+								50 button About this result
+								51 container
+									52 text Skull size: 127 mm x 155 mm x 117 mm …  designed for FDM and SLA 3D printing . skull-shaped sculpture captures the legendary Trollface grin with uncanny detail. ...
+								53 container
+									54 text $15.00 In stock Free delivery
+							55 container
+								56 link Description: Troll Face Skull With Stand – 3D Printed Meme Decor ... Etsy https://www.etsy.com › ... › Figurines & Knick Knacks, Value: google.com/goto?url=CAESiQEB6zswFbjs-M8E0vO-03xR_noytHal3f2BvM_94UW9GjYaZKnAffxplEycq_ZN47WJYNZGHX6c5ZFDqQXUATqpfQsDvDYH1mJNBLxm6U5cqPc_mmnAT9GdTXw17xehgm30It-hQFkgmtoONo1ACxsabl-94jk7GbJLUk88sCHlhiH88Ns8TSNTLQ
+								57 button About this result
+								58 text Aug 17, 2025  —  A white skull-shaped sculpture with a wide grin.
+								59 text Troll Face Skull with Stand – 3D Printed Meme Decor
+								60 text , Funny Geek Gift, Internet Culture Desk ...
+								61 text $21.90
+								62 text In stock
+								63 image Rated 4.9 out of 5, (409) user reviews
+								64 text $9.90 delivery
+								65 text 30-day returns
+							66 container
+								67 link Description: 3D printed Trollface skull with PLA filament on A1 mini Facebook · Jason Montello 8 reactions · 1 year ago, Value: google.com/goto?url=CAESzwEB6zswFchfTqJ-6oVH4goqIYB4_YAcES8fJJ4Zrx0tRHqmjsl_R1suudKIre2gf-mdQwQyJgrvTBL1GVtdBrpu4kokN4nEaBegcy0DYt02cqdnyCN64xJgs8KoTKI52p-cDO8Mygiegs564CzLqxWFZVSnLTAaVA3M_EcSRYzjkKeMO95AuSAqjtM1Y5S_SA_yPtrKVN-onpdgCe4uLrjlip5Dc1KW9WMqOYKmtUY6hWBVYpLwGcEz9RwkYgjeYTASA-1WThxui3WMOW4y5b0
+								68 button About this result
+								69 text The main content of the image is
+								70 text a man holding a 3D-printed skull
+								71 text  with a unique design, possibly for a fantasy or sci-fi theme. Printed on 2 ...
+							72 container
+								73 link Description: 3D Printed Trollface Skull : r/3Dprinting Reddit · r/3Dprinting 1 comment · 1 year ago, Value: google.com/goto?url=CAESiwEB6zswFWdEylONxEeudSzj4P8N0XXeJFEFLeCVG6S0UIUqemE3kn5sFD_PxL97QPH6dYVAFqifPa2zbwWelwxVxycUll1aMJKwxEIzCALmc_1J8xcKCnNeINbIdiLhyqFnwL-XhGUugjZ10BGSmDaV-M8qcaY6mfUp0PsgsFiqzwsicVgTKvjuyW17
+								74 button About this result
+								75 link Description: 3D Printed Trollface Skull : r/3Dprinting by BusyNoise315 on Reddit. Play on Reddit. 1:05, Value: …
+								76 text Just finished 3D printing this hilarious Trollface's Skull  from the classic memes - "Homo Trollius" Printed with PLA filament on my Bambulab al ...
+							77 container
+								78 link Description: 3d printed Skull Troll Face (homo trollius) eBay https://www.ebay.com › ... › Action Figures, Value: …
+								79 button About this result
+								80 text The
+								81 text 3D printed Skull Troll Face
+								82 text  (homo trollius) is an original action figure featuring a unique Troll character design. Manufactured in 2022, this personalized ...
+								83 link Description: Read more, Value: …
+							84 container
+								85 link Value: …, Description: 3D Printed Trollface Skull: A Hilarious Meme Creation TikTok · LaserEngravingAND3dPrinting 16K+ views · 1 year ago
+								86 button About this result
+								87 link Value: …, Description: 3D Printed Trollface Skull: A Hilarious Meme Creation by laserengravingand3dprint on TikTok. Play on TikTok. 1:05
+								88 text Discover the fun of  3D printing with the Trollface Skull ! Printed with PLA filament … this is for you!
+							89 container
+								90 link Description: Skull Troll Face AssetsFree.com https://assetsfree.com › 3D print model › Creatures, Value: …
+								91 button About this result
+								92 text Jul 3, 2025  —
+								93 text The “Skull+Troll+Face” 3D model
+								94 text  is a unique and captivating blend of a skull and a troll face, perfect for adding a touch of whimsical darkness ...
+							95 container
+								96 link Value: …, Description: Troll Face 3D Model for 3D Printing Cults 3D https://cults3d.com › 3d-model › art › troll-face-3d-mo...
+								97 button About this result
+								98 text Jun 12, 2025  —  Download this 3D Model for 3D printer.
+								99 text Realistic Troll Face Skull
+								100 text  ・ size: 127 mm x 155 mm ・ designed for FDM and SLA 3D printing. this skull- ... 30-day returns
+							101 container
+								102 link Value: …, Description: Skull Troll Face (homo trollius) - Free 3D Print Model MakerWorld https://makerworld.com › models › 1382290-skull-troll...
+								103 button About this result
+								104 text Download this free 3D print file
+								105 text  designed by El1as. Inspired by Filip Hodas homo trollius. I made my own 3d printed version. So now when I get mom spaghetti ... 14-day returns
+					106 container
+						107 heading Page Navigation, Value: 1
+							108 text Page Navigation
+						109 text 1
+						110 link Description: Page 2, Value: …
+						111 link Description: Page 3, Value: …
+						112 link Description: Page 4, Value: …
+						113 link Description: Page 5, Value: …
+						114 link Description: Page 6, Value: …
+						115 link Description: Page 7, Value: …
+						116 link Description: Page 8, Value: …
+						117 link Description: Page 9, Value: …
+						118 link Description: Page 10, Value: …
+						119 heading Next, Value: 2
+							120 link Description: Next, Value: …, ID: pnnext
+			121 container sfooter
+				122 heading Footer Links, Value: 1
+					123 text Footer Links
+				124 container fbar
+					125 container
+						126 button Unknown  - Can't determine location
+							127 container
+								128 text Unknown
+							129 container
+								130 text  -  Can't determine location
+						131 text  - 
+						132 button Update location
+							133 text Update location
+					134 container fsl
+						135 link Description: Help, Value: …
+						136 link Description: Send feedback, Value: …
+						137 link Description: Privacy, Value: policies.google.com/privacy?hl=en&fg=1
+						138 link Description: Terms, Value: …
+
+The focused UI element is 1 AXWebArea trollface skull 3D print - Google Search, URL: google.com/search?q=trollface%20skull%203D%20print&hl=en&gl=us&pws=0

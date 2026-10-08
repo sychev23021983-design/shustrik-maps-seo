@@ -1,0 +1,176 @@
+Browser tab: 10, Title: "Sheikh Zayed bust 3D printing - Google Search", URL: "https://www.google.com/search?q=Sheikh%20Zayed%20bust%203D%20printing&hl=en&gl=us&pws=0".
+1 AXWebArea Sheikh Zayed bust 3D printing - Google Search, URL: google.com/search
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp
+					11 combo box (collapsed) Description: Search, Value: Sheikh Zayed bust 3D printing, ID: ti6dpd, Secondary Actions: Expand
+					12 button  Clear
+					13 button Search by voice
+					14 button Search by image
+			15 button Description: Settings, ID: og-te
+			16 button Share
+			17 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			18 link Description: Sign in, Value: accounts.google.com/ServiceLogin
+		19 container cnt
+			20 container
+				21 content list
+					22 link Description: AI Mode, Value: google.com/search
+					23 link (disabled) All
+						24 text All
+					25 link Description: Images, Value: google.com/search
+					26 link Description: Shopping, Value: google.com/search
+					27 link Description: Videos, Value: google.com/search
+					28 link Description: News, Value: google.com/search
+					29 link Description: Short videos, Value: google.com/search
+					30 button (collapsed) More filters, Secondary Actions: Expand
+						31 container More filters
+							32 text More
+				33 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			34 heading Search Results, Value: 1
+				35 text Search Results
+			36 container rcnt
+				37 container Odp5De
+					38 container
+						39 container
+							40 heading AI Overview, Value: 2
+								41 text AI Overview
+							42 container
+								43 text You can find digital 3D printable models and STL files of
+								44 button Sheikh Zayed
+								45 text  on marketplaces like
+								46 link Description: CGTrader, Value: google.com/goto
+								47 text  and
+								48 link Description: Cults 3D, Value: google.com/goto
+								49 text .
+								50 button Related results
+							51 heading Available Models and Files, Value: 3
+								52 text Available Models and Files
+							53 content list
+								54 container
+									55 AXListMarker •
+									56 text Busts and Sculptures:  Highly detailed STL and OBJ files of the late Sheikh Zayed bin Sultan Al Nahyan are available on  CGTrader  (ranging from free options to around $35 for professional scans) and  Cults 3D .
+									57 link Description: CGTrader, Value: google.com/goto
+									58 button CGTrader (+1) - Related results
+										59 text CGTrader
+										60 text  +1
+								61 container
+									62 AXListMarker •
+									63 text Dioramas:  Scene models featuring Sheikh Zayed seated with a falcon and heritage backdrops are listed on  .
+							64 container
+								65 container
+									66 content list
+										67 container
+											68 link Description: Sheikh Zayed 3D Model - Shustrik Maps. Opens in new tab., Value: google.com/goto
+											69 text Shustrik Maps
+											70 button Description: About this result, ID: snui-atr-TnnHas7ZCcaExc8P2K_LoAQ_6ww6id_37
+											71 text Sheikh Zayed 3D Model - Shustrik Maps
+											72 text Our highly accurate bust of the Sheikh Zayed is ready for 3D printing on SLA/DLP printers and CNC milling. Immerse yourself in his...
+										73 container
+											74 link Description: "sheikh zayed" 3D Models to Print - yeggi. Opens in new tab., Value: google.com/goto
+											75 text Yeggi
+											76 button Description: About this result, ID: snui-atr-TnnHas7ZCcaExc8P2K_LoAQ_6ww6id_41
+											77 text "sheikh zayed" 3D Models to Print - yeggi
+						78 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+							79 text Show more
+				80 container center_col
+					81 container gevUs
+						82 container rso
+							83 container
+								84 heading Web results, Value: 2
+									85 text Web results
+								86 link Value: google.com/goto, Description: Sheikh Zayed 3D Model: Sculpture for 3D Printing and Milling Shustrik Maps https://shustrik-maps.com › 3D MODELS › ART
+								87 button About this result
+								88 container
+									89 text Our highly accurate bust of the Sheikh Zayed is  ready for 3D printing on SLA/DLP printers  and CNC milling. size: 76 x 48 x 68 m. SLA/DLP printers
+								90 container
+									91 text $40.00 In stock Free delivery
+							92 container
+								93 link Description: "sheikh zayed" 3D Models to Print Yeggi https://www.yeggi.com › sheikh+zayed, Value: google.com/goto
+								94 button About this result
+								95 text 126 "sheikh zayed" printable 3D Models
+								96 text . Every Day new 3D Models from all over the World. Click to find the best Results for sheikh zayed Models for your 3D ...
+							97 container
+								98 link Value: google.com/goto, Description: Sheikh Zayed Mosque - Detailed 3D Model Sketchfab https://sketchfab.com › 3d-models › sheikh-zayed-mos...
+								99 button About this result
+								100 text Nov 25, 2025  —
+								101 text Explore the beauty of the Sheikh Zayed Grand Mosque
+								102 text  with this highly detailed 3D model, capturing its iconic domes, minarets, and intricate ...
+							103 container
+								104 link Value: google.com/goto, Description: Sheikh Mohamed bin Zayed Al Nahyan bust | 3D Print Model CGTrader https://www.cgtrader.com › ... › Sculptures
+								105 button About this result
+								106 text Sheikh Mohamed bin Zayed Al Nahyan bust 3D printable model
+								107 text  , formats OBJ, STL, ready for 3D animation and other 3D projects.
+							108 container
+								109 link Value: google.com/goto, Description: Work Begins On World's First 3D Printed Mosque 3Dnatives https://www.3dnatives.com › ... › Architecture
+								110 button About this result
+								111 text Jan 16, 2023  —  Work will begin in October 2023 on the world's first
+								112 text 3D printed
+								113 text  mosque, located in Dubai, UAE. The mosque will hold 600 worshippers.
+							114 container
+								115 link Value: google.com/goto, Description: 3D Printing Sheikh Zayed Mosque Elevation Model 3D Arch Graphic https://arch-graphic.com › product › sheikh-zayed-mos...
+								116 button About this result
+								117 text The 3D Printing Sheikh Zayed Mosque Elevation Model is
+								118 text made of plastic, which is easily broken
+								119 text . The 3D Printing Sheikh Zayed Mosque Elevation Model should only ...
+								120 link Description: Read more, Value: google.com/goto
+								121 text AED 150.00
+							122 container
+								123 link Value: google.com/goto, Description: Sheikh Zayed Grand Mosque #3dprintuae #3dprinting #reels ... Instagram · layers.3d.printing 10+ likes · 4 years ago
+								124 button About this result
+								125 link Value: google.com/goto, Description: Sheikh Zayed Grand Mosque #3dprintuae #3dprinting #reels ... by LAYERS | 3D Printing on Instagram. Play on Instagram. 0:23
+								126 text A 3D printed scale model of Sheikh Zayed Grand Mosque . Recreated with breathtaking precision through technology. printing for defence, ...
+							127 container
+								128 link Value: google.com/goto, Description: Abu Dhabi Sheikh Zayed Grand Mosque - Free 3D Print ... MakerWorld https://makerworld.com › models › 419721-abu-dhabi-...
+								129 button About this result
+								130 text Download this free 3D print file
+								131 text  designed by Captain.Kadir. The Sheikh Zayed Grand Mosque is located in Abu Dhabi, simple and convenient one-step printing ...
+							132 container
+								133 link Value: google.com/goto, Description: Detailed 3D Model of Sheikh Zayed Grand Mosque by ARC 3D YouTube · Arc3d https://www.youtube.com · Oct 30, 2025
+								134 button About this result
+								135 link Description: Detailed 3D Model of Sheikh Zayed Grand Mosque by ARC 3D by Arc3d on YouTube. Play on YouTube. 0:36, Value: google.com/goto
+								136 text Experience the perfect fusion of art, innovation, and heritage with  ARC 3D's detailed miniature of the Sheikh Zayed Grand Mosque .
+					137 container
+						138 container
+							139 heading People also search for, Value: 2
+								140 text People also search for
+							141 link Description: Sheikh zayed bust 3d printing free download, Value: google.com/search
+							142 link Description: Sheikh zayed bust 3d printing download, Value: google.com/search
+							143 link Description: Sheikh zayed bust 3d printing free, Value: google.com/search
+						144 heading Page Navigation, Value: 1
+							145 text Page Navigation
+						146 text 1
+						147 link Description: Page 2, Value: google.com/search
+						148 link Description: Page 3, Value: google.com/search
+						149 link Description: Page 4, Value: google.com/search
+						150 link Description: Page 5, Value: google.com/search
+						151 link Description: Page 6, Value: google.com/search
+						152 link Description: Page 7, Value: google.com/search
+						153 link Description: Page 8, Value: google.com/search
+						154 heading Next, Value: 2
+							155 link Description: Next, Value: google.com/search, ID: pnnext
+			156 container sfooter
+				157 heading Footer Links, Value: 1
+					158 text Footer Links
+				159 container fbar
+					160 container
+						161 button Unknown  - Can't determine location
+							162 container
+								163 text Unknown
+							164 container
+								165 text  -  Can't determine location
+						166 text  - 
+						167 button Update location
+							168 text Update location
+					169 container fsl
+						170 link Description: Help, Value: support.google.com/websearch/
+						171 link Description: Send feedback, Value: google.com/search
+						172 link Description: Privacy, Value: policies.google.com/privacy
+						173 link Description: Terms, Value: policies.google.com/terms
+
+The focused UI element is 1 AXWebArea Sheikh Zayed bust 3D printing - Google Search, URL: google.com/search
