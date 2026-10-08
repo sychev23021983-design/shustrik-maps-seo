@@ -1,0 +1,40 @@
+{
+  "site_profile": "shustrik-maps",
+  "language": "English",
+  "engine": "Google",
+  "market": "USA",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "editorial_clusters": [
+    {
+      "product_id": 16743,
+      "primary": "Moon Surface STL",
+      "supporting": [
+        "lunar terrain STL",
+        "Moon relief 3D model"
+      ],
+      "exclude": [
+        "Moon globe",
+        "free identical files",
+        "generic game terrain",
+        "scientific accuracy promises"
+      ]
+    },
+    {
+      "product_id": 16812,
+      "primary": "abstract female face STL",
+      "supporting": [
+        "geometric face relief",
+        "female face wall panel STL"
+      ],
+      "exclude": [
+        "anatomical head scans",
+        "female bust",
+        "free identical files",
+        "physical goods"
+      ]
+    }
+  ],
+  "decision": "validate first",
+  "note": "Existing products publication authorized. Google hl=en/gl=us/pws=0, actual footer location Unknown; no measured demand, positions or mesh validation."
+}

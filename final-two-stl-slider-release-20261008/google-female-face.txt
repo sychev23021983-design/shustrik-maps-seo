@@ -1,0 +1,210 @@
+Browser tab: 12, Title: "abstract female face relief STL - Google Search", URL: "https://www.google.com/search?q=abstract+female+face+relief+STL&hl=en&gl=us&pws=0".
+1 AXWebArea abstract female face relief STL - Google Search, URL: google.com/search
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp
+					12 combo box (collapsed) Description: Search, Value: abstract female face relief STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search
+					27 link Description: Shopping, Value: google.com/search
+					28 link Description: Videos, Value: google.com/search
+					29 link Description: Short videos, Value: google.com/search
+					30 link Description: Forums, Value: google.com/search
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container appbar
+				38 container Refinement
+					39 container B1cDYe
+						40 content list
+							41 checkbox Description: All filters., Value: 0
+							42 link Description: Black filter. Not selected., Value: google.com/search
+							43 link Description: Pink filter. Not selected., Value: google.com/search
+							44 link Description: Blue filter. Not selected., Value: google.com/search
+							45 link Description: On sale filter. Not selected., Value: google.com/search
+							46 link Description: Canvas Wall Art filter. Not selected., Value: google.com/search
+							47 link Description: Free filter. Not selected., Value: google.com/search
+							48 link Description: Reviews filter. Not selected., Value: google.com/search
+							49 link Description: Art Sculptures filter. Not selected., Value: google.com/search
+							50 link Description: Brown filter. Not selected., Value: google.com/search
+							51 link Description: Art Prints filter. Not selected., Value: google.com/search
+							52 link Description: Purple filter. Not selected., Value: google.com/search
+							53 link Description: For Sale filter. Not selected., Value: google.com/search
+							54 link Description: Woman filter. Not selected., Value: google.com/search
+							55 link Description: Buy filter. Not selected., Value: google.com/search
+							56 link Description: Price filter. Not selected., Value: google.com/search
+							57 link Description: Male filter. Not selected., Value: google.com/search
+							58 link Description: Girl filter. Not selected., Value: google.com/search
+							59 link Description: Statue filter. Not selected., Value: google.com/search
+							60 link Description: Under $4 filter. Not selected., Value: google.com/search
+							61 link Description: Images filter. Not selected., Value: google.com/search
+							62 link Description: PDF filter. Not selected., Value: google.com/search
+							63 link Description: On Canvas filter. Not selected., Value: google.com/search
+							64 link Description: Print filter. Not selected., Value: google.com/search
+							65 link Description: Sculpture filter. Not selected., Value: google.com/search
+							66 link Description: Customizable filter. Not selected., Value: google.com/search
+			67 container center_col
+				68 container gevUs
+					69 container rso
+						70 container
+							71 heading Web results, Value: 2
+								72 text Web results
+							73 link Description: Face Woman 3d Stl Etsy https://www.etsy.com › market › face_woman_3d_stl, Value: google.com/goto
+							74 button About this result
+							75 container
+								76 text Abstract Woman Face Relief STL  (11) $7.50 Digital Download
+							77 container
+								78 image Rated 4.5 out of 5,
+								79 text store rating  (
+								80 link Description: 1.1K user reviews, Value: google.com/m/storepages
+								81 text ) $2 to $16 Items up to 75% off
+						82 container
+							83 link Description: "woman face stl" 3D Models to Print Yeggi https://www.yeggi.com › woman+face+stl, Value: google.com/goto
+							84 button About this result
+							85 text printable 3D Models.
+							86 text Abstract Woman Face Sculpture for 3D Printing
+							87 text . Download: for sale Website: Floral Woman Face Relief 3D STL Model … female portrait relief, ...
+						88 container
+							89 link Value: google.com/goto, Description: Minimalist Female Face Bas Relief STL File for CNC ... Etsy https://www.etsy.com › listing › minimalist-female-face...
+							90 button About this result
+							91 text This modern 3D wall panel features a graceful
+							92 text woman's
+							93 text  profile with smooth flowing lines, created for decorative
+							94 text relief
+							95 text  carving in wood, MDF, plastic, resin,
+							96 text $13.14
+							97 container Old price $18
+							98 text In stock
+							99 image Rated 4.9 out of 5, (29) user reviews
+							100 text Free delivery
+						101 container
+							102 link Description: Abstract Woman Face Sculpture by 29flo Printables.com https://www.printables.com › model › related, Value: google.com/goto
+							103 button About this result
+							104 text Abstract Woman Face Sculpture |
+							105 text Download free 3D printable STL models
+							106 text . 3D Printable Art & Design Sculptures
+							107 image Rated 4.8 out of 5, (8) user reviews
+						108 container
+							109 link Description: 3D Layered Woman Face STL File | Abstract Female Wall ... Pinterest · louiseah47 2 months ago, Value: google.com/goto
+							110 button About this result
+							111 text This elegant abstract female face design is
+							112 text perfect for CNC carving, wood routing, and 3D relief wall art projects
+							113 text . Designed with smooth flowing ...
+							114 link Description: Read more, Value: google.com/goto
+						115 container
+							116 link Value: google.com/goto, Description: 👩 Floral Woman Face STL Relief – Abstract CNC Wood ... Cults 3D https://cults3d.com › art › floral-woman-face-stl-relief-a...
+							117 button About this result
+							118 text Jun 30, 2025  —  This
+							119 text artistic 3D STL relief
+							120 text  blends a serene woman's face with large blooming flowers in an abstract composition. CNC or 3D printing 30-day returns
+						121 container
+							122 link Description: Woman face 3D Models – Free & Premium Downloads CGTrader https://www.cgtrader.com › woman-face, Value: google.com/goto
+							123 button About this result
+							124 text Download 119578 free and premium
+							125 text Woman Face
+							126 text  3D models, available in MAX, OBJ, FBX, 3DS, and C4D file formats,
+							127 text Woman Face
+							128 text  Carved Vase.
+							129 text Woman Face Relief
+							130 text  Vase ... $3 to $55
+						131 container
+							132 link Description: Abstract Woman Face Sculpture - Free 3D Print Model MakerWorld https://makerworld.com › models, Value: google.com/goto
+							133 text ·
+							134 link Description: Translate this page, Value: google.com/goto
+							135 button About this result
+							136 text Download this free 3D print file
+							137 text  designed by 29FLO. Abstract Woman Face Sculpture. All my photos are real and show an actual 3D-printed figure photographed by ...
+						138 container
+							139 link Value: google.com/goto, Description: Face Sculpture 3D Models for Free Download and Print Tripo Studio https://studio.tripo3d.ai › 3D Models
+							140 button About this result
+							141 text Free & premium 78 face sculpture 3D models
+							142 text , ready for 3D printing, game development, 3D design, eCommerce, AR/VR and more. View & Download in STL, FBX, GLB, ...
+						143 container
+							144 link Value: google.com/goto, Description: Pattern of girl face T0000393 download free stl files 3d model ... ameede.net https://www.ameede.net › pattern-of-girl-face-t0000393...
+							145 button About this result
+							146 text These are high-quality 3D models and design files created specifically for 3D CNC routers, panel carving machines, and 3D printers (perfect for statues, toys, ...
+							147 link Description: Read more, Value: google.com/goto
+						148 container
+							149 container
+								150 heading Popular products, Value: 2
+									151 text Popular products
+								152 button About this result
+							153 content list
+								154 button Abstract Female Face Sculpture, Minimalist Woman 3D Model (STL File). 35% OFF. Current Price: $2.97. Was $4.57. Etsy - Seller. Free delivery. Rated 5.0 out of 5. 1 reviews. Go to product viewer for this item.
+								155 button Abstract Woman Face Relief STL , Sweeping Wind Surreal Wall Art , CNC Router & 3D Printer File , Modern Wood Carving Model. Current Price: $7.50. Etsy - Seller. Free delivery. Go to product viewer for this item.
+								156 button Abstract Woman Face STL File - Female 3D Relief Sculpture for CNC Carving, Laser Engraving and 3D Printing - Digital Download. 25% OFF. Current Price: $4.16. Was $5.55. Etsy - Seller. Free delivery. Go to product viewer for this item.
+								157 button 3D Layered Woman Face STL File | Abstract Female Wall Art Relief (Digital Download). 35% OFF. Current Price: $9.75. Was $15. Etsy - Seller. Free delivery. Go to product viewer for this item.
+								158 button Abstract Female Face STL File | Minimalist Line Art Sculpture (Digital Download). Current Price: $4.00. Etsy - Seller. Free delivery. Go to product viewer for this item.
+								159 button Minimalist Female Face 3D Relief STL | Abstract Line Art Sculpture (Digital Download). Current Price: $4.00. Etsy - Seller. Free delivery. Go to product viewer for this item.
+								160 button Veiled Female Face Wall Panel STL File | Botanical Relief Wall Art for CNC Router | Modern Sculptural Decor Digital Download. 27% OFF. Current Price: $10.95. Was $15. Etsy - Seller. Free delivery. Rated 5.0 out of 5. 1 reviews. Go to product viewer for this item.
+								161 button Elegant Abstract Face Sculpture STL - Modern Serene Female Bust | Designer Home & Office Décor | Premium 3D Printable Statue. 10% OFF. Current Price: $3.15. Was $3.50. Etsy - Seller. Free delivery. Rated 5.0 out of 5. 2 reviews. Go to product viewer for this item.
+						162 container
+							163 container
+								164 heading More products, Value: 2
+									165 text More products
+								166 button About this result
+							167 content list
+								168 button 3D Modern Female Face Relief STL File | Minimalist Sculpture Wall Art (Digital Download). 35% OFF. Current Price: $9.75. Was $15. Etsy - Seller. Free delivery. Go to product viewer for this item.
+								169 button Minimal Abstract Woman Face STL File | Elegant Female Bas Relief Wall Art (Digital Download). Current Price: $4.00. Etsy - Seller. Free delivery. Go to product viewer for this item.
+								170 button Abstract Female Face Silhouette 3D Model. Current Price: $40.00. Custom 3D Models and 3D Maps. Free delivery. Go to product viewer for this item.
+								171 button Line Art Face Relief STL - Fluted 3D Wall Panel for CNC Router, Abstract Female Portrait and Modern Wood Carving Digital File Design. 27% OFF. Current Price: $7.29. Was $9.99. Etsy - Seller. Free delivery. Go to product viewer for this item.
+								172 button Floral Woman Face STL File - Abstract Female Relief 3D Model (Digital Download). Current Price: $6.37. Etsy - Seller. Free delivery. Go to product viewer for this item.
+								173 button Minimalist Female Face Bas Relief STL File for CNC Router, 3D Wall Panel. 27% OFF. Current Price: $13.14. Was $18. Etsy - Seller. Free delivery. Go to product viewer for this item.
+								174 button See No Evil Face STL - Minimal CNC Wall Art, Abstract Female Face Relief, Eyes Covered, Modern Wood Carving Decor, Digital Download. Current Price: $6.94. Etsy - Seller. Free delivery. Rated 5.0 out of 5. 1 reviews. Go to product viewer for this item.
+								175 button Minimal Line Art Face Bas Relief | Abstract Female Portrait Wall Decor (STL File). Current Price: $4.00. Etsy - Seller. Free delivery. Go to product viewer for this item.
+				176 container
+					177 heading Page Navigation, Value: 1
+						178 text Page Navigation
+					179 text 1
+					180 link Description: Page 2, Value: google.com/search
+					181 link Description: Page 3, Value: google.com/search
+					182 link Description: Page 4, Value: google.com/search
+					183 link Description: Page 5, Value: google.com/search
+					184 link Description: Page 6, Value: google.com/search
+					185 link Description: Page 7, Value: google.com/search
+					186 link Description: Page 8, Value: google.com/search
+					187 link Description: Page 9, Value: google.com/search
+					188 link Description: Page 10, Value: google.com/search
+					189 heading Next, Value: 2
+						190 link Description: Next, Value: google.com/search, ID: pnnext
+			191 container sfooter
+				192 heading Footer Links, Value: 1
+					193 text Footer Links
+				194 container fbar
+					195 container
+						196 button Unknown  - Can't determine location
+							197 container
+								198 text Unknown
+							199 container
+								200 text  -  Can't determine location
+						201 text  -
+						202 button Update location
+							203 text Update location
+					204 container fsl
+						205 link Description: Help, Value: support.google.com/websearch/
+						206 link Description: Send feedback, Value: google.com/search
+						207 link Description: Privacy, Value: policies.google.com/privacy
+						208 link Description: Terms, Value: policies.google.com/terms
+
+The focused UI element is 1 AXWebArea abstract female face relief STL - Google Search, URL: google.com/search

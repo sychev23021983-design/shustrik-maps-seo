@@ -1,0 +1,7 @@
+{
+  "head": "2dfe29da75253c69a1aa026a1ec1fea37d883c90",
+  "remote": "git@github.com:sychev23021983-design/shustrik-maps-seo.git",
+  "branch": "main",
+  "upstream": "0\t0",
+  "status": " M README.md\n M STATUS.md\n M audit-log.md\n M step1-quick-fixes/README.md\n M step1-quick-fixes/robots_txt_additions.txt\n?? .codex-work/\n?? .obsidian/\n?? \"Keyword Clusters.md\"\n?? \"Keyword Map.md\"\n?? \"New Prompt.md\"\n?? \"Next Steps.md\"\n?? Pages/\n?? \"Proposed Site Structure.md\"\n?? \"Research Notes.md\"\n?? \"START HERE.md\"\n?? \"Semantic Research.md\"\n?? \"Structure Gap Analysis.md\"\n?? aiktp-metrics.json\n?? assets/\n?? final-two-stl-slider-release-20261008/\n?? outputs/\n?? semantic-clusters-site-structure.xlsx\n?? semantic-clusters-site-structure.xlsx.inspect.ndjson\n?? semantic-keywords-3d-terrain-maps.xlsx\n?? semantic-keywords-3d-terrain-maps.xlsx.inspect.ndjson\n?? step1-quick-fixes/apply-pilot-seo-30.php\n?? step1-quick-fixes/pilot-seo-30-urls.txt\n?? step1-quick-fixes/regenerate-click5-sitemap.php\n?? step1-quick-fixes/shustrik-noindex-junk.php\n?? visual-three-release-20261005/apply.json\n?? visual-three-release-20261005/public-qa.json\n?? visual-three-release-20261005/verify.json\n"
+}
