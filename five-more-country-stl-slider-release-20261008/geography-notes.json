@@ -1,0 +1,32 @@
+[
+  {
+    "id": 19916,
+    "slug": "tajikistan",
+    "observed_reference": "Wide jagged mountainous east-west mainland with dense Pamir ridges in east and west valley corridors, irregular deep southern notch, narrow upward northern arm, small detached fragment below that arm exactly as reference.",
+    "mesh_accuracy_verified": false
+  },
+  {
+    "id": 19923,
+    "slug": "thailand",
+    "observed_reference": "Tall irregular northern body with northwest mountain ridges, broad flatter northeastern body and central plains; long thin curved southern peninsula with a wider lower foot; all tiny offshore islands/fragments in exact reference positions.",
+    "mesh_accuracy_verified": false
+  },
+  {
+    "id": 19939,
+    "slug": "turkmenistan",
+    "observed_reference": "Broad mostly flat east-west angular land shape, curved Caspian-facing west edge with separate coastal fragment, southwest elongated ridge band and small far eastern rugged tip. Preserve low deserts, not uniformly mountainous.",
+    "mesh_accuracy_verified": false
+  },
+  {
+    "id": 19947,
+    "slug": "saudi-arabia",
+    "observed_reference": "Broad diagonally aligned angular mainland with a northwest upper protrusion, rugged western and southwestern margin, very broad flatter eastern lowlands, southeast rectangular projection and tiny southwest offshore islands. Exactly the supplied outline, not a whole Arabian Peninsula map.",
+    "mesh_accuracy_verified": false
+  },
+  {
+    "id": 20036,
+    "slug": "russia",
+    "observed_reference": "Very wide west-to-east terrain silhouette with broad western lowlands, narrow north-south central ridge and increasingly rugged south/east; deeply indented northern coastline, arctic archipelagos above, thin eastern peninsula and offshore islands. Preserve ONLY exact supplied product geometry and detached fragments; do not add or change borders, territories or parts.",
+    "mesh_accuracy_verified": false
+  }
+]

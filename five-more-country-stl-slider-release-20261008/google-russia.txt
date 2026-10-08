@@ -1,0 +1,199 @@
+Browser tab: 4, Title: "Russia topographic map STL - Google Search", URL: "https://www.google.com/search?q=Russia+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Russia topographic map STL - Google Search, URL: google.com/search?q=Russia+topographic+map+STL&hl=en&gl=us&pws=0
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp?hl=en&ictx=2&sa=X&ved=2ahUKEwjdr__o2qmXAxWDhv0HHZNVFQ0QPXoECAYQBA
+					12 combo box (collapsed) Description: Search, Value: Russia topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DRussia%2Btopographic%2Bmap%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search?q=Russia+topographic+map+STL&sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnsy2fUIrQJdpMt6w_Hz9isVXobC7Q:1791438058681&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8IT3FndrqeBHMsRzGKbRfIR7Xz2ZcQoF56_vLTskNKhjXXH672bLOTyMH5xhep5LRkDff4QushVMjko1lOXAq6_uJSqxf240z4UCBsm2xS_CQ9mR5aw&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjdr__o2qmXAxWDhv0HHZNVFQ0Q2J8OegQIEhAD
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnsy2fUIrQJdpMt6w_Hz9isVXobC7Q:1791438058681&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8IT3FndrqeBHMsRzGKbRfIR7Xz2ZcQoF56_vLTskNKhjXXH672bLOTyMH5xhep5LRkDff4QushVMjko1lOXAq6_uJSqxf240z4UCBsm2xS_CQ9mR5aw&q=Russia+topographic+map+STL&sa=X&ved=2ahUKEwjdr__o2qmXAxWDhv0HHZNVFQ0QtKgLegQIGRAB
+					27 link Description: Shopping, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnsy2fUIrQJdpMt6w_Hz9isVXobC7Q:1791438058681&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8IT3FndrqeBHMsRzGKbRfIR7Xz2ZcQoF56_vLTskNKhjXXH672bLOTyMH5xhep5LRkDff4QushVMjko1lOXAq6_uJSqxf240z4UCBsm2xS_CQ9mR5aw&q=Russia+topographic+map+STL&ved=1t:220175&ictx=111
+					28 link Description: Videos, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnsy2fUIrQJdpMt6w_Hz9isVXobC7Q:1791438058681&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8IT3FndrqeBHMsRzGKbRfIR7Xz2ZcQoF56_vLTskNKhjXXH672bLOTyMH5xhep5LRkDff4QushVMjko1lOXAq6_uJSqxf240z4UCBsm2xS_CQ9mR5aw&q=Russia+topographic+map+STL&sa=X&ved=2ahUKEwjdr__o2qmXAxWDhv0HHZNVFQ0QtKgLegQIFxAB
+					29 link Description: News, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnsy2fUIrQJdpMt6w_Hz9isVXobC7Q:1791438058681&q=Russia+topographic+map+STL&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8IT3FndrqeBHMsRzGKbRfIR7Xz2ZcQoF56_vLTskNKhjXXH672bLOTyMH5xhep5LRkDff4QushVMjko1lOXAq6_uJSqxf240z4UCBsm2xS_CQ9mR5aw&sa=X&ved=2ahUKEwjdr__o2qmXAxWDhv0HHZNVFQ0Q0pQJegQIFRAB
+					30 link Description: Forums, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnsy2fUIrQJdpMt6w_Hz9isVXobC7Q:1791438058681&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8IT3FndrqeBHMsRzGKbRfIR7Xz2ZcQoF56_vLTskNKhjXXH672bLOTyMH5xhep5LRkDff4QushVMjko1lOXAq6_uJSqxf240z4UCBsm2xS_CQ9mR5aw&q=Russia+topographic+map+STL&sa=X&ved=2ahUKEwjdr__o2qmXAxWDhv0HHZNVFQ0Qs6gLegQIFBAB
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Description: "map of russia" 3D Models to Print Yeggi https://www.yeggi.com › map+of+russia, Value: google.com/goto?url=CAESYQHrOzAV8tJqs3-cy1EPLhdcLNgtFiQKG7M1ZNR8xw4fUGq0N_904eFYJC4RUpad5Z2x3KbJ1kuhIiVhMqncEbSo8kLdYI8IcIO7uVnGtOlTS7lqM95qPIK_H55r3RSlGb8
+							44 button About this result
+							45 container
+								46 text STL File for 3D printing. Map of Russia STL File for 3D print...  Russia Topographic Map 3D Model for 3D Printing  … 3D Miniature STL File for 3D print... File for 3 ...
+						47 container
+							48 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: google.com/goto?url=CAESZgHrOzAVizuG2_bXt1S1bmHxYrORM7fTIajb1zFsJVbd_8zCdN63tgGYc_OzbpljJx8uzSueF9h8u9WggaD721hz7MiO_NOOgvVg18V3_sOO-3yPGlsIMSwZdlopv6ope3RCbu500g
+							49 button About this result
+							50 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: google.com/goto?url=CAESZgHrOzAVizuG2_bXt1S1bmHxYrORM7fTIajb1zFsJVbd_8zCdN63tgGYc_OzbpljJx8uzSueF9h8u9WggaD721hz7MiO_NOOgvVg18V3_sOO-3yPGlsIMSwZdlopv6ope3RCbu500g
+							51 text In this step-by-step tutorial, we dive into  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! 3D printing.
+						52 container
+							53 container
+								54 heading AI Overview, Value: 2
+									55 text AI Overview
+								56 container
+									57 text You can download ready-made 3D topographic STL files of  Russia  on marketplaces like
+									58 link Description: Cults3D, Value: google.com/goto?url=CAESowEB6zswFVHrYfiu91CtFGcNvwu8TKdLj4YW-Hs5JjB_tkEX8eAJFaxEn_kv0we1lqLuOtA-UckcIx_ikcekT5BC5XEdOIKVytwGs2yvfL85idXKpKCV1Cx48iEfNVGCycL8ckanq-Ug4vLs4rR_587klSopVYVdHzdWMgmJdjak_j-EUBVNiORL7aq1koljVXl-UQMcRPY7t3Ma8AgpFOSYV0gO
+									59 text  or search aggregators like
+									60 link Description: Yeggi, Value: google.com/goto?url=CAESYQHrOzAVNPG80vwKT7fU_8Hmhd8fd9Zs1q-uJlEq8QZqWRUd789XN7qNqd-MybDUBEcknrmry8NrepkWjSBBxGDqhWp5ZK69e_Q4w_-hVC6Ia4H7Gs5FRMqaaogpDQ_k1RM
+									61 text .
+								62 heading Where to Find Existing STLs, Value: 3
+									63 text Where to Find Existing STLs
+								64 content list
+									65 container
+										66 AXListMarker •
+										67 text Cults3D : Offers high-polygon topographic relief models of the Russian Federation designed for 3D printing and CNC routers.
+									68 container
+										69 AXListMarker •
+										70 link Description: Shustrik Maps, Value: google.com/goto?url=CAESbgHrOzAVDnCIgU300cBM1tK0cOad2CmNq4NVEY6uQQrJ_tlbXuMp0pZGb2LtMD-BZZHvHS08oxyqiQHzIAFE84ghuSkHzXPzMDfLxFEu35p-d_lXjaOJLURApMGbEKPnYuoF__gJL88lmFBvPzEZ
+										71 text : Provides detailed digital elevation model (DEM) terrain files of Russia scaled for FDM/SLA printers.
+								72 content list
+									73 container
+										74 link Description: "map of russia" 3D Models to Print - yeggi. Opens in new tab., Value: …
+										75 text Yeggi
+										76 button Description: About this result, ID: snui-atr-6yzHavy-Dp-79u8P8tik-Qw_lo8mw9_8
+										77 text Maps and Models: Free and for-sale 3D printable STL files and models from MyMiniFactory, Thingiverse, Cults, RenderHub, MakerNest,
+									78 container
+										79 link Description: Make 3D Printed Terrain Maps of Any Location for FREE!, Video, watch on YouTube, Value: …
+										80 text YouTube · Neil Hailey Design
+										81 button Description: About this result, ID: snui-atr-6yzHavy-Dp-79u8P8tik-Qw_lo8mw9_11
+										82 button ID: vv-6yzHavy-Dp-79u8P8tik-Qw_lo8mw9_12, Description: Make 3D Printed Terrain Maps of Any Location for FREE! by Neil Hailey Design on YouTube. Play on Google. - 8:10
+											83 container
+												84 image
+												85 text 8:10
+									86 container
+										87 link Description: Russia Topographic Map – STL Model for 3D Printing & CNC. Opens in new tab., Value: …
+										88 text Shustrik Maps
+										89 button Description: About this result, ID: snui-atr-6yzHavy-Dp-79u8P8tik-Qw_lo8mw9_16
+										90 text High-polygon 3D model of Russian Federation in STL format Russia Topographic Map – 3D Model for 3D Printing & CNC Carving quantity...
+									91 container
+										92 link Description: Russia Topographic Map – 3D Model for 3D Printing & CNC Carving. Opens in new tab., Value: …
+										93 text Cults 3D
+										94 button Description: About this result, ID: snui-atr-6yzHavy-Dp-79u8P8tik-Qw_lo8mw9_20
+										95 text Jun 10, 2025 —  3D model description High-polygon 3D model of Russian Federation in STL format File size: 778 MB / 244 MB Model size: 217 mm x 114...
+									96 container
+										97 link Description: Welcome to TouchTerrain, the free web app for creating 3D .... Opens in new tab., Value: …
+										98 text TouchTerrain
+										99 button Description: About this result, ID: snui-atr-6yzHavy-Dp-79u8P8tik-Qw_lo8mw9_24
+										100 text Click a location to start. Welcome to TouchTerrain, a web app for creating 3D printable terrain models. Select a starting area by ...
+									101 container
+										102 link Description: map2stl.com: Create 3d printable STL models from any place .... Opens in new tab., Value: …
+										103 text map2stl.com
+										104 button Description: About this result, ID: snui-atr-6yzHavy-Dp-79u8P8tik-Qw_lo8mw9_28
+										105 text Create and download 3d printable STL models based on your selection on a map. Get a ready-to-print model of your hometown, favorit...
+							106 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								107 text Show more
+						108 container
+							109 heading Web results, Value: 2
+								110 text Web results
+							111 link Description: map2stl.com: Create 3d printable STL models from any place ... map2stl.com https://www.map2stl.com, Value: …
+							112 button About this result
+							113 container
+								114 text Create and download 3d printable STL models  based on your selection on a map. Get a ready-to-print model of your hometown, favorite mountain or island.
+						115 container
+							116 link Value: …, Description: Welcome to TouchTerrain, the free web app for creating 3D ... TouchTerrain https://touchterrain.geol.iastate.edu
+							117 button About this result
+							118 text Click a location to start. Welcome to TouchTerrain, a web app for creating 3D printable terrain models.
+							119 text Select a starting area by clicking on it
+							120 text .
+							121 link Description: Read more, Value: …
+						122 container
+							123 link Value: …, Description: Russia Topographic Map for 3D Printing CNC Carving ... 3DExport https://3dexport.com › 3D Print Models › Terrain
+							124 button About this result
+							125 text The Russia Topographic Map is a high-resolution 3D terrain model based on an accurate
+							126 text Bosnia
+							127 text  and Herzegovina STL
+						128 container
+							129 link Description: TOPOGRAPHIC models for 3D printer Printables.com https://www.printables.com › tag › topographic, Value: …
+							130 button About this result
+							131 text Explore collection of topographic designs that are perfect for your 3D printer.
+							132 text Download and 3D print STL models
+							133 text  tagged with topographic. Explore all 3D models.
+							134 link Description: Read more, Value: …
+						135 container
+							136 link Description: Russia 3d Relief Wall Map Pinterest https://www.pinterest.com › Explore, Value: …
+							137 button About this result
+							138 text Find and save ideas about russia 3d relief wall map.
+							139 text Russia Topography Map
+							140 text  Russia Topographic Map 3d
+						141 container
+							142 link Value: …, Description: ️ Best STL files 3D printed for topographic maps Cults 3D https://cults3d.com › collections › best-stl-files-topogra...
+							143 button About this result
+							144 text Download 3D models of topographic maps
+							145 text . Discover our selection of 3D files of beautiful topographic maps perfectly printable in 3D.
+							146 link Description: Read more, Value: …
+						147 container
+							148 link Value: …, Description: Russia topographic map, elevation, terrain topographic-map.com https://en-gb.topographic-map.com › map-ng3l › Russia
+							149 button About this result
+							150 text Name:
+							151 text Russia topographic map
+							152 text , elevation, terrain. Location: Russia (41.18510 -180.00000 82.05862 180.00000). Average elevation: 150 m. Minimum elevation: -30 m.
+							153 link Description: Read more, Value: …
+				154 container
+					155 container
+						156 heading People also search for, Value: 2
+							157 text People also search for
+						158 link Description: Russia topographic map stl free, Value: …
+						159 link Description: Russia topographic map stl download, Value: …
+						160 link Description: Russia topographic map stl 3d print, Value: …
+						161 link Description: World map stl, Value: …
+						162 link Description: 3D print topographic map, Value: …
+						163 link Description: Height map to STL, Value: …
+						164 link Description: Stl google Maps, Value: …
+						165 link Description: DEM to STL, Value: …
+					166 heading Page Navigation, Value: 1
+						167 text Page Navigation
+					168 text 1
+					169 link Description: Page 2, Value: …
+					170 link Description: Page 3, Value: …
+					171 link Description: Page 4, Value: …
+					172 link Description: Page 5, Value: …
+					173 link Description: Page 6, Value: …
+					174 link Description: Page 7, Value: …
+					175 link Description: Page 8, Value: …
+					176 link Description: Page 9, Value: …
+					177 link Description: Page 10, Value: …
+					178 heading Next, Value: 2
+						179 link Description: Next, Value: …, ID: pnnext
+			180 container sfooter
+				181 heading Footer Links, Value: 1
+					182 text Footer Links
+				183 container fbar
+					184 container
+						185 button Unknown  - Can't determine location
+							186 container
+								187 text Unknown
+							188 container
+								189 text  -  Can't determine location
+						190 text  -
+						191 button Update location
+							192 text Update location
+					193 container fsl
+						194 link Description: Help, Value: …
+						195 link Description: Send feedback, Value: …
+						196 link Description: Privacy, Value: …
+						197 link Description: Terms, Value: …
+
+The focused UI element is 1 AXWebArea Russia topographic map STL - Google Search, URL: google.com/search?q=Russia+topographic+map+STL&hl=en&gl=us&pws=0

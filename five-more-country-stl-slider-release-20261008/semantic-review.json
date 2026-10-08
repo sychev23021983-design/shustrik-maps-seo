@@ -1,0 +1,81 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-tajikistan-stl-cnc",
+      "product_id": 19916,
+      "primary": "Tajikistan topographic map STL",
+      "supporting": [
+        "Tajikistan terrain STL",
+        "Tajikistan relief map STL",
+        "Tajikistan map 3D print",
+        "Tajikistan CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; observed Google English gl=us intent; no measured rank or frequency"
+    },
+    {
+      "cluster_id": "GEO-thailand-stl-cnc",
+      "product_id": 19923,
+      "primary": "Thailand topographic map STL",
+      "supporting": [
+        "Thailand terrain STL",
+        "Thailand relief map STL",
+        "Thailand map 3D print",
+        "Thailand CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; observed Google English gl=us intent; no measured rank or frequency"
+    },
+    {
+      "cluster_id": "GEO-turkmenistan-stl-cnc",
+      "product_id": 19939,
+      "primary": "Turkmenistan topographic map STL",
+      "supporting": [
+        "Turkmenistan terrain STL",
+        "Turkmenistan relief map STL",
+        "Turkmenistan map 3D print",
+        "Turkmenistan CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; observed Google English gl=us intent; no measured rank or frequency"
+    },
+    {
+      "cluster_id": "GEO-saudi-arabia-stl-cnc",
+      "product_id": 19947,
+      "primary": "Saudi Arabia topographic map STL",
+      "supporting": [
+        "Saudi Arabia terrain STL",
+        "Saudi Arabia relief map STL",
+        "Saudi Arabia map 3D print",
+        "Saudi Arabia CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; observed Google English gl=us intent; no measured rank or frequency"
+    },
+    {
+      "cluster_id": "GEO-russia-stl-cnc",
+      "product_id": 20036,
+      "primary": "Russia topographic map STL",
+      "supporting": [
+        "Russia terrain STL",
+        "Russia relief map STL",
+        "Russia map 3D print",
+        "Russia CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; observed Google English gl=us intent; no measured rank or frequency"
+    }
+  ],
+  "note": "All five exact STL clusters are absent from the saved core: editorial product mapping only. Proposed paid digital-file queries are editorial hypotheses, not measured expansion. Existing elevation/vector clusters must not be reassigned to STL."
+}

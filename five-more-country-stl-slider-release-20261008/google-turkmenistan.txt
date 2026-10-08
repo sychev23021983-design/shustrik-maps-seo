@@ -1,0 +1,185 @@
+Browser tab: 4, Title: "Turkmenistan topographic map STL - Google Search", URL: "https://www.google.com/search?q=Turkmenistan+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Turkmenistan topographic map STL - Google Search, URL: google.com/search?q=Turkmenistan+topographic+map+STL&hl=en&gl=us&pws=0
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp?hl=en&ictx=2&sa=X&ved=2ahUKEwio4cDE2qmXAxVDgf0HHdx0K0QQPXoECAYQBA
+					12 combo box (collapsed) Description: Search, Value: Turkmenistan topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DTurkmenistan%2Btopographic%2Bmap%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search?q=Turkmenistan+topographic+map+STL&sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnuF1qMTOPJIqvSpu0siUudDM7ueLw:1791437982157&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9g8z81D2-lIcq-WwumzDBuXYMrvgHkUKGSplKaGrnsT468aU8FbPw3-k4U--NJCQFfZzw5_LzyGkIFStwdURo5waX1RKtxvUNbZD9k57xPRnj-kIT5M-EPvqmahwchI34wyIF0Q&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwio4cDE2qmXAxVDgf0HHdx0K0QQ2J8OegQIERAD
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnuF1qMTOPJIqvSpu0siUudDM7ueLw:1791437982157&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9g8z81D2-lIcq-WwumzDBuXYMrvgHkUKGSplKaGrnsT468aU8FbPw3-k4U--NJCQFfZzw5_LzyGkIFStwdURo5waX1RKtxvUNbZD9k57xPRnj-kIT5M-EPvqmahwchI34wyIF0Q&q=Turkmenistan+topographic+map+STL&sa=X&ved=2ahUKEwio4cDE2qmXAxVDgf0HHdx0K0QQtKgLegQIFBAB
+					27 link Description: Shopping, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnuF1qMTOPJIqvSpu0siUudDM7ueLw:1791437982157&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9g8z81D2-lIcq-WwumzDBuXYMrvgHkUKGSplKaGrnsT468aU8FbPw3-k4U--NJCQFfZzw5_LzyGkIFStwdURo5waX1RKtxvUNbZD9k57xPRnj-kIT5M-EPvqmahwchI34wyIF0Q&q=Turkmenistan+topographic+map+STL&ved=1t:220175&ictx=111
+					28 link Description: Videos, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnuF1qMTOPJIqvSpu0siUudDM7ueLw:1791437982157&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9g8z81D2-lIcq-WwumzDBuXYMrvgHkUKGSplKaGrnsT468aU8FbPw3-k4U--NJCQFfZzw5_LzyGkIFStwdURo5waX1RKtxvUNbZD9k57xPRnj-kIT5M-EPvqmahwchI34wyIF0Q&q=Turkmenistan+topographic+map+STL&sa=X&ved=2ahUKEwio4cDE2qmXAxVDgf0HHdx0K0QQtKgLegQIFhAB
+					29 link Description: News, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnuF1qMTOPJIqvSpu0siUudDM7ueLw:1791437982157&q=Turkmenistan+topographic+map+STL&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9g8z81D2-lIcq-WwumzDBuXYMrvgHkUKGSplKaGrnsT468aU8FbPw3-k4U--NJCQFfZzw5_LzyGkIFStwdURo5waX1RKtxvUNbZD9k57xPRnj-kIT5M-EPvqmahwchI34wyIF0Q&sa=X&ved=2ahUKEwio4cDE2qmXAxVDgf0HHdx0K0QQ0pQJegQIFxAB
+					30 link Description: Maps, Value: maps.google.com/maps?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&output=search&q=Turkmenistan+topographic+map+STL&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9g8z81D2-lIcq-WwumzDBuXYMrvgHkUKGSplKaGrnsT468aU8FbPw3-k4U--NJCQFfZzw5_LzyGkIFStwdURo5waX1RKtxvUNbZD9k57xPRnj-kIT5M-EPvqmahwchI34wyIF0Q&entry=mc&ved=1t:200715&ictx=111
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Description: Turkmenistan HD Topographic Terrain 3D Model STL Map ... Etsy https://www.etsy.com › listing › turkmenistan-hd-topog..., Value: google.com/goto?url=CAESiQEB6zswFSoj1k20KIChH_CWKwP7kWgj-A669hdr-2uLozYDIAqlGv01F4ZGoQIHyfeiBLo0jCUlc-x_DGfDZ_xS3ZtmNgFOq1goEmGupgs6cghVgTxv1v4eOP1JfgpzZ8Wj8l6U0ruAJ2R4mq3dvIRLTgDO4DGmugpegpyMIqG5zQrvILld4SCt6Q
+							44 button About this result
+							45 container
+								46 text A gold-colored outline of the country of  Turkmenistan , 3D  map  of  Turkmenistan , Price:$14.99 Loading  Turkmenistan  HD  Topographic Terrain  3D model  STL Map  Model ...
+							47 container
+								48 text $14.99 In stock
+								49 image Rated 4.8 out of 5, (413) user reviews
+								50 text Free delivery
+						51 container
+							52 container
+								53 heading AI Overview, Value: 2
+									54 text AI Overview
+								55 container
+									56 text You can buy or download pre-made 3D topographic STL models of  Turkmenistan  for 3D printing and CNC carving from online marketplaces like
+									57 link Description: Cults3D, Value: google.com/goto?url=CAES6wEB6zswFSRjS_yQLMC6CgEX1QGE3X--A_hWlYedcVCARMvQyAF5wWEa6s8t66wPerVCW5ofowA-OVxa7WW-AZsfJg0sk1Mii_asIqFhTX8R0FVrDUULKDnudtJpz4H51Off_nzeH2_VnkguHqgKhkeXCfXXL642yeZWgJgE7KoHqn1zbL9W3t0Grq_zPvfj9jye7MtU0uCB4gTpsEItas30ivN2pwrqvzj7LDmYEUlXDh1JdwpTDWrq0zfgMhKVESDoma6uN2ZSMRQfr6ieYNxpPcX1PgZQNfLJawwwIhduSqbqgcppHf8YIJRM
+									58 text  and
+									59 link Description: Etsy, Value: google.com/goto?url=CAESiQEB6zswFaezTd_BPzgNWXXcBOfNTrfR4JnA1stNQcmZUDkNMMkRdp0-tnXe_uml7OcRB-dcGzGDV1Q_jFVKMhEjjpQNkIau3fX6PVeM0nBw72RpVKyQvPXwpGQGU6YdhokRyJYoqcx4VmSMmWuW-Q6aSsRwsv8EuTjljvbPAhsyFxwLDq5sPJSlhg
+									60 text .
+									61 button Related results
+								62 heading Where to Find Turkmenistan Topo STL Files, Value: 3
+									63 text Where to Find Turkmenistan Topo STL Files
+								64 content list
+									65 container
+										66 AXListMarker •
+										67 text Cults3D :  Offers high-polygon topographic models of Turkmenistan designed for carving or printing.
+									68 container
+										69 AXListMarker •
+										70 link Description: Shustrik Maps, Value: google.com/goto?url=CAESdAHrOzAVzCDQvk00N_Jfekyd7imk1JsfW5Hs34vIs5kx5oagi0OChRdfVHK9_atkFMJ1QT__xTIPB5l4Siztgp7iJBrZNaDJD-1CH9SpSH4F9ymieTzwDS1OdRkd5shEnf3w_x2oYau6BdTNmKl9O3BxESfS
+										71 text :  Provides a high-detail 102 MB model featuring a closed base and Mercator projection.
+								72 content list
+									73 container
+										74 link Description: Turkmenistan Topographic Map – STL Model for 3D Printing & CNC. Opens in new tab., Value: …
+										75 text Shustrik Maps
+										76 button Description: About this result, ID: snui-atr-nizHaoDpI_mN9u8PuYuB6QY_exl8s8_9
+										77 text High-polygon 3D model of Turkmenistan in STL format * File size: 102 MB * Model size: 220 mm x 152 mm x 2,4 mm * Projection: Merca...
+									78 container
+										79 link Description: Turkmenistan HD Topographic Terrain 3D Model STL Map .... Opens in new tab., Value: …
+										80 text Etsy
+										81 button Description: About this result, ID: snui-atr-nizHaoDpI_mN9u8PuYuB6QY_exl8s8_13
+										82 text May include: A white 3D map of Turkmenistan, a country in Central Asia. Price:$14.99. Loading. Turkmenistan HD Topographic Terrain...
+									83 container
+										84 link Description: Turkmenistan Topographic Map – 3D Model for 3D Printing .... Opens in new tab., Value: …
+										85 text Cults 3D
+										86 button Description: About this result, ID: snui-atr-nizHaoDpI_mN9u8PuYuB6QY_exl8s8_17
+										87 text Jun 9, 2025 —  High-polygon 3D model of Turkmenistan in STL format. File size: 102 MB Model size: 220 mm x 152 mm x 2,4 mm. Projection: Mercator
+									88 container
+										89 link Description: Turkmenistan HD Topographic Terrain 3D Model STL Map .... Opens in new tab., Value: …
+										90 text Etsy
+										91 button Description: About this result, ID: snui-atr-nizHaoDpI_mN9u8PuYuB6QY_exl8s8_21
+										92 text Turkmenistan HD Topographic Terrain 3D Model STL Map Model for CNC Milling and Printing - Etsy UK Turkmenistan HD Topographic Terr...
+									93 container
+										94 link Description: Turkmenistan topographic map, elevation, terrain. Opens in new tab., Value: …
+										95 text en-gb.topographic-map.com
+										96 button Description: About this result, ID: snui-atr-nizHaoDpI_mN9u8PuYuB6QY_exl8s8_25
+										97 text Turkmenistan: Area 488,100 km2 (52nd-largest globally, between latitudes 35°-43° N and longitudes 52°-67° E); >80% covered by Kara...
+							98 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								99 text Show more
+						100 container
+							101 heading Web results, Value: 2
+								102 text Web results
+							103 link Value: …, Description: Turkmenistan topographic map, elevation, terrain topographic-map.com https://en-us.topographic-map.com › map-ghqkl › Turk...
+							104 button About this result
+							105 container
+								106 text Average elevation: 1,755 ft  Minimum elevation: -217 ft Maximum elevation: 13,773 ft. Average elevation: 180 ft
+						107 container
+							108 link Description: Buy 3D Topographic Maps & Terrain Models Shustrik Maps https://shustrik-maps.com › Home_new, Value: …
+							109 button About this result
+							110 text STL file of Turkmenistan map for CNC and 3D printing
+							111 text . Turkmenistan Topographic Map – 3D Model for 3D Printing & CNC Carving. $15.00. Add to cart · 3D terrain ...
+							112 link Description: Read more, Value: …
+						113 container
+							114 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: …
+							115 button About this result
+							116 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: …
+							117 text In this step-by-step tutorial, we dive into  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! 3D printing.
+						118 container
+							119 link Description: 3D Printing Digital Elevation Models OpenTopography https://opentopography.org › learn, Value: …
+							120 button About this result
+							121 text We use the DEMto3D plugin in QGIS to generate the
+							122 text STL
+							123 text  file, which can then be viewed and modified using the 3D Builder software. You can find a number of pre- ...
+							124 link Description: Read more, Value: …
+						125 container
+							126 link Description: Turkmenistan maps PSD Magnific https://www.magnific.com › psd › turkmenistan-maps, Value: …
+							127 button About this result
+							128 text Download the most popular Turkmenistan maps PSD on Magnific
+							129 text  ✓ Free for commercial use ✓ High Quality Images ✓ Made for Creative Projects.
+						130 container
+							131 link Value: …, Description: Turkmenistan Topographic Map – 3D Model for 3D Printing ... Cults 3D https://cults3d.com › architecture › turkmenistan-topogr...
+							132 button About this result
+							133 text Jun 9, 2025  —
+							134 text High-polygon 3D model of Turkmenistan in STL format
+							135 text . File size: 102 MB Model size: 220 mm x 152 mm x 2,4 mm. Projection: Mercator
+							136 link Description: Read more, Value: …
+							137 text 30-day returns
+						138 container
+							139 link Value: …, Description: Welcome to TouchTerrain, the free web app for creating 3D ... TouchTerrain https://touchterrain.geol.iastate.edu
+							140 button About this result
+							141 text Click a location to start. Welcome to TouchTerrain, a web app for creating 3D printable terrain models. Select a starting area by clicking on
+							142 text it
+							143 text .
+							144 link Description: Read more, Value: …
+						145 container
+							146 link Description: 3d Map of Turkmenistan Pinterest https://www.pinterest.com › Explore, Value: …
+							147 button About this result
+							148 text 3d map of turkmenistan
+							149 text  ; Turkmenistan Map With Borders · Turkmenistan Map Flag Design · Turkmenistan Map With Provinces · Colorful Map Of Turkmenistan.
+							150 link Description: Read more, Value: …
+				151 container
+					152 heading Page Navigation, Value: 1
+						153 text Page Navigation
+					154 text 1
+					155 link Description: Page 2, Value: …
+					156 link Description: Page 3, Value: …
+					157 link Description: Page 4, Value: …
+					158 link Description: Page 5, Value: …
+					159 link Description: Page 6, Value: …
+					160 link Description: Page 7, Value: …
+					161 link Description: Page 8, Value: …
+					162 link Description: Page 9, Value: …
+					163 link Description: Page 10, Value: …
+					164 heading Next, Value: 2
+						165 link Description: Next, Value: …, ID: pnnext
+			166 container sfooter
+				167 heading Footer Links, Value: 1
+					168 text Footer Links
+				169 container fbar
+					170 container
+						171 button Unknown  - Can't determine location
+							172 container
+								173 text Unknown
+							174 container
+								175 text  -  Can't determine location
+						176 text  -
+						177 button Update location
+							178 text Update location
+					179 container fsl
+						180 link Description: Help, Value: support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+						181 link Description: Send feedback, Value: …
+						182 link Description: Privacy, Value: policies.google.com/privacy?hl=en&fg=1
+						183 link Description: Terms, Value: …
+
+The focused UI element is 1 AXWebArea Turkmenistan topographic map STL - Google Search, URL: google.com/search?q=Turkmenistan+topographic+map+STL&hl=en&gl=us&pws=0

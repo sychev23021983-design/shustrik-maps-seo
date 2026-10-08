@@ -1,0 +1,197 @@
+Browser tab: 4, Title: "Thailand topographic map STL - Google Search", URL: "https://www.google.com/search?q=Thailand+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Thailand topographic map STL - Google Search, URL: google.com/search?q=Thailand+topographic+map+STL&hl=en&gl=us&pws=0
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp?hl=en&ictx=2&sa=X&ved=2ahUKEwj1y96w2qmXAxVc8LsIHbFvKvwQPXoECAYQBA
+					12 combo box (collapsed) Description: Search, Value: Thailand topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DThailand%2Btopographic%2Bmap%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search?q=Thailand+topographic+map+STL&sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnvwmpVJfvptjB4o8QUOnYcmq5xVOw:1791437940703&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9lnQJN2b4NlD2btUk2oQl-hrdHCOE8CWo7Uu6urYAASr1uYogdSQNwG_i4fRT8nDAsSq8KA300OK1U1Kvfe_QFJ43kW845aMUbn1whIQoiUsTwuTF5VeoPXyjVKEfTAG4Ngnjpw&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwj1y96w2qmXAxVc8LsIHbFvKvwQ2J8OegQIERAD
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnvwmpVJfvptjB4o8QUOnYcmq5xVOw:1791437940703&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9lnQJN2b4NlD2btUk2oQl-hrdHCOE8CWo7Uu6urYAASr1uYogdSQNwG_i4fRT8nDAsSq8KA300OK1U1Kvfe_QFJ43kW845aMUbn1whIQoiUsTwuTF5VeoPXyjVKEfTAG4Ngnjpw&q=Thailand+topographic+map+STL&sa=X&ved=2ahUKEwj1y96w2qmXAxVc8LsIHbFvKvwQtKgLegQIFxAB
+					27 link Description: Shopping, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnvwmpVJfvptjB4o8QUOnYcmq5xVOw:1791437940703&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9lnQJN2b4NlD2btUk2oQl-hrdHCOE8CWo7Uu6urYAASr1uYogdSQNwG_i4fRT8nDAsSq8KA300OK1U1Kvfe_QFJ43kW845aMUbn1whIQoiUsTwuTF5VeoPXyjVKEfTAG4Ngnjpw&q=Thailand+topographic+map+STL&ved=1t:220175&ictx=111
+					28 link Description: Videos, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnvwmpVJfvptjB4o8QUOnYcmq5xVOw:1791437940703&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9lnQJN2b4NlD2btUk2oQl-hrdHCOE8CWo7Uu6urYAASr1uYogdSQNwG_i4fRT8nDAsSq8KA300OK1U1Kvfe_QFJ43kW845aMUbn1whIQoiUsTwuTF5VeoPXyjVKEfTAG4Ngnjpw&q=Thailand+topographic+map+STL&sa=X&ved=2ahUKEwj1y96w2qmXAxVc8LsIHbFvKvwQtKgLegQIFRAB
+					29 link Description: News, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnvwmpVJfvptjB4o8QUOnYcmq5xVOw:1791437940703&q=Thailand+topographic+map+STL&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9lnQJN2b4NlD2btUk2oQl-hrdHCOE8CWo7Uu6urYAASr1uYogdSQNwG_i4fRT8nDAsSq8KA300OK1U1Kvfe_QFJ43kW845aMUbn1whIQoiUsTwuTF5VeoPXyjVKEfTAG4Ngnjpw&sa=X&ved=2ahUKEwj1y96w2qmXAxVc8LsIHbFvKvwQ0pQJegQIFBAB
+					30 link Description: Short videos, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnvwmpVJfvptjB4o8QUOnYcmq5xVOw:1791437940703&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9lnQJN2b4NlD2btUk2oQl-hrdHCOE8CWo7Uu6urYAASr1uYogdSQNwG_i4fRT8nDAsSq8KA300OK1U1Kvfe_QFJ43kW845aMUbn1whIQoiUsTwuTF5VeoPXyjVKEfTAG4Ngnjpw&q=Thailand+topographic+map+STL&sa=X&ved=2ahUKEwj1y96w2qmXAxVc8LsIHbFvKvwQs6gLegQIExAB
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Description: "thailand map" 3D Models to Print Yeggi https://www.yeggi.com › thailand+map, Value: google.com/goto?url=CAESYAHrOzAVxZcFxBcyG3xiNLFcjITKZjpUykh8gVNuPQareBjNRXWxqj1e7cX34ltagLpUFNkRweykX2NGHD6nCcGKPL-9V9WuRNWh9cng1Vor-Wd0SPcD0txKl_1jqtivnQ
+							44 button About this result
+							45 container
+								46 text Topographic Map of Thailand 3D Terrain 3D File ... Download: free Website: Thailand Topographic Map 3D Model for 3D Printin... Download: free Website: 3D Miniature  ...
+						47 container
+							48 container
+								49 heading AI Overview, Value: 2
+									50 text AI Overview
+								51 container
+									52 text You can download or create a 3D-printable topographic STL map of  Thailand using model marketplaces or elevation data tools .
+								53 heading Where to Find Ready-Made STL Files, Value: 3
+									54 text Where to Find Ready-Made STL Files
+								55 content list
+									56 container
+										57 AXListMarker •
+										58 text Marketplaces:  Search for pre-made relief files on
+										59 link Description: Etsy Thailand Terrain Map, Value: google.com/goto?url=CAESigEB6zswFShPdY4uDU1u7jt4jypeMhdw8oLez0sYW0937Y-7mneDNP6a9mz-1vUCFfn3-fWSWBrx2OUD5mWextfU3d1vqvt0rWCqu7pabYSPm8Av8rJQOAPadGiR1EGyQqcOcKbtqdHcrSU1EuGeliXwmyXWr1DSEh7rCtccO9ZZe_Lu_XyB-eNCKrY
+										60 text  or
+										61 link Description: Shustrik Maps, Value: google.com/goto?url=CAESsQEB6zswFdY6XaGxcLgREw7cJZrQxR8JduYoFMCrLfv729BG8aR2sbvbuGEMxMJyFP_VLJxzbnyBfxEVGlsBYlkGe9j07k659jGxpf0WPoyUDM-MWqLx7eghYGTWyEy0K5NojWYJ_L8tMotEsHD1fDnwTgr5h18OgbAbVwC5u7bqmmu-4dmPzeBueC3t8eHSQstW5yff69x2-L4otb_FTmInZ7ehj0YgJQMTBjYeXW60wWA
+										62 text .
+									63 container
+										64 AXListMarker •
+										65 text 3D Communities:  Search repositories like
+										66 link Description: Cults3D Thailand Topographic Map, Value: google.com/goto?url=CAESpQEB6zswFdCZFpdXxZsRwxoTUAK4TYZl_tRTeko5dhsyOvAHPDFdG-j-dl-UnouAZDlf7Iku4DS1M0mbSE4Aav521ouIJXA0uS24HCsq9z4NbKhP_jJzBVZl8ELJSF5HMnQehlu502T6KMw0a0uEH93kpcK7h2W-2Brgby9oH2yKTXC7e4zDOPN9YjJgWnP6yvhJooZD7MEIBH6ryxEnbEQNp7wUx-8
+										67 text  or check aggregators like
+										68 link Description: Yeggi Thailand Map Models, Value: google.com/goto?url=CAESYAHrOzAVOR2BW8U2qMyrrNILuR1dRg9RTHGFN9AmdQtgQ-foE5YrrYykqpazdsuKY-jDlwkVUi4q-k-BtkCP38yKuHKeg4AAI-Q30X6QVejFrStjXE7MzNQtniFKVMfyFw
+										69 text  for a mix of free and paid regional models (such as Bangkok, Chiang Mai, or Phuket).
+								70 content list
+									71 container
+										72 link Description: 3 D Map of Thailand. Opens in new tab., Value: …
+										73 text Etsy
+										74 button Description: About this result, ID: snui-atr-dSzHaoSvA67q7_UP69vRgQs_yevsdd_9
+										75 text 3 D Map of Thailand * Thailand Wood Engraved Map (41) $105.00 * 3D Refrigerator Magnet, Pick Your Own Thailand Souvenir, Custom Ba...
+									76 container
+										77 link Description: "thailand map" 3D Models to Print - yeggi. Opens in new tab., Value: …
+										78 text Yeggi
+										79 button Description: About this result, ID: snui-atr-dSzHaoSvA67q7_UP69vRgQs_yevsdd_13
+										80 text Platforms: Cults, Thingiverse, CGTrader, MakerWorld, MyMiniFactory, Printables, Yeggi. Content: 3D printable files for Thailand ma...
+									81 container
+										82 link Description: Thailand Topographic Map – STL for 3D Printing & CNC. Opens in new tab., Value: …
+										83 text Shustrik Maps
+										84 button Description: About this result, ID: snui-atr-dSzHaoSvA67q7_UP69vRgQs_yevsdd_17
+										85 text The Thailand Topographic Map is a high-resolution 3D terrain model based on accurate digital elevation data (DEM). It captures Tha...
+									86 container
+										87 link Description: Thailand Topographic Map – 3D Model for 3D Printing & CNC Carving. Opens in new tab., Value: …
+										88 text Cults 3D
+										89 button Description: About this result, ID: snui-atr-dSzHaoSvA67q7_UP69vRgQs_yevsdd_21
+										90 text Jun 9, 2025 —  3D model description High-polygon 3D model of Thailand in STL format File size: 122 MB Model size: 120 mm x 220 mm x 1.4 mm Projec...
+									91 container
+										92 link Description: 3D Printing Digital Elevation Models. Opens in new tab., Value: …
+										93 text OpenTopography
+										94 button Description: About this result, ID: snui-atr-dSzHaoSvA67q7_UP69vRgQs_yevsdd_25
+										95 text 3D Printing Terrain Workflow You can find topography data via OpenTopography's portal to download high resolution digital elevatio...
+									96 container
+										97 link Description: map2stl.com: Create 3d printable STL models from any place on Earth. Opens in new tab., Value: …
+										98 text map2stl.com
+										99 button Description: About this result, ID: snui-atr-dSzHaoSvA67q7_UP69vRgQs_yevsdd_29
+										100 text map2STL.com Map Model Settings To navigate the map with touch gestures double-tap and hold your finger on the map, then drag the m...
+							101 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								102 text Show more
+						103 container
+							104 heading Web results, Value: 2
+								105 text Web results
+							106 link Value: …, Description: Thailand Topographic Map 3D Model File | Stl File for CNC ... Etsy https://www.etsy.com › listing › thailand-topographic-...
+							107 button About this result
+							108 container
+								109 text This digital product is a  topographic 3D model of the terrain of Thailand . This 3D model is in STL file format and therefore compatible with CNC routers and 3D ...
+								110 link Description: Read more, Value: …
+							111 container
+								112 text $11.89
+								113 image Rated 4.5 out of 5, (2) user reviews
+						114 container
+							115 link Value: …, Description: Thailand topographic map, elevation, terrain topographic-map.com https://en-gb.topographic-map.com › Thailand
+							116 button About this result
+							117 text Free topographic maps, elevation, terrain
+							118 text . Average elevation: 156 m Minimum elevation: -3 m Maximum elevation: 2,557 m. Click on a map to view its topography, ...
+						119 container
+							120 link Description: 3D Printing Digital Elevation Models OpenTopography https://opentopography.org › learn, Value: …
+							121 button About this result
+							122 text We use the DEMto3D plugin in QGIS to generate the
+							123 text STL
+							124 text  file, which can then be viewed and modified using the 3D Builder software. You can find a number of pre- ...
+							125 link Description: Read more, Value: …
+						126 container
+							127 link Description: World Topographic Map (Thai) - Overview ArcGIS Online https://www.arcgis.com › home › item, Value: …
+							128 button About this result
+							129 text This (v2) vector tile layer provides a detailed basemap for the world featuring a classic Esri
+							130 text topographic map
+							131 text  style designed for use with a relief map.
+						132 container
+							133 link Description: Thailand 3d Map Pinterest https://nz.pinterest.com › Explore, Value: …
+							134 button About this result
+							135 text Download
+							136 text  Background Print Production Map … isolated 3D map illustration of Thailand. Topographic map of thailand,
+						137 container
+							138 link Value: …, Description: Thailand Topographic Map – STL for 3D Printing & CNC Shustrik Maps https://shustrik-maps.com › ... › Countries
+							139 button About this result
+							140 text High-detail Thailand Topographic Map in STL format
+							141 text . Perfect for 3D printing & CNC carving – ideal for education, souvenirs, design, and terrain ...
+							142 text $15.00
+							143 text Free delivery
+						144 container
+							145 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: …
+							146 button About this result
+							147 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: …
+							148 text In this step-by-step tutorial, we dive into  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! 3D printing.
+						149 container
+							150 link Value: …, Description: Thailand 1:250000 Scale Topographic Maps - Global Explorer East View Geospatial https://shop.geospatial.com › publication › Thailand-1-to...
+							151 button About this result
+							152 text Series Name,
+							153 text Thailand 1:250,000 Scale Topographic Maps
+							154 text . Publisher, Royal Thai Survey Department / Krom Phaenthi Thahan. Type, Topographic.
+							155 link Description: Read more, Value: …
+				156 container
+					157 container
+						158 heading People also search for, Value: 2
+							159 text People also search for
+						160 link Description: Thailand topographic map stl free download, Value: …
+						161 link Description: Thailand topographic map stl free, Value: …
+						162 link Description: Thailand topographic map stl 3d print, Value: …
+						163 link Description: Thailand topographic map stl download, Value: …
+					164 heading Page Navigation, Value: 1
+						165 text Page Navigation
+					166 text 1
+					167 link Description: Page 2, Value: …
+					168 link Description: Page 3, Value: …
+					169 link Description: Page 4, Value: …
+					170 link Description: Page 5, Value: …
+					171 link Description: Page 6, Value: …
+					172 link Description: Page 7, Value: …
+					173 link Description: Page 8, Value: …
+					174 link Description: Page 9, Value: …
+					175 link Description: Page 10, Value: …
+					176 heading Next, Value: 2
+						177 link Description: Next, Value: …, ID: pnnext
+			178 container sfooter
+				179 heading Footer Links, Value: 1
+					180 text Footer Links
+				181 container fbar
+					182 container
+						183 button Unknown  - Can't determine location
+							184 container
+								185 text Unknown
+							186 container
+								187 text  -  Can't determine location
+						188 text  -
+						189 button Update location
+							190 text Update location
+					191 container fsl
+						192 link Description: Help, Value: …
+						193 link Description: Send feedback, Value: …
+						194 link Description: Privacy, Value: …
+						195 link Description: Terms, Value: …
+
+The focused UI element is 1 AXWebArea Thailand topographic map STL - Google Search, URL: google.com/search?q=Thailand+topographic+map+STL&hl=en&gl=us&pws=0

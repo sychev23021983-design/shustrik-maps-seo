@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-08",
+  "market": "USA",
+  "language": "English",
+  "google_parameters": "hl=en&gl=us&pws=0",
+  "location": "Unknown / cannot determine location; US physical location and local ranking not verified",
+  "measured_frequency": null,
+  "measured_rank": null,
+  "rows": [
+    {
+      "id": 19916,
+      "query": "Tajikistan topographic map STL",
+      "raw_snapshot": "google-tajikistan.txt",
+      "intent_inference": "Paid terrain STL/CNC versus ordinary elevation maps, GIS layers, relief stock imagery and free map-to-STL tools.",
+      "primary_seller_source": "https://www.etsy.com/listing/1471229675/tajikistan-hd-topographic-terrain-3d"
+    },
+    {
+      "id": 19923,
+      "query": "Thailand topographic map STL",
+      "raw_snapshot": "google-thailand.txt",
+      "intent_inference": "Paid whole-country terrain STL versus free repository models, physical souvenirs, city models and ordinary GIS maps.",
+      "primary_seller_source": "https://www.etsy.com/listing/1493045665/thailand-topographic-map-3d-model-file"
+    },
+    {
+      "id": 19939,
+      "query": "Turkmenistan topographic map STL",
+      "raw_snapshot": "google-turkmenistan.txt",
+      "intent_inference": "Paid terrain STL/CNC versus ordinary elevation maps, free DEM conversion and vector or PSD maps.",
+      "primary_seller_source": "https://3dexport.com/3d-models/turkmenistan"
+    },
+    {
+      "id": 19947,
+      "query": "Saudi Arabia topographic map STL",
+      "raw_snapshot": "google-saudi-arabia.txt",
+      "intent_inference": "Paid terrain STL versus free map outlines, city/building miniatures and ordinary map data.",
+      "primary_seller_source": "https://cults3d.com/en/3d-model/architecture/topographic-map-of-saudi-arabia-3d-terrain"
+    },
+    {
+      "id": 20036,
+      "query": "Russia topographic map STL",
+      "raw_snapshot": "google-russia.txt",
+      "intent_inference": "Whole product terrain STL versus free generators, repository models, wall maps and ordinary elevation maps. Use supplied reference without expanding geographic claims.",
+      "primary_seller_source": "https://shustrik-maps.com/product/russia-stl-model/"
+    }
+  ]
+}

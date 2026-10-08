@@ -1,0 +1,191 @@
+Browser tab: 4, Title: "Tajikistan topographic map STL - Google Search", URL: "https://www.google.com/search?q=Tajikistan+topographic+map+STL&hl=en&gl=us&pws=0".
+0 AXWebArea Tajikistan topographic map STL - Google Search, URL: google.com/search?q=Tajikistan+topographic+map+STL&hl=en&gl=us&pws=0
+	1 container gsr
+		2 container
+			3 link Skip to main content
+				4 text Skip to main content
+			5 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		6 container searchform
+			7 container tsf
+				8 container
+					9 link Description: Learn more about World Space Week 2026, Value: google.com/webhp?hl=en&ictx=2&sa=X&ved=2ahUKEwjiw4Sd2qmXAxXYBdsEHQPpGDkQPXoECAYQBA
+					11 combo box (collapsed) Description: Search, Value: Tajikistan topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					12 button  Clear
+					13 button Search by voice
+					14 button Search by image
+			15 button Description: Settings, ID: og-te
+			16 button Share
+			17 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			18 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DTajikistan%2Btopographic%2Bmap%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		19 container cnt
+			20 container
+				21 content list
+					22 link Description: AI Mode, Value: google.com/search?q=Tajikistan+topographic+map+STL&sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnsuCIA3AFonycaYkgOv5y-ENGlMIQ:1791437899382&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9O-eteO81qQYzKlRFfJ_kObWRAbu0_gWa7ZZ3bDuSeSW9-KyZ5oKr8py5GIF3Qw3M5_Ln7MWHMOQcMBxI2MiE-Siqnc0k6jsNOPiULzusWe_cgcgEE2cJ-gevJHEYDaPYYfBcqA&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjiw4Sd2qmXAxXYBdsEHQPpGDkQ2J8OegQIEhAD
+					23 link (disabled) All
+						24 text All
+					25 link Description: Images, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnsuCIA3AFonycaYkgOv5y-ENGlMIQ:1791437899382&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9O-eteO81qQYzKlRFfJ_kObWRAbu0_gWa7ZZ3bDuSeSW9-KyZ5oKr8py5GIF3Qw3M5_Ln7MWHMOQcMBxI2MiE-Siqnc0k6jsNOPiULzusWe_cgcgEE2cJ-gevJHEYDaPYYfBcqA&q=Tajikistan+topographic+map+STL&sa=X&ved=2ahUKEwjiw4Sd2qmXAxXYBdsEHQPpGDkQtKgLegQIGBAB
+					26 link Description: Shopping, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnsuCIA3AFonycaYkgOv5y-ENGlMIQ:1791437899382&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9O-eteO81qQYzKlRFfJ_kObWRAbu0_gWa7ZZ3bDuSeSW9-KyZ5oKr8py5GIF3Qw3M5_Ln7MWHMOQcMBxI2MiE-Siqnc0k6jsNOPiULzusWe_cgcgEE2cJ-gevJHEYDaPYYfBcqA&q=Tajikistan+topographic+map+STL&ved=1t:220175&ictx=111
+					27 link Description: Videos, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnsuCIA3AFonycaYkgOv5y-ENGlMIQ:1791437899382&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9O-eteO81qQYzKlRFfJ_kObWRAbu0_gWa7ZZ3bDuSeSW9-KyZ5oKr8py5GIF3Qw3M5_Ln7MWHMOQcMBxI2MiE-Siqnc0k6jsNOPiULzusWe_cgcgEE2cJ-gevJHEYDaPYYfBcqA&q=Tajikistan+topographic+map+STL&sa=X&ved=2ahUKEwjiw4Sd2qmXAxXYBdsEHQPpGDkQtKgLegQIFxAB
+					28 link Description: Maps, Value: maps.google.com/maps?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&output=search&q=Tajikistan+topographic+map+STL&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9O-eteO81qQYzKlRFfJ_kObWRAbu0_gWa7ZZ3bDuSeSW9-KyZ5oKr8py5GIF3Qw3M5_Ln7MWHMOQcMBxI2MiE-Siqnc0k6jsNOPiULzusWe_cgcgEE2cJ-gevJHEYDaPYYfBcqA&entry=mc&ved=1t:200715&ictx=111
+					29 link Description: News, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnsuCIA3AFonycaYkgOv5y-ENGlMIQ:1791437899382&q=Tajikistan+topographic+map+STL&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9O-eteO81qQYzKlRFfJ_kObWRAbu0_gWa7ZZ3bDuSeSW9-KyZ5oKr8py5GIF3Qw3M5_Ln7MWHMOQcMBxI2MiE-Siqnc0k6jsNOPiULzusWe_cgcgEE2cJ-gevJHEYDaPYYfBcqA&sa=X&ved=2ahUKEwjiw4Sd2qmXAxXYBdsEHQPpGDkQ0pQJegQIFBAB
+					30 button (collapsed) More filters, Secondary Actions: Expand
+						31 container More filters
+							32 text More
+				33 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			34 heading Search Results, Value: 1
+				35 text Search Results
+			36 container center_col
+				37 container gevUs
+					38 container rso
+						39 container
+							40 heading Web results, Value: 2
+								41 text Web results
+							42 link Description: Tajikistan HD Topographic Terrain 3D Model STL Map ... Etsy https://www.etsy.com › listing › tajikistan-hd-topograph..., Value: google.com/goto?url=CAEShwEB6zswFa23cLhhNxGtVVcX591GfyCTDKNihGMw0iHUlgzfL7lRFBc2h9A2AAOR7NV0gh8xHAvKMb9t_ixgtdYsSzCS89bB-6TuaLFoQMQqJYfZT8DMNT05hSfmQDRt9fYZFoUOZ3rSSHbUDP1E0PvWi_lro8zQeOzB5WJpnOYkKQQzIp_Kqi4
+							43 button About this result
+							44 container
+								45 text A 3D relief map of Tajikistan, carved from wood and painted in zoom. The map is Price:$14.99 Loading.  STL Map Model for  CNC Milling and Printing Carved3D
+							46 container
+								47 text $14.99 In stock
+								48 image Rated 4.8 out of 5, (412) user reviews
+								49 text Free delivery
+						50 container
+							51 container
+								52 heading AI Overview, Value: 2
+									53 text AI Overview
+								54 container
+									55 text You can  download or buy 3D-printable STL files of Tajikistan's topographic terrain from online marketplaces like
+									56 link Description: Cults3D, Value: google.com/goto?url=CAESpwEB6zswFaaRJyls2gld7pdYhYQCfr1Kx6o7PDYYXekAuvjnZ14cAwun9xwShjTqg7fT3hIKDd6bUYQ1boZZMkXl8qzYQAfwV3a6o_ew877t_m-CS9iJeDS75m4loPlaU_WH-0C9CLlw3lIw96EpfKR8f_yqKFk3uJLy0GII9ii7O-W-oB0reXshacQpGWl0n8JlMUQBEKCztVnfTsXhmJNV2zJ-LFjWKQ
+									57 text  or
+									58 link Description: Etsy, Value: google.com/goto?url=CAEShwEB6zswFYjZ3MiuDLrtSWniPWoOxFTeVd22LoEfhi4YxaKyLbaNXunXe5jezrBXm0z1nKefhs3VrUIlmSA1IvKDIZjiLt-FLf2BJ3nuO1H_h3yEZdYm1OzcNgGuv5kaSGGQ6FXVTQEkuviU7xrpV01kWsTqTAU0nSgo8kUkQSGpTyBtLd8XC0k
+									59 text .
+									60 button Related results
+								61 heading Available Options, Value: 3
+									62 text Available Options
+								63 content list
+									64 container
+										65 AXListMarker •
+										66 text High-Polygon 3D Models:  Creators like Shustrik-Maps offer detailed STL files on platforms like  Cults3D . These files feature millions of polygons to show the Pamir Mountains and deep valleys accurately.
+										67 button Related results
+									68 container
+										69 AXListMarker •
+										70 text File Specifications:  Typical files are around 225 MB, scaled for FDM/SLA 3D printers and CNC routers using materials like PLA, resin, or wood.
+								71 content list
+									72 container
+										73 link Description: Tajikistan HD Topographic Terrain 3D Model STL Map ... - Etsy. Opens in new tab., Value: google.com/goto?url=CAEShwEB6zswFYjZ3MiuDLrtSWniPWoOxFTeVd22LoEfhi4YxaKyLbaNXunXe5jezrBXm0z1nKefhs3VrUIlmSA1IvKDIZjiLt-FLf2BJ3nuO1H_h3yEZdYm1OzcNgGuv5kaSGGQ6FXVTQEkuviU7xrpV01kWsTqTAU0nSgo8kUkQSGpTyBtLd8XC0k
+										74 text Etsy
+										75 button Description: About this result, ID: snui-atr-SyzHaribNZ_Oxc8P8ZjJ0QE_qo3ujl_8
+										76 text May include: A detailed 3D relief map of a mountainous region, rendered in a. zoom image 7 of 9. May include: A detailed 3D relief...
+									77 container
+										78 link Description: 🇹🇯 Tajikistan Topographic Map – 3D Model for 3D Printing & CNC .... Opens in new tab., Value: …
+										79 text Cults 3D
+										80 button Description: About this result, ID: snui-atr-SyzHaribNZ_Oxc8P8ZjJ0QE_qo3ujl_12
+										81 text Jun 9, 2025 —  3D model description High-polygon 3D model of Tajikistan in STL format File size: 225 MB Model size: 220 mm x 159 mm x 4 mm Projec...
+									82 container
+										83 link Description: Tajikistan Topographic Map – STL Model for 3D Printing & CNC. Opens in new tab., Value: google.com/goto?url=CAEScgHrOzAVQ4-FIK0t2NlzDKNojlGPlivnbZuOddDwY0ZrIdLEEVn-eDCsnFspf3_T_zH4HE0JuRtnvyghSmEnKO1d_ua11O2W1Pq4FBxxYtrpVuW3TGiO8hTpXon-NC12f19QH2BKnYaK2T5FWTRX6v6srw
+										84 text Shustrik Maps
+										85 button Description: About this result, ID: snui-atr-SyzHaribNZ_Oxc8P8ZjJ0QE_qo3ujl_16
+										86 text Product: Tajikistan Topographic Map 3D Model ($15.00) | Taiwan ($15.00) | Thailand ($15.00). Specifications: STL format; file size...
+									87 container
+										88 link Description: map2stl.com: Create 3d printable STL models from any place on Earth. Opens in new tab., Value: …
+										89 text map2stl.com
+										90 button Description: About this result, ID: snui-atr-SyzHaribNZ_Oxc8P8ZjJ0QE_qo3ujl_20
+										91 text map2STL.com Map Model Settings To navigate the map with touch gestures double-tap and hold your finger on the map, then drag the m...
+									92 container
+										93 link Description: Terrain2STL. Opens in new tab., Value: …
+										94 text JThatch.com
+										95 button Description: About this result, ID: snui-atr-SyzHaribNZ_Oxc8P8ZjJ0QE_qo3ujl_23
+										96 text Instructions * Select the region for your STL model using the red box * Rotate and resize the box using the sliders in the 'Model ...
+							97 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								98 text Show more
+						99 container
+							100 heading Web results, Value: 2
+								101 text Web results
+							102 link Value: …, Description: Tajikistan topographic map, elevation, terrain topographic-map.com https://en-gb.topographic-map.com › map-fmngp › Taj...
+							103 button About this result
+							104 container
+								105 text Tajikistan topographic map , Average elevation: 2,357 m Minimum elevation: 221 m Maximum elevation: 7,533 m. Average elevation: 223 m
+						106 container
+							107 link Description: Tajikistan, topographic map GRID-Arendal https://www.grida.no › resources, Value: …
+							108 button About this result
+							109 text Tajikistan, topographic map
+							110 text . Tajikistan is located in Central Asia, west of China, comprising of 143,100 sq km. It has a population of 7,163,506 (2005). Major ...
+							111 link Description: Read more, Value: …
+						112 container
+							113 link Value: …, Description: Tajikistan Topographic Map – STL Model for 3D Printing & ... Shustrik Maps https://shustrik-maps.com › ... › Countries
+							114 button About this result
+							115 text High-detail Tajikistan Topographic Map in STL format
+							116 text . Perfect for 3D printing & CNC carving in education, design, souvenirs, and terrain visualization.
+							117 text $15.00
+							118 text In stock
+							119 text Free delivery
+						120 container
+							121 link Description: Tajikistan East View Geospatial https://geospatial.com › country_profiles › tajikistan, Value: …
+							122 button About this result
+							123 text Topographic
+							124 text  Mapping of the mountainous central Asian Republic of
+							125 text Tajikistan
+							126 text  still follows patterns established in the Soviet era prior to independence in 1991.
+						127 container
+							128 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: …
+							129 button About this result
+							130 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: …
+							131 text In this step-by-step tutorial, we dive into  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! 3D printing.
+						132 container
+							133 link Description: 3D Map – Trek Tajikistan Trek Tajikistan https://trektajikistan.com › 3d-map, Value: …
+							134 button About this result
+							135 text This 3D viewer provides an overview of everything that
+							136 text Tajikistan
+							137 text  has to offer! Fly over the mountains and discover the main highlights of
+							138 text Tajikistan
+							139 text .
+						140 container
+							141 link Value: …, Description: Tajikistan - Topographic Map Data & Satellite Imagery LAND INFO https://landinfo.com › country › tajikistan-topographic-...
+							142 button About this result
+							143 text offers a variety of digital topographic map data and satellite imagery
+							144 text  products of Tajikistan including DEMs (Digital Elevation Models) and vector layers
+						145 container
+							146 link Value: …, Description: Tajikistan Topographic Map 3d Realistic Map Color 3d ... Dreamstime https://www.dreamstime.com › Illustrations › Asia
+							147 button About this result
+							148 text Illustration about
+							149 text Tajikistan Topographic Map 3d realistic map
+							150 text  Color. Illustration of detailed, landscape, realistic - 268172550.
+				151 container
+					152 container
+						153 heading People also search for, Value: 2
+							154 text People also search for
+						155 link Description: Tajikistan topographic map stl free, Value: …
+						156 link Description: Tajikistan topographic map stl 3d print, Value: …
+					157 heading Page Navigation, Value: 1
+						158 text Page Navigation
+					159 text 1
+					160 link Description: Page 2, Value: …
+					161 link Description: Page 3, Value: …
+					162 link Description: Page 4, Value: …
+					163 link Description: Page 5, Value: …
+					164 link Description: Page 6, Value: …
+					165 link Description: Page 7, Value: …
+					166 link Description: Page 8, Value: …
+					167 link Description: Page 9, Value: …
+					168 link Description: Page 10, Value: …
+					169 heading Next, Value: 2
+						170 link Description: Next, Value: …, ID: pnnext
+			171 container sfooter
+				172 heading Footer Links, Value: 1
+					173 text Footer Links
+				174 container fbar
+					175 container
+						176 button Unknown  - Can't determine location
+							177 container
+								178 text Unknown
+							179 container
+								180 text  -  Can't determine location
+						181 text  -
+						182 button Update location
+							183 text Update location
+					184 container fsl
+						185 link Description: Help, Value: …
+						186 link Description: Send feedback, Value: …
+						187 link Description: Privacy, Value: …
+						188 link Description: Terms, Value: …
+
+The focused UI element is 0 AXWebArea Tajikistan topographic map STL - Google Search, URL: google.com/search?q=Tajikistan+topographic+map+STL&hl=en&gl=us&pws=0

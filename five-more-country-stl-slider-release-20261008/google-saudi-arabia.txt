@@ -1,0 +1,202 @@
+Browser tab: 4, Title: "Saudi Arabia topographic map STL - Google Search", URL: "https://www.google.com/search?q=Saudi+Arabia+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Saudi Arabia topographic map STL - Google Search, URL: google.com/search?q=Saudi+Arabia+topographic+map+STL&hl=en&gl=us&pws=0
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp?hl=en&ictx=2&sa=X&ved=2ahUKEwjnjuTW2qmXAxVBg_0HHUZfLgMQPXoECAYQBA
+					12 combo box (collapsed) Description: Search, Value: Saudi Arabia topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DSaudi%2BArabia%2Btopographic%2Bmap%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search?q=Saudi+Arabia+topographic+map+STL&sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnv023ul33Ev8eUzCJQ1fjlp9HN6Vg:1791438020485&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9g8z81D2-lIcq-WwumzDBuU5gmFtBCVfpHMtBzsfCrekoj6mUwiC1-uMvJY65HR7jKk2L4yw_OFHwSRXoMuBvaIjqud2c2ox_x-P-O6_2CIO8AwL7BwqZEf_j6JABKb1hc33gGA&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjnjuTW2qmXAxVBg_0HHUZfLgMQ2J8OegQIERAD
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnv023ul33Ev8eUzCJQ1fjlp9HN6Vg:1791438020485&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9g8z81D2-lIcq-WwumzDBuU5gmFtBCVfpHMtBzsfCrekoj6mUwiC1-uMvJY65HR7jKk2L4yw_OFHwSRXoMuBvaIjqud2c2ox_x-P-O6_2CIO8AwL7BwqZEf_j6JABKb1hc33gGA&q=Saudi+Arabia+topographic+map+STL&sa=X&ved=2ahUKEwjnjuTW2qmXAxVBg_0HHUZfLgMQtKgLegQIGBAB
+					27 link Description: Shopping, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnv023ul33Ev8eUzCJQ1fjlp9HN6Vg:1791438020485&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9g8z81D2-lIcq-WwumzDBuU5gmFtBCVfpHMtBzsfCrekoj6mUwiC1-uMvJY65HR7jKk2L4yw_OFHwSRXoMuBvaIjqud2c2ox_x-P-O6_2CIO8AwL7BwqZEf_j6JABKb1hc33gGA&q=Saudi+Arabia+topographic+map+STL&ved=1t:220175&ictx=111
+					28 link Description: Videos, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnv023ul33Ev8eUzCJQ1fjlp9HN6Vg:1791438020485&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9g8z81D2-lIcq-WwumzDBuU5gmFtBCVfpHMtBzsfCrekoj6mUwiC1-uMvJY65HR7jKk2L4yw_OFHwSRXoMuBvaIjqud2c2ox_x-P-O6_2CIO8AwL7BwqZEf_j6JABKb1hc33gGA&q=Saudi+Arabia+topographic+map+STL&sa=X&ved=2ahUKEwjnjuTW2qmXAxVBg_0HHUZfLgMQtKgLegQIFxAB
+					29 link Description: News, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQnv023ul33Ev8eUzCJQ1fjlp9HN6Vg:1791438020485&q=Saudi+Arabia+topographic+map+STL&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9g8z81D2-lIcq-WwumzDBuU5gmFtBCVfpHMtBzsfCrekoj6mUwiC1-uMvJY65HR7jKk2L4yw_OFHwSRXoMuBvaIjqud2c2ox_x-P-O6_2CIO8AwL7BwqZEf_j6JABKb1hc33gGA&sa=X&ved=2ahUKEwjnjuTW2qmXAxVBg_0HHUZfLgMQ0pQJegQIFBAB
+					30 link Description: Maps, Value: maps.google.com/maps?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&output=search&q=Saudi+Arabia+topographic+map+STL&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9g8z81D2-lIcq-WwumzDBuU5gmFtBCVfpHMtBzsfCrekoj6mUwiC1-uMvJY65HR7jKk2L4yw_OFHwSRXoMuBvaIjqud2c2ox_x-P-O6_2CIO8AwL7BwqZEf_j6JABKb1hc33gGA&entry=mc&ved=1t:200715&ictx=111
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Description: Saudi Arabia Topographic Map 3D Model File | Stl ... Etsy https://www.etsy.com › listing › saudi-arabia-topograph..., Value: google.com/goto?url=CAESiAEB6zswFZ0vt088WJtj_p506m5WORJ2usLaWnLieO0Um1Ec-MOOrNtJa_CML4XY6FKkMx8CAqsx2oQoU4AGX4Ur5JLQUgbjXVXfeS4r0UD86uLzkwlcCetc8d4N8COcCGK6kNocaqNBztjQOMvp_nxXvvfm10pwGvSY4Q6aJpzT4CptqeXAhl6b
+							44 button About this result
+							45 container
+								46 text This digital product is a  topographic 3D model of the terrain of Saudi Arabia . This 3D model is in STL file format and therefore compatible with CNC routers ...
+						47 container
+							48 container
+								49 heading AI Overview, Value: 2
+									50 text AI Overview
+								51 container
+									52 text You can find and download 3D printable topographic map STL files of  Saudi Arabia  on digital marketplaces like
+									53 link Description: Cults3D, Value: google.com/goto?url=CAESkgEB6zswFXe26_VSz3BCJ96V9C-on-sFjZ5XIhywa5fCj1rRrIXpcyp4p4uNRbD6maQ-yu0IjFkuIYYgfvxTpykzCQ5kDIPmycNcjfjQ3umRmznc1alJ1bgxbON16SU1c3j6MFfnXP0C7Lz7-Z3Ns4yLosyICtq40KFUZubT2ZaXu0SJcsh7W-47gYC8fYJUkY9bUw
+									54 text  and
+									55 link Description: Etsy, Value: google.com/goto?url=CAESiAEB6zswFaDG5pNq0K9ADJQ8TRLYTegf3PkyCiYRWQS7uOo1xio7OtDXju8aFa04cyDk_1E9Ra6qvPXqW4YX8EbTjgOlC0MQfZNVv-CGnDYpekqPFFMMVjp780MlZE4K8pfEX79bLLtyQCyuBJjThocgCWI_ShgszN9cXKFPbRmV1ZDnsFYdwtuO
+									56 text .
+									57 button Related results
+								58 heading Where to Find Saudi Arabia Topography STL Files, Value: 3
+									59 text Where to Find Saudi Arabia Topography STL Files
+								60 content list
+									61 container
+										62 AXListMarker •
+										63 text Paid & High-Resolution Models:
+										64 link Description: Shustrik Maps, Value: google.com/goto?url=CAESqQEB6zswFavhVVB6MiCk53nW7TLMDicDkeWG97VBzoJKF2lurK_jvkej_BAV1U17iQrbHJTRotJqNIuW5kFLfPbHazOhNOvkUeOvOpBnS32Mtiv516TFpikuC_tDbRRkSd2zviJXoLTBiiVN9zb0MUBhq5WqW0XZuo4unAz7xFHdNANzZvpn31NoIOcp8zHlQ16_i4OqKY4EDHJM4JvWZnCPs3XV5CbQvrZJ
+										65 text  on Cults3D and similar creator shops offer high-polygon terrain meshes based on accurate Digital Elevation Models (DEM) optimized for CNC routers and FDM/resin 3D printers. Similar commercial listings are available on
+										66 link Description: CGTrader, Value: google.com/goto?url=CAESVAHrOzAVpG29Fvy73-AdmY7viPAQO12B9KR296HPZ6TTretcAmOf6JvUzVbiCn96kndki_6vJrm3IOVS4PfVWoQhqSkrCYMAcn_xzpbuJD37uI5pTA
+										67 text  and
+										68 link Description: 3DExport, Value: …
+										69 text .
+										70 button Related results
+									71 AXListMarker •
+								72 content list
+									73 container
+										74 link Description: Saudi Arabia Topographic Map 3D Model File | Stl File ... - Etsy. Opens in new tab., Value: …
+										75 text Etsy
+										76 button Description: About this result, ID: snui-atr-xSzHasfHCJ3m7_UPh7DRgAg_lddg6i_10
+										77 text This 3D model is in STL file format and therefore compatible with CNC routers and 3D printers. The elevation of topographical feat...
+									78 container
+										79 link Description: Saudi Arabia Topographic Map – STL Model for 3D Printing .... Opens in new tab., Value: …
+										80 text Shustrik Maps
+										81 button Description: About this result, ID: snui-atr-xSzHasfHCJ3m7_UPh7DRgAg_lddg6i_14
+										82 text High-polygon 3D model of Saudi Arabia in STL format Saudi Arabia Topographic Map – 3D Model for 3D Printing & CNC Carving quantity...
+									83 container
+										84 link Description: Saudi Arabia Topographic Map – 3D Model for 3D Printing & CNC .... Opens in new tab., Value: …
+										85 text Cults 3D
+										86 button Description: About this result, ID: snui-atr-xSzHasfHCJ3m7_UPh7DRgAg_lddg6i_18
+										87 text Jun 9, 2025 —  3D model description High-polygon 3D model of Saudi Arabia in STL format File size: 115 MB Model size: 218 mm x 178 mm x 1.8 mm Pr...
+									88 container
+										89 link Description: Saudi Arabia 3D print files. Opens in new tab., Value: …
+										90 text CGTrader
+										91 button Description: About this result, ID: snui-atr-xSzHasfHCJ3m7_UPh7DRgAg_lddg6i_22
+										92 text Free & Premium Saudi arabia print files Here you can find Saudi arabia 3D print files (STL, OBJ, FBX, and many others) ready for p...
+									93 container
+										94 link Description: "map of saudi arabia" 3D Models to Print - yeggi. Opens in new tab., Value: …
+										95 text Yeggi
+										96 button Description: About this result, ID: snui-atr-xSzHasfHCJ3m7_UPh7DRgAg_lddg6i_26
+										97 text Platforms: Cults, CGTrader, MyMiniFactory, MakerWorld, Thingiverse, Printables, Yeggi. Content: Printable 3D models and STL files ...
+									98 container
+										99 link Description: Saudi Arabia map by al7lm99 | Download free STL model. Opens in new tab., Value: …
+										100 text Printables.com
+										101 button Description: About this result, ID: snui-atr-xSzHasfHCJ3m7_UPh7DRgAg_lddg6i_30
+										102 text Saudi Arabia map 15 Abs soh @Abssoh_2051091 9 Fazi @Fazi_2546637 3 Munirah Saad @Munirasaad_1238276 33 MiniWorld3D @MiniWorld3D 12...
+									103 container
+										104 link Description: "saudi arabia map" 3D Models to Print. Opens in new tab., Value: …
+										105 text Yeggi
+										106 button Description: About this result, ID: snui-atr-xSzHasfHCJ3m7_UPh7DRgAg_lddg6i_34
+										107 text » random » * Download: for sale Website: Cults Tags Mohammed bin Salman MBS Statue - Iconic Walking ... Text mbs, mohammed bin sal...
+									108 container
+										109 link Description: Saudi Arabia Terrain Map 3D Model in Landscapes 453267 | 3DExport. Opens in new tab., Value: …
+										110 text 3DExport
+										111 button Description: About this result, ID: snui-atr-xSzHasfHCJ3m7_UPh7DRgAg_lddg6i_38
+										112 text $10.00 Germany Topographic Map for 3D Printing CNC Carving 3D Print Model Related Items from Saudi Arabia Terrain Map -50% Plutoni...
+							113 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								114 text Show more
+						115 container
+							116 heading Web results, Value: 2
+								117 text Web results
+							118 link Value: …, Description: 3D Printable topographical map of Saudi Arabia by abs soh MyMiniFactory https://www.myminifactory.com › object › 3d-print-top...
+							119 button About this result
+							120 container
+								121 text Jul 26, 2024  —  Topographical map  of  saudi arabia , 0.16mm layer height ,15% infill. the two ...  stl  file | Download free and paid 3D printable  STL  files.
+						122 container
+							123 link Description: "map of saudi arabia" 3D Models to Print Yeggi https://www.yeggi.com › map+of+saudi+arabia, Value: …
+							124 button About this result
+							125 text Topographic Map of Saudi Arabia 3D Terrain 3D
+							126 text . Download: for sale Website: Cults. Topographic Map of Saudi Arabia 3D Terrain 3D
+						127 container
+							128 link Value: …, Description: Saudi Arabia map by al7lm99 | Download free STL model Printables.com https://www.printables.com › model › related
+							129 button About this result
+							130 text Download free 3D printable STL models
+							131 text . topological map saudi arabia Tabletop Miniatures Props & Terrains
+						132 container
+							133 link Value: …, Description: Saudi Arabia Topographic Map – 3D Model for 3D Printing ... Shustrik Maps https://shustrik-maps.com › ... › Countries
+							134 button About this result
+							135 text High-detail Saudi Arabia Topographic Map in STL format
+							136 text . Ideal for 3D printing & CNC carving in education, design, souvenirs, and terrain visualization.
+							137 text $15.00
+							138 text In stock
+							139 text Free delivery
+						140 container
+							141 link Description: Saudi Arabia Map 3d Print Model Pinterest · mehmettokdemir2716 5 years ago, Value: …
+							142 button About this result
+							143 text This digital product is a
+							144 text topographic 3D model of the terrain of Saudi Arabia
+							145 text . This 3D model is in STL file format and therefore compatible ...
+						146 container
+							147 link Value: …, Description: Saudi Arabia 3D print files - free & premium STL models CGTrader https://www.cgtrader.com › 3D Print Models
+							148 button About this result
+							149 text Download 191 Saudi Arabia free & premium 3D print files
+							150 text  ready for FDM, SLA, SLS and, other 3D printers, available formats STL, OBJ, 3DM, and more. $4 to $84
+						151 container
+							152 link Value: …, Description: Saudi Arabia - Topographic Map Data & Satellite Imagery LAND INFO https://landinfo.com › country › saudi-arabia-topographi...
+							153 button About this result
+							154 text INFO offers a variety of digital topographic map
+							155 text  & nautical chart data and satellite imagery products of Saudi Arabia
+						156 container
+							157 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: …
+							158 button About this result
+							159 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: …
+							160 text ...  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! 🗺️ Learn how to create breathtaking maps with just ...
+				161 container
+					162 container
+						163 heading People also search for, Value: 2
+							164 text People also search for
+						165 link Description: Saudi arabia topographic map stl free download, Value: …
+						166 link Description: Saudi arabia topographic map stl free, Value: …
+						167 link Description: Saudi arabia topographic map stl download, Value: …
+						168 link Description: Saudi arabia topographic map stl 3d print, Value: …
+					169 heading Page Navigation, Value: 1
+						170 text Page Navigation
+					171 text 1
+					172 link Description: Page 2, Value: …
+					173 link Description: Page 3, Value: …
+					174 link Description: Page 4, Value: …
+					175 link Description: Page 5, Value: …
+					176 link Description: Page 6, Value: …
+					177 link Description: Page 7, Value: …
+					178 link Description: Page 8, Value: …
+					179 link Description: Page 9, Value: …
+					180 link Description: Page 10, Value: …
+					181 heading Next, Value: 2
+						182 link Description: Next, Value: …, ID: pnnext
+			183 container sfooter
+				184 heading Footer Links, Value: 1
+					185 text Footer Links
+				186 container fbar
+					187 container
+						188 button Unknown  - Can't determine location
+							189 container
+								190 text Unknown
+							191 container
+								192 text  -  Can't determine location
+						193 text  -
+						194 button Update location
+							195 text Update location
+					196 container fsl
+						197 link Description: Help, Value: …
+						198 link Description: Send feedback, Value: …
+						199 link Description: Privacy, Value: …
+						200 link Description: Terms, Value: …
+
+The focused UI element is 1 AXWebArea Saudi Arabia topographic map STL - Google Search, URL: google.com/search?q=Saudi+Arabia+topographic+map+STL&hl=en&gl=us&pws=0
