@@ -1,0 +1,10 @@
+{
+  "commit": "e57e600bd818973ed469613fbde1cce5aec3e0f2",
+  "archive_sha256": "27bdc056d09d97225e1437332657ad71c468f909596bb3363325d78d84c973b9",
+  "remote_archive_sha256": "27bdc056d09d97225e1437332657ad71c468f909596bb3363325d78d84c973b9",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/final-two-stl-e57e600",
+  "mode": "external",
+  "container": "shustrik-maps-wordpress-1",
+  "lint_pass": true
+}

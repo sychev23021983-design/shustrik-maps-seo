@@ -1,0 +1,18 @@
+{
+  "pass": true,
+  "rows": [
+    {
+      "id": 16743,
+      "source_prose_and_protected": true,
+      "old_media_preserved": 10,
+      "backup_matches_baseline": true
+    },
+    {
+      "id": 16812,
+      "source_prose_and_protected": true,
+      "old_media_preserved": 9,
+      "backup_matches_baseline": true
+    }
+  ],
+  "runtime_unchanged": true
+}

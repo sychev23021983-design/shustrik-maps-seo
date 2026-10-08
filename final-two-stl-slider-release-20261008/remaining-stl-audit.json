@@ -1,0 +1,19 @@
+{
+  "total_published_products": 516,
+  "listed_stl_icon_products": 186,
+  "eligible_unprocessed": [],
+  "eligible_unprocessed_count": 0,
+  "exclusions": [
+    {
+      "id": 9512,
+      "title": "Belarus Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "reason": "Owner excludes Belarus"
+    },
+    {
+      "id": 9516,
+      "title": "Denmark Topographic Map STL model",
+      "reason": "Previously processed per project release logs; legacy layout retained"
+    }
+  ],
+  "criterion": "Fresh published catalog, own AI concepts absent and explicit STL format icon; exclude owner scope Belarus and historical completed Denmark. C4D-only/on-request conversions are not substitutions."
+}

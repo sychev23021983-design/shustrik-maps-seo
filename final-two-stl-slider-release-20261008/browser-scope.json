@@ -1,0 +1,10 @@
+{
+  "owner_instruction": "Проверять переключение слайдов на компьютере и телефоне не нужно. Я это сделаю сам.",
+  "moon_surface_completed_before_instruction": {
+    "slides_desktop": 4,
+    "slides_mobile": 4,
+    "arrows_and_dots_pass": true
+  },
+  "female_face_switching": "Not performed per latest owner instruction; owner will check. First slide publication screenshot saved.",
+  "additional_switching_tests": false
+}

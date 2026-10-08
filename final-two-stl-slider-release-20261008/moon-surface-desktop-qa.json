@@ -1,0 +1,82 @@
+[
+  {
+    "active": [
+      {
+        "alt": "AI-generated concept of Moon Surface square lunar terrain relief lying with its entire underside supported on a continuous solid walnut backing board on a desk.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/05/moon-surface-desk-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of Moon Surface square lunar terrain relief lying with its entire underside supported on a continuous solid walnut backing board on a desk.",
+    "id": 16743,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 1,
+    "viewport": 1440,
+    "visible_count": 1
+  },
+  {
+    "active": [
+      {
+        "alt": "AI-generated concept of Moon Surface square lunar terrain relief mounted on solid sage backing in a small oak wall frame.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/05/moon-surface-wall-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of Moon Surface square lunar terrain relief mounted on solid sage backing in a small oak wall frame.",
+    "id": 16743,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 2,
+    "viewport": 1440,
+    "visible_count": 1
+  },
+  {
+    "active": [
+      {
+        "alt": "AI-generated concept of Moon Surface square lunar terrain relief fully supported in a kraft gift box with a fitted green insert.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/05/moon-surface-gift-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of Moon Surface square lunar terrain relief fully supported in a kraft gift box with a fitted green insert.",
+    "id": 16743,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 3,
+    "viewport": 1440,
+    "visible_count": 1
+  },
+  {
+    "active": [
+      {
+        "alt": "AI-generated concept of Moon Surface square lunar terrain relief enlarged in grey concrete on a continuous charcoal backing wall with adults for scale.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/05/moon-surface-commercial-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of Moon Surface square lunar terrain relief enlarged in grey concrete on a continuous charcoal backing wall with adults for scale.",
+    "id": 16743,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 4,
+    "viewport": 1440,
+    "visible_count": 1
+  }
+]

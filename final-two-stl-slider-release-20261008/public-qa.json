@@ -1,0 +1,139 @@
+{
+  "rows": [
+    {
+      "id": 16743,
+      "url": "https://shustrik-maps.com/product/moon-surface-3d-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 16743,
+      "url": "https://shustrik-maps.com/product/moon-surface-3d-model/?final_two_stl_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 16812,
+      "url": "https://shustrik-maps.com/product/abstract-female-face-silhouette-3d-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 16812,
+      "url": "https://shustrik-maps.com/product/abstract-female-face-silhouette-3d-model/?final_two_stl_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    }
+  ],
+  "media": [
+    {
+      "id": 22795,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/moon-surface-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22796,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/moon-surface-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22797,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/moon-surface-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22798,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/moon-surface-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22799,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/female-face-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22800,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/female-face-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22801,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/female-face-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22802,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/female-face-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    }
+  ],
+  "pass": true
+}
