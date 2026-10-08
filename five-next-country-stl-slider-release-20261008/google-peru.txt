@@ -1,0 +1,189 @@
+Browser tab: 5, Title: "Peru topographic map STL - Google Search", URL: "https://www.google.com/search?q=Peru+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Peru topographic map STL - Google Search, URL: google.com/search
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp
+					12 combo box (collapsed) Description: Search, Value: Peru topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search
+					27 link Description: Shopping, Value: google.com/search
+					28 link Description: Videos, Value: google.com/search
+					29 link Description: Maps, Value: maps.google.com/maps
+					30 link Description: News, Value: google.com/search
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Value: google.com/goto, Description: Stl File for CNC Milling and 3D Printing | 3D Map STL of Peru Etsy https://www.etsy.com › listing › peru-topographic-map-...
+							44 button About this result
+							45 container
+								46 text This digital product is a  topographic 3D model of the terrain of Peru . This 3D model is in STL file format and therefore compatible with CNC routers and 3D ...
+							47 container
+								48 text $11.74 In stock
+								49 image Rated 5.0 out of 5, (1) user reviews
+								50 text Free delivery
+						51 container
+							52 container
+								53 heading AI Overview, Value: 2
+									54 text AI Overview
+								55 container
+									56 text You can buy  high-resolution 3D topographic terrain models of  Peru  in STL format for 3D printing and CNC routing directly on platforms like
+									57 link Description: Cults3D, Value: google.com/goto
+									58 text  or through digital listings on
+									59 link Description: Etsy, Value: google.com/goto
+									60 text .
+									61 button Related results
+								62 heading Model Specifications & Details, Value: 3
+									63 text Model Specifications & Details
+								64 content list
+									65 container
+										66 AXListMarker •
+										67 text Source Platform:
+										68 link Description: Shustrik Maps, Value: google.com/goto
+										69 text  via  Cults3D
+										70 button Related results
+									71 container
+										72 AXListMarker •
+										73 text File Format & Geometry:  STL format, polygonal triangles only with a closed base (optimized for FDM/SLA 3D printers and CNC wood/plastic routers).
+										74 button Related results
+								75 content list
+									76 container
+										77 link Description: Stl File for CNC Milling and 3D Printing | 3D Map STL of Peru. Opens in new tab., Value: google.com/goto
+										78 text Etsy
+										79 button Description: About this result, ID: snui-atr-vTPHapGRJ9ng7_UPi8zquAQ_dpi1wc_3
+										80 text Codingry 5 out of 5 stars Delivery Instant Download Your files will be available to download once payment is confirmed. Here's how...
+									81 container
+										82 link Description: Peru Topographic Map – 3D Model for 3D Printing & CNC Carving. Opens in new tab., Value: google.com/goto
+										83 text Cults 3D
+										84 button Description: About this result, ID: snui-atr-vTPHapGRJ9ng7_UPi8zquAQ_dpi1wc_7
+										85 text Jun 10, 2025 —  3D model description High-polygon 3D model of Peru in STL format File size: 239 MB Model size: 150 mm x 220 mm x 1.9 mm Projection...
+									86 container
+										87 link Description: Peru Topographic Map – 3D Model for 3D Printing & CNC .... Opens in new tab., Value: google.com/goto
+										88 text 3D GO
+										89 button Description: About this result, ID: snui-atr-vTPHapGRJ9ng7_UPi8zquAQ_dpi1wc_11
+										90 text Jun 11, 2025 —  High-polygon 3D model of Peru in STL format. File size: 239 MB Model size: 150 mm x 220 mm x 1.9 mm. Projection: Mercator Scaling ...
+									91 container
+										92 link Description: Peru Topographic Map – STL Model for 3D Printing & CNC. Opens in new tab., Value: google.com/goto
+										93 text Shustrik Maps
+										94 button Description: About this result, ID: snui-atr-vTPHapGRJ9ng7_UPi8zquAQ_dpi1wc_15
+										95 text Product: Peru Topographic Map 3D Model ($15.00) Format: STL file, polygonal tris only, closed base, digital elevation model based ...
+							96 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								97 text Show more
+						98 container
+							99 heading Web results, Value: 2
+								100 text Web results
+							101 link Value: google.com/goto, Description: Peru Topographic Map – STL Model for 3D Printing & CNC Shustrik Maps https://shustrik-maps.com › ... › Countries
+							102 button About this result
+							103 container
+								104 text High-detail Peru Topographic Map in STL format . Ideal for 3D printing & CNC carving in education, design, souvenirs, and terrain visualization.
+							105 container
+								106 text $15.00 In stock Free delivery
+						107 container
+							108 link Value: google.com/goto, Description: Peru topographic map, elevation, terrain topographic-map.com https://en-us.topographic-map.com › map-w15dnx › Peru
+							109 button About this result
+							110 text Average elevation: 2116 ft • Peru •
+							111 text Peru's topography is strikingly diverse
+							112 text , shaped by the Andes mountain range that runs through the center of the country, ...
+						113 container
+							114 link Description: "peru map" 3D Models to Print Yeggi https://www.yeggi.com › peru+map, Value: google.com/goto
+							115 button About this result
+							116 text Peru Topographic Map 3D Model for 3D
+							117 text . Map of Peru outline map STL File for 3D printi... STL File for 3D printing...
+						118 container
+							119 link Value: google.com/goto, Description: Peru Topographic Maps - Perry-Castañeda Map Collection The University of Texas at Austin https://maps.lib.utexas.edu › maps › topo › peru
+							120 button About this result
+							121 text PCL Map Collection > Peru Topographic Maps.
+							122 text Peru Topographic Maps 1:100,000
+							123 text . U.S. Defense Mapping Agency, Series J632. Clickable Index Map · Index Map (JPEG).
+							124 link Description: Read more, Value: google.com/goto
+						125 container
+							126 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: google.com/goto
+							127 button About this result
+							128 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: google.com/goto
+							129 text In this step-by-step tutorial, we dive into  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! STL files ...
+						130 container
+							131 link Description: Peru Map 3d Etsy https://www.etsy.com › market › peru_map_3d, Value: google.com/goto
+							132 button About this result
+							133 text Explore unique 3D maps of Peru,
+							134 text three-dimensional topographical map of Peru
+							135 text  showing detailed mountain Peru. STL of Peru (163) $11.77 Digital Download. Printing ...
+							136 image Rated 4.5 out of 5,
+							137 text store rating  (
+							138 link Description: 1.1K user reviews, Value: google.com/m/storepages
+							139 text )
+						140 container
+							141 link Value: google.com/goto, Description: Peru Map Origami by Eduardo Esaine | Download free STL ... Printables.com https://www.printables.com › model › 153228-peru-ma...
+							142 button About this result
+							143 text Here a Peru Map in 3D with Origami look. |
+							144 text Download free 3D printable STL models
+							145 text . The colors of the peruvian flag are red and white,
+						146 container
+							147 link Value: google.com/goto, Description: 3d Peru Map Peru Topographic Map 3D Model File Stl File For ... solemare.fi https://solemare.fi › ...
+							148 button About this result
+							149 text HOT !
+							150 text 3d Peru Map Peru Topographic Map
+							151 text  3D Model File Stl File For CNC Milling And 3D Printing 3D Map STL Of Peru Australia · Pick up at the store (Free shipping).
+							152 link Description: Read more, Value: google.com/goto
+							153 text $15.00
+							154 image Rated 4.0 out of 5, (159) user reviews
+				155 container
+					156 heading Page Navigation, Value: 1
+						157 text Page Navigation
+					158 text 1
+					159 link Description: Page 2, Value: google.com/search
+					160 link Description: Page 3, Value: google.com/search
+					161 link Description: Page 4, Value: google.com/search
+					162 link Description: Page 5, Value: google.com/search
+					163 link Description: Page 6, Value: google.com/search
+					164 link Description: Page 7, Value: google.com/search
+					165 link Description: Page 8, Value: google.com/search
+					166 link Description: Page 9, Value: google.com/search
+					167 link Description: Page 10, Value: google.com/search
+					168 heading Next, Value: 2
+						169 link Description: Next, Value: google.com/search, ID: pnnext
+			170 container sfooter
+				171 heading Footer Links, Value: 1
+					172 text Footer Links
+				173 container fbar
+					174 container
+						175 button Unknown  - Can't determine location
+							176 container
+								177 text Unknown
+							178 container
+								179 text  -  Can't determine location
+						180 text  -
+						181 button Update location
+							182 text Update location
+					183 container fsl
+						184 link Description: Help, Value: support.google.com/websearch/
+						185 link Description: Send feedback, Value: google.com/search
+						186 link Description: Privacy, Value: policies.google.com/privacy
+						187 link Description: Terms, Value: policies.google.com/terms
+
+The focused UI element is 1 AXWebArea Peru topographic map STL - Google Search, URL: google.com/search

@@ -1,0 +1,195 @@
+Browser tab: 5, Title: "Paraguay topographic map STL - Google Search", URL: "https://www.google.com/search?q=Paraguay+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Paraguay topographic map STL - Google Search, URL: google.com/search
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp
+					12 combo box (collapsed) Description: Search, Value: Paraguay topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search
+					27 link Description: Shopping, Value: google.com/search
+					28 link Description: Videos, Value: google.com/search
+					29 link Description: Maps, Value: maps.google.com/maps
+					30 link Description: News, Value: google.com/search
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Value: google.com/goto, Description: 3D Paraguay Map Print - TurboSquid 1727063 Pinterest https://in.pinterest.com › pin › 3d-paraguay-map-print-t...
+							44 button About this result
+							45 container
+								46 text This 3D model is in STL  file  format and therefore compatible with CNC routers and 3D printers. The elevation of topographical features like mountains and rivers ...
+								47 link Description: Read more, Value: google.com/goto
+						48 container
+							49 container
+								50 heading AI Overview, Value: 2
+									51 text AI Overview
+								52 container
+									53 text You can find ready-to-print 3D topographic relief models of  Paraguay  in STL format on platforms like
+									54 link Description: Etsy, Value: google.com/goto
+									55 text  or
+									56 link Description: Shustrik Maps, Value: google.com/goto
+									57 text .
+									58 button Related results
+								59 heading Where to Find Paraguay Topographic STL Models, Value: 3
+									60 text Where to Find Paraguay Topographic STL Models
+								61 content list
+									62 container
+										63 AXListMarker •
+										64 text Etsy:  Independent digital creators offer optimized  Paraguay Topographic Terrain 3D Models  specifically adjusted for CNC routers and 3D printers with exaggerated elevations for visual clarity.
+										65 link Description: Etsy, Value: google.com/goto
+										66 button Etsy (+1) - Related results
+											67 text Etsy
+											68 text  +1
+									69 container
+										70 AXListMarker •
+										71 text Shustrik Maps:  You can purchase high-polygon  Paraguay STL Models  featuring closed polygonal bases and digital elevation model (DEM) accuracy compatible with FDM/SLA resin printers and CNC carvers.
+								72 content list
+									73 container
+										74 link Description: Paraguay Topographic Terrain 3D Model STL Map ... - Etsy. Opens in new tab., Value: google.com/goto
+										75 text Etsy
+										76 button Description: About this result, ID: snui-atr-0DPHaoCOK_mN9u8PuYuB6QY_jathsa_9
+										77 text Custom 3D Terrain Map STL for CNC Carving | Personalized Topographic Relief Model | Digital Download $29.78 Detailed topographic m...
+									78 container
+										79 link Description: Stl File for CNC Milling and 3D Printing | 3D Map STL of Paraguay. Opens in new tab., Value: google.com/goto
+										80 text Etsy
+										81 button Description: About this result, ID: snui-atr-0DPHaoCOK_mN9u8PuYuB6QY_jathsa_13
+										82 text Highlights This digital product is a topographic 3D model of the terrain of Paraguay. This 3D model is in STL file format and ther...
+									83 container
+										84 link Description: Paraguay Topographic Map – STL Model for 3D Printing & CNC. Opens in new tab., Value: google.com/goto
+										85 text Shustrik Maps
+										86 button Description: About this result, ID: snui-atr-0DPHaoCOK_mN9u8PuYuB6QY_jathsa_17
+										87 text High-polygon 3D model of Paraguay in STL format Paraguay Topographic Map – 3D Model for 3D Printing & CNC Carving quantity You can...
+									88 container
+										89 link Description: 🇵🇾 Paraguay Topographic Map – 3D Model for 3D Printing & CNC .... Opens in new tab., Value: google.com/goto
+										90 text Cults 3D
+										91 button Description: About this result, ID: snui-atr-0DPHaoCOK_mN9u8PuYuB6QY_jathsa_21
+										92 text Jun 10, 2025 —  3D model description High-polygon 3D model of Paraguay in STL format File size: 144 MB Model size: 204 mm x 220 mm x 2.5 mm Projec...
+									93 container
+										94 link Description: map2stl.com: Create 3d printable STL models from any place on Earth. Opens in new tab., Value: google.com/goto
+										95 text map2stl.com
+										96 button Description: About this result, ID: snui-atr-0DPHaoCOK_mN9u8PuYuB6QY_jathsa_25
+										97 text map2STL.com Map Model Settings To navigate the map with touch gestures double-tap and hold your finger on the map, then drag the m...
+							98 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								99 text Show more
+						100 container
+							101 heading Web results, Value: 2
+								102 text Web results
+							103 link Value: google.com/goto, Description: Paraguay Topographic Terrain 3D Model STL Map ... Etsy https://www.etsy.com › listing › paraguay-topographic-...
+							104 button About this result
+							105 container
+								106 text Paraguay Topographic Terrain 3D model STL Map  Model for CNC Milling and Printing. Your files will be available to download once payment
+							107 container
+								108 text $14.99 In stock
+								109 image Rated 4.8 out of 5, (412) user reviews
+								110 text Free delivery
+						111 container
+							112 link Value: google.com/goto, Description: Paraguay topographic map, elevation, terrain topographic-map.com https://en-gb.topographic-map.com › map-xdm4s › Par...
+							113 button About this result
+							114 text Visualization and sharing of free topographic maps.
+							115 text Average elevation: 199 m
+							116 text  Minimum elevation: 44 m Maximum elevation: 802 m. Average elevation: 126 m. ...
+						117 container
+							118 link Description: 3D Printing Digital Elevation Models OpenTopography https://opentopography.org › learn, Value: google.com/goto
+							119 button About this result
+							120 text We use the DEMto3D plugin in QGIS to generate the
+							121 text STL
+							122 text  file, which can then be viewed and modified using the 3D Builder software. You can find a number of pre- ...
+							123 link Description: Read more, Value: google.com/goto
+						124 container
+							125 link Description: "paraguay" 3D Models to Print Yeggi https://www.yeggi.com › paraguay, Value: google.com/goto
+							126 button About this result
+							127 text 282 "paraguay" printable 3D Models. Every Day new 3D Models from all over the World. Click to find the best Results for para
+							128 text guay Models
+							129 text  for your 3D Printer.
+						130 container
+							131 link Value: google.com/goto, Description: Free relief map of Paraguay Blue Green Atlas https://bluegreenatlas.com › maps › relief_map_of_para...
+							132 button About this result
+							133 text Free high-resolution relief map of Paraguay
+							134 text . Topographical map of Paraguay. Topography: NASA SRTM3 (Public domain).
+						135 container
+							136 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: google.com/goto
+							137 button About this result
+							138 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: google.com/goto
+							139 text In this step-by-step tutorial, we dive into  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide!
+						140 container
+							141 link Value: google.com/goto, Description: Welcome to TouchTerrain, the free web app for creating 3D ... TouchTerrain https://touchterrain.geol.iastate.edu
+							142 button About this result
+							143 text Click a location to start. Welcome to TouchTerrain, a web app for creating 3D printable
+							144 text terrain
+							145 text  models. Select a starting area by clicking on it.
+							146 link Description: Read more, Value: google.com/goto
+						147 container
+							148 link Value: google.com/goto, Description: Paraguay Topographic Map – STL Model for 3D Printing & ... Shustrik Maps https://shustrik-maps.com › ... › Countries
+							149 button About this result
+							150 text High-detail Paraguay Topographic Map in STL format
+							151 text . Ideal for 3D printing & CNC carving in education, design, souvenirs, and terrain visualization.
+							152 text $15.00
+							153 text In stock
+							154 text Free delivery
+				155 container
+					156 container
+						157 heading People also search for, Value: 2
+							158 text People also search for
+						159 link Description: Paraguay topographic map stl free download, Value: google.com/search
+						160 link Description: Paraguay topographic map stl free, Value: google.com/search
+						161 link Description: Paraguay topographic map stl 3d print, Value: google.com/search
+					162 heading Page Navigation, Value: 1
+						163 text Page Navigation
+					164 text 1
+					165 link Description: Page 2, Value: google.com/search
+					166 link Description: Page 3, Value: google.com/search
+					167 link Description: Page 4, Value: google.com/search
+					168 link Description: Page 5, Value: google.com/search
+					169 link Description: Page 6, Value: google.com/search
+					170 link Description: Page 7, Value: google.com/search
+					171 link Description: Page 8, Value: google.com/search
+					172 link Description: Page 9, Value: google.com/search
+					173 link Description: Page 10, Value: google.com/search
+					174 heading Next, Value: 2
+						175 link Description: Next, Value: google.com/search, ID: pnnext
+			176 container sfooter
+				177 heading Footer Links, Value: 1
+					178 text Footer Links
+				179 container fbar
+					180 container
+						181 button Unknown  - Can't determine location
+							182 container
+								183 text Unknown
+							184 container
+								185 text  -  Can't determine location
+						186 text  -
+						187 button Update location
+							188 text Update location
+					189 container fsl
+						190 link Description: Help, Value: support.google.com/websearch/
+						191 link Description: Send feedback, Value: google.com/search
+						192 link Description: Privacy, Value: policies.google.com/privacy
+						193 link Description: Terms, Value: policies.google.com/terms
+
+The focused UI element is 1 AXWebArea Paraguay topographic map STL - Google Search, URL: google.com/search

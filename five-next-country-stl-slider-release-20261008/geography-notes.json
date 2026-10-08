@@ -1,0 +1,37 @@
+[
+  {
+    "id": 20046,
+    "slug": "oman",
+    "name": "Oman",
+    "observed": "Tall diagonal mainland with a broad smooth southern body, straight angular southwest border and rugged curved northern mountain belt. Preserve the isolated tall narrow northern exclave, tiny isolated piece below it, eastern offshore island and tiny southern coastal fragments exactly as reference; gaps filled only by backing, never connect geography artificially.",
+    "own_refs": 2
+  },
+  {
+    "id": 20070,
+    "slug": "peru",
+    "name": "Peru",
+    "observed": "Long northwest-to-southeast mainland with irregular upper body, broad flatter northeast, a strong rugged Andean ridge belt running diagonally along western and southern parts, narrow smoother western coastal band and angular eastern notches. Preserve tiny coastal fragments if visible.",
+    "own_refs": 2
+  },
+  {
+    "id": 20078,
+    "slug": "paraguay",
+    "name": "Paraguay",
+    "observed": "Broad rounded-angular upper-left body with mostly smooth low relief, deep upper-right inward step, smaller narrow lower-right body with subtle ridges in eastern and southern portions. Preserve the full distinctive asymmetric silhouette; do not invent islands or large mountains.",
+    "own_refs": 2
+  },
+  {
+    "id": 20086,
+    "slug": "panama",
+    "name": "Panama",
+    "observed": "Very wide, thin S-curved horizontal isthmus; irregular broader mountainous western lobe, narrow curved central neck, broad eastern downward lobe with rougher ridges, deeply indented bays and many small detached islands along both coasts. All skinny parts, bays and islands must be faithfully preserved without filling with new land.",
+    "own_refs": 2
+  },
+  {
+    "id": 20095,
+    "slug": "pakistan",
+    "name": "Pakistan",
+    "observed": "Wide lower-western mainland with a long tapered western protrusion, rough central-west ridges, smoother broad eastern river plain and a tall upward northern mountain crown with a thin far-right pointed arm. Copy only supplied product reference, without extending geographic or political claims.",
+    "own_refs": 1
+  }
+]

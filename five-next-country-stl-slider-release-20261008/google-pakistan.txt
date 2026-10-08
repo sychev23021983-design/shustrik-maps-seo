@@ -1,0 +1,225 @@
+Browser tab: 5, Title: "Pakistan topographic map STL - Google Search", URL: "https://www.google.com/search?q=Pakistan+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Pakistan topographic map STL - Google Search, URL: google.com/search
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp
+					12 combo box (collapsed) Description: Search, Value: Pakistan topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search
+					27 link Description: Shopping, Value: google.com/search
+					28 link Description: Videos, Value: google.com/search
+					29 link Description: News, Value: google.com/search
+					30 link Description: Maps, Value: maps.google.com/maps
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Description: "pakistan map" 3D Models to Print Yeggi https://www.yeggi.com › pakistan+map, Value: google.com/goto
+							44 button About this result
+							45 container
+								46 text Pakistan Topographic Map 3D Model  for 3D Printin... Download: free Website: 3D Miniature STL File for 3D
+						47 container
+							48 link Value: google.com/goto, Description: topographical map of Pakistan by Abs soh Printables.com https://www.printables.com › model › 954489-topogra...
+							49 button About this result
+							50 text A topography map of Pakistan made using touch terrain for educational purposes. |
+							51 text Download free 3D printable STL models
+							52 text .
+						53 container
+							54 container
+								55 heading AI Overview, Value: 2
+									56 text AI Overview
+								57 container
+									58 text You can find and download 3D printable topographic STL models of  Pakistan  on popular repositories like
+									59 link Description: Thingiverse, Value: google.com/goto
+									60 text ,
+									61 link Description: Printables, Value: google.com/goto
+									62 text , and
+									63 link Description: Cults 3D, Value: google.com/goto
+									64 text .
+									65 button Related results
+								66 heading Where to Find Pakistan Topographic STL Models, Value: 3
+									67 text Where to Find Pakistan Topographic STL Models
+								68 content list
+									69 container
+										70 AXListMarker •
+										71 text Free Downloads:  Community-created elevation models based on Digital Elevation Models (DEM) are available on  Thingiverse ,  Printables , and
+										72 link Description: MyMiniFactory, Value: google.com/goto
+										73 text .
+										74 button Related results
+									75 container
+										76 AXListMarker •
+										77 text High-Resolution & Paid Files:  Detailed models optimized for CNC carving and high-end 3D printing (FDM or SLA) can be found on
+										78 link Description: Shustrik Maps, Value: google.com/goto
+										79 text  and
+										80 link Description: Etsy, Value: google.com/goto
+										81 text .
+										82 button Related results
+								83 content list
+									84 container
+										85 link Description: I 3D printed a topographic map of Pakistan - Reddit. Opens in new tab., Value: google.com/goto
+										86 text Reddit · r/pakistan
+										87 button Description: About this result, ID: snui-atr-ATTHaqC_H-qA9u8P4o6umQk_sixkkd_7
+										88 text July 22, 2024 —  Model File Sharing: The creator has made the 3D model file for the topographic map available on Thingiverse at https://www.thingiv...
+									89 container
+										90 link Description: topographical map of Pakistan by Abs soh - Printables.com. Opens in new tab., Value: google.com/goto
+										91 text Printables.com
+										92 button Description: About this result, ID: snui-atr-ATTHaqC_H-qA9u8P4o6umQk_sixkkd_11
+										93 text A topography map of Pakistan made using touch terrain for educational purposes. | Download free 3D printable STL models.
+									94 container
+										95 link Description: Pakistan Terrain Map STL | CNC Carving File, Wood Relief Art, 3D .... Opens in new tab., Value: google.com/goto
+										96 text Etsy
+										97 button Description: About this result, ID: snui-atr-ATTHaqC_H-qA9u8P4o6umQk_sixkkd_15
+										98 text Highlights Premium Pakistan design - clean, high-detail 3D models optimized for professional CNC and 3D printing results. High-res...
+									99 container
+										100 link Description: Pakistan Topographic Map – STL Model for 3D Printing & CNC. Opens in new tab., Value: google.com/goto
+										101 text Shustrik Maps
+										102 button Description: About this result, ID: snui-atr-ATTHaqC_H-qA9u8P4o6umQk_sixkkd_19
+										103 text High-polygon 3D model of Pakistan in STL format Pakistan Topographic Map – 3D Model for 3D Printing & CNC Carving quantity You can...
+									104 container
+										105 link Description: Pakistan Topographic Map – 3D Model for 3D Printing & CNC Carving. Opens in new tab., Value: google.com/goto
+										106 text Cults 3D
+										107 button Description: About this result, ID: snui-atr-ATTHaqC_H-qA9u8P4o6umQk_sixkkd_23
+										108 text Jun 10, 2025 —  3D model description High-polygon 3D model of Pakistan in STL format File size: 159 MB Model size: 220 mm x 201 mm x 2.3 mm Projec...
+									109 container
+										110 link Description: topographical map of Pakistan - abs soh - MyMiniFactory. Opens in new tab., Value: google.com/goto
+										111 text MyMiniFactory
+										112 button Description: About this result, ID: snui-atr-ATTHaqC_H-qA9u8P4o6umQk_sixkkd_27
+										113 text Jul 26, 2024 —  A topographical map of pakistan made using data from touchterrain .0.16mm layer height | Download free and paid 3D printable STL f...
+									114 container
+										115 link Description: map2stl.com: Create 3d printable STL models from any place on Earth. Opens in new tab., Value: google.com/goto
+										116 text map2stl.com
+										117 button Description: About this result, ID: snui-atr-ATTHaqC_H-qA9u8P4o6umQk_sixkkd_31
+										118 text Settings Box Size: 22.0km x 27.7km Box Scale (sampling rate): 2 Model Scale: 1.00 Vertical Scale Factor: 3.0 Base Height: 3mm Wate...
+									119 container
+										120 link Description: 3D map Pakistan | Create Custom 3D Maps Online. Opens in new tab., Value: google.com/goto
+										121 text 3D-Mapper
+										122 button Description: About this result, ID: snui-atr-ATTHaqC_H-qA9u8P4o6umQk_sixkkd_34
+										123 text 3d-mapper.com: Browser-based 3D map creation tool for Pakistan supporting PNG image export (up to 4000x4000 px), 3D print files (S...
+							124 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								125 text Show more
+						126 container
+							127 heading Web results, Value: 2
+								128 text Web results
+							129 link Description: I 3D printed a topographic map of Pakistan Reddit · r/pakistan 190+ comments · 2 years ago, Value: google.com/goto
+							130 button About this result
+							131 container
+								132 text I  3D printed a topographic map of Pakistan National . It's based on a satellite elevation map, so yes its accurate. https://www.thingiverse.com/ ...
+							133 container
+								134 link Description: Nag-3D print ako ng topographic map ng Pakistan - Reddit, Value: google.com/goto
+								135 text Jul 22, 2024
+								136 link Description: I 3D printed a topographic map of Pakistan : r/WorldDailyTops, Value: google.com/goto
+								137 text Jul 23, 2024
+								138 link Description: More results from www.reddit.com, Value: google.com/search
+						139 container
+							140 link Description: Pakistan Topographic Map Thingiverse https://www.thingiverse.com › thing:6705881, Value: google.com/goto
+							141 button About this result
+							142 text Jul 23, 2024  —
+							143 text Map of Pakistan
+							144 text , as officially recognized by the Government of Pakistan. Elevation data is from Earth Engine Digital Elevation Model (DEM).
+							145 link Description: Read more, Value: google.com/goto
+						146 container
+							147 link Description: Map Pakistan 3d Etsy https://www.etsy.com › market › map_pakistan_3d, Value: google.com/goto
+							148 button About this result
+							149 text A 3D model of Pakistan in STL format.
+							150 text Pakistan HD Topographic Terrain 3D model STL Map
+							151 text  Model for CNC Milling and Printing (409) AU$24.53 Digital Download. Sale ...
+						152 container
+							153 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: google.com/goto
+							154 button About this result
+							155 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: google.com/goto
+							156 text In this step-by-step tutorial, we dive into  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! 3D printing.
+						157 container
+							158 link Description: 3D map Pakistan | Create Custom 3D Maps Online 3D-Mapper https://3d-mapper.com › 3d-map-pakistan, Value: google.com/goto
+							159 button About this result
+							160 text Create, edit, and download 3D
+							161 text maps
+							162 text  of
+							163 text Pakistan
+							164 text  effortlessly … 3D
+							165 text maps
+							166 text  of
+							167 text Pakistan
+							168 text  in minutes! Download, print or embed it. Download the 3D print file (
+							169 text STL
+							170 text  or ...
+						171 container
+							172 link Value: google.com/goto, Description: Free relief map of Pakistan Blue Green Atlas https://bluegreenatlas.com › maps › relief_map_of_paki...
+							173 button About this result
+							174 text Free high-resolution relief map of Pakistan
+							175 text . The 3D relief maps. Topographical map of Pakistan. Topography: NASA SRTM3 (Public domain).
+						176 container
+							177 link Value: google.com/goto, Description: Pakistan's Biggest 3D Printed Map – A Landmark Achievement ... Facebook · Creative 3D Arabia 1 reaction · 8 months ago
+							178 button About this result
+							179 link Value: google.com/goto, Description: Pakistan's Biggest 3D Printed Map – A Landmark Achievement ... by Creative 3D Arabia on Facebook. Play on Facebook. 0:32
+							180 text ✨ A visually stunning, technically precise, and impactful representation of  Pakistan's resource potential —the biggest 3D printed map ever ...
+				181 container
+					182 container
+						183 heading People also search for, Value: 2
+							184 text People also search for
+						185 link Description: Pakistan topographic map stl free download, Value: google.com/search
+						186 link Description: Pakistan topographic map stl pdf, Value: google.com/search
+						187 link Description: Pakistan topographic map stl free, Value: google.com/search
+						188 link Description: Pakistan topographic map stl 3d print, Value: google.com/search
+						189 link Description: Pakistan topographic map stl download, Value: google.com/search
+						190 link Description: Pakistan map, Value: google.com/search
+						191 link Description: Pakistan 3D map, Value: google.com/search
+					192 heading Page Navigation, Value: 1
+						193 text Page Navigation
+					194 text 1
+					195 link Description: Page 2, Value: google.com/search
+					196 link Description: Page 3, Value: google.com/search
+					197 link Description: Page 4, Value: google.com/search
+					198 link Description: Page 5, Value: google.com/search
+					199 link Description: Page 6, Value: google.com/search
+					200 link Description: Page 7, Value: google.com/search
+					201 link Description: Page 8, Value: google.com/search
+					202 link Description: Page 9, Value: google.com/search
+					203 link Description: Page 10, Value: google.com/search
+					204 heading Next, Value: 2
+						205 link Description: Next, Value: google.com/search, ID: pnnext
+			206 container sfooter
+				207 heading Footer Links, Value: 1
+					208 text Footer Links
+				209 container fbar
+					210 container
+						211 button Unknown  - Can't determine location
+							212 container
+								213 text Unknown
+							214 container
+								215 text  -  Can't determine location
+						216 text  -
+						217 button Update location
+							218 text Update location
+					219 container fsl
+						220 link Description: Help, Value: support.google.com/websearch/
+						221 link Description: Send feedback, Value: google.com/search
+						222 link Description: Privacy, Value: policies.google.com/privacy
+						223 link Description: Terms, Value: policies.google.com/terms
+
+The focused UI element is 1 AXWebArea Pakistan topographic map STL - Google Search, URL: google.com/search

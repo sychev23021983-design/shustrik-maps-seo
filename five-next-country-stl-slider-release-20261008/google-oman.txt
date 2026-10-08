@@ -1,0 +1,199 @@
+Browser tab: 5, Title: "Oman topographic map STL - Google Search", URL: "https://www.google.com/search?q=Oman+topographic+map+STL&hl=en&gl=us&pws=0".
+0 AXWebArea Oman topographic map STL - Google Search, URL: google.com/search?q=Oman+topographic+map+STL&hl=en&gl=us&pws=0
+	1 container gsr
+		2 container
+			3 link Skip to main content
+				4 text Skip to main content
+			5 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		6 container searchform
+			7 container tsf
+				8 container
+					9 link Description: Learn more about World Space Week 2026, Value: google.com/webhp?hl=en&ictx=2&sa=X&ved=2ahUKEwjhwdma4amXAxVNSfEDHXrLOAAQPXoECAYQBA
+					11 combo box (collapsed) Description: Search, Value: Oman topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					12 button  Clear
+					13 button Search by voice
+					14 button Search by image
+			15 button Description: Settings, ID: og-te
+			16 button Share
+			17 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			18 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DOman%2Btopographic%2Bmap%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		19 container cnt
+			20 container
+				21 content list
+					22 link Description: AI Mode, Value: google.com/search?q=Oman+topographic+map+STL&sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQntFEFM1qhiNr1nAgSwUqhxvS8w0Yg:1791439773531&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjhwdma4amXAxVNSfEDHXrLOAAQ2J8OegQIEhAD
+					23 link (disabled) All
+						24 text All
+					25 link Description: Images, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQntFEFM1qhiNr1nAgSwUqhxvS8w0Yg:1791439773531&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&q=Oman+topographic+map+STL&sa=X&ved=2ahUKEwjhwdma4amXAxVNSfEDHXrLOAAQtKgLegQIGBAB
+					26 link Description: Shopping, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQntFEFM1qhiNr1nAgSwUqhxvS8w0Yg:1791439773531&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&q=Oman+topographic+map+STL&ved=1t:220175&ictx=111
+					27 link Description: Videos, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQntFEFM1qhiNr1nAgSwUqhxvS8w0Yg:1791439773531&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&q=Oman+topographic+map+STL&sa=X&ved=2ahUKEwjhwdma4amXAxVNSfEDHXrLOAAQtKgLegQIFxAB
+					28 link Description: News, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQntFEFM1qhiNr1nAgSwUqhxvS8w0Yg:1791439773531&q=Oman+topographic+map+STL&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&sa=X&ved=2ahUKEwjhwdma4amXAxVNSfEDHXrLOAAQ0pQJegQIFRAB
+					29 link Description: Maps, Value: maps.google.com/maps?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&output=search&q=Oman+topographic+map+STL&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&entry=mc&ved=1t:200715&ictx=111
+					30 button (collapsed) More filters, Secondary Actions: Expand
+						31 container More filters
+							32 text More
+				33 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			34 heading Search Results, Value: 1
+				35 text Search Results
+			36 container center_col
+				37 container gevUs
+					38 container rso
+						39 container
+							40 heading Web results, Value: 2
+								41 text Web results
+							42 link Description: Oman Topographic Map – STL Model for 3D Printing & CNC Shustrik Maps https://shustrik-maps.com › ... › Countries, Value: google.com/goto?url=CAESrQEB6zswFeJw0Rx0t8A2V-PhUg45ODzk99swutTjZ1DWBD9ei9_VZYcqrb8e3VS6wFOUEnt2iDnEMFG6mDeLIm4sK1XdNdTUMqRJ2M_L0MaNZo83isukaXtkXWKZxo-VLnK464P5D1cBludcxsOuP4T-Vwk6Vob_ypNPrKv96Qv02TtjEvWy6UNzJutoR0nk58tM0fHGoHOagf0IXTzMMcWaHEIBrrpT6u8dv-R3sA
+							43 button About this result
+							44 container
+								45 text High-detail Oman Topographic Map in STL format . Ideal for 3D printing & CNC carving in education, design, souvenirs, and terrain visualization.
+							46 container
+								47 text $15.00 In stock Free delivery
+						48 container
+							49 container
+								50 heading AI Overview, Value: 2
+									51 text AI Overview
+								52 container
+									53 text You can  download or purchase 3D-printable topographic map STL files of  Oman  from digital model marketplaces like
+									54 link Description: Cults3D, Value: google.com/goto?url=CAES4wEB6zswFSz1iXg3S9-yOZIkBejO_AER2QhxFGujQ6ikb-mknckTKoTC0wUk03y0kBFDN4O27EQMoMWiZCS9E8QRg8FPfvmgr2joYv7S6t65bX3bLOc1lCsRujwpVW7sjlVtGDiV5ZzwtZy79IX_qhUXGnE8ctjdtHx2WL-LA2_6SzlKmHPj1nzGvVG0jfoLR5SoD2bsyGZk4lGcQQCLq0sMBZZSIxVoa3JBGjUG_Q4etuHHV9VT9uEAHV6emy0GuifkcTFW5yuil5lxEq2X7aKKbMnVDIaAy7xaSEHvkuGsbwDj7g
+									55 text  or
+									56 link Description: Etsy, Value: google.com/goto?url=CAESiwEB6zswFUdWwtzO2t_zJexRQJgVvaDSRRp5ZXOPQ4S8Gn_exXVhrdBt_zqNFOG7FlXLr0O3mxI-lgMFSg4kUOSWUlJxl2d_xCgjKdPdUGk6l6NNx52OkojSZkrILowje6leh0PwKwFT4-scYnNv6yfboOcB_7lbdnqEgLFJIfBuBg29-MQDCCkaZ18e
+									57 text .
+									58 button Related results
+								59 heading Where to Find Oman Topographic STL Files, Value: 3
+									60 text Where to Find Oman Topographic STL Files
+								61 content list
+									62 container
+										63 AXListMarker •
+										64 text Ready-made commercial models:  Platforms like  Cults3D  and
+										65 link Description: Shustrik Maps, Value: google.com/goto?url=CAESbAHrOzAV6PNNZB2ZwV_bIQRKA11NezC04t6Dsrl8KmfwAhrk6rmOkdqdRQwSGyWYIjja1pJUbpJ3EIcn7j5r-qy4r2D-xvvMeqdtPzFufx8e-oeUnEZKOCN4d7Nb-iOU04Zan4iq5-SiCo5dxw
+										66 text  offer high-polygon STL terrain models based on digital elevation data (DEM). These models capture features like the Hajar Mountains, coastal areas, and desert plains, usually formatted with a closed base for 3D printing or CNC routing.
+										67 button Related results
+									68 AXListMarker •
+								69 content list
+									70 container
+										71 link Description: Oman Topographic Map – STL Model for 3D Printing & CNC. Opens in new tab., Value: …
+										72 text Shustrik Maps
+										73 button Description: About this result, ID: snui-atr-nTPHarfuPKasxc8P9KmCiAI_y5lnzp_8
+										74 text Product: Oman Topographic Map 3D model for 3D printing and CNC carving ($15.00). Specifications: STL format; file size 94.8 MB; di...
+									75 container
+										76 link Description: Oman HD Topographic Terrain 3D Model STL Map ... - Etsy. Opens in new tab., Value: …
+										77 text Etsy
+										78 button Description: About this result, ID: snui-atr-nTPHarfuPKasxc8P9KmCiAI_y5lnzp_12
+										79 text May include: A grayscale 3D relief map of Oman, with detailed topographical features. Price:$14.99. Loading. Oman HD Topographic T...
+									80 container
+										81 link Description: Oman Topographic Map – 3D Model for 3D Printing & CNC .... Opens in new tab., Value: …
+										82 text Cults 3D
+										83 button Description: About this result, ID: snui-atr-nTPHarfuPKasxc8P9KmCiAI_y5lnzp_16
+										84 text Jun 10, 2025 —  High-polygon 3D model of Oman in STL format. File size: 94.8 MB Model size: 163 mm x 220 mm x 2.3 mm. Projection: Mercator
+									85 container
+										86 link Description: Muscat Oman - terrain map in 4 colors by Christian Böttger. Opens in new tab., Value: …
+										87 text Printables.com
+										88 button Description: About this result, ID: snui-atr-nTPHarfuPKasxc8P9KmCiAI_y5lnzp_20
+										89 text Terrain map of Muscat in Omancreated with Terrain2stl | Download free 3D printable STL models.
+									90 container
+										91 link Description: Make 3d Printed Topo Maps of Anywhere - Instructables. Opens in new tab., Value: …
+										92 text Instructables
+										93 button Description: About this result, ID: snui-atr-nTPHarfuPKasxc8P9KmCiAI_y5lnzp_24
+										94 text Jun 17, 2016 —  The basic process is as follows: * 1 Get digital elevation data for the area you wish to model. You will typically download that d...
+							95 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								96 text Show more
+						97 container
+							98 heading Web results, Value: 2
+								99 text Web results
+							100 link Value: …, Description: Oman HD Topographic Terrain 3D Model STL Map ... Etsy https://www.etsy.com › listing › oman-hd-topographic-t...
+							101 button About this result
+							102 container
+								103 text 3D relief map of Oman , A 3D topographic map of Oman, Price:$14.99 Loading. STL Map Model for CNC Milling and Printing Carved3D
+							104 container
+								105 text $14.99 In stock
+								106 image Rated 4.9 out of 5, (414) user reviews
+						107 container
+							108 link Value: …, Description: Oman topographic map, elevation, terrain topographic-map.com https://en-gb.topographic-map.com › map-w2vmt › O...
+							109 button About this result
+							110 text Visualization and sharing of free topographic maps.
+							111 text Average elevation: 127 m
+							112 text  Minimum elevation: -14 m Maximum elevation: 2,799 m … valleys, and deserts.
+						113 container
+							114 link Value: …, Description: Oman Topographic Map – 3D Model for 3D Printing & CNC ... Cults 3D https://cults3d.com › architecture › oman-topographic-...
+							115 button About this result
+							116 text Jun 10, 2025  —
+							117 text High-polygon 3D model of Oman in STL format
+							118 text . File size: 94.8 MB Model size: 163 mm x 220 mm x 2.3 mm. Projection: Mercator
+							119 link Description: Read more, Value: …
+							120 text $15.00
+							121 text 30-day returns
+						122 container
+							123 link Value: …, Description: Muscat Oman - terrain map in 4 colors by Christian Böttger Printables.com https://www.printables.com › model › related
+							124 button About this result
+							125 text Terrain map
+							126 text  of Muscat in Omancreated with Terrain2stl | Download free 3D printable
+							127 text STL
+							128 text  models.
+						129 container
+							130 link Description: 3D Printing Digital Elevation Models OpenTopography https://opentopography.org › learn, Value: …
+							131 button About this result
+							132 text We use the DEMto3D plugin in QGIS to generate the
+							133 text STL
+							134 text  file, which can then be viewed and modified using the 3D Builder software. You can find a number of pre- ...
+							135 link Description: Read more, Value: …
+						136 container
+							137 link Description: "oman map" 3D Models to Print Yeggi https://www.yeggi.com › oman+map, Value: …
+							138 button About this result
+							139 text Oman
+							140 text  3D
+							141 text Topographic
+							142 text  Coin.
+							143 text Oman Topographic Map
+							144 text  3D Model for 3D.
+							145 text STL
+							146 text  File for 3D printing and CNC ma...
+							147 text Oman Topographic Map
+							148 text  3D Model for 3D Printing
+						149 container
+							150 link Value: …, Description: Oman - Topographic Map Data & Satellite Imagery LAND INFO https://landinfo.com › country › oman-topographic-map...
+							151 button About this result
+							152 text INFO offers a variety of digital topographic map
+							153 text  & nautical chart data and satellite imagery products of Oman. View PDF oman facts
+						154 container
+							155 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: …
+							156 button About this result
+							157 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: …
+							158 text ...  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! 🗺️ Learn how to create breathtaking maps with just ...
+				159 container
+					160 container
+						161 heading People also search for, Value: 2
+							162 text People also search for
+						163 link Description: Oman topographic map stl 3d print, Value: …
+						164 link Description: Oman topographic map stl download, Value: …
+					165 heading Page Navigation, Value: 1
+						166 text Page Navigation
+					167 text 1
+					168 link Description: Page 2, Value: …
+					169 link Description: Page 3, Value: …
+					170 link Description: Page 4, Value: …
+					171 link Description: Page 5, Value: …
+					172 link Description: Page 6, Value: …
+					173 link Description: Page 7, Value: …
+					174 link Description: Page 8, Value: …
+					175 link Description: Page 9, Value: …
+					176 link Description: Page 10, Value: …
+					177 heading Next, Value: 2
+						178 link Description: Next, Value: …, ID: pnnext
+			179 container sfooter
+				180 heading Footer Links, Value: 1
+					181 text Footer Links
+				182 container fbar
+					183 container
+						184 button Unknown  - Can't determine location
+							185 container
+								186 text Unknown
+							187 container
+								188 text  -  Can't determine location
+						189 text  -
+						190 button Update location
+							191 text Update location
+					192 container fsl
+						193 link Description: Help, Value: support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+						194 link Description: Send feedback, Value: google.com/search?q=Oman+topographic+map+STL&hl=en&gl=us&pws=0#
+						195 link Description: Privacy, Value: …
+						196 link Description: Terms, Value: …
+
+The focused UI element is 0 AXWebArea Oman topographic map STL - Google Search, URL: google.com/search?q=Oman+topographic+map+STL&hl=en&gl=us&pws=0

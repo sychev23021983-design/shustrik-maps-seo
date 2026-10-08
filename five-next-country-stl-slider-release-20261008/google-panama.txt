@@ -1,0 +1,188 @@
+Browser tab: 5, Title: "Panama topographic map STL - Google Search", URL: "https://www.google.com/search?q=Panama+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Panama topographic map STL - Google Search, URL: google.com/search
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp
+					12 combo box (collapsed) Description: Search, Value: Panama topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search
+					27 link Description: Shopping, Value: google.com/search
+					28 link Description: Videos, Value: google.com/search
+					29 link Description: Maps, Value: maps.google.com/maps
+					30 link Description: News, Value: google.com/search
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Description: "map of panama" 3D Models to Print Yeggi https://www.yeggi.com › map+of+panama, Value: google.com/goto
+							44 button About this result
+							45 container
+								46 text Topographic Map of Panama 3D. Map of Panama STL File for. Download: free Website: Cults.  Panama Topographic Map 3D Model  for 3D Printing
+						47 container
+							48 link Description: Panama 1:50K Topographic Sheet Mosaic STRI GIS Portal https://stridata-si.opendata.arcgis.com › maps, Value: google.com/goto
+							49 button About this result
+							50 text This web map features the
+							51 text topographic sheet mosaic, scale 1:50000
+							52 text  for the Republic of Panama. The topographic sheet mosaic was prepared and first published ...
+						53 container
+							54 container
+								55 heading AI Overview, Value: 2
+									56 text AI Overview
+								57 container
+									58 text You can purchase and download 3D printable topographic relief models of  Panama  in STL format through the
+									59 link Description: Etsy Panama Terrain Map STL Listing, Value: google.com/goto
+									60 text  or find alternative mesh designs on the
+									61 link Description: Cults3D Panama Topographic Map Model, Value: google.com/goto
+									62 text .
+									63 button Related results
+								64 heading Where to Find Panama Topographic STL Files, Value: 3
+									65 text Where to Find Panama Topographic STL Files
+								66 content list
+									67 container
+										68 AXListMarker •
+										69 text Etsy (CNC & Printing):  High-resolution digital relief models optimized for software like Vectric VCarve, Cura, or Fusion 360 are available via the  Etsy Panama Terrain Map STL Listing .
+										70 link Description: Etsy, Value: google.com/goto
+										71 button Etsy - Related results
+											72 text Etsy
+									73 AXListMarker •
+								74 content list
+									75 container
+										76 link Description: Panama Terrain Map STL | 3D CNC Carving File, Wood Relief Art, .... Opens in new tab., Value: google.com/goto
+										77 text Etsy
+										78 button Description: About this result, ID: snui-atr-7DPHaoXzDZTm7_UP2cLgqQQ_xg6rh9_9
+										79 text Highlights Premium Panama 3D design - clean, high-detail 3D models optimized for professional CNC and 3D printing results. High-re...
+									80 container
+										81 link Description: Stl File for CNC Milling and 3D Printing | 3D Map STL of Panama. Opens in new tab., Value: google.com/goto
+										82 text Etsy
+										83 button Description: About this result, ID: snui-atr-7DPHaoXzDZTm7_UP2cLgqQQ_xg6rh9_13
+										84 text Highlights This digital product is a topographic 3D model of the terrain of Panama. This 3D model is in STL file format and theref...
+									85 container
+										86 link Description: Panama Topographic Map – 3D Model for 3D Printing & CNC Carving. Opens in new tab., Value: google.com/goto
+										87 text Cults 3D
+										88 button Description: About this result, ID: snui-atr-7DPHaoXzDZTm7_UP2cLgqQQ_xg6rh9_17
+										89 text Jun 10, 2025 —  3D model description High-polygon 3D model of Panama in STL format File size: 191 MB Model size: 220 mm x 91 mm x 2.8 mm Projectio...
+									90 container
+										91 link Description: "map of panama" 3D Models to Print - Yeggi. Opens in new tab., Value: google.com/goto
+										92 text Yeggi
+										93 button Description: About this result, ID: snui-atr-7DPHaoXzDZTm7_UP2cLgqQQ_xg6rh9_21
+										94 text 5000+ "map of panama" printable 3D Models. Every Day new 3D Models from all over the World. Click to find the best Results for map...
+							95 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								96 text Show more
+						97 container
+							98 heading Web results, Value: 2
+								99 text Web results
+							100 link Value: google.com/goto, Description: Panama Topographic Map 3D Model File | Stl File for CNC ... Etsy https://www.etsy.com › listing › panama-topographic-m...
+							101 button About this result
+							102 container
+								103 text This digital product is a  topographic 3D model of the terrain of Panama . This 3D model is in STL file format and therefore compatible with CNC routers and 3D ...
+								104 link Description: Read more, Value: google.com/goto
+							105 container
+								106 text $11.71 In stock
+								107 image Rated 4.8 out of 5, (160) user reviews
+								108 text Free delivery
+						109 container
+							110 link Value: google.com/goto, Description: Panama topographic map, elevation, terrain topographic-map.com https://en-us.topographic-map.com › map-px43q › Pan...
+							111 button About this result
+							112 text Average elevation: 299 ft.
+							113 text Panama's topography is characterized by a striking diversity of landscapes
+							114 text  that range from rugged mountains to expansive lowland ...
+						115 container
+							116 link Description: Panama Map 3d Stock Photos iStock https://www.istockphoto.com › Stock photos, Value: google.com/goto
+							117 button About this result
+							118 text 3D Render of a Topographic Map of Panama
+							119 text , Central America.All source data is in the public domain.Color texture: Made with Natural Earth.
+							120 link Description: Read more, Value: google.com/goto
+						121 container
+							122 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: google.com/goto
+							123 button About this result
+							124 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: google.com/goto
+							125 text In this step-by-step tutorial, we dive into  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! 3D printing.
+						126 container
+							127 link Description: Free relief map of Panama Blue Green Atlas https://bluegreenatlas.com › maps › relief_map_of_pan..., Value: google.com/goto
+							128 button About this result
+							129 text Free high-resolution relief map of Panama
+							130 text . The 3D relief maps. Topographical map of Panama. Topography: NASA SRTM3 (Public domain).
+						131 container
+							132 link Value: google.com/goto, Description: 3D Topographical Map of Panama | 3D Print Model CGTrader https://www.cgtrader.com › ... › Miniatures › Other
+							133 button About this result
+							134 text Jan 4, 2024  —  This
+							135 text STL file
+							136 text  is perfect for 3D printing enthusiasts, features plains, mountain ranges, and rivers, topographic maps.
+							137 image Rated 3.6 out of 5, (7) user reviews
+						138 container
+							139 link Value: google.com/goto, Description: 3D data modelling: topographic relief of Panama and ... ResearchGate https://www.researchgate.net › figure › D-data-modellin...
+							140 button About this result
+							141 text This study presents new
+							142 text maps
+							143 text  of the
+							144 text topographic
+							145 text  and geophysical setting and seismicity in the region of the Gulf of
+							146 text Panama
+							147 text . The spatial analysis is based on ...
+							148 link Description: Read more, Value: google.com/goto
+				149 container
+					150 container
+						151 heading People also search for, Value: 2
+							152 text People also search for
+						153 link Description: Panama topographic map stl free, Value: google.com/search
+						154 link Description: Panama topographic map stl 3d print, Value: google.com/search
+						155 link Description: Panama topographic map stl download, Value: google.com/search
+					156 heading Page Navigation, Value: 1
+						157 text Page Navigation
+					158 text 1
+					159 link Description: Page 2, Value: google.com/search
+					160 link Description: Page 3, Value: google.com/search
+					161 link Description: Page 4, Value: google.com/search
+					162 link Description: Page 5, Value: google.com/search
+					163 link Description: Page 6, Value: google.com/search
+					164 link Description: Page 7, Value: google.com/search
+					165 link Description: Page 8, Value: google.com/search
+					166 link Description: Page 9, Value: google.com/search
+					167 heading Next, Value: 2
+						168 link Description: Next, Value: google.com/search, ID: pnnext
+			169 container sfooter
+				170 heading Footer Links, Value: 1
+					171 text Footer Links
+				172 container fbar
+					173 container
+						174 button Unknown  - Can't determine location
+							175 container
+								176 text Unknown
+							177 container
+								178 text  -  Can't determine location
+						179 text  -
+						180 button Update location
+							181 text Update location
+					182 container fsl
+						183 link Description: Help, Value: support.google.com/websearch/
+						184 link Description: Send feedback, Value: google.com/search
+						185 link Description: Privacy, Value: policies.google.com/privacy
+						186 link Description: Terms, Value: policies.google.com/terms
+
+The focused UI element is 1 AXWebArea Panama topographic map STL - Google Search, URL: google.com/search

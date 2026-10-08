@@ -1,0 +1,84 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-oman-stl-cnc",
+      "product_id": 20046,
+      "primary": "Oman topographic map STL",
+      "supporting": [
+        "Oman terrain STL",
+        "Oman relief map STL",
+        "Oman map 3D print",
+        "Oman CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-peru-stl-cnc",
+      "product_id": 20070,
+      "primary": "Peru topographic map STL",
+      "supporting": [
+        "Peru terrain STL",
+        "Peru relief map STL",
+        "Peru map 3D print",
+        "Peru CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-paraguay-stl-cnc",
+      "product_id": 20078,
+      "primary": "Paraguay topographic map STL",
+      "supporting": [
+        "Paraguay terrain STL",
+        "Paraguay relief map STL",
+        "Paraguay map 3D print",
+        "Paraguay CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-panama-stl-cnc",
+      "product_id": 20086,
+      "primary": "Panama topographic map STL",
+      "supporting": [
+        "Panama terrain STL",
+        "Panama relief map STL",
+        "Panama map 3D print",
+        "Panama CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-pakistan-stl-cnc",
+      "product_id": 20095,
+      "primary": "Pakistan topographic map STL",
+      "supporting": [
+        "Pakistan terrain STL",
+        "Pakistan relief map STL",
+        "Pakistan map 3D print",
+        "Pakistan CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    }
+  ],
+  "note": "All five exact STL clusters are absent from the saved core: editorial product mapping only. Proposed paid digital-file queries are editorial hypotheses, not measured expansion. Existing elevation/vector clusters must not be reassigned to STL.",
+  "fresh_intent_evidence": "intent-evidence.json",
+  "google_results_observed": 5,
+  "location_confirmed": false
+}

@@ -1,0 +1,126 @@
+{
+  "pass": true,
+  "tool": "Native ImageGen; 20 separate calls",
+  "reviewed": [
+    {
+      "id": 20046,
+      "scene": "desk",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20046,
+      "scene": "wall",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20046,
+      "scene": "gift",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20046,
+      "scene": "commercial",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20070,
+      "scene": "desk",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20070,
+      "scene": "wall",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20070,
+      "scene": "gift",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20070,
+      "scene": "commercial",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20078,
+      "scene": "desk",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20078,
+      "scene": "wall",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20078,
+      "scene": "gift",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20078,
+      "scene": "commercial",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20086,
+      "scene": "desk",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20086,
+      "scene": "wall",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20086,
+      "scene": "gift",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20086,
+      "scene": "commercial",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20095,
+      "scene": "desk",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20095,
+      "scene": "wall",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20095,
+      "scene": "gift",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    },
+    {
+      "id": 20095,
+      "scene": "commercial",
+      "pass": true,
+      "note": "Individually inspected: own geographic reference and requested material retained; desktop relief and all fragments fully supported by one continuous solid backing. AI concept only; exact mesh geometry not verified."
+    }
+  ]
+}

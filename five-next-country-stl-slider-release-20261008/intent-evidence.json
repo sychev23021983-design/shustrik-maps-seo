@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-08",
+  "market": "USA",
+  "language": "English",
+  "parameters": {
+    "hl": "en",
+    "gl": "us",
+    "pws": 0
+  },
+  "location_footer": "Unknown / cannot determine location",
+  "measured_metrics": false,
+  "inference": "Editorial intent mapping from observed search results; no US-local rank or frequency measurement; AI Overview factual claims excluded",
+  "rows": [
+    {
+      "product_id": 20046,
+      "query": "Oman topographic map STL",
+      "url": "https://www.google.com/search?q=Oman+topographic+map+STL&hl=en&gl=us&pws=0",
+      "google_raw": "google-oman.txt",
+      "observation": "Observed paid whole-country STL seller listings alongside ordinary elevation maps, Muscat regional free STL and DEM tutorials. Target whole-country digital terrain STL; exclude regional/free/physical intent.",
+      "primary_source": "https://cults3d.com/en/3d-model/art/oman-map",
+      "actual_us_location_confirmed": false,
+      "measured_frequency": null,
+      "rank": null
+    },
+    {
+      "product_id": 20070,
+      "query": "Peru topographic map STL",
+      "url": "https://www.google.com/search?q=Peru+topographic+map+STL&hl=en&gl=us&pws=0",
+      "google_raw": "google-peru.txt",
+      "observation": "Observed paid STL listings for 3D printing/CNC, ordinary topographic map archives and free origami outline models. Target digital whole-country terrain STL; do not imply a regional Andes or Machu Picchu file.",
+      "primary_source": "https://www.etsy.com/listing/1431484166/peru-topographic-map-3d-model-file-stl",
+      "actual_us_location_confirmed": false,
+      "measured_frequency": null,
+      "rank": null
+    },
+    {
+      "product_id": 20078,
+      "query": "Paraguay topographic map STL",
+      "url": "https://www.google.com/search?q=Paraguay+topographic+map+STL&hl=en&gl=us&pws=0",
+      "google_raw": "google-paraguay.txt",
+      "observation": "Observed paid terrain STL listings, free relief maps and tools generating terrain meshes. Separate whole-country paid terrain file from outline, ordinary map and free-generator intent.",
+      "primary_source": "https://cults3d.com/en/3d-model/various/paraguay-mapa-contorno-outline-map",
+      "actual_us_location_confirmed": false,
+      "measured_frequency": null,
+      "rank": null
+    },
+    {
+      "product_id": 20086,
+      "query": "Panama topographic map STL",
+      "url": "https://www.google.com/search?q=Panama+topographic+map+STL&hl=en&gl=us&pws=0",
+      "google_raw": "google-panama.txt",
+      "observation": "Observed paid terrain STL listings and CGTrader print model, ordinary topographic sheet mosaic and stock renders. Whole-country relief file; avoid city/canal-only intent and physical wall-art sale implications.",
+      "primary_source": "https://cults3d.com/en/3d-model/architecture/topographic-map-of-panama-3d-terrain",
+      "actual_us_location_confirmed": false,
+      "measured_frequency": null,
+      "rank": null
+    },
+    {
+      "product_id": 20095,
+      "query": "Pakistan topographic map STL",
+      "url": "https://www.google.com/search?q=Pakistan+topographic+map+STL&hl=en&gl=us&pws=0",
+      "google_raw": "google-pakistan.txt",
+      "observation": "Observed digital whole-country STL/terrain sellers alongside physical relief maps and regional/coin models in supporting search. Use own listing silhouette and avoid adding territorial, fabrication or licence claims.",
+      "primary_source": "https://cults3d.com/en/3d-model/architecture/pakistan-topographic-map-3d-model-for-3d-printing-cnc-carving",
+      "actual_us_location_confirmed": false,
+      "measured_frequency": null,
+      "rank": null
+    }
+  ]
+}
