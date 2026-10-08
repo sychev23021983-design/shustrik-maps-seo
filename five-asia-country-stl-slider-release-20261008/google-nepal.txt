@@ -1,0 +1,204 @@
+Browser tab: 6, Title: "Nepal topographic map STL - Google Search", URL: "https://www.google.com/search?q=Nepal+topographic+map+STL&hl=en&gl=us&pws=0".
+0 AXWebArea Nepal topographic map STL - Google Search, URL: google.com/search
+	1 container gsr
+		2 container
+			3 link Skip to main content
+				4 text Skip to main content
+			5 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196
+		6 container searchform
+			7 container tsf
+				8 container
+					9 link Description: Learn more about World Space Week 2026, Value: google.com/webhp
+					11 combo box (collapsed) Description: Search, Value: Nepal topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					12 button  Clear
+					13 button Search by voice
+					14 button Search by image
+			15 button Description: Settings, ID: og-te
+			16 button Share
+			17 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			18 link Description: Sign in, Value: accounts.google.com/ServiceLogin
+		19 container cnt
+			20 container
+				21 content list
+					22 link Description: AI Mode, Value: google.com/search
+					23 link (disabled) All
+						24 text All
+					25 link Description: Images, Value: google.com/search
+					26 link Description: Shopping, Value: google.com/search
+					27 link Description: Videos, Value: google.com/search
+					28 link Description: News, Value: google.com/search
+					29 link Description: Maps, Value: maps.google.com/maps
+					30 button (collapsed) More filters, Secondary Actions: Expand
+						31 container More filters
+							32 text More
+				33 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			34 heading Search Results, Value: 1
+				35 text Search Results
+			36 container center_col
+				37 container gevUs
+					38 container rso
+						39 container
+							40 heading Web results, Value: 2
+								41 text Web results
+							42 link Description: "map of nepal" 3D Models to Print Yeggi https://www.yeggi.com › map+of+nepal, Value: google.com/goto
+							43 button About this result
+							44 container
+								45 text printable 3D Models.  Nepal Terrain STL  … topography  stl , printable  map , Download: free Website: 3d printable  map , gis.  Nepal Topographic Map  3D Model for 3D
+						46 container
+							47 container
+								48 heading AI Overview, Value: 2
+									49 text AI Overview
+								50 container
+									51 text You can  purchase and download 3D printable topographic models and
+									52 link Description: Nepal Topographic Map STL on Cults3D, Value: google.com/goto
+									53 text , or browse pre-made digital relief files on marketplaces like the
+									54 link Description: Etsy Nepal Topographic Listing, Value: google.com/goto
+									55 text .
+									56 button Related results
+								57 heading Where to Find Nepal Topographic STL Files, Value: 3
+									58 text Where to Find Nepal Topographic STL Files
+								59 content list
+									60 container
+										61 AXListMarker •
+										62 text Cults3D & 3D Model Marketplaces:  High-polygon country-wide digital elevation model (DEM) files (such as  Shustrik's 211 MB high-resolution terrain model ) are available for 3D printing and CNC carving . Regional administrative zones (like Bagmati or Karnali) and specific peaks are also featured.
+										63 button Related results
+								64 content list
+									65 container
+										66 link Description: Nepal HD Topographic Terrain 3D Model STL Map ... - Etsy. Opens in new tab., Value: google.com/goto
+										67 text Etsy
+										68 button Description: About this result, ID: snui-atr-jjfHarjTBpq6i-gPm72c6Q0_x81dys_44
+										69 text May include: A 3D relief map of a mountainous region, with brown and beige. Price:$14.99. Loading. Nepal HD Topographic Terrain 3D...
+									70 container
+										71 link Description: "map of nepal" 3D Models to Print - yeggi. Opens in new tab., Value: google.com/goto
+										72 text Yeggi
+										73 button Description: About this result, ID: snui-atr-jjfHarjTBpq6i-gPm72c6Q0_x81dys_48
+										74 text Platforms: Thingiverse, Cults, Creality Cloud, Cgtrader, Printables. Models: Free and for-sale 3D printable STL and 3F files of Ne...
+									75 container
+										76 link Description: Nepal Topographic Map – 3D Model for 3D Printing & CNC Carving. Opens in new tab., Value: google.com/goto
+										77 text Cults 3D
+										78 button Description: About this result, ID: snui-atr-jjfHarjTBpq6i-gPm72c6Q0_x81dys_52
+										79 text Jun 12, 2025 —  3D model description High-polygon 3D model of Nepal in STL format File size: 211 MB Model size: 220 mm x 125 mm x 3.9 mm Projectio...
+									80 container
+										81 link Description: "stl nepal" 3D Models to Print. Opens in new tab., Value: google.com/goto
+										82 text Yeggi
+										83 button Description: About this result, ID: snui-atr-jjfHarjTBpq6i-gPm72c6Q0_x81dys_56
+										84 text » random » * Download: for sale Website: Cults Tags Nepal High-Resolution Terrain Map 3D Printable S... Text nepal, himalaya, moun...
+									85 container
+										86 link Description: 3d Maps Nepal. Opens in new tab., Value: google.com/goto
+										87 text Etsy
+										88 button Description: About this result, ID: snui-atr-jjfHarjTBpq6i-gPm72c6Q0_x81dys_60
+										89 text 3d Maps Nepal * NEPAL - ASIA 3D Shaded Relief Map (8) $9.00 * Mount Everest 3D Relief STL | Himalaya Mountain Topographic Map File...
+									90 container
+										91 link Description: Nepal Topographic Map – 3D Model for 3D Printing & CNC Carving - 3D Printer File. Opens in new tab., Value: google.com/goto
+										92 text 3D GO
+										93 button Description: About this result, ID: snui-atr-jjfHarjTBpq6i-gPm72c6Q0_x81dys_64
+										94 text File Details: High-polygon STL 3D model of Nepal topographic map by Shustrik (size 211 MB; dimensions 220 mm x 125 mm x 3.9 mm; 4,
+									95 container
+										96 link Description: "nepal map 3d" 3D Models to Print. Opens in new tab., Value: google.com/goto
+										97 text Yeggi
+										98 button Description: About this result, ID: snui-atr-jjfHarjTBpq6i-gPm72c6Q0_x81dys_68
+										99 text » random » * Download: free Website: creality cloud Tags 3MF File Administrative Zones of Nepal 3D Map pu... Text puzzle, geograph...
+									100 container
+										101 link Description: "nepal" 3D Models to Print. Opens in new tab., Value: google.com/goto
+										102 text Yeggi
+										103 button Description: About this result, ID: snui-atr-jjfHarjTBpq6i-gPm72c6Q0_x81dys_72
+										104 text » random » * Download: for sale Website: Cults Tags Bagmati Province No 3 Nepal Terrain Map 3D Print... Text nepal bagmati, provin...
+									105 container
+										106 link Description: Buy Nepal 3d Map Online In India. Opens in new tab., Value: google.com/goto
+										107 text Etsy
+										108 button Description: About this result, ID: snui-atr-jjfHarjTBpq6i-gPm72c6Q0_x81dys_76
+										109 text Nepal 3d Map * Mount Everest 3D Topographic Map | Nepal Mountain Relief (12) ₹ 15,914 FREE delivery Add to Favourites * Mount Ever...
+							110 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								111 text Show more
+						112 container
+							113 heading Web results, Value: 2
+								114 text Web results
+							115 link Value: google.com/goto, Description: Nepal Topographic Map – 3D Model for 3D Printing & CNC ... 3D GO https://3dgo.app › models › nepal-topographic-map-3d...
+							116 button About this result
+							117 container
+								118 text Jun 12, 2025  —  High-polygon 3D model of Nepal in STL format . File size: 211 MB Model size: 220 mm x 125 mm x 3.9 mm. Projection: Mercator
+								119 link Description: Read more, Value: google.com/goto
+						120 container
+							121 link Value: google.com/goto, Description: Nepal HD Topographic Terrain 3D Model STL Map ... Etsy https://www.etsy.com › listing › nepal-hd-topographic-t...
+							122 button About this result
+							123 text Price:$14.99 Loading
+							124 text Nepal HD Topographic Terrain 3D model STL Map
+							125 text  Model for CNC Milling and Printing Carved3D. Cuts fabric by the yard 100% Cotton
+							126 text $14.99
+							127 text In stock
+							128 image Rated 4.8 out of 5, (412) user reviews
+							129 text Free delivery
+						130 container
+							131 link Description: Dhaulagiri Nepal STL File 3D Topographic Model Instant ... Pinterest · ArtisanStudio001 2 years ago, Value: google.com/goto
+							132 button About this result
+							133 text Dhaulagiri Nepal STL File
+							134 text  3D Topographic Model Instant Download Terrain Relief for 3D Printer CNC Machine 3D Printing Digital File - Etsy. This ...
+							135 link Description: Read more, Value: google.com/goto
+						136 container
+							137 link Description: Free relief map of Nepal Blue Green Atlas https://bluegreenatlas.com › maps › relief_map_of_nepal, Value: google.com/goto
+							138 button About this result
+							139 text Free high-resolution relief map of Nepal
+							140 text . Topographical map of Nepal. Topography: NASA SRTM3 (Public domain).
+						141 container
+							142 link Description: 3D Printing Digital Elevation Models OpenTopography https://opentopography.org › learn, Value: google.com/goto
+							143 button About this result
+							144 text In the tutorial, we describe step-by-step how to create the standard triangle language (
+							145 text STL
+							146 text ) file that is commonly used in 3D printing.
+						147 container
+							148 link Description: How to download topo map of nepal YouTube · Sulav Lohani 220+ views · 1 year ago, Value: google.com/goto
+							149 button About this result
+							150 link Description: How to download topo map of nepal by Sulav Lohani on YouTube. Play on YouTube. 5:31, Value: google.com/goto
+							151 text How to download topo map of nepal  | ALTERNATIVE WEBSITE TO DOWNLOAD FROM pahar.in | CIVIL FOR NEPAL ALTERNATIVE TO PAHAR.
+						152 container
+							153 link Description: Topo sheets of Nepal UltraJourneys https://ultrajourneys.org › topo-sheets-of-nepal, Value: google.com/goto
+							154 button About this result
+							155 text Mar 25, 2024  —  1:50K/1:25K topo map sheets for Nepal …
+							156 text 100 topo sheets covering the upper regions of Nepal
+							157 text , geo-referenced them in QGIS
+						158 container
+							159 link Description: Nepal Topographic Sheets National Geoportal https://nationalgeoportal.gov.np › topo, Value: google.com/goto
+							160 button About this result
+				161 container
+					162 container
+						163 heading People also search for, Value: 2
+							164 text People also search for
+						165 link Description: Nepal topographic map stl pdf free download, Value: google.com/search
+						166 link Description: Nepal topographic map stl free download, Value: google.com/search
+						167 link Description: Nepal topographic map stl pdf, Value: google.com/search
+						168 link Description: Nepal topographic map stl free, Value: google.com/search
+						169 link Description: Nepal topographic map stl 3d print, Value: google.com/search
+						170 link Description: Nepal topographic map stl download, Value: google.com/search
+					171 heading Page Navigation, Value: 1
+						172 text Page Navigation
+					173 text 1
+					174 link Description: Page 2, Value: google.com/search
+					175 link Description: Page 3, Value: google.com/search
+					176 link Description: Page 4, Value: google.com/search
+					177 link Description: Page 5, Value: google.com/search
+					178 link Description: Page 6, Value: google.com/search
+					179 link Description: Page 7, Value: google.com/search
+					180 link Description: Page 8, Value: google.com/search
+					181 link Description: Page 9, Value: google.com/search
+					182 heading Next, Value: 2
+						183 link Description: Next, Value: google.com/search, ID: pnnext
+			184 container sfooter
+				185 heading Footer Links, Value: 1
+					186 text Footer Links
+				187 container fbar
+					188 container
+						189 button Unknown  - Can't determine location
+							190 container
+								191 text Unknown
+							192 container
+								193 text  -  Can't determine location
+						194 text  -
+						195 button Update location
+							196 text Update location
+					197 container fsl
+						198 link Description: Help, Value: support.google.com/websearch/
+						199 link Description: Send feedback, Value: google.com/search
+						200 link Description: Privacy, Value: policies.google.com/privacy
+						201 link Description: Terms, Value: policies.google.com/terms
+
+The focused UI element is 0 AXWebArea Nepal topographic map STL - Google Search, URL: google.com/search

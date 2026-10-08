@@ -1,0 +1,84 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-nepal-stl-cnc",
+      "product_id": 20110,
+      "primary": "Nepal topographic map STL",
+      "supporting": [
+        "Nepal terrain STL",
+        "Nepal relief map STL",
+        "Nepal map 3D print",
+        "Nepal CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-north-korea-stl-cnc",
+      "product_id": 20134,
+      "primary": "North Korea topographic map STL",
+      "supporting": [
+        "North Korea terrain STL",
+        "North Korea relief map STL",
+        "North Korea map 3D print",
+        "North Korea CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-mongolia-stl-cnc",
+      "product_id": 20175,
+      "primary": "Mongolia topographic map STL",
+      "supporting": [
+        "Mongolia terrain STL",
+        "Mongolia relief map STL",
+        "Mongolia map 3D print",
+        "Mongolia CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-iran-stl-cnc",
+      "product_id": 20320,
+      "primary": "Iran topographic map STL",
+      "supporting": [
+        "Iran terrain STL",
+        "Iran relief map STL",
+        "Iran map 3D print",
+        "Iran CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    },
+    {
+      "cluster_id": "GEO-iraq-stl-cnc",
+      "product_id": 20329,
+      "primary": "Iraq topographic map STL",
+      "supporting": [
+        "Iraq terrain STL",
+        "Iraq relief map STL",
+        "Iraq map 3D print",
+        "Iraq CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; USA Google English intent; each geographic entity is a country; market remains USA"
+    }
+  ],
+  "note": "All five exact STL clusters are absent from the saved core: editorial product mapping only. Proposed paid digital-file queries are editorial hypotheses, not measured expansion. Existing elevation/vector clusters must not be reassigned to STL.",
+  "fresh_intent_evidence": "intent-evidence.json",
+  "google_results_observed": 5,
+  "location_confirmed": false
+}

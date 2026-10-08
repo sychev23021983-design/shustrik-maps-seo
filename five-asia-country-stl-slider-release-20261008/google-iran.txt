@@ -1,0 +1,201 @@
+Browser tab: 6, Title: "Iran topographic map STL - Google Search", URL: "https://www.google.com/search?q=Iran+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Iran topographic map STL - Google Search, URL: google.com/search
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp
+					12 combo box (collapsed) Description: Search, Value: Iran topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search
+					27 link Description: Shopping, Value: google.com/search
+					28 link Description: News, Value: google.com/search
+					29 link Description: Videos, Value: google.com/search
+					30 link Description: Maps, Value: maps.google.com/maps
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Value: google.com/goto, Description: Iran Topographic Map - IR by Anson Liu Printables.com https://www.printables.com › model › 1347361-iran-to...
+							44 button About this result
+							45 container
+								46 text Jul 5, 2025  —  Topographic map of Iran including streams, coastlines, and lakes. |  Download free 3D printable STL models . a 3D printable model.
+						47 container
+							48 container
+								49 heading AI Overview, Value: 2
+									50 text AI Overview
+								51 container
+									52 text You can  download a free 3D printable STL model of Iran's terrain on the
+									53 link Description: Iran Topographic Map on Printables, Value: google.com/goto
+									54 text .
+									55 button Related results
+								56 heading Where to Find Iran Topographic STL Files, Value: 3
+									57 text Where to Find Iran Topographic STL Files
+								58 content list
+									59 container
+										60 AXListMarker •
+										61 text Free Options:
+										62 content list
+											63 container
+												64 AXListMarker ◦
+												65 text Check the  Printables Model Page  for a community-shared, free 3D printable STL featuring streams, coastlines, and lakes.
+											66 container
+												67 AXListMarker ◦
+												68 text Search aggregate platforms like
+												69 link Description: Yeggi 3D Models for Iran, Value: google.com/goto
+												70 text  to find links to both free and paid relief maps, coins, and wall art.
+								71 content list
+									72 container
+										73 link Description: Iran Topographic Map - IR by Anson Liu - Printables.com. Opens in new tab., Value: google.com/goto
+										74 text Printables.com
+										75 button Description: About this result, ID: snui-atr-cDjHasW6BJ-79u8P0Mak4Qw_n7s1lm_9
+										76 text Jul 5, 2025 —  Topographic map of Iran including streams, coastlines, and lakes. | Download free 3D printable STL models.
+									77 container
+										78 link Description: "iran map" 3D Models to Print - yeggi. Opens in new tab., Value: google.com/goto
+										79 text Yeggi
+										80 button Description: About this result, ID: snui-atr-cDjHasW6BJ-79u8P0Mak4Qw_n7s1lm_13
+										81 text Available 3D printing models related to Iran on platforms including Cults, CGTrader, MyMiniFactory, Thingiverse, GrabCad, Creality...
+									82 container
+										83 link Description: Stl File for CNC Milling and 3D Printing | 3D Map STL of Iran. Opens in new tab., Value: google.com/goto
+										84 text Etsy
+										85 button Description: About this result, ID: snui-atr-cDjHasW6BJ-79u8P0Mak4Qw_n7s1lm_17
+										86 text Highlights This digital product is a topographic 3D model of the terrain of Iran. This 3D model is in STL file format and therefor...
+									87 container
+										88 link Description: Iran Topographic Map – 3D Model for 3D Printing & CNC Carving. Opens in new tab., Value: google.com/goto
+										89 text Cults 3D
+										90 button Description: About this result, ID: snui-atr-cDjHasW6BJ-79u8P0Mak4Qw_n7s1lm_21
+										91 text Jun 16, 2025 —  3D model description High-polygon 3D model of Iran in STL format File size: 159 MB Model size: 220 mm x 200 mm x 1.9 mm Projection...
+							92 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								93 text Show more
+						94 container
+							95 heading Web results, Value: 2
+								96 text Web results
+							97 link Value: google.com/goto, Description: Stl File for CNC Milling and 3D Printing | 3D Map STL of Iran Etsy https://www.etsy.com › listing › iran-topographic-map-...
+							98 button About this result
+							99 container
+								100 text This digital product is a  topographic 3D model of the terrain of Iran . This 3D model is in STL file format and therefore compatible with CNC routers and 3D ...
+							101 container
+								102 text $12.07
+								103 image Rated 4.8 out of 5, (163) user reviews
+						104 container
+							105 link Description: "iran map" 3D Models to Print Yeggi https://www.yeggi.com › iran+map, Value: google.com/goto
+							106 button About this result
+							107 text 5000+ "
+							108 text iran map" printable 3D Models
+							109 text . Every Day new 3D Models from all over the World. Click to find the best Results for iran map Models for your 3D ...
+						110 container
+							111 link Description: Free relief map of Iran Blue Green Atlas https://www.bluegreenatlas.com › maps › relief_map_o..., Value: google.com/goto
+							112 button About this result
+							113 text Free high-resolution relief map of Iran
+							114 text . Topographical map of Iran. Topography: NASA SRTM3 (Public domain).
+						115 container
+							116 link Value: google.com/goto, Description: Iran Map 3D Models for Free Download and Print - Tripo Studio Tripo Studio https://studio.tripo3d.ai › 3D Models
+							117 button About this result
+							118 text 21
+							119 text iran map
+							120 text  3D models, ready for 3D printing, Download in
+							121 text STL
+							122 text , Find the best
+							123 text Iran map
+							124 text  3D Models, free download in
+							125 text STL
+							126 text ,
+							127 text topographic map
+							128 text  of
+							129 text Iran
+							130 text  with blue ...
+						131 container
+							132 link Value: google.com/goto, Description: Iran Topographic Map – STL Model for 3D Printing & CNC Shustrik Maps https://shustrik-maps.com › ... › Countries
+							133 button About this result
+							134 text High-detail Iran Topographic Map in STL format
+							135 text . Ideal for 3D printing & CNC carving in education, design, souvenirs, and terrain visualization.
+							136 text $15.00
+							137 text In stock
+							138 text Free delivery
+						139 container
+							140 link Value: google.com/goto, Description: 3D Topography map of Iran(Persia) and Afghan : r/MapPorn Reddit · r/MapPorn 40+ comments · 5 years ago
+							141 button About this result
+							142 text 3D Topography map of Iran
+							143 text (Persia) and Afghan. The area is just a bit below sea level -- never more than 90 m. Topographic map of Iran 🇮🇷
+						144 container
+							145 link Value: google.com/goto, Description: Iran Topographic Map - IR by Anson Liu | Download free ... Printables.com https://www.printables.com › model › files
+							146 button About this result
+							147 text Jul 5, 2025  —  Topographic map of Iran including streams, coastlines, and lakes. |
+							148 text Download free 3D printable STL models
+							149 text . All model files (281 MB)
+						150 container
+							151 link Description: Iran 3d Topographic Map Pinterest https://www.pinterest.com › ... › Iran Map Design, Value: google.com/goto
+							152 button About this result
+							153 text Iran 3d topographic map
+							154 text . Discover Pinterest's best ideas and inspiration for Iran 3d topographic map. Get inspired and try out new things.
+							155 link Description: Read more, Value: google.com/goto
+				156 container
+					157 container
+						158 heading People also search for, Value: 2
+							159 text People also search for
+						160 link Description: Iran topographic map stl free download, Value: google.com/search
+						161 link Description: Iran topographic map stl free, Value: google.com/search
+						162 link Description: Iran topographic map stl pdf, Value: google.com/search
+						163 link Description: Iran topographic map stl download, Value: google.com/search
+						164 link Description: Iran topographic map stl 3d print, Value: google.com/search
+						165 link Description: Iran topographic map with cities, Value: google.com/search
+						166 link Description: Iran map 3D model, Value: google.com/search
+						167 link Description: Topographic map of Iran, Value: google.com/search
+					168 heading Page Navigation, Value: 1
+						169 text Page Navigation
+					170 text 1
+					171 link Description: Page 2, Value: google.com/search
+					172 link Description: Page 3, Value: google.com/search
+					173 link Description: Page 4, Value: google.com/search
+					174 link Description: Page 5, Value: google.com/search
+					175 link Description: Page 6, Value: google.com/search
+					176 link Description: Page 7, Value: google.com/search
+					177 link Description: Page 8, Value: google.com/search
+					178 link Description: Page 9, Value: google.com/search
+					179 link Description: Page 10, Value: google.com/search
+					180 heading Next, Value: 2
+						181 link Description: Next, Value: google.com/search, ID: pnnext
+			182 container sfooter
+				183 heading Footer Links, Value: 1
+					184 text Footer Links
+				185 container fbar
+					186 container
+						187 button Unknown  - Can't determine location
+							188 container
+								189 text Unknown
+							190 container
+								191 text  -  Can't determine location
+						192 text  -
+						193 button Update location
+							194 text Update location
+					195 container fsl
+						196 link Description: Help, Value: support.google.com/websearch/
+						197 link Description: Send feedback, Value: google.com/search
+						198 link Description: Privacy, Value: policies.google.com/privacy
+						199 link Description: Terms, Value: policies.google.com/terms
+
+The focused UI element is 1 AXWebArea Iran topographic map STL - Google Search, URL: google.com/search

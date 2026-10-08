@@ -1,0 +1,195 @@
+Browser tab: 6, Title: "Iraq topographic map STL - Google Search", URL: "https://www.google.com/search?q=Iraq+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Iraq topographic map STL - Google Search, URL: google.com/search?q=Iraq+topographic+map+STL&hl=en&gl=us&pws=0
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp?hl=en&ictx=2&sa=X&ved=2ahUKEwiiqeLI5qmXAxWN4wIHHSHDIo4QPXoECAYQBA
+					12 combo box (collapsed) Description: Search, Value: Iraq topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DIraq%2Btopographic%2Bmap%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search?q=Iraq+topographic+map+STL&sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQntHBWjCUql_FJFekiXfckXRlaUzog:1791441212322&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYS0UkvKdZAJprgUu75aBO7-i8q11ku-Uljaz8Wu-JXV6geApOVMTyfVP8Op--O5TjEQMGmFLlW50tJOjKsv54WNp5BYOsfrdnbtwuygxkWIzXsqDY2WBgj9SSATbL1gvS1-Ooh-zHPAIDOOkBvI5_GNBGx88Q&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiiqeLI5qmXAxWN4wIHHSHDIo4Q2J8OegQIEhAD
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQntHBWjCUql_FJFekiXfckXRlaUzog:1791441212322&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYS0UkvKdZAJprgUu75aBO7-i8q11ku-Uljaz8Wu-JXV6geApOVMTyfVP8Op--O5TjEQMGmFLlW50tJOjKsv54WNp5BYOsfrdnbtwuygxkWIzXsqDY2WBgj9SSATbL1gvS1-Ooh-zHPAIDOOkBvI5_GNBGx88Q&q=Iraq+topographic+map+STL&sa=X&ved=2ahUKEwiiqeLI5qmXAxWN4wIHHSHDIo4QtKgLegQIFxAB
+					27 link Description: Shopping, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQntHBWjCUql_FJFekiXfckXRlaUzog:1791441212322&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYS0UkvKdZAJprgUu75aBO7-i8q11ku-Uljaz8Wu-JXV6geApOVMTyfVP8Op--O5TjEQMGmFLlW50tJOjKsv54WNp5BYOsfrdnbtwuygxkWIzXsqDY2WBgj9SSATbL1gvS1-Ooh-zHPAIDOOkBvI5_GNBGx88Q&q=Iraq+topographic+map+STL&ved=1t:220175&ictx=111
+					28 link Description: News, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQntHBWjCUql_FJFekiXfckXRlaUzog:1791441212322&q=Iraq+topographic+map+STL&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYS0UkvKdZAJprgUu75aBO7-i8q11ku-Uljaz8Wu-JXV6geApOVMTyfVP8Op--O5TjEQMGmFLlW50tJOjKsv54WNp5BYOsfrdnbtwuygxkWIzXsqDY2WBgj9SSATbL1gvS1-Ooh-zHPAIDOOkBvI5_GNBGx88Q&sa=X&ved=2ahUKEwiiqeLI5qmXAxWN4wIHHSHDIo4Q0pQJegQIFhAB
+					29 link Description: Videos, Value: google.com/search?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&sxsrf=APpeQntHBWjCUql_FJFekiXfckXRlaUzog:1791441212322&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYS0UkvKdZAJprgUu75aBO7-i8q11ku-Uljaz8Wu-JXV6geApOVMTyfVP8Op--O5TjEQMGmFLlW50tJOjKsv54WNp5BYOsfrdnbtwuygxkWIzXsqDY2WBgj9SSATbL1gvS1-Ooh-zHPAIDOOkBvI5_GNBGx88Q&q=Iraq+topographic+map+STL&sa=X&ved=2ahUKEwiiqeLI5qmXAxWN4wIHHSHDIo4QtKgLegQIFRAB
+					30 link Description: Maps, Value: maps.google.com/maps?sca_esv=0adcf06bd624d4eb&hl=en&gl=us&pws=0&output=search&q=Iraq+topographic+map+STL&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYS0UkvKdZAJprgUu75aBO7-i8q11ku-Uljaz8Wu-JXV6geApOVMTyfVP8Op--O5TjEQMGmFLlW50tJOjKsv54WNp5BYOsfrdnbtwuygxkWIzXsqDY2WBgj9SSATbL1gvS1-Ooh-zHPAIDOOkBvI5_GNBGx88Q&entry=mc&ved=1t:200715&ictx=111
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Description: topographical map of iraq by Sohaib Bayati Printables.com https://www.printables.com › model › 1129962-topogr..., Value: google.com/goto?url=CAESfQHrOzAVAlIuMv2mJc-u7TineyIWKS7B5eqswHgGy31X5DS7DYy8xN_pGy6z_MvbvdGkoFh0f3XPkvlnSv4isGTfPsahPNfjBgIxQwlM6MSDFxdDLBCsJr1egy2mdWCmk2Aa-UPs9jyh5eudQPjw8bHuH_vvm0DXh-GW5CQn
+							44 button About this result
+							45 container
+								46 text 3d printable topographic map of Iraq (might.  Download free 3D printable STL models . Compiled in QGIS using elevation data from JAXA's AW3D30 dataset.
+						47 container
+							48 link Description: "iraq map" 3D Models to Print Yeggi https://www.yeggi.com › iraq+map, Value: google.com/goto?url=CAESXAHrOzAVaods5AWP3jUjArgncY5iLib4uAkawabm4n1MVydB8q14fOZ6sQL4lankzI3u-FO-q5iU4gP2N1mwf5TQ-ORuff6NOgEiElG7HG6cpry45_Fy_S-5mlcR
+							49 button About this result
+							50 text Iraq Topographic Map 3D Model for 3D Printing
+							51 text . Download: free Website: Iraq - 3D Miniature STL File for 3D printi... Topographical Map of Iraq STL STL File for 3 ...
+						52 container
+							53 container
+								54 heading AI Overview, Value: 2
+									55 text AI Overview
+								56 container
+									57 text You can download a free 3D printable topographical map of Iraq from the
+									58 link Description: Topographical Map of Iraq on Printables, Value: google.com/goto?url=CAESfQHrOzAVopsPKP1_Vn_ZwHnQGUAfCwoxeEKAlMirRK5IO6RtHlWRDmjy2hlwIER50Lo3VJLJCzSogu8qNGyqS7mnOTiJDa9zTvTDgfl4ir1NhYtNDY-D3TcA7AkQBb0smkbiwhLXvWGqAJ99VQNx0T79M8nrAi6dgBHA3GGW
+									59 text .
+									60 button Related results
+								61 heading Where to Find Iraq Topographic STL Files, Value: 3
+									62 text Where to Find Iraq Topographic STL Files
+								63 content list
+									64 container
+										65 AXListMarker •
+										66 text Free Options:  Creators share open-source terrain models on platforms like  Printables , which use elevation data from public digital elevation datasets. You can also browse multi-site aggregators like
+										67 link Description: Yeggi 3D Models, Value: google.com/goto?url=CAESXAHrOzAVLx5G9EqhP4Bt1wAAzuX_1w09Wv95Dcxsx78jUjJeQ2lbwgs1GIdW2fDU7POTwQSrJ82qio17z3nwbB1JjIpQUYQknOmRnp6PMJcgZhE9xp6w_ZbElUJN
+										68 text  to find various free and paid map options.
+										69 link Description: Printables.com, Value: google.com/goto?url=CAESfQHrOzAVopsPKP1_Vn_ZwHnQGUAfCwoxeEKAlMirRK5IO6RtHlWRDmjy2hlwIER50Lo3VJLJCzSogu8qNGyqS7mnOTiJDa9zTvTDgfl4ir1NhYtNDY-D3TcA7AkQBb0smkbiwhLXvWGqAJ99VQNx0T79M8nrAi6dgBHA3GGW
+										70 button Printables.com (+2) - Related results
+											71 text Printables.com
+											72 text  +2
+									73 AXListMarker •
+								74 content list
+									75 container
+										76 link Description: topographical map of iraq by Sohaib Bayati | Download free STL model | Printables.com. Opens in new tab., Value: google.com/goto?url=CAESfQHrOzAVopsPKP1_Vn_ZwHnQGUAfCwoxeEKAlMirRK5IO6RtHlWRDmjy2hlwIER50Lo3VJLJCzSogu8qNGyqS7mnOTiJDa9zTvTDgfl4ir1NhYtNDY-D3TcA7AkQBb0smkbiwhLXvWGqAJ99VQNx0T79M8nrAi6dgBHA3GGW
+										77 text Printables.com
+										78 button Description: About this result, ID: snui-atr-PDnHaoe5KY-69u8PvIKogAU_uj7rbr_10
+										79 text Model: 3D printable topographical map of Iraq by creator Sohaib Bayati on Printables.com. Source Data: Compiled in QGIS using elev...
+									80 container
+										81 link Description: Iraq Terrain STL | Geographic 3D CNC Relief File, Woodworking, .... Opens in new tab., Value: …
+										82 text Etsy
+										83 button Description: About this result, ID: snui-atr-PDnHaoe5KY-69u8PvIKogAU_uj7rbr_14
+										84 text Highlights Premium Iraq Terrain design - high-resolution 3D model optimized for professional CNC carving and 3D printing. High-res...
+									85 container
+										86 link Description: "iraq map" 3D Models to Print - yeggi. Opens in new tab., Value: …
+										87 text Yeggi
+										88 button Description: About this result, ID: snui-atr-PDnHaoe5KY-69u8PvIKogAU_uj7rbr_18
+										89 text Source: Yeggi 3D model search results for "iraq map" and related designs. Websites: Cults, CGTrader, Thingiverse, Printables, Make...
+									90 container
+										91 link Description: Stl File for CNC Milling and 3D Printing | 3D Map STL of Iraq. Opens in new tab., Value: …
+										92 text Etsy
+										93 button Description: About this result, ID: snui-atr-PDnHaoe5KY-69u8PvIKogAU_uj7rbr_22
+										94 text Iraq Topographic Map 3D Model File | Stl File for CNC Milling and 3D Printing | 3D Map STL of Iraq. Codingry. 5 out of 5 stars.
+									95 container
+										96 link Description: Stl File for CNC Milling and 3D Printing | 3D Map STL of Iraq. Opens in new tab., Value: …
+										97 text Etsy
+										98 button Description: About this result, ID: snui-atr-PDnHaoe5KY-69u8PvIKogAU_uj7rbr_26
+										99 text Highlights This digital product is a topographic 3D model of the terrain of Iraq. This 3D model is in STL file format and therefor...
+									100 container
+										101 link Description: Iraq Topographic Map – 3D Model for 3D Printing & CNC Carving. Opens in new tab., Value: …
+										102 text Cults 3D
+										103 button Description: About this result, ID: snui-atr-PDnHaoe5KY-69u8PvIKogAU_uj7rbr_30
+										104 text Jun 16, 2025 —  3D model description High-polygon 3D model of Iraq in STL format File size: 105 MB Model size: 217 mm x 220 mm x 3.44 mm Projectio...
+									105 container
+										106 link Description: Free relief map of Iraq. Opens in new tab., Value: …
+										107 text Blue Green Atlas
+										108 button Description: About this result, ID: snui-atr-PDnHaoe5KY-69u8PvIKogAU_uj7rbr_34
+										109 text File information Description: Topographical map of Iraq. Projection: Mercator. Data sources: Topography: NASA SRTM3 (Public domain...
+							110 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								111 text Show more
+						112 container
+							113 heading Web results, Value: 2
+								114 text Web results
+							115 link Value: …, Description: Stl File for CNC Milling and 3D Printing | 3D Map STL of Iraq Etsy https://www.etsy.com › listing › iraq-topographic-map-...
+							116 button About this result
+							117 container
+								118 text A 3D model of Iraq,  Iraq Topographic Map 3D Model File  ・ $10.95 Digital Download Iraq Relief Map | Printable Decor ・ 8x10 Topographic Home Decor
+							119 container
+								120 text $12.10
+								121 image Rated 4.8 out of 5, (160) user reviews
+						122 container
+							123 link Value: …, Description: Topographical Map of Iraq STL - 3D Printer File 3D GO https://3dgo.app › models › topographical-map-of-iraq-...
+							124 button About this result
+							125 text Mar 23, 2025  —  View information and download the 3D model "
+							126 text Topographical Map of Iraq STL
+							127 text " for 3D printing.
+						128 container
+							129 link Value: …, Description: Iraq topographic map, elevation, terrain topographic-map.com https://en-us.topographic-map.com › map-71614 › Iraq
+							130 button About this result
+							131 text Average elevation: 2,077 ft
+							132 text  Minimum elevation: -102 ft Maximum elevation: 11,942 ft. Click on a map to view its topography, its elevation and its terrain. wood ...
+						133 container
+							134 link Value: …, Description: Iraq & Iran AMS Topographic Maps The University of Texas at Austin https://maps.lib.utexas.edu › maps › ams › iraq_and_iran
+							135 button About this result
+							136 text Iraq & Iran AMS Topographic Maps
+							137 text . Map Collection website is archived as of 2021 and no longer being updated. Complete list of map images in this collection:
+						138 container
+							139 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: …
+							140 button About this result
+							141 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: …
+							142 text In this step-by-step tutorial, we dive into  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! 3D printing.
+						143 container
+							144 link Description: File:Iraq Topography.png Wikipedia https://en.wikipedia.org › wiki › File:Iraq_Topography, Value: …
+							145 button About this result
+							146 text Topographic map of Iraq
+							147 text . This work has been released into the public domain by its author, Sadalmelik.
+						148 container
+							149 link Description: "map of iraq" 3D Models to Print Yeggi https://www.yeggi.com › map+of+iraq, Value: …
+							150 button About this result
+							151 text 5000+ "
+							152 text map of iraq" printable 3D Models
+							153 text . Every Day new 3D Models from all over the World. Click to find the best Results for map of iraq Models for your 3D ...
+				154 container
+					155 container
+						156 heading People also search for, Value: 2
+							157 text People also search for
+						158 link Description: Iraq topographic map stl free download, Value: …
+						159 link Description: Iraq topographic map stl free, Value: …
+						160 link Description: Iraq topographic map stl download, Value: …
+						161 link Description: Iraq topographic map stl 3d print, Value: …
+					162 heading Page Navigation, Value: 1
+						163 text Page Navigation
+					164 text 1
+					165 link Description: Page 2, Value: …
+					166 link Description: Page 3, Value: …
+					167 link Description: Page 4, Value: …
+					168 link Description: Page 5, Value: …
+					169 link Description: Page 6, Value: …
+					170 link Description: Page 7, Value: …
+					171 link Description: Page 8, Value: …
+					172 link Description: Page 9, Value: …
+					173 link Description: Page 10, Value: …
+					174 heading Next, Value: 2
+						175 link Description: Next, Value: …, ID: pnnext
+			176 container sfooter
+				177 heading Footer Links, Value: 1
+					178 text Footer Links
+				179 container fbar
+					180 container
+						181 button Unknown  - Can't determine location
+							182 container
+								183 text Unknown
+							184 container
+								185 text  -  Can't determine location
+						186 text  -
+						187 button Update location
+							188 text Update location
+					189 container fsl
+						190 link Description: Help, Value: …
+						191 link Description: Send feedback, Value: …
+						192 link Description: Privacy, Value: …
+						193 link Description: Terms, Value: …
+
+The focused UI element is 1 AXWebArea Iraq topographic map STL - Google Search, URL: google.com/search?q=Iraq+topographic+map+STL&hl=en&gl=us&pws=0

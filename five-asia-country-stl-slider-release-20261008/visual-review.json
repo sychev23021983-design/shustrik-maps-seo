@@ -1,0 +1,126 @@
+{
+  "pass": true,
+  "tool": "Native ImageGen;20 separate calls",
+  "reviewed": [
+    {
+      "id": 20110,
+      "scene": "desk",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20110,
+      "scene": "wall",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20110,
+      "scene": "gift",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20110,
+      "scene": "commercial",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20134,
+      "scene": "desk",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20134,
+      "scene": "wall",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20134,
+      "scene": "gift",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20134,
+      "scene": "commercial",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20175,
+      "scene": "desk",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20175,
+      "scene": "wall",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20175,
+      "scene": "gift",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20175,
+      "scene": "commercial",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20320,
+      "scene": "desk",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20320,
+      "scene": "wall",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20320,
+      "scene": "gift",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20320,
+      "scene": "commercial",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20329,
+      "scene": "desk",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20329,
+      "scene": "wall",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20329,
+      "scene": "gift",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    },
+    {
+      "id": 20329,
+      "scene": "commercial",
+      "pass": true,
+      "note": "Individually inspected against own reference: contour and terrain distribution preserved, material matches scene; desktop relief and all fragments fully supported on one continuous solid backing. AI concept; exact mesh geometry not validated."
+    }
+  ]
+}

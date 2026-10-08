@@ -1,0 +1,189 @@
+Browser tab: 6, Title: "North Korea topographic map STL - Google Search", URL: "https://www.google.com/search?q=North+Korea+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea North Korea topographic map STL - Google Search, URL: google.com/search
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp
+					12 combo box (collapsed) Description: Search, Value: North Korea topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search
+					27 link Description: Shopping, Value: google.com/search
+					28 link Description: Videos, Value: google.com/search
+					29 link Description: News, Value: google.com/search
+					30 link Description: Maps, Value: maps.google.com/maps
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Description: Korean Map Stl North Korea Topographic Map lourenco.com.br https://www.lourenco.com.br › ..., Value: google.com/goto
+							44 button About this result
+							45 container
+								46 text North Korea Topographic Map – STL Model  For 3D Printing CNC. Online sales Price (tax included) 8USD. Stock: 61 tax included $ 14
+							47 image Rated 5.0 out of 5, (86) user reviews
+						48 container
+							49 container
+								50 heading AI Overview, Value: 2
+									51 text AI Overview
+								52 container
+									53 text You can download or purchase high-resolution 3D printable STL files of North Korea's topography from specialized digital model marketplaces like
+									54 link Description: Cults3D, Value: google.com/goto
+									55 text  or
+									56 link Description: Shustrik Maps, Value: google.com/goto
+									57 text .
+									58 button Related results
+								59 heading Available Sources for North Korea Topographic STLs, Value: 3
+									60 text Available Sources for North Korea Topographic STLs
+								61 content list
+									62 container
+										63 AXListMarker •
+										64 text Cults3D : Offers high-polygon 3D terrain models based on accurate digital elevation data (DEM), featuring closed bases suitable for FDM/SLA 3D printing and CNC routing.
+										65 button Related results
+									66 AXListMarker •
+								67 content list
+									68 container
+										69 link Description: North Korea Topographic 3D Model, STL Map for CNC and 3D Printing. Opens in new tab., Value: google.com/goto
+										70 text Etsy
+										71 button Description: About this result, ID: snui-atr-qzfHaruQOZjr7_UP1qv0qQk_kwicd9_8
+										72 text More from this shop * Lebanon HD Topographic Terrain 3D model STL Map Model for CNC Milling and Printing $14.99 * South Korea Topo...
+									73 container
+										74 link Description: North Korea Topographic Map – STL Model for 3D Printing & CNC. Opens in new tab., Value: google.com/goto
+										75 text Shustrik Maps
+										76 button Description: About this result, ID: snui-atr-qzfHaruQOZjr7_UP1qv0qQk_kwicd9_12
+										77 text High-polygon 3D model of North Korea in STL format North Korea Topographic Map – 3D Model for 3D Printing & CNC Carving quantity Y...
+									78 container
+										79 link Description: North Korea Topographic 3D Model, STL Map for CNC and 3D Printing. Opens in new tab., Value: google.com/goto
+										80 text Etsy
+										81 button Description: About this result, ID: snui-atr-qzfHaruQOZjr7_UP1qv0qQk_kwicd9_16
+										82 text More from this shop * Lebanon HD Topographic Terrain 3D model STL Map Model for CNC Milling and Printing ₹ 1,772 Digital Download ...
+									83 container
+										84 link Description: North Korea Topographic Map – 3D Model for 3D Printing & CNC .... Opens in new tab., Value: google.com/goto
+										85 text Cults 3D
+										86 button Description: About this result, ID: snui-atr-qzfHaruQOZjr7_UP1qv0qQk_kwicd9_20
+										87 text Jun 12, 2025 —  3D model description High-polygon 3D model of North Korea in STL format File size: 247 MB Model size: 205 mm x 220 mm x 2 mm Proje...
+									88 container
+										89 link Description: North Korea Topographic Map for 3D Printing CNC Carving .... Opens in new tab., Value: google.com/goto
+										90 text 3DExport
+										91 button Description: About this result, ID: snui-atr-qzfHaruQOZjr7_UP1qv0qQk_kwicd9_24
+										92 text Description High-polygon 3D model of North Korea in STL format File size: 247 MB Model size: 205 mm x 220 mm x 2 mm Projection: Me...
+									93 container
+										94 link Description: "north korea" 3D Models to Print. Opens in new tab., Value: google.com/goto
+										95 text Yeggi
+										96 button Description: About this result, ID: snui-atr-qzfHaruQOZjr7_UP1qv0qQk_kwicd9_28
+										97 text » random » * Download: for sale Website: Cults Tags 3D file Korea North Map Medallion CNC Korea North... Text country, map, city, ...
+							98 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								99 text Show more
+						100 container
+							101 heading Web results, Value: 2
+								102 text Web results
+							103 link Description: 3d Topographic Map North Korea Etsy https://www.etsy.com › market › 3d_topographic_map..., Value: google.com/goto
+							104 button About this result
+							105 container
+								106 text May include: A detailed, textured, beige-coloured map of North Korea.  North Korea Topographic 3D Model, STL Map  for CNC and 3D Printing. (411). £14.88. Digital ...
+								107 link Description: Read more, Value: google.com/goto
+						108 container
+							109 link Value: google.com/goto, Description: North Korea topographic map, elevation, terrain topographic-map.com https://en-us.topographic-map.com › map-71514 › Nor...
+							110 button About this result
+							111 text Free topographic maps, elevation, terrain
+							112 text . Average elevation: 1,198 ft Minimum elevation: -7 ft Maximum elevation: 8,691 ft. Average elevation: 6,437 ft
+						113 container
+							114 link Description: "korea map" 3D Models to Print Yeggi https://www.yeggi.com › korea+map, Value: google.com/goto
+							115 button About this result
+							116 text Topographic Map of Korea 3D
+							117 text . North Korea 3D Topographic Coin 85 mm. North Korea Topographic Map 3D Model for 3D … 3D Miniature STL Fi...
+						118 container
+							119 link Description: korea map 3D Models | Page 1 STLFinder https://www.stlfinder.com › 3D Models, Value: google.com/goto
+							120 button About this result
+							121 text Find 260
+							122 text korea map
+							123 text  3D models for 3D printing, CNC and design. Includes all the regions of
+							124 text North Korea
+							125 text .
+						126 container
+							127 link Description: 3D topography map of North Korea : r/MapPorn Reddit · r/MapPorn 8 comments · 6 years ago, Value: google.com/goto
+							128 button About this result
+							129 text Topographical Map of South Korea and North Korea
+							130 text . · Map of Korea published in North Korea · World Map Used In North Korea · North Korea's Version ...
+							131 link Description: Read more, Value: google.com/goto
+						132 container
+							133 link Description: North Korea 3D Model Terrain Map Pinterest · shustrikmaps 2 years ago, Value: google.com/goto
+							134 button About this result
+							135 text A detailed satellite view of a landscape featuring various terrains, including green areas and patches of water. The
+							136 text terrain
+							137 text  includes hills ...
+						138 container
+							139 link Value: google.com/goto, Description: File:North Korea topographic map.png Wikimedia Commons https://commons.wikimedia.org › wiki › File:North_Ko...
+							140 button About this result
+							141 text Topographic map of the territory claimed by North Korea
+							142 text . This is a retouched picture, it has been digitally altered from its original version.
+						143 container
+							144 link Value: google.com/goto, Description: North Carolina, USA (NC) Topographic Map with Rivers Printables.com https://www.printables.com › model › 531839-north-ca...
+							145 button About this result
+							146 text A dual color topographic map of North Carolina, USA that includes mountains, streams, and lakes. |
+							147 text Download free 3D printable STL models
+							148 text .
+							149 image Rated 5.0 out of 5, (1) user reviews
+				150 container
+					151 container
+						152 heading People also search for, Value: 2
+							153 text People also search for
+						154 link Description: North korea topographic map stl free, Value: google.com/search
+						155 link Description: North korea topographic map stl 3d print, Value: google.com/search
+					156 heading Page Navigation, Value: 1
+						157 text Page Navigation
+					158 text 1
+					159 link Description: Page 2, Value: google.com/search
+					160 link Description: Page 3, Value: google.com/search
+					161 link Description: Page 4, Value: google.com/search
+					162 link Description: Page 5, Value: google.com/search
+					163 link Description: Page 6, Value: google.com/search
+					164 link Description: Page 7, Value: google.com/search
+					165 link Description: Page 8, Value: google.com/search
+					166 link Description: Page 9, Value: google.com/search
+					167 link Description: Page 10, Value: google.com/search
+					168 heading Next, Value: 2
+						169 link Description: Next, Value: google.com/search, ID: pnnext
+			170 container sfooter
+				171 heading Footer Links, Value: 1
+					172 text Footer Links
+				173 container fbar
+					174 container
+						175 button Unknown  - Can't determine location
+							176 container
+								177 text Unknown
+							178 container
+								179 text  -  Can't determine location
+						180 text  -
+						181 button Update location
+							182 text Update location
+					183 container fsl
+						184 link Description: Help, Value: support.google.com/websearch/
+						185 link Description: Send feedback, Value: google.com/search
+						186 link Description: Privacy, Value: policies.google.com/privacy
+						187 link Description: Terms, Value: policies.google.com/terms
+
+The focused UI element is 1 AXWebArea North Korea topographic map STL - Google Search, URL: google.com/search
