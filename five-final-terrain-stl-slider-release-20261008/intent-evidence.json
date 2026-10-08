@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-08",
+  "market": "USA",
+  "language": "English",
+  "parameters": {
+    "hl": "en",
+    "gl": "us",
+    "pws": 0
+  },
+  "location_footer": "Unknown / cannot determine location",
+  "metrics_measured": false,
+  "rows": [
+    {
+      "product_id": 9498,
+      "query": "Earth globe STL exaggerated relief",
+      "url": "https://www.google.com/search?q=Earth+globe+STL+exaggerated+relief&hl=en&gl=us&pws=0",
+      "google_raw": "google-earth-relief.txt",
+      "observation": "Exaggerated globe STL results, free Printables/Thingiverse files and finished physical relief globes observed. Target digital sphere with amplified topography; distinguish ordinary globe, flat world relief, Geoid and modular Earth.",
+      "primary_source": "https://shustrik-maps.com/product/earth-stl-model/",
+      "frequency": null,
+      "rank": null,
+      "actual_us_location_confirmed": false
+    },
+    {
+      "product_id": 9396,
+      "query": "Albania topographic map STL",
+      "url": "https://www.google.com/search?q=Albania+topographic+map+STL&hl=en&gl=us&pws=0",
+      "google_raw": "google-albania.txt",
+      "observation": "Paid Albania terrain STL listing visible alongside ordinary elevation maps, paper-series maps and aggregate model searches. Target whole-country digital STL; no scientific precision or format-extension claim from AI Overview.",
+      "primary_source": "https://shustrik-maps.com/product/albania-stl-model/",
+      "frequency": null,
+      "rank": null,
+      "actual_us_location_confirmed": false
+    },
+    {
+      "product_id": 9415,
+      "query": "Illinois topographic map STL",
+      "url": "https://www.google.com/search?q=Illinois+topographic+map+STL&hl=en&gl=us&pws=0",
+      "google_raw": "google-illinois.txt",
+      "observation": "Free Printables Illinois river-map STL, paid Illinois terrain STL listing and ordinary historical/GIS/elevation maps observed. This is state STL9415; separate owner from satellite TIF17483. No transferred satellite demand metrics.",
+      "primary_source": "https://shustrik-maps.com/product/state-of-illinois-stl-model/",
+      "frequency": null,
+      "rank": null,
+      "actual_us_location_confirmed": false
+    },
+    {
+      "product_id": 19397,
+      "query": "Greenland terrain map STL",
+      "url": "https://www.google.com/search?q=Greenland+terrain+map+STL&hl=en&gl=us&pws=0",
+      "google_raw": "google-greenland.txt",
+      "observation": "Author and own paid Greenland STL listings alongside free relief images and custom terrain-generation tools observed. Greenland island/plateau/coastal relief kept; not mainland Denmark or elevation-data download.",
+      "primary_source": "https://shustrik-maps.com/product/greenland-topographic-map-3d-model/",
+      "frequency": null,
+      "rank": null,
+      "actual_us_location_confirmed": false
+    },
+    {
+      "product_id": 21146,
+      "query": "Earth globe STL with rivers",
+      "url": "https://www.google.com/search?q=Earth+globe+STL+with+rivers&hl=en&gl=us&pws=0",
+      "google_raw": "google-earth-rivers.txt",
+      "observation": "Specific Earth STL with Rivers indexed in model-search result alongside free generic globe models, online globe viewers, texture/rendering assets and generic printable-globe files. Engraved rivers/moderate terrain are own-SKU listing distinctions, not measured long-tail demand.",
+      "primary_source": "https://shustrik-maps.com/product/earth-stl-with-rivers/",
+      "frequency": null,
+      "rank": null,
+      "actual_us_location_confirmed": false
+    }
+  ]
+}

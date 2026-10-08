@@ -1,0 +1,177 @@
+Browser tab: 8, Title: "Earth globe STL with rivers - Google Search", URL: "https://www.google.com/search?q=Earth+globe+STL+with+rivers&hl=en&gl=us&pws=0".
+1 AXWebArea Earth globe STL with rivers - Google Search, URL: google.com/search?q=Earth+globe+STL+with+rivers&hl=en&gl=us&pws=0
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp?hl=en&ictx=2&sa=X&ved=2ahUKEwj1gtOqg6qXAxXXAdsEHf_QNbAQPXoECAYQBA
+					12 combo box (collapsed) Description: Search, Value: Earth globe STL with rivers, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DEarth%2Bglobe%2BSTL%2Bwith%2Brivers%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search?q=Earth+globe+STL+with+rivers&sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQntMwNBEkG-xt1SqSPVTCvvRI5xfow:1791448933785&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwj1gtOqg6qXAxXXAdsEHf_QNbAQ2J8OegQIExAD
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQntMwNBEkG-xt1SqSPVTCvvRI5xfow:1791448933785&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&q=Earth+globe+STL+with+rivers&sa=X&ved=2ahUKEwj1gtOqg6qXAxXXAdsEHf_QNbAQtKgLegQIGRAB
+					27 link Description: Shopping, Value: google.com/search?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQntMwNBEkG-xt1SqSPVTCvvRI5xfow:1791448933785&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&q=Earth+globe+STL+with+rivers&ved=1t:220175&ictx=111
+					28 link Description: Videos, Value: google.com/search?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQntMwNBEkG-xt1SqSPVTCvvRI5xfow:1791448933785&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&q=Earth+globe+STL+with+rivers&sa=X&ved=2ahUKEwj1gtOqg6qXAxXXAdsEHf_QNbAQtKgLegQIGBAB
+					29 link Description: News, Value: google.com/search?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQntMwNBEkG-xt1SqSPVTCvvRI5xfow:1791448933785&q=Earth+globe+STL+with+rivers&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&sa=X&ved=2ahUKEwj1gtOqg6qXAxXXAdsEHf_QNbAQ0pQJegQIFhAB
+					30 link Description: Maps, Value: maps.google.com/maps?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&output=search&q=Earth+globe+STL+with+rivers&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&entry=mc&ved=1t:200715&ictx=111
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container rcnt
+				38 container Odp5De
+					39 container
+						40 container
+							41 heading AI Overview, Value: 2
+								42 text AI Overview
+							43 container
+								44 text You can find  3D printable Earth globe STL models featuring terrain, topography, and river features on community platforms like
+								45 link Description: Printables, Value: google.com/goto?url=CAESXwHrOzAV5HdaBZAPVKLPf2dZEaEbRbexHb--_QTcTYaTx8RCKQ40bGZjQjf5jEbIG_eHXYyZ8XHVh_tDRw-NnkiniNhXLf300jhGQ_kvloMgE3KTkxVJ8d1caURxuAeW
+								46 text  and aggregate search sites like
+								47 link Description: Yeggi, Value: google.com/goto?url=CAESYwHrOzAVNw2nz5pt19C0t_1j0qsmTN2k2zPJ5yJXS2EquGqswdtpgqjQRe0Ly0g__N3z9UIAVtZJqEtdBaMnNLbc0dnjAJ2AYdR7pw495t4IqUKH8ksVPWFtky4uqFg9Zs4fIw
+								48 text .
+							49 heading Where to Find Earth Globe STL Files, Value: 3
+								50 text Where to Find Earth Globe STL Files
+							51 content list
+								52 container
+									53 AXListMarker •
+									54 text Topographic & Relief Globes:  Creators share split-hemisphere and multi-color topographical models on  Printables  that display major land elevations and surface structures.
+							55 container
+								56 container
+									57 content list
+										58 container
+											59 link Description: "earth globe stl" 3D Models to Print - yeggi. Opens in new tab., Value: google.com/goto?url=CAESYwHrOzAVNw2nz5pt19C0t_1j0qsmTN2k2zPJ5yJXS2EquGqswdtpgqjQRe0Ly0g__N3z9UIAVtZJqEtdBaMnNLbc0dnjAJ2AYdR7pw495t4IqUKH8ksVPWFtky4uqFg9Zs4fIw
+											60 text Yeggi
+											61 button Description: About this result, ID: snui-atr-ZlfHao77EqeN7NYP9428qQQ_z6l925_20
+											62 text "earth globe stl" 3D Models to Print - yeggi
+											63 text Source Index: yeggi 3D model search results for "earth globe stl". Platforms: Cults, Thangs, Creality Cloud, Thingiverse, CGTrader...
+										64 container
+											65 link Description: "earth" 3D Models to Print. Opens in new tab., Value: google.com/goto?url=CAESWQHrOzAVp0LblbxchYeXLt39mn4PjJAXvaSWpF5hvQlBWrfT0KMbZAP1fiZ0mMBOWpOLWmQeeMY8Kl5tP__RY7hkka2NsaRY-SZ1Xuke0RyW2Hef52szRyyS
+											66 text Yeggi
+											67 button Description: About this result, ID: snui-atr-ZlfHao77EqeN7NYP9428qQQ_z6l925_24
+											68 text "earth" 3D Models to Print
+											69 text » random » * Download: for sale Website: Cults Tags Earth Globe 3D print model STL File for 3D print... Text earth, globe, height,
+						70 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+							71 text Show more
+				72 container center_col
+					73 container gevUs
+						74 container rso
+							75 container
+								76 heading Web results, Value: 2
+									77 text Web results
+								78 link Description: "earth globe stl" 3D Models to Print Yeggi https://www.yeggi.com › earth+globe+stl, Value: google.com/goto?url=CAESYwHrOzAVslknR5QVSOGzNmJsSNeL1lHUtdDsPykdYV8vF0OWVFsKZ-Drt2FY1prnVEsmPaC9ikNm2wSY3iebjPKPCK-gcWI75inh6UW3JadrlGaqZcYlST5pckao2WLyL9aADQ
+								79 button About this result
+								80 container
+									81 text 3D Printed Earth STL Model with Rivers  3D File … functional art, eco-friendly decor, Download: D print model STL File for 3D print... Earth STL Model with Rivers ...
+							82 container
+								83 link Description: GLOBE models for 3D printer Printables.com https://www.printables.com › tag › globe, Value: google.com/goto?url=CAESXwHrOzAVwFg7cU3mtRI4GsqDVDU7UOIIFIUg3VHZ6_gQfRtgU5pGFbuYraUVRu_1j04G_jQuDyk2bJ8w9b84UTlN963y_oWgfBkGPlARecUR9x2kukhTsk_HRfTzJ73r
+								84 button About this result
+								85 text Explore collection of globe designs that are perfect for your 3D printer.
+								86 text Download and 3D print STL models
+								87 text  tagged with globe.
+							88 container
+								89 link Description: World Globe 3D Models for Free Download and Print | Tripo AI Tripo Studio https://studio.tripo3d.ai › 3D Models, Value: google.com/goto?url=CAEScQHrOzAVSZMU1VpmhpuX9keS2uZpppZjPqk7rPbDiuMNHyY_iSAUcoN90pPSSB2qSwV-qDAIn99a364o_SVHsdutAhbwmnN0jwT1e0oUuLleoyMBB52mInV1Po9j-gXqTAkIuRDdwPAWWrM_oG1whQ3J
+								90 button About this result
+								91 text 43 world globe 3D models, ready for 3D printing,
+								92 text Download in STL
+								93 text , free download in STL, globe with blue oceans, gray continents, and a grid world
+							94 container
+								95 link Description: earth 3d print model download MakerWorld https://makerworld.com › more-models › earth-3d-print..., Value: …
+								96 button About this result
+								97 text earth
+								98 text  3d print model download. Leading 3D printing model community for designers and makers. Download thousands of 3D models and
+								99 text stl
+								100 text  models for free, ...
+							101 container
+								102 link Description: 3D Interactive Earth Globes eChalk https://www.echalk.co.uk › physics › solarSystem › inte..., Value: …
+								103 button About this result
+								104 text 15 stunning 3D visualisations of
+								105 text Earth
+								106 text . Geographic, views include tectonic boundaries, climate zones, average temperature. Select a map below to get started.
+							107 container
+								108 link Value: …, Description: Earth Globe 🌍 - 3D model by matousekfoto Sketchfab https://sketchfab.com › earth-globe-98d2b04d46474baf...
+								109 button About this result
+								110 text May 20, 2020  —  The
+								111 text Earth Globe World
+								112 text  geography sphere map model. 3x 16K textures. PNG textures available for download here:
+							113 container
+								114 link Value: …, Description: Multi-Color Scale Model Globe of Earth by Altos Thingiverse https://www.thingiverse.com › thing:3945241
+								115 button About this result
+								116 text Oct 29, 2019  —  This is a
+								117 text multi-color, scale-model globe of the Earth
+								118 text . Includes all of the continents and many of the islands and lakes that are visible ...
+							119 container
+								120 link Description: Make this 3D printed globe please Esri https://www.esri.com › arcgis-living-atlas › mapping, Value: …
+								121 button About this result
+								122 text Dec 4, 2023  —
+								123 text Here's the resulting 3D printer STL file of the
+								124 text  globe. For the print settings, choose an infill of 100% with no supports. the STL file required ...
+								125 link Description: Read more, Value: …
+							126 container
+								127 link Description: 3d earth globe rivers PSD Magnific https://www.magnific.com › psd › 3d-earth-globe-rivers, Value: …
+								128 button About this result
+								129 text Find & Download the most popular
+								130 text 3d earth globe rivers PSD on Magnific
+								131 text  ✓ Free for commercial use ✓ High Quality Images ✓ Made for Creative Projects.
+					132 container
+						133 container
+							134 heading People also search for, Value: 2
+								135 text People also search for
+							136 link Description: Earth globe stl with rivers online free, Value: …
+							137 link Description: Earth globe stl with rivers free download, Value: …
+							138 link Description: Earth globe stl with rivers free, Value: …
+							139 link Description: Earth globe stl with rivers download, Value: …
+							140 link Description: World Globe STL, Value: …
+							141 link Description: Printable World Globe, Value: …
+							142 link Description: 3D printed earth, Value: …
+							143 link Description: Planet 3D print, Value: …
+						144 heading Page Navigation, Value: 1
+							145 text Page Navigation
+						146 text 1
+						147 link Description: Page 2, Value: …
+						148 link Description: Page 3, Value: …
+						149 link Description: Page 4, Value: …
+						150 link Description: Page 5, Value: …
+						151 link Description: Page 6, Value: …
+						152 link Description: Page 7, Value: …
+						153 link Description: Page 8, Value: …
+						154 link Description: Page 9, Value: …
+						155 link Description: Page 10, Value: …
+						156 heading Next, Value: 2
+							157 link Description: Next, Value: …, ID: pnnext
+			158 container sfooter
+				159 heading Footer Links, Value: 1
+					160 text Footer Links
+				161 container fbar
+					162 container
+						163 button Unknown  - Can't determine location
+							164 container
+								165 text Unknown
+							166 container
+								167 text  -  Can't determine location
+						168 text  -
+						169 button Update location
+							170 text Update location
+					171 container fsl
+						172 link Description: Help, Value: …
+						173 link Description: Send feedback, Value: …
+						174 link Description: Privacy, Value: …
+						175 link Description: Terms, Value: …
+
+The focused UI element is 1 AXWebArea Earth globe STL with rivers - Google Search, URL: google.com/search?q=Earth+globe+STL+with+rivers&hl=en&gl=us&pws=0

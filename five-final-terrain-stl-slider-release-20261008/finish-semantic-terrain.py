@@ -1,0 +1,18 @@
+from pathlib import Path
+import json,shutil
+from urllib.parse import quote_plus
+root=Path(__file__).parent;out=Path('J:/1. My Vault/90 Migration/shustrik-maps-seo/five-final-terrain-stl-slider-release-20261008')
+queries={'earth-relief': 'Earth globe STL exaggerated relief', 'albania': 'Albania topographic map STL', 'illinois': 'Illinois topographic map STL', 'greenland': 'Greenland terrain map STL', 'earth-rivers': 'Earth globe STL with rivers'}
+obs={'earth-relief': 'Exaggerated globe STL results, free Printables/Thingiverse files and finished physical relief globes observed. Target digital sphere with amplified topography; distinguish ordinary globe, flat world relief, Geoid and modular Earth.', 'albania': 'Paid Albania terrain STL listing visible alongside ordinary elevation maps, paper-series maps and aggregate model searches. Target whole-country digital STL; no scientific precision or format-extension claim from AI Overview.', 'illinois': 'Free Printables Illinois river-map STL, paid Illinois terrain STL listing and ordinary historical/GIS/elevation maps observed. This is state STL9415; separate owner from satellite TIF17483. No transferred satellite demand metrics.', 'greenland': 'Author and own paid Greenland STL listings alongside free relief images and custom terrain-generation tools observed. Greenland island/plateau/coastal relief kept; not mainland Denmark or elevation-data download.', 'earth-rivers': 'Specific Earth STL with Rivers indexed in model-search result alongside free generic globe models, online globe viewers, texture/rendering assets and generic printable-globe files. Engraved rivers/moderate terrain are own-SKU listing distinctions, not measured long-tail demand.'}
+m=json.loads((root/'manifest.json').read_text(encoding='utf-8'));rows=[]
+for r in m['rows']:
+ slug=r['slug'];raw=(root/('google-'+slug+'.txt')).read_text(encoding='utf-8');assert 'Search Results' in raw and queries[slug] in raw and 'Unknown' in raw
+ rows.append({'product_id':r['id'],'query':queries[slug],'url':'https://www.google.com/search?q='+quote_plus(queries[slug])+'&hl=en&gl=us&pws=0','google_raw':'google-'+slug+'.txt','observation':obs[slug],'primary_source':r['url'],'frequency':None,'rank':None,'actual_us_location_confirmed':False})
+e={'date':'2026-10-08','market':'USA','language':'English','parameters':{'hl':'en','gl':'us','pws':0},'location_footer':'Unknown / cannot determine location','metrics_measured':False,'rows':rows}
+(root/'intent-evidence.json').write_text(json.dumps(e,ensure_ascii=False,indent=2),encoding='utf-8')
+s=json.loads((root/'semantic-review.json').read_text(encoding='utf-8'));s.update(fresh_intent_evidence='intent-evidence.json',google_results_observed=5,location_confirmed=False);(root/'semantic-review.json').write_text(json.dumps(s,ensure_ascii=False,indent=2),encoding='utf-8')
+t='# Intent Review — five distinct STL products\n\nGoogle English / USA parameters. Actual location Unknown; frequency and rank not measured. Existing saved core checked; editorial mappings only. Sources and original own listing snapshots support file scope.\n'
+for r in m['rows']:t+='\n## '+r['name']+'\n\n'+obs[r['slug']]+'\n\nSource: ['+r['name']+']('+r['url']+'); saved original content [[baseline.json]]. Google evidence: [[google-'+r['slug']+'.txt]].\n'
+(root/'Intent Review.md').write_text(t,encoding='utf-8')
+for n in ['semantic-review.json','intent-evidence.json','Intent Review.md','finish-semantic-terrain.py']+['google-'+r['slug']+'.txt' for r in m['rows']]:shutil.copy2(root/n,out/n)
+print('Five observed Google intent checks saved; no measured frequencies/ranks')

@@ -1,0 +1,206 @@
+{
+  "pass": true,
+  "review_method": "Every original native ImageGen image individually viewed; 20 separate calls, no substitute image engine. Geometry compared against its own two original SKU references; conceptual resemblance only, no mesh equivalence claim.",
+  "rows": [
+    {
+      "id": 9498,
+      "slug": "earth-relief",
+      "scene": "desk",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Whole sphere seated flush in a solid fitted cradle integrated with one continuous base."
+    },
+    {
+      "id": 9498,
+      "slug": "earth-relief",
+      "scene": "wall",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Distinct application; original outline/relief retained as concept."
+    },
+    {
+      "id": 9498,
+      "slug": "earth-relief",
+      "scene": "gift",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Distinct application; original outline/relief retained as concept."
+    },
+    {
+      "id": 9498,
+      "slug": "earth-relief",
+      "scene": "commercial",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Distinct application; original outline/relief retained as concept."
+    },
+    {
+      "id": 9396,
+      "slug": "albania",
+      "scene": "desk",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Entire silhouette and all fragments attached flush to one solid rear backing."
+    },
+    {
+      "id": 9396,
+      "slug": "albania",
+      "scene": "wall",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Distinct application; original outline/relief retained as concept."
+    },
+    {
+      "id": 9396,
+      "slug": "albania",
+      "scene": "gift",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Distinct application; original outline/relief retained as concept."
+    },
+    {
+      "id": 9396,
+      "slug": "albania",
+      "scene": "commercial",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Distinct application; original outline/relief retained as concept."
+    },
+    {
+      "id": 9415,
+      "slug": "illinois",
+      "scene": "desk",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Entire silhouette and all fragments attached flush to one solid rear backing."
+    },
+    {
+      "id": 9415,
+      "slug": "illinois",
+      "scene": "wall",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Distinct application; original outline/relief retained as concept."
+    },
+    {
+      "id": 9415,
+      "slug": "illinois",
+      "scene": "gift",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Distinct application; original outline/relief retained as concept."
+    },
+    {
+      "id": 9415,
+      "slug": "illinois",
+      "scene": "commercial",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Distinct application; original outline/relief retained as concept."
+    },
+    {
+      "id": 19397,
+      "slug": "greenland",
+      "scene": "desk",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Entire silhouette and all fragments attached flush to one solid rear backing."
+    },
+    {
+      "id": 19397,
+      "slug": "greenland",
+      "scene": "wall",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Warm ivory plateau with tan coastal relief; alt adjusted to actual tones."
+    },
+    {
+      "id": 19397,
+      "slug": "greenland",
+      "scene": "gift",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Distinct application; original outline/relief retained as concept."
+    },
+    {
+      "id": 19397,
+      "slug": "greenland",
+      "scene": "commercial",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Distinct application; original outline/relief retained as concept."
+    },
+    {
+      "id": 21146,
+      "slug": "earth-rivers",
+      "scene": "desk",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Whole sphere seated flush in a solid fitted cradle integrated with one continuous base."
+    },
+    {
+      "id": 21146,
+      "slug": "earth-rivers",
+      "scene": "wall",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Painted blue oceans with warm ivory land; hemisphere display adaptation, alt adjusted to actual scene."
+    },
+    {
+      "id": 21146,
+      "slug": "earth-rivers",
+      "scene": "gift",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Distinct application; original outline/relief retained as concept."
+    },
+    {
+      "id": 21146,
+      "slug": "earth-rivers",
+      "scene": "commercial",
+      "geographic_reference_pass": true,
+      "material_pass": true,
+      "support_pass": true,
+      "composition_pass": true,
+      "note": "Distinct application; original outline/relief retained as concept."
+    }
+  ]
+}

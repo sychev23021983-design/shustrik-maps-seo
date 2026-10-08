@@ -1,0 +1,37 @@
+{
+  "source_head": "6e532a6e3f4fc39985f279a80c7b4877a13a063d",
+  "method": "Full published catalog scan (516 products), own references and prior release reports. Previous URL-only scan missed Greenland. Illinois9415 is STL, not earlier satellite17483. Original carousels are not AI completion evidence. Belarus excluded; no completed AI batch repeated.",
+  "selected": [
+    {
+      "id": 9498,
+      "title": "3D Printed Earth STL Model – Exaggerated Relief Topography for 3D Printing & CNC",
+      "slug": "earth-stl-model",
+      "ai_notice": false
+    },
+    {
+      "id": 9396,
+      "title": "Albania Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "albania-stl-model",
+      "ai_notice": false
+    },
+    {
+      "id": 9415,
+      "title": "Illinois Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-illinois-stl-model",
+      "ai_notice": false
+    },
+    {
+      "id": 19397,
+      "title": "Greenland Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "greenland-topographic-map-3d-model",
+      "ai_notice": false
+    },
+    {
+      "id": 21146,
+      "title": "3D Printed Earth STL Model with Rivers – Detailed Topography for 3D Printing & CNC",
+      "slug": "earth-stl-with-rivers",
+      "ai_notice": false
+    }
+  ],
+  "published_product_count": 516
+}

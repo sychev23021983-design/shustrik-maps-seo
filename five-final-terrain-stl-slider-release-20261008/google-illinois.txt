@@ -1,0 +1,190 @@
+Browser tab: 8, Title: "Illinois topographic map STL - Google Search", URL: "https://www.google.com/search?q=Illinois+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Illinois topographic map STL - Google Search, URL: google.com/search?q=Illinois+topographic+map+STL&hl=en&gl=us&pws=0
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp?hl=en&ictx=2&sa=X&ved=2ahUKEwimw8XDgqqXAxU1S_EDHb1OI84QPXoECAYQBA
+					12 combo box (collapsed) Description: Search, Value: Illinois topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DIllinois%2Btopographic%2Bmap%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search?q=Illinois+topographic+map+STL&sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQnsh-OgqA1ico6rpk7vvuWTWkmPqcQ:1791448717557&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYTU1b4eMHgVSc8-UQwsgjK03KBO1DDJ8648lulvaj_9fTENwZVNKnUKoqWCL71de67hIyt289nFrrnGsXC4yKe1lMfU64gA4sORG52TBcLj-I6JjJv-IRihJKi48wYKmvtHFTO7g6oRutSEnXuzJ-dm-nF1hA&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwimw8XDgqqXAxU1S_EDHb1OI84Q2J8OegQIEhAD
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQnsh-OgqA1ico6rpk7vvuWTWkmPqcQ:1791448717557&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYTU1b4eMHgVSc8-UQwsgjK03KBO1DDJ8648lulvaj_9fTENwZVNKnUKoqWCL71de67hIyt289nFrrnGsXC4yKe1lMfU64gA4sORG52TBcLj-I6JjJv-IRihJKi48wYKmvtHFTO7g6oRutSEnXuzJ-dm-nF1hA&q=Illinois+topographic+map+STL&sa=X&ved=2ahUKEwimw8XDgqqXAxU1S_EDHb1OI84QtKgLegQIFRAB
+					27 link Description: Shopping, Value: google.com/search?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQnsh-OgqA1ico6rpk7vvuWTWkmPqcQ:1791448717557&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYTU1b4eMHgVSc8-UQwsgjK03KBO1DDJ8648lulvaj_9fTENwZVNKnUKoqWCL71de67hIyt289nFrrnGsXC4yKe1lMfU64gA4sORG52TBcLj-I6JjJv-IRihJKi48wYKmvtHFTO7g6oRutSEnXuzJ-dm-nF1hA&q=Illinois+topographic+map+STL&ved=1t:220175&ictx=111
+					28 link Description: Maps, Value: maps.google.com/maps?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&output=search&q=Illinois+topographic+map+STL&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYTU1b4eMHgVSc8-UQwsgjK03KBO1DDJ8648lulvaj_9fTENwZVNKnUKoqWCL71de67hIyt289nFrrnGsXC4yKe1lMfU64gA4sORG52TBcLj-I6JjJv-IRihJKi48wYKmvtHFTO7g6oRutSEnXuzJ-dm-nF1hA&entry=mc&ved=1t:200715&ictx=111
+					29 link Description: Videos, Value: google.com/search?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQnsh-OgqA1ico6rpk7vvuWTWkmPqcQ:1791448717557&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYTU1b4eMHgVSc8-UQwsgjK03KBO1DDJ8648lulvaj_9fTENwZVNKnUKoqWCL71de67hIyt289nFrrnGsXC4yKe1lMfU64gA4sORG52TBcLj-I6JjJv-IRihJKi48wYKmvtHFTO7g6oRutSEnXuzJ-dm-nF1hA&q=Illinois+topographic+map+STL&sa=X&ved=2ahUKEwimw8XDgqqXAxU1S_EDHb1OI84QtKgLegQIGBAB
+					30 link Description: Forums, Value: google.com/search?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQnsh-OgqA1ico6rpk7vvuWTWkmPqcQ:1791448717557&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYTU1b4eMHgVSc8-UQwsgjK03KBO1DDJ8648lulvaj_9fTENwZVNKnUKoqWCL71de67hIyt289nFrrnGsXC4yKe1lMfU64gA4sORG52TBcLj-I6JjJv-IRihJKi48wYKmvtHFTO7g6oRutSEnXuzJ-dm-nF1hA&q=Illinois+topographic+map+STL&sa=X&ved=2ahUKEwimw8XDgqqXAxU1S_EDHb1OI84Qs6gLegQIFhAB
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Description: Illinois, USA (IL) Topographic Map with Rivers by Anson Liu Printables.com https://www.printables.com › model › 531853-illinois-u..., Value: google.com/goto?url=CAESjgEB6zswFTw0Rccdm8Jr7HTkMwkK02vtZP6AJGPDCH0hD0azqwTLYMnEeOWmmap6AktbyRunM_4jDFOPuVeEEMwoaM_uRQsRGg9x0LsWmt2lKc2YNK8Z39Z4F4ab9Ph0csPHApCkEFu2MOtvEkC-E-HTEE66NKqUWFhEsiEssYWr0p9ec6VOE_lbv8JfuEiy
+							44 button About this result
+							45 container
+								46 text A dual color topographic map of Illinois, USA that includes mountains, streams, and lakes. |  Download free 3D printable STL models .
+							47 image Rated 5.0 out of 5, (1) user reviews
+						48 container
+							49 container
+								50 heading AI Overview, Value: 2
+									51 text AI Overview
+								52 container
+									53 text You can download a free 3D printable topographic map of  Illinois  on
+									54 link Description: Printables, Value: google.com/goto?url=CAESjgEB6zswFQ0MBpLOAbHyTCnngYAv-kOu7XJt_pQJzZ6whfKWQlF0g55EXH0iONEll-TliffLq57XlcVFKlCnEO5ttBJn4H-GvEznn2Sxt88ypM20JY2eH2759EeFUhRFzTdGUSqv3WVv3An3YSY8-mPzdM4aAp2MRSgBfQ1HgYVGrCfrjeqybjZPSRH6pR3A
+									55 text .
+									56 button Related results
+								57 heading Where to Find Illinois Topographic Map STL Files, Value: 3
+									58 text Where to Find Illinois Topographic Map STL Files
+								59 content list
+									60 container
+										61 AXListMarker •
+										62 text Free Options:  Check  Printables  for user-shared, dual-color 3D printable files featuring Illinois rivers and terrain. You can also browse aggregated index search engines like
+										63 link Description: Yeggi, Value: google.com/goto?url=CAESXAHrOzAVQIQ3xZgSAKtt65_CjX5YT-YrzmpEZAttMT_esH8aaA4c17-JkDUfsH3d7nLj0n3jaK6RsmsJhJ-XxB_HPZCtV-EiCcEaumMmKHuTDvMfwxP4t1_SFp1e
+										64 text  to find community-created models.
+										65 link Description: Printables.com, Value: google.com/goto?url=CAESjgEB6zswFQ0MBpLOAbHyTCnngYAv-kOu7XJt_pQJzZ6whfKWQlF0g55EXH0iONEll-TliffLq57XlcVFKlCnEO5ttBJn4H-GvEznn2Sxt88ypM20JY2eH2759EeFUhRFzTdGUSqv3WVv3An3YSY8-mPzdM4aAp2MRSgBfQ1HgYVGrCfrjeqybjZPSRH6pR3A
+										66 button Printables.com (+1) - Related results
+											67 text Printables.com
+											68 text  +1
+									69 container
+										70 AXListMarker •
+										71 text Paid/High-Detail Options:  Marketplaces like
+										72 link Description: Etsy, Value: google.com/goto?url=CAEShwEB6zswFcKFgXg-4j4FYhuF1C3joF3y4EnV9TSo36lfPk4CfXv_PZn7Ya-QGj988yDN_q1otzLO4qa_xY_SqEKdiMJTZq0H5oXFedoc7B-Po7ZmeydUgNgtRrVUNV2YEFGhLjJOFHi6x3nxODFyPgJXKBZq3GP4QxkTpA9iPEVSqGTH5lCjjco
+										73 text  and
+										74 link Description: CGTrader, Value: …
+										75 text  offer high-mesh-density STL files optimized for CNC routers and 3D resin/FDM printers, often featuring exaggerated elevation features to make terrain pop.
+								76 content list
+									77 container
+										78 link Description: Illinois, USA (IL) Topographic Map with Rivers - Printables.com. Opens in new tab., Value: …
+										79 text Printables.com
+										80 button Description: About this result, ID: snui-atr-jlbHarzxDcDUxc8P1Z7h4AE_nyzf7s_9
+										81 text A dual color topographic map of Illinois, USA that includes mountains, streams, and lakes. | Download free 3D printable STL models...
+									82 container
+										83 link Description: Buy State of Illinois Topographic Map 3D Model File. Opens in new tab., Value: …
+										84 text Etsy
+										85 button Description: About this result, ID: snui-atr-jlbHarzxDcDUxc8P1Z7h4AE_nyzf7s_13
+										86 text Highlights This digital product is a topographic 3D model of the terrain of the US State of Illinois. This 3D model is in STL file...
+									87 container
+										88 link Description: "illinois" 3D Models to Print. Opens in new tab., Value: …
+										89 text Yeggi
+										90 button Description: About this result, ID: snui-atr-jlbHarzxDcDUxc8P1Z7h4AE_nyzf7s_17
+										91 text » random » * Download: free Website: makerworld Tags OVC (FCS) Standing Tiles - Free 3D Print Model Text ovc, fcs, college footbal...
+									92 container
+										93 link Description: "map of illinois" 3D Models to Print. Opens in new tab., Value: …
+										94 text Yeggi
+										95 button Description: About this result, ID: snui-atr-jlbHarzxDcDUxc8P1Z7h4AE_nyzf7s_21
+										96 text » random » * Download: for sale Website: Cults Tags The Route 66 Big Map - Illinois ️ Text route, illinois, mother, road, chicago,
+							97 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								98 text Show more
+						99 container
+							100 heading Web results, Value: 2
+								101 text Web results
+							102 link Value: …, Description: Illinois 3D Topographic Map STL File | Printable Terrain ... Etsy https://www.etsy.com › listing › illinois-3d-topographic...
+							103 button About this result
+							104 container
+								105 text Jun 7, 2026  —  Illinois 3D Topographic Terrain Model . Instant digital download, ready to 3D print or carve on a CNC. A true-to-life relief model of Illinois ...
+								106 link Description: Read more, Value: …
+							107 image Rated 3.8 out of 5, (3) user reviews
+						108 container
+							109 link Description: "topographic map" 3D Models to Print Yeggi https://www.yeggi.com › topographic+map, Value: …
+							110 button About this result
+							111 text printable 3D Models. Download: for sale Website:
+							112 text State of Illinois Topographic Map
+							113 text  - Download: for sale Website: Download: for sale Website: Cults
+						114 container
+							115 link Value: …, Description: Illinois Historical Topographic Maps The University of Texas at Austin https://maps.lib.utexas.edu › maps › topo › illinois
+							116 button About this result
+							117 text Illinois Historical Topographic Maps
+							118 text . All maps on this page were published by the U.S. Geological Survey and are in the public domain.
+						119 container
+							120 link Description: IL Elevation Finder Illinois.gov http://maps.dnr.illinois.gov › elev, Value: …
+							121 button About this result
+							122 text Either enter an address ... or zoom in and click on a
+							123 text map
+							124 text  location > The
+							125 text map
+							126 text  will switch to aerial photography when zoomed in far enough.
+							127 link Description: Read more, Value: …
+						128 container
+							129 link Value: …, Description: GIS Data and Resources: Print and Online Maps WashU https://libguides.wustl.edu › ... › GIS Data and Resources
+							130 button About this result
+							131 text Sep 9, 2026  —  The collection consists primarily of
+							132 text topographic and geologic maps
+							133 text , The Libraries subscribe to Illinois and Missouri maps.
+						134 container
+							135 link Value: …, Description: St. Louis topographic map, elevation, terrain topographic-map.com https://en-us.topographic-map.com › ... › St. Louis
+							136 button About this result
+							137 text Average elevation: 492 ft
+							138 text  • St. Louis, City of Saint Louis, Madison County, Illinois, United States • Visualization and sharing of free topographic maps.
+						139 container
+							140 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: …
+							141 button About this result
+							142 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: …
+							143 text In this step-by-step tutorial, we dive into  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! downloading  ...
+						144 container
+							145 link Value: …, Description: Topographic Maps — Online - University Library University of Illinois Urbana-Champaign https://www.library.illinois.edu › collections › maps-new
+							146 button About this result
+							147 text Digital topographic mapping created by most nations is available only by purchase. Some US-produced
+							148 text topographic maps
+							149 text  for other nations has been scanned and is ...
+							150 link Description: Read more, Value: …
+				151 container
+					152 container
+						153 heading People also search for, Value: 2
+							154 text People also search for
+						155 link Description: Illinois topographic map stl free, Value: …
+						156 link Description: Illinois topographic map stl 3d print, Value: …
+					157 heading Page Navigation, Value: 1
+						158 text Page Navigation
+					159 text 1
+					160 link Description: Page 2, Value: …
+					161 link Description: Page 3, Value: …
+					162 link Description: Page 4, Value: …
+					163 link Description: Page 5, Value: …
+					164 link Description: Page 6, Value: …
+					165 link Description: Page 7, Value: …
+					166 link Description: Page 8, Value: …
+					167 link Description: Page 9, Value: …
+					168 link Description: Page 10, Value: …
+					169 heading Next, Value: 2
+						170 link Description: Next, Value: …, ID: pnnext
+			171 container sfooter
+				172 heading Footer Links, Value: 1
+					173 text Footer Links
+				174 container fbar
+					175 container
+						176 button Unknown  - Can't determine location
+							177 container
+								178 text Unknown
+							179 container
+								180 text  -  Can't determine location
+						181 text  -
+						182 button Update location
+							183 text Update location
+					184 container fsl
+						185 link Description: Help, Value: support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+						186 link Description: Send feedback, Value: …
+						187 link Description: Privacy, Value: …
+						188 link Description: Terms, Value: …
+
+The focused UI element is 1 AXWebArea Illinois topographic map STL - Google Search, URL: google.com/search?q=Illinois+topographic+map+STL&hl=en&gl=us&pws=0

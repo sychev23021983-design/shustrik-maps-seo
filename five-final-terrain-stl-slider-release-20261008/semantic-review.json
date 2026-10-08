@@ -1,0 +1,82 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-earth-relief-stl-cnc",
+      "product_id": 9498,
+      "primary": "Earth globe STL exaggerated relief",
+      "supporting": [
+        "Earth relief globe 3D print",
+        "exaggerated Earth topography STL",
+        "Earth globe CNC model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "Editorial digital STL mapping; Google English / USA parameters; no measured frequency or rank"
+    },
+    {
+      "cluster_id": "GEO-albania-stl-cnc",
+      "product_id": 9396,
+      "primary": "Albania topographic map STL",
+      "supporting": [
+        "Albania terrain STL",
+        "Albania relief map STL",
+        "Albania map 3D print",
+        "Albania CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "Editorial digital STL mapping; Google English / USA parameters; no measured frequency or rank"
+    },
+    {
+      "cluster_id": "GEO-illinois-stl-cnc",
+      "product_id": 9415,
+      "primary": "Illinois topographic map STL",
+      "supporting": [
+        "Illinois terrain STL",
+        "Illinois relief map STL",
+        "Illinois map 3D print",
+        "Illinois CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "Editorial digital STL mapping; Google English / USA parameters; no measured frequency or rank"
+    },
+    {
+      "cluster_id": "GEO-greenland-stl-cnc",
+      "product_id": 19397,
+      "primary": "Greenland terrain map STL",
+      "supporting": [
+        "Greenland terrain STL",
+        "Greenland relief map STL",
+        "Greenland map 3D print",
+        "Greenland CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "Editorial digital STL mapping; Google English / USA parameters; no measured frequency or rank"
+    },
+    {
+      "cluster_id": "GEO-earth-rivers-stl-cnc",
+      "product_id": 21146,
+      "primary": "Earth globe STL with rivers",
+      "supporting": [
+        "river network globe STL",
+        "Earth hydrology relief 3D print",
+        "engraved rivers Earth globe STL"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "Editorial digital STL mapping; Google English / USA parameters; no measured frequency or rank"
+    }
+  ],
+  "note": "Saved exact STL clusters checked. Distinct Earth SKU queries are editorial variants, not measured demand. Illinois is STL9415, separate from satellite TIF17483. Greenland geography is not mainland Denmark. Previous slug-filter catalog omitted some STL products.",
+  "fresh_intent_evidence": "intent-evidence.json",
+  "google_results_observed": 5,
+  "location_confirmed": false
+}

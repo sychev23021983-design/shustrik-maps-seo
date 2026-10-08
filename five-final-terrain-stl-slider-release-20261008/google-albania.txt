@@ -1,0 +1,181 @@
+Browser tab: 8, Title: "Albania topographic map STL - Google Search", URL: "https://www.google.com/search?q=Albania+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Albania topographic map STL - Google Search, URL: google.com/search?q=Albania+topographic+map+STL&hl=en&gl=us&pws=0
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp?hl=en&ictx=2&sa=X&ved=2ahUKEwiS89a3gqqXAxVlS_EDHRfiAaAQPXoECAYQBA
+					12 combo box (collapsed) Description: Search, Value: Albania topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DAlbania%2Btopographic%2Bmap%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search?q=Albania+topographic+map+STL&sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQnvrInznHr8bIWQ1WbaXanwG7AAD9g:1791448692677&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9O-eteO81qQYzKlRFfJ_kObWRAbu0_gWa7ZZ3bDuSeSW9-KyZ5oKr8py5GIF3Qw3M5_Ln7MWHMOQcMBxI2MiE-Siqnc0k6jsNOPiULzusWe_cgcgEE2cJ-gevJHEYDaPYYfBcqA&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiS89a3gqqXAxVlS_EDHRfiAaAQ2J8OegQIEhAD
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQnvrInznHr8bIWQ1WbaXanwG7AAD9g:1791448692677&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9O-eteO81qQYzKlRFfJ_kObWRAbu0_gWa7ZZ3bDuSeSW9-KyZ5oKr8py5GIF3Qw3M5_Ln7MWHMOQcMBxI2MiE-Siqnc0k6jsNOPiULzusWe_cgcgEE2cJ-gevJHEYDaPYYfBcqA&q=Albania+topographic+map+STL&sa=X&ved=2ahUKEwiS89a3gqqXAxVlS_EDHRfiAaAQtKgLegQIFxAB
+					27 link Description: Shopping, Value: google.com/search?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQnvrInznHr8bIWQ1WbaXanwG7AAD9g:1791448692677&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9O-eteO81qQYzKlRFfJ_kObWRAbu0_gWa7ZZ3bDuSeSW9-KyZ5oKr8py5GIF3Qw3M5_Ln7MWHMOQcMBxI2MiE-Siqnc0k6jsNOPiULzusWe_cgcgEE2cJ-gevJHEYDaPYYfBcqA&q=Albania+topographic+map+STL&ved=1t:220175&ictx=111
+					28 link Description: Videos, Value: google.com/search?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQnvrInznHr8bIWQ1WbaXanwG7AAD9g:1791448692677&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9O-eteO81qQYzKlRFfJ_kObWRAbu0_gWa7ZZ3bDuSeSW9-KyZ5oKr8py5GIF3Qw3M5_Ln7MWHMOQcMBxI2MiE-Siqnc0k6jsNOPiULzusWe_cgcgEE2cJ-gevJHEYDaPYYfBcqA&q=Albania+topographic+map+STL&sa=X&ved=2ahUKEwiS89a3gqqXAxVlS_EDHRfiAaAQtKgLegQIFRAB
+					29 link Description: Maps, Value: maps.google.com/maps?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&output=search&q=Albania+topographic+map+STL&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9O-eteO81qQYzKlRFfJ_kObWRAbu0_gWa7ZZ3bDuSeSW9-KyZ5oKr8py5GIF3Qw3M5_Ln7MWHMOQcMBxI2MiE-Siqnc0k6jsNOPiULzusWe_cgcgEE2cJ-gevJHEYDaPYYfBcqA&entry=mc&ved=1t:200715&ictx=111
+					30 link Description: News, Value: google.com/search?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQnvrInznHr8bIWQ1WbaXanwG7AAD9g:1791448692677&q=Albania+topographic+map+STL&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9O-eteO81qQYzKlRFfJ_kObWRAbu0_gWa7ZZ3bDuSeSW9-KyZ5oKr8py5GIF3Qw3M5_Ln7MWHMOQcMBxI2MiE-Siqnc0k6jsNOPiULzusWe_cgcgEE2cJ-gevJHEYDaPYYfBcqA&sa=X&ved=2ahUKEwiS89a3gqqXAxVlS_EDHRfiAaAQ0pQJegQIFBAB
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Description: "albania map" 3D Models to Print Yeggi https://www.yeggi.com › albania+map, Value: google.com/goto?url=CAESXwHrOzAVXISbMoZAezL1hhvQshaZyJLINfvlBgNkd0Y6jdDIKrI-BiM9mepjnAB-RccbknKUQ62cvPXkYUuUVWJGOIPmnBhi14wLm92T85tzw3ZG_uk2ebudqzRNYQ5p
+							44 button About this result
+							45 container
+								46 text Albania Topographic Map.  Flat Map of Albania STL File for 3D printing . Topographic Map of Albania 3D Terrain 3D File … 3d printable map, Website: RenderHub
+						47 container
+							48 container
+								49 heading AI Overview, Value: 2
+									50 text AI Overview
+								51 container
+									52 text You can find 3D printable topographic STL and 3MF files of Albania's terrain on platforms like
+									53 link Description: Cults3D, Value: google.com/goto?url=CAESqgEB6zswFUpBMO9q8m5J3_T9Te6I4AtllnSyvvIgpodpARDZtP-7fpydDFT8qqU6oOh31ndru6SfvgmUByOJsx_YMXDIOORgNwqscLB0FYHL3BELCf5mFLnXloED7AXaIIg0M25kZVeoBsJFZqGsNzMIn-14v3Ni6k06bltXghYZCjAkhkFxuV0eYfsE8V7nmEa-SfnIKVb4MFFNvak3VXHC7KorgZsgbFOdxw
+									54 text ,  CGTrader , and
+									55 link Description: Etsy, Value: google.com/goto?url=CAESiAEB6zswFVADD3V7YiGFl9I2g8nPyes7PDtR6uJHJ4kO6R8Pvc8pLyPJCTxo58aMqMxwub9WLOUZNPoWjc0dDQ5ypUc6siRYFLNhAt-BZNQhycWhNDVIpzHH2CimFBgEX0q9iJ-Cg9dkYVrTEO7i6SUeUjD3krLTauGHqPmRcKxxr3UUwu7Pr7cF
+									56 text .
+									57 button Related results
+								58 heading Where to Find Albania Topographic STL Files, Value: 3
+									59 text Where to Find Albania Topographic STL Files
+								60 content list
+									61 container
+										62 AXListMarker •
+										63 text Marketplaces:  Look through aggregated model search engines like
+										64 link Description: Yeggi, Value: google.com/goto?url=CAESXwHrOzAV0fxVN3O56sHAZt1jN3csFB43XSPAM-IxHZrdkka3PWf_5Txi0ycpOi23Ky98s7WKnkWx_EpJETZOlKmkz9fiBa-ySodR7trKeT7WeJfCzTYDEVKqPLmOYlCu
+										65 text  to compare options across Cults3D, MyMiniFactory, and CGTrader.
+									66 container
+										67 AXListMarker •
+										68 text File Types:  Most digital downloads include high-mesh-density  .stl  or  .mf3  files suited for FDM/resin 3D printers and CNC routers.
+								69 content list
+									70 container
+										71 link Description: "albania map" 3D Models to Print - Yeggi. Opens in new tab., Value: google.com/goto?url=CAESXwHrOzAV0fxVN3O56sHAZt1jN3csFB43XSPAM-IxHZrdkka3PWf_5Txi0ycpOi23Ky98s7WKnkWx_EpJETZOlKmkz9fiBa-ySodR7trKeT7WeJfCzTYDEVKqPLmOYlCu
+										72 text Yeggi
+										73 button Description: About this result, ID: snui-atr-dVbHat_dELaK7NYP2JOP8AU_mxp5bu_3
+										74 text Text albania 3d map, albania topography, albania country map, albania terrain, topography, terrain, 3d map, relief, country terrai...
+									75 container
+										76 link Description: Albania Topographic Map 3D Model File | Stl File for CNC Milling .... Opens in new tab., Value: …
+										77 text Etsy
+										78 button Description: About this result, ID: snui-atr-dVbHat_dELaK7NYP2JOP8AU_mxp5bu_7
+										79 text Highlights This digital product is a topographic 3D model of the terrain of Albania. This 3D model is in STL file format and there...
+									80 container
+										81 link Description: "albania" 3D Models to Print - yeggi. Opens in new tab., Value: google.com/goto?url=CAESWwHrOzAVO79nPJX72M6vK24gzNGPMrjme1Zd1UymDGoYv85HTIxQ7WvfE3anDC7zbeKzC-0TpKE92lM9H10lYuTorIrGRUHdYBbKNo40lEUGmgacCxjbfkMaD5k
+										82 text Yeggi
+										83 button Description: About this result, ID: snui-atr-dVbHat_dELaK7NYP2JOP8AU_mxp5bu_11
+										84 text Available Platforms: MyMiniFactory, Cults, cgtrader, RenderHub, makerworld, Thingiverse, creality cloud, Printables. Content Types...
+									85 container
+										86 link Description: 3D Country Map of Albania Topographic Map. Opens in new tab., Value: …
+										87 text RenderHub
+										88 button Description: About this result, ID: snui-atr-dVbHat_dELaK7NYP2JOP8AU_mxp5bu_15
+										89 text Jan 2, 2025 —  3D Country Map of Albania Topographic Map - 3D Terrain This is a topographic 3D model of the terrain of the country of Albania. Th...
+							90 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								91 text Show more
+						92 container
+							93 heading Web results, Value: 2
+								94 text Web results
+							95 link Value: …, Description: Albania Topographic Terrain 3D Map Model for CNC ... Etsy https://www.etsy.com › ... › Prints › Digital Prints
+							96 button About this result
+							97 container
+								98 text Albania Topographic Terrain 3D Map Model  for CNC Milling and Printing. THIS IS A STL 3F MODEL FILE THIS IS NOT A TEXT FILE.
+							99 image Rated 4.9 out of 5, (411) user reviews
+						100 container
+							101 link Value: …, Description: Albania topographic map, elevation, terrain topographic-map.com https://en-gb.topographic-map.com › map-6ftj › Albania
+							102 button About this result
+							103 text Name:
+							104 text Albania topographic map
+							105 text , elevation, terrain. Location: Albania (39.64039 19.00099 42.66108 21.05743). Average elevation: 522 m. Minimum elevation: -7 m.
+							106 link Description: Read more, Value: …
+						107 container
+							108 link Value: …, Description: Albania 1:25000 Scale Topographic Maps - Global Explorer East View Geospatial https://shop.geospatial.com › publication › Albania-1-to-...
+							109 button About this result
+							110 text Series Details
+							111 text  ; Type, Topographic ; Scale/Resolution, 1:25,000 ; Region, Europe ; Language, Albanian ; Number of items, 366.
+							112 link Description: Read more, Value: …
+						113 container
+							114 link Description: Albania, topographic map GRID-Arendal https://www.grida.no › resources, Value: …
+							115 button About this result
+							116 text Albania, topographic map
+							117 text . Albania is located in Southeastern Europe, bordering the Adriatic Sea and Ionian Sea, between Greece and Serbia and Montenegro ...
+							118 link Description: Read more, Value: …
+						119 container
+							120 link Description: "albania" 3D Models to Print Yeggi https://www.yeggi.com › albania, Value: …
+							121 button About this result
+							122 text Topographical Map of Albania 3D model. Albania Topographic Map - 3D.
+							123 text Flat Map of Albania STL File
+							124 text  for 3D printing … printable map, Download: Topographic Map of ...
+						125 container
+							126 link Value: …, Description: Albania AMS Topographic Maps The University of Texas at Austin https://maps.lib.utexas.edu › maps › ams › albania
+							127 button About this result
+							128 text Albania AMS Topographic Maps
+							129 text . Map Collection website is archived as of 2021 and no longer being updated. Complete list of map images in this collection:
+						130 container
+							131 link Description: Albania Map 3d images Shutterstock https://www.shutterstock.com › search › albania-map-3d, Value: …
+							132 button About this result
+							133 text Find 3087 Albania Map 3d stock images.
+							134 text Albania 3D Topographic perspective Relief Map
+							135 text . Topographic Albania Map. Ideal for maps, navigation, international events ...
+						136 container
+							137 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: …
+							138 button About this result
+							139 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: …
+							140 text ...  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! 🗺️ Learn how to create breathtaking maps with just ...
+				141 container
+					142 container
+						143 heading People also search for, Value: 2
+							144 text People also search for
+						145 link Description: Albania topographic map stl free download, Value: …
+						146 link Description: Albania topographic map stl pdf, Value: …
+						147 link Description: Albania topographic map stl free, Value: …
+						148 link Description: Albania topographic map stl 3d print, Value: …
+						149 link Description: Albania topographic map stl download, Value: …
+					150 heading Page Navigation, Value: 1
+						151 text Page Navigation
+					152 text 1
+					153 link Description: Page 2, Value: …
+					154 link Description: Page 3, Value: …
+					155 link Description: Page 4, Value: …
+					156 link Description: Page 5, Value: …
+					157 link Description: Page 6, Value: …
+					158 link Description: Page 7, Value: …
+					159 link Description: Page 8, Value: …
+					160 heading Next, Value: 2
+						161 link Description: Next, Value: …, ID: pnnext
+			162 container sfooter
+				163 heading Footer Links, Value: 1
+					164 text Footer Links
+				165 container fbar
+					166 container
+						167 button Unknown  - Can't determine location
+							168 container
+								169 text Unknown
+							170 container
+								171 text  -  Can't determine location
+						172 text  -
+						173 button Update location
+							174 text Update location
+					175 container fsl
+						176 link Description: Help, Value: …
+						177 link Description: Send feedback, Value: …
+						178 link Description: Privacy, Value: …
+						179 link Description: Terms, Value: …
+
+The focused UI element is 1 AXWebArea Albania topographic map STL - Google Search, URL: google.com/search?q=Albania+topographic+map+STL&hl=en&gl=us&pws=0

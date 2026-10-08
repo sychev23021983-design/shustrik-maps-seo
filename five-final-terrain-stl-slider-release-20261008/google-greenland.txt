@@ -1,0 +1,190 @@
+Browser tab: 8, Title: "Greenland terrain map STL - Google Search", URL: "https://www.google.com/search?q=Greenland+terrain+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Greenland terrain map STL - Google Search, URL: google.com/search?q=Greenland+terrain+map+STL&hl=en&gl=us&pws=0
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp?hl=en&ictx=2&sa=X&ved=2ahUKEwjcpqWcg6qXAxVFQPEDHSZlL3cQPXoECAYQBA
+					12 combo box (collapsed) Description: Search, Value: Greenland terrain map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DGreenland%2Bterrain%2Bmap%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search?q=Greenland+terrain+map+STL&sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQnvcsDBucwETnj6KpDBAvMnbDlO54w:1791448903676&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832XcEhxLsSYpdGF9xgoCyv7SkNPbhZJVyoRmzH4regLQVOMmIT8RRQKbiNDE6H8vCjQ7Ge60rsBXokJhNgLk3ot4Ml9-qu6V6QsRiLNCRKTZL2Kl8plRE2XibbesHg1WKZm1QBvnXPjj-MaUyC15aohSvX1PlcVS8hY7oziU60-tVT-bYpw&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjcpqWcg6qXAxVFQPEDHSZlL3cQ2J8OegQIEhAD
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQnvcsDBucwETnj6KpDBAvMnbDlO54w:1791448903676&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832XcEhxLsSYpdGF9xgoCyv7SkNPbhZJVyoRmzH4regLQVOMmIT8RRQKbiNDE6H8vCjQ7Ge60rsBXokJhNgLk3ot4Ml9-qu6V6QsRiLNCRKTZL2Kl8plRE2XibbesHg1WKZm1QBvnXPjj-MaUyC15aohSvX1PlcVS8hY7oziU60-tVT-bYpw&q=Greenland+terrain+map+STL&sa=X&ved=2ahUKEwjcpqWcg6qXAxVFQPEDHSZlL3cQtKgLegQIGBAB
+					27 link Description: Maps, Value: maps.google.com/maps?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&output=search&q=Greenland+terrain+map+STL&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832XcEhxLsSYpdGF9xgoCyv7SkNPbhZJVyoRmzH4regLQVOMmIT8RRQKbiNDE6H8vCjQ7Ge60rsBXokJhNgLk3ot4Ml9-qu6V6QsRiLNCRKTZL2Kl8plRE2XibbesHg1WKZm1QBvnXPjj-MaUyC15aohSvX1PlcVS8hY7oziU60-tVT-bYpw&entry=mc&ved=1t:200715&ictx=111
+					28 link Description: Shopping, Value: google.com/search?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQnvcsDBucwETnj6KpDBAvMnbDlO54w:1791448903676&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832XcEhxLsSYpdGF9xgoCyv7SkNPbhZJVyoRmzH4regLQVOMmIT8RRQKbiNDE6H8vCjQ7Ge60rsBXokJhNgLk3ot4Ml9-qu6V6QsRiLNCRKTZL2Kl8plRE2XibbesHg1WKZm1QBvnXPjj-MaUyC15aohSvX1PlcVS8hY7oziU60-tVT-bYpw&q=Greenland+terrain+map+STL&ved=1t:220175&ictx=111
+					29 link Description: Videos, Value: google.com/search?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQnvcsDBucwETnj6KpDBAvMnbDlO54w:1791448903676&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832XcEhxLsSYpdGF9xgoCyv7SkNPbhZJVyoRmzH4regLQVOMmIT8RRQKbiNDE6H8vCjQ7Ge60rsBXokJhNgLk3ot4Ml9-qu6V6QsRiLNCRKTZL2Kl8plRE2XibbesHg1WKZm1QBvnXPjj-MaUyC15aohSvX1PlcVS8hY7oziU60-tVT-bYpw&q=Greenland+terrain+map+STL&sa=X&ved=2ahUKEwjcpqWcg6qXAxVFQPEDHSZlL3cQtKgLegQIFBAB
+					30 link Description: News, Value: google.com/search?sca_esv=63a1e0baac38d7a4&hl=en&gl=us&pws=0&sxsrf=APpeQnvcsDBucwETnj6KpDBAvMnbDlO54w:1791448903676&q=Greenland+terrain+map+STL&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832XcEhxLsSYpdGF9xgoCyv7SkNPbhZJVyoRmzH4regLQVOMmIT8RRQKbiNDE6H8vCjQ7Ge60rsBXokJhNgLk3ot4Ml9-qu6V6QsRiLNCRKTZL2Kl8plRE2XibbesHg1WKZm1QBvnXPjj-MaUyC15aohSvX1PlcVS8hY7oziU60-tVT-bYpw&sa=X&ved=2ahUKEwjcpqWcg6qXAxVFQPEDHSZlL3cQ0pQJegQIFRAB
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Description: "map of greenland" 3D Models to Print Yeggi https://www.yeggi.com › map+of+greenland, Value: google.com/goto?url=CAESZAHrOzAVpbbQ5pRoMUt0TDkyVwVns9yLEWgBB10HOdRQ478HzD9mMkZzWa3uVrj4tCcC-FCuD41T_zLpUsmmp1NHlRwMhe5LS6eVHLm97N-6ATGERlzBc0BJszUYxJ2NT1UzXHc
+							44 button About this result
+							45 container
+								46 text Topographic Map of Greenland 3D Terrain 3D ・ 1 50 million STL. Free  STL File  for ・ 3D Miniature STL File
+						47 container
+							48 container
+								49 heading AI Overview, Value: 2
+									50 text AI Overview
+								51 container
+									52 text You can find pre-made 3D printable STL files for a Greenland topographic terrain map on marketplaces like
+									53 link Description: Cults3D, Value: google.com/goto?url=CAESpgEB6zswFYAFbkMnk8dUVMieTWCl6aJeLZVN6VVlu3H1_nSeptX8MsSt1XK07FvImeejc6UIJxCpug4VJNWPr0_SoZjucmNZQkQqdGnvvmWDSbRfQ5BlAIpA0vKuyEhUBm8se_HlwE2gZDCnI79n7CVippvlpYnYrgmP1j6XxnDCHr0WDolfoCB-ZY3ONnOQPipBJYPHT7nvV8xmP_Mffw3M3YzSMpA1
+									54 text  or
+									55 link Description: Shustrik-Maps, Value: google.com/goto?url=CAESgAEB6zswFWO-NR2Ef-GO_wE8qPznR1JQXqNDvUbbJVPQ0_E499DEMsCLEG1P55kP7eZBRuOdccySFKvy-5PS6F2bP4FWw5bPa4dn_Ps64I-Ku5kCvTXqtqVdHsacRnOOZpzAo2gk-_OorApPNaKSOvWpQcNu8z-XPWoYemteNNn8Ow
+									56 text , or generate your own custom model using tools like
+									57 link Description: map2stl.com, Value: google.com/goto?url=CAESUwHrOzAVs-dvimJz1Ezl7Wr3nFccxKC1R-JzQ_tf71jr6Y2lCQvSR72eLWuZuLYWpSPUHv_ktszkSc3w9NYNnCt12bGwOHXQTslL3iAR83l3m0U3
+									58 text .
+									59 button Related results
+								60 heading Where to Find Greenland Terrain STL Files, Value: 3
+									61 text Where to Find Greenland Terrain STL Files
+								62 content list
+									63 container
+										64 AXListMarker •
+										65 text Ready-to-Print Models:
+										66 content list
+											67 container
+												68 AXListMarker ◦
+												69 text Cults3D  offers high-resolution digital elevation model (DEM) files featuring Greenland's ice sheets and fjords.
+								70 content list
+									71 container
+										72 link Description: Greenland Topographic Map – STL Model for 3D Printing & CNC. Opens in new tab., Value: google.com/goto?url=CAESgAEB6zswFWO-NR2Ef-GO_wE8qPznR1JQXqNDvUbbJVPQ0_E499DEMsCLEG1P55kP7eZBRuOdccySFKvy-5PS6F2bP4FWw5bPa4dn_Ps64I-Ku5kCvTXqtqVdHsacRnOOZpzAo2gk-_OorApPNaKSOvWpQcNu8z-XPWoYemteNNn8Ow
+										73 text Shustrik Maps
+										74 button Description: About this result, ID: snui-atr-SFfHaoTjFMmL7NYP3pXfIA_m4otli_9
+										75 text Product: Greenland Topographic Map 3D Model ($15.00) File Specs: STL format, 293 MB file size, 133.44 mm x 219.57 mm x 3.62 mm dim...
+									76 container
+										77 link Description: Greenland Topographic Map – 3D Model for 3D Printing .... Opens in new tab., Value: …
+										78 text Cults 3D
+										79 button Description: About this result, ID: snui-atr-SFfHaoTjFMmL7NYP3pXfIA_m4otli_13
+										80 text 3D model description High-Quality Greenland Terrain Map for 3D Printing & CNC Machining 3D model: File size: 293 MB Model size: 13...
+									81 container
+										82 link Description: map2stl.com: Create 3d printable STL models from any place on Earth. Opens in new tab., Value: google.com/goto?url=CAESUwHrOzAVs-dvimJz1Ezl7Wr3nFccxKC1R-JzQ_tf71jr6Y2lCQvSR72eLWuZuLYWpSPUHv_ktszkSc3w9NYNnCt12bGwOHXQTslL3iAR83l3m0U3
+										83 text map2stl.com
+										84 button Description: About this result, ID: snui-atr-SFfHaoTjFMmL7NYP3pXfIA_m4otli_17
+										85 text map2STL.com Map Model Settings To navigate the map with touch gestures double-tap and hold your finger on the map, then drag the m...
+									86 container
+										87 link Description: 3D Topographical Map of Greenland | 3D Print Model. Opens in new tab., Value: …
+										88 text CGTrader
+										89 button Description: About this result, ID: snui-atr-SFfHaoTjFMmL7NYP3pXfIA_m4otli_20
+										90 text Budget Introducing the stunningly detailed 3D model of Greenland This STL file is perfect for 3D printing enthusiasts, designers, ...
+							91 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								92 text Show more
+						93 container
+							94 heading Web results, Value: 2
+								95 text Web results
+							96 link Value: …, Description: STL Model For 3D Printing CNC Italian Shoe Factory https://www.italianshoefactory.com › product › category
+							97 button About this result
+							98 container
+								99 text Product features,  Greenland Topographic Map – STL Model for 3D Printing  CNC, Greenland 3D Render Topographic Map Isolated Color Poster by Frank Ramspott ...
+								100 link Description: Read more, Value: …
+							101 container
+								102 image Rated 4.7 out of 5, (98) user reviews
+								103 text 14-day returns
+						104 container
+							105 link Value: …, Description: Greenland Topographic Map – 3D Model for 3D Printing & ... Cults 3D https://cults3d.com › architecture › greenland-topograp...
+							106 button About this result
+							107 text Jun 16, 2025  —  The Greenland Topographic Map is a
+							108 text high-resolution 3D terrain model
+							109 text  based on an accurate digital elevation model (DEM). It faithfully represents ...
+							110 link Description: Read more, Value: …
+							111 text 30-day returns
+						112 container
+							113 link Value: …, Description: Greenland Topographic Map – STL Model for 3D Printing & ... Shustrik Maps https://shustrik-maps.com › ... › Countries
+							114 button About this result
+							115 text High-detail Greenland Topographic Map in STL format
+							116 text . Perfect for 3D printing & CNC carving in education, design, souvenirs, and terrain visualization.
+							117 text $15.00
+							118 text In stock
+							119 text Free delivery
+						120 container
+							121 link Value: …, Description: Free relief map of Greenland Blue Green Atlas https://bluegreenatlas.com › maps › relief_map_of_gree...
+							122 button About this result
+							123 text Free high-resolution relief map of Greenland
+							124 text . The 3D relief maps of this website are made by me. Topographical map of Greenland. Lakes: HydroLAKES (CC BY 4.0). ...
+						125 container
+							126 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: …
+							127 button About this result
+							128 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: …
+							129 text In this step-by-step tutorial, we dive into  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! STL files ...
+						130 container
+							131 link Description: 3D Printing Digital Elevation Models OpenTopography https://opentopography.org › learn, Value: …
+							132 button About this result
+							133 text We use the DEMto3D plugin in QGIS to generate the
+							134 text STL
+							135 text  file, which can then be viewed and modified using the 3D Builder software. You can find a number of pre- ...
+							136 link Description: Read more, Value: …
+						137 container
+							138 link Value: …, Description: Welcome to TouchTerrain, the free web app for creating 3D ... TouchTerrain https://touchterrain.geol.iastate.edu
+							139 button About this result
+							140 text Click a location to start. Welcome to TouchTerrain, a web app for creating 3D printable terrain models.
+							141 text Select a starting area by clicking on it
+							142 text .
+							143 link Description: Read more, Value: …
+						144 container
+							145 link Value: …, Description: File:Topographic map of Greenland bedrock.jpg Wikimedia Commons https://commons.wikimedia.org › wiki › File:Topograp...
+							146 button About this result
+							147 text May 23, 2026  —  English:
+							148 text Topographic map of Greenland bedrock
+							149 text , in effect showing the topography without the extant ice sheet. Created using ETOPO1 Global Relief ...
+							150 link Description: Read more, Value: …
+				151 container
+					152 container
+						153 heading People also search for, Value: 2
+							154 text People also search for
+						155 link Description: Free greenland terrain map stl, Value: …
+						156 link Description: Greenland terrain map stl 3d print, Value: …
+					157 heading Page Navigation, Value: 1
+						158 text Page Navigation
+					159 text 1
+					160 link Description: Page 2, Value: …
+					161 link Description: Page 3, Value: …
+					162 link Description: Page 4, Value: …
+					163 link Description: Page 5, Value: …
+					164 link Description: Page 6, Value: …
+					165 link Description: Page 7, Value: …
+					166 link Description: Page 8, Value: …
+					167 link Description: Page 9, Value: …
+					168 link Description: Page 10, Value: …
+					169 heading Next, Value: 2
+						170 link Description: Next, Value: …, ID: pnnext
+			171 container sfooter
+				172 heading Footer Links, Value: 1
+					173 text Footer Links
+				174 container fbar
+					175 container
+						176 button Unknown  - Can't determine location
+							177 container
+								178 text Unknown
+							179 container
+								180 text  -  Can't determine location
+						181 text  -
+						182 button Update location
+							183 text Update location
+					184 container fsl
+						185 link Description: Help, Value: …
+						186 link Description: Send feedback, Value: …
+						187 link Description: Privacy, Value: …
+						188 link Description: Terms, Value: …
+
+The focused UI element is 1 AXWebArea Greenland terrain map STL - Google Search, URL: google.com/search?q=Greenland+terrain+map+STL&hl=en&gl=us&pws=0

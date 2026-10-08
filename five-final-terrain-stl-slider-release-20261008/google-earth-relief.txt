@@ -1,0 +1,211 @@
+Browser tab: 8, Title: "Earth globe STL exaggerated relief - Google Search", URL: "https://www.google.com/search?q=Earth+globe+STL+exaggerated+relief&hl=en&gl=us&pws=0".
+0 AXWebArea Earth globe STL exaggerated relief - Google Search, URL: google.com/search
+	1 container gsr
+		2 container
+			3 link Skip to main content
+				4 text Skip to main content
+			5 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196
+		6 container searchform
+			7 container tsf
+				8 container
+					9 link Description: Learn more about World Space Week 2026, Value: google.com/webhp
+					11 combo box (collapsed) Description: Search, Value: Earth globe STL exaggerated relief, ID: ti6dpd, Secondary Actions: Expand
+					12 button  Clear
+					13 button Search by voice
+					14 button Search by image
+			15 button Description: Settings, ID: og-te
+			16 button Share
+			17 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			18 link Description: Sign in, Value: accounts.google.com/ServiceLogin
+		19 container cnt
+			20 container
+				21 content list
+					22 link Description: AI Mode, Value: google.com/search
+					23 link (disabled) All
+						24 text All
+					25 link Description: Images, Value: google.com/search
+					26 link Description: Shopping, Value: google.com/search
+					27 link Description: Videos, Value: google.com/search
+					28 link Description: Forums, Value: google.com/search
+					29 link Description: News, Value: google.com/search
+					30 button (collapsed) More filters, Secondary Actions: Expand
+						31 container More filters
+							32 text More
+				33 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			34 heading Search Results, Value: 1
+				35 text Search Results
+			36 container appbar
+				37 container Refinement
+					38 container B1cDYe
+						39 content list
+							40 checkbox Description: All filters., Value: 0
+							41 link Description: 3D filter. Not selected., Value: google.com/search
+							42 link Description: Reviews filter. Not selected., Value: google.com/search
+							43 link Description: For Sale filter. Not selected., Value: google.com/search
+							44 link Description: Brown filter. Not selected., Value: google.com/search
+							45 link Description: On sale filter. Not selected., Value: google.com/search
+							46 link Description: Wall Maps filter. Not selected., Value: google.com/search
+							47 link Description: Price filter. Not selected., Value: google.com/search
+							48 link Description: Free filter. Not selected., Value: google.com/search
+							49 link Description: Buy filter. Not selected., Value: google.com/search
+							50 link Description: Replacement filter. Not selected., Value: google.com/search
+							51 link Description: New filter. Not selected., Value: google.com/search
+							52 link Description: Used filter. Not selected., Value: google.com/search
+							53 link Description: Black filter. Not selected., Value: google.com/search
+							54 link Description: Art Prints filter. Not selected., Value: google.com/search
+							55 link Description: Size filter. Not selected., Value: google.com/search
+							56 link Description: Blue filter. Not selected., Value: google.com/search
+							57 link Description: Books filter. Not selected., Value: google.com/search
+							58 link Description: Green filter. Not selected., Value: google.com/search
+							59 link Description: Small filter. Not selected., Value: google.com/search
+							60 link Description: Images filter. Not selected., Value: google.com/search
+							61 link Description: Large filter. Not selected., Value: google.com/search
+							62 link Description: Dimensions filter. Not selected., Value: google.com/search
+							63 link Description: Red filter. Not selected., Value: google.com/search
+							64 link Description: Online filter. Not selected., Value: google.com/search
+							65 link Description: Teaching filter. Not selected., Value: google.com/search
+							66 link Description: 12 – 16 in diameter filter. Not selected., Value: google.com/search
+			67 container center_col
+				68 container gevUs
+					69 container rso
+						70 container
+							71 heading Web results, Value: 2
+								72 text Web results
+							73 link Description: "3d earth terrain globe" 3D Models to Print Yeggi https://www.yeggi.com › 3d+earth+terrain+globe, Value: google.com/goto
+							74 button About this result
+							75 container
+								76 text Earth Globe 3D print model STL File for 3D print...  Earth STL Model Exaggerated Relief  ・ exaggerated earth relief, Earth STL Model Exaggerated Relief ・  ...
+						77 container
+							78 link Description: GLOBE models for 3D printer Printables.com https://www.printables.com › tag › globe, Value: google.com/goto
+							79 button About this result
+							80 text Explore collection of globe designs that are perfect for your 3D printer.
+							81 text Download and 3D print STL models
+							82 text  tagged with globe. Earth with exaggerated topography ...
+						83 container
+							84 link Description: "earth globe stl" 3D Models to Print Yeggi https://www.yeggi.com › earth+globe+stl, Value: google.com/goto
+							85 button About this result
+							86 text 3d earth relief map, Earth Environment 3D Relief STL ・
+							87 text 3D Printed Earth STL Model Exaggerated Relief
+							88 text  ・ exaggerated earth relief, STL Model Exaggerated Relief ...
+						89 container
+							90 link Value: google.com/goto, Description: Raised Relief Globes and How They Are Made Replogle Globes https://replogleglobes.com › Replogle Globes
+							91 button About this result
+							92 text The raised relief feature on these globes is created by
+							93 text physically molding the surface of the globe
+							94 text  to match the topography of the earth. This results in a ...
+							95 link Description: Read more, Value: google.com/goto
+						96 container
+							97 link Description: The Topography of the World Visualized - Part 1 YouTube · RCLifeOn 241K+ views · 4 years ago, Value: google.com/goto
+							98 button About this result
+							99 link Description: The Topography of the World Visualized - Part 1 by RCLifeOn on YouTube. Play on YouTube. 13:48, Value: google.com/goto
+							100 text This is a 3D printed topographic  world  map with small lights in 55 capitals and RGB backblight.  World  map  STL  files:
+							101 container
+								102 button (collapsed) 10 key moments in this video, Secondary Actions: Expand
+									103 text 10 key moments in this video
+						104 container
+							105 link Description: earth with elevation map in color print by Syzguru11 Pinterest https://br.pinterest.com › pin, Value: google.com/goto
+							106 button About this result
+							107 text Mar 8, 2019  —  3d printed globe, Earth in.
+							108 text Earth STL – Exaggerated Relief Topography Model
+							109 text . High-Resolution STL Model for 3D Printers
+						110 container
+							111 link Description: Earth Land and Sea Relief Globe Thingiverse https://www.thingiverse.com › thing:5099559, Value: google.com/goto
+							112 button About this result
+							113 text Nov 5, 2021  —  This is an
+							114 text exaggerated elevation relief globe of the Earth
+							115 text , with the land masses separated from the sea floor for printing in different colors.
+							116 link Description: Read more, Value: google.com/goto
+						117 container
+							118 link Value: google.com/goto, Description: Large Extreme 3D Raised Relief Vinyl Maps World Maps Online https://www.worldmapsonline.com › wall-maps › large-...
+							119 button About this result
+							120 text Giant Extreme Raised Relief 3D Vinyl Maps
+							121 text . These soft and flexible, each extreme raised relief map shows Earth's contours in three dimensions and full color.
+							122 link Description: Read more, Value: google.com/goto
+						123 container
+							124 link Description: relief globe 3D Models | Page 1 STLFinder https://www.stlfinder.com › 3D Models, Value: google.com/goto
+							125 button About this result
+							126 text Find 386 relief globe 3D models for 3D printing, CNC and design.
+							127 text An exaggerated relief globe
+							128 text  I threw together.
+						129 container
+							130 container
+								131 heading Popular products, Value: 2
+									132 text Popular products
+								133 button About this result
+							134 content list
+								135 button 3D Printed Earth STL Model – Exaggerated Relief Topography for 3D Printing & CNC. Current Price: $20.00. Custom 3D Models and 3D Maps. Free delivery by Sun. Go to product viewer for this item.
+								136 button Earth Art Globe 3D Relief STL | Rustic Wood Carving CNC Router File | Home Wall Decor. Current Price: $6.99. Etsy - Seller. Free delivery. Go to product viewer for this item.
+								137 button 3D Relief Earth Globe STL - Topographic World Map Model (Digital Download). Current Price: $4.00. Etsy - Seller. Free delivery. Go to product viewer for this item.
+								138 button Sculpted 3D Earth Globe. Current Price: $19.99. Fab by Epic Games. Go to product viewer for this item.
+								139 button 3D Printed Modular Earth Globe (STL in 12-Part Dodecahedron for 3D Printing). Current Price: $35.00. Custom 3D Models and 3D Maps. Free delivery by Sun. Go to product viewer for this item.
+								140 button Replogle Globes Intelliglobe II 12" Blue Raised Relief Desk. 12% OFF. Current Price: $165.00. Was $189. Replogle Globes. Free delivery. Go to product viewer for this item.
+								141 button Waypoint Geographic Tactile Raised Relief 12-inch Illuminated Desktop Globe. 20% OFF. Current Price: $130.99. Was $164. Waypoint Geographic & more. Rated 4.8 out of 5. 11 reviews. Go to product viewer for this item.
+								142 button Earth Globe - 2 Sizes | Digital STL File | Polymer Clay Tools & Cutters. 15% OFF. Current Price: $4.25. Was $5.00. Etsy - BloomMercantileCo. Free delivery. Go to product viewer for this item.
+						143 container
+							144 heading Web results, Value: 2
+								145 text Web results
+							146 link Value: google.com/goto, Description: Make this 3D printed globe please Adventures In Mapping https://adventuresinmapping.com › 2023/12/04 › make...
+							147 button About this result
+							148 container
+								149 text Dec 4, 2023  —  Here's the resulting 3D printer  STL  file of the  globe  and an  STL  file of the cap that snaps into the hole at the top. Advice for customizing ...
+								150 link Description: Read more, Value: google.com/goto
+						151 container
+							152 container
+								153 heading More products, Value: 2
+									154 text More products
+								155 button About this result
+							156 content list
+								157 button 20.5" Black Silver Sculptural Globe with Raised Relief Continents for Executive Desk. Current Price: $217.00. English Elm. Free delivery. Go to product viewer for this item.
+								158 button World Map 3D Relief STL File | Wooden Globe CNC Carving Design | Travel Office Wall-Art. 50% OFF. Current Price: $4.84. Was $9.70. Etsy - Seller. Free delivery. Go to product viewer for this item.
+								159 button 16" Sculptural Raised-Relief Globe. Current Price: $225.00. Social Studies School Service. Go to product viewer for this item.
+								160 button AstroReality Raised relief globe Earth. Current Price: $129.00. Pre-owned.eBay. Go to product viewer for this item.
+								161 button World Map 3D Relief STL File, CNC Router & 3D Print Ready Digital Download. 50% OFF. Current Price: $2.99. Was $5.98. Etsy - Seller. Free delivery. Rated 5.0 out of 5. 1 reviews. Go to product viewer for this item.
+								162 button Planet Earth 3D Model – Low Poly Globe Map. Current Price: $0.99. Fab by Epic Games. Go to product viewer for this item.
+								163 button 12" Sculptural Raised-Relief Globe. Current Price: $169.00. The Center for Learning. Go to product viewer for this item.
+								164 button 12" Readiness Raised Relief Globe. Current Price: $169.00. The Center for Learning. Go to product viewer for this item.
+				165 container
+					166 container
+						167 heading People also search for, Value: 2
+							168 text People also search for
+						169 link Description: Earth globe stl exaggerated relief free download, Value: google.com/search
+						170 link Description: Earth globe stl exaggerated relief free, Value: google.com/search
+						171 link Description: Earth globe stl exaggerated relief download, Value: google.com/search
+						172 link Description: Earth stl free, Value: google.com/search
+						173 link Description: Globe stl free, Value: google.com/search
+						174 link Description: Earth Globe 3D print, Value: google.com/search
+						175 link Description: Free printable 3D Globe template PDF, Value: google.com/search
+						176 link Description: 3D printed globe lamp, Value: google.com/search
+					177 heading Page Navigation, Value: 1
+						178 text Page Navigation
+					179 text 1
+					180 link Description: Page 2, Value: google.com/search
+					181 link Description: Page 3, Value: google.com/search
+					182 link Description: Page 4, Value: google.com/search
+					183 link Description: Page 5, Value: google.com/search
+					184 link Description: Page 6, Value: google.com/search
+					185 link Description: Page 7, Value: google.com/search
+					186 link Description: Page 8, Value: google.com/search
+					187 link Description: Page 9, Value: google.com/search
+					188 link Description: Page 10, Value: google.com/search
+					189 heading Next, Value: 2
+						190 link Description: Next, Value: google.com/search, ID: pnnext
+			191 container sfooter
+				192 heading Footer Links, Value: 1
+					193 text Footer Links
+				194 container fbar
+					195 container
+						196 button Unknown  - Can't determine location
+							197 container
+								198 text Unknown
+							199 container
+								200 text  -  Can't determine location
+						201 text  -
+						202 button Update location
+							203 text Update location
+					204 container fsl
+						205 link Description: Help, Value: support.google.com/websearch/
+						206 link Description: Send feedback, Value: google.com/search
+						207 link Description: Privacy, Value: policies.google.com/privacy
+						208 link Description: Terms, Value: policies.google.com/terms
+
+The focused UI element is 0 AXWebArea Earth globe STL exaggerated relief - Google Search, URL: google.com/search
