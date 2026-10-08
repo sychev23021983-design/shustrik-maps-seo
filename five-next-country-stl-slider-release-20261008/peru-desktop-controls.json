@@ -1,0 +1,63 @@
+{
+  "pass": true,
+  "previous": {
+    "active": [
+      {
+        "alt": "AI-generated concept of an ivory Peru terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2025/05/peru-gift-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of an ivory Peru terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+    "id": 20070,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 3,
+    "viewport": 1440,
+    "visible_count": 1
+  },
+  "lastDot": {
+    "active": [
+      {
+        "alt": "AI-generated concept of a large grey concrete Peru terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2025/05/peru-commercial-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of a large grey concrete Peru terrain relief on a charcoal backing wall in a museum or visitor-centre lobby.",
+    "id": 20070,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 4,
+    "viewport": 1440,
+    "visible_count": 1
+  },
+  "firstDot": {
+    "active": [
+      {
+        "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Peru terrain relief fully supported on a solid walnut desktop backing panel. All separate geography fragments are fixed to the same continuous backing.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2025/05/peru-desk-1500x1000-1.jpg"
+      }
+    ],
+    "align": "center",
+    "arrows": 2,
+    "bold": "600",
+    "dots": 4,
+    "expected_alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Peru terrain relief fully supported on a solid walnut desktop backing panel. All separate geography fragments are fixed to the same continuous backing.",
+    "id": 20070,
+    "mode": "desktop",
+    "overflow": false,
+    "slide": 1,
+    "viewport": 1440,
+    "visible_count": 1
+  }
+}
