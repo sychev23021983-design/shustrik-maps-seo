@@ -1,0 +1,1448 @@
+{
+  "source_head": "606e4605fd07a14799efb56e703d6aa1185c9b65",
+  "method": "Ascending remaining country IDs after Cambodia/Colombia/Costa Rica/Yemen/Vietnam; release reports and fresh live inventory checked",
+  "selected": [
+    {
+      "id": 19867,
+      "title": "Venezuela Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "venezuela-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 19875,
+      "title": "Uzbekistan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "uzbekistan-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 19883,
+      "title": "Uruguay Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "uruguay-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 19891,
+      "title": "UAE Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "uae-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 19908,
+      "title": "Taiwan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "taiwan-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    }
+  ],
+  "inventory": [
+    {
+      "id": 9382,
+      "title": "Afghanistan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "afghanistan-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9384,
+      "title": "Crete Island 3D Topographic Map STL – Printable Relief Model for 3D Printing & CNC",
+      "slug": "crete-island-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9498,
+      "title": "3D Printed Earth STL Model – Exaggerated Relief Topography for 3D Printing & CNC",
+      "slug": "earth-stl-model",
+      "own_carousel": true,
+      "ai_notice": false,
+      "shared_9586": false
+    },
+    {
+      "id": 9385,
+      "title": "Africa Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "africa-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9387,
+      "title": "Corsica Island STL model",
+      "slug": "corsica-island-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9499,
+      "title": "Cyprus Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "cyprus-island-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9388,
+      "title": "Idaho Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-idaho-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9390,
+      "title": "Antarctica Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "antarctica-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9391,
+      "title": "Australia Topographic Map STL– 3D Model for 3D Printing & CNC Carving",
+      "slug": "australia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9392,
+      "title": "North America STL model",
+      "slug": "north-america-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9393,
+      "title": "South America 3D STL Map – Topographic Model for 3D Printing & CNC",
+      "slug": "south-america-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9395,
+      "title": "Asia Topographic Map STL – 3D Terrain Model of Asia for 3D Printing & CNC",
+      "slug": "asia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9396,
+      "title": "Albania Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "albania-stl-model",
+      "own_carousel": true,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 9397,
+      "title": "Algeria Topographic Map - 3D Model for 3D Printing & CNC Carving",
+      "slug": "algeria-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9398,
+      "title": "Andorra Topographic Map STL – 3D Terrain Model for 3D Printing & CNC Milling",
+      "slug": "andorra-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9399,
+      "title": "Angola Topographic Map – 3D Terrain Model for Printing & CNC Carving",
+      "slug": "angola-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9500,
+      "title": "Argentina Topographic Map – 3D Terrain Model for Printing & CNC",
+      "slug": "argentina-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9400,
+      "title": "Armenia Topographic Map – 3D Terrain Model for Printing & CNC Carving",
+      "slug": "armenia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9501,
+      "title": "Austria Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "ausrtia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9401,
+      "title": "Azerbaijan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "azerbaijan-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9402,
+      "title": "Bangladesh Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "bangladesh-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9512,
+      "title": "Belarus Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "belarus-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 9403,
+      "title": "Belgium Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "belgium-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9513,
+      "title": "Bosnia & Herzegovina Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "bosnia-and-herzegovina-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9514,
+      "title": "Brazil Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "brazil-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9515,
+      "title": "Bulgaria Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "bulgaria-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9502,
+      "title": "DR Congo Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "democratic-republic-of-congo-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9516,
+      "title": "Denmark Topographic Map STL model",
+      "slug": "denmark-stl-model",
+      "own_carousel": true,
+      "ai_notice": false,
+      "shared_9586": false
+    },
+    {
+      "id": 9517,
+      "title": "Djibouti Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "djibouti-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9404,
+      "title": "Dominica Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "dominica-island-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9518,
+      "title": "Dominican Republic Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "dominican-republic-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9519,
+      "title": "Alabama Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-alabama-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9503,
+      "title": "State of Alaska STL model",
+      "slug": "state-of-alaska-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9520,
+      "title": "Arizona Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-arizona-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9521,
+      "title": "Arkansas Topographic Map STL Models – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-arkansas-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9522,
+      "title": "Topographic California Map STL Model",
+      "slug": "state-of-california-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9504,
+      "title": "Colorado Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-colorado-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9523,
+      "title": "Connecticut Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-connecticut-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9505,
+      "title": "Topographic Map Delaware STL Model",
+      "slug": "state-of-delaware-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9524,
+      "title": "Florida Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-florida-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9506,
+      "title": "Ecuador Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "ecuador-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9525,
+      "title": "Egypt Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "egypt-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9507,
+      "title": "El Salvador Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "el-salvador-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9526,
+      "title": "Equatorial Guinea STL model",
+      "slug": "equatorial-guinea-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9508,
+      "title": "Eritrea STL model",
+      "slug": "eritrea-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9509,
+      "title": "Estonia STL model",
+      "slug": "estonia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9528,
+      "title": "Ethiopia STL model",
+      "slug": "ethiopia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9405,
+      "title": "France Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "france-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9406,
+      "title": "Jamaica Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "jamaica-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9407,
+      "title": "Japan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "japan-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9408,
+      "title": "Jordan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "jordan-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9409,
+      "title": "Kazakhstan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "kazakhstan-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9410,
+      "title": "Kosovo Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "kosovo-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9411,
+      "title": "Kuwait STL model",
+      "slug": "kuwait-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9412,
+      "title": "Kyrgyzstan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "kyrgyzstan-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9413,
+      "title": "Topographic Map of Georgia USA STL Model",
+      "slug": "state-of-georgia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9414,
+      "title": "Hawaii Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-hawaii-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9415,
+      "title": "Illinois Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-illinois-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 9416,
+      "title": "Indiana Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-indiana-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9417,
+      "title": "Iowa Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-iowa-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9418,
+      "title": "Kansas Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-kansas-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9419,
+      "title": "Kentucky Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-kentucky-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9420,
+      "title": "Laos Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "laos-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9421,
+      "title": "Liberia STL model",
+      "slug": "liberia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9422,
+      "title": "Libya STL model",
+      "slug": "libya-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9423,
+      "title": "Myanmar STL model",
+      "slug": "myanmar-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9424,
+      "title": "Turkey Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "turkey-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9425,
+      "title": "Louisiana Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-louisiana-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9426,
+      "title": "Maine Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-maine-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9427,
+      "title": "Maryland Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-maryland-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9430,
+      "title": "Massachusetts Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-massachusetts-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9431,
+      "title": "Michigan Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-michigan-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9510,
+      "title": "Minnesota Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-minnesota-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9435,
+      "title": "New Hampshire Topographic Map STL Model",
+      "slug": "state-of-new-hampshire-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9444,
+      "title": "New Jersey Topographic Map STL Model",
+      "slug": "state-of-new-jersey-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9445,
+      "title": "New Mexico Topographic Map STL Model",
+      "slug": "state-of-new-mexico-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9446,
+      "title": "New York Topographic Map STL Model",
+      "slug": "state-of-new-york-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9447,
+      "title": "North Carolina Topographic Map STL Model",
+      "slug": "state-of-north-carolina-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9448,
+      "title": "North Dakota Topographic Map STL Model",
+      "slug": "state-of-north-dakota-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9449,
+      "title": "Ohio Topographic Map STL Model",
+      "slug": "state-of-ohio-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9450,
+      "title": "Oklahoma Topographic Map STL Model",
+      "slug": "state-of-oklahoma-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9451,
+      "title": "State of Oregon STL model",
+      "slug": "state-of-oregon-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9452,
+      "title": "State of Pennsylvania STL model",
+      "slug": "state-of-pennsylvania-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9453,
+      "title": "State of Rhode Island STL model",
+      "slug": "state-of-rhode-island-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9454,
+      "title": "State of South Carolina STL model",
+      "slug": "state-of-south-carolina-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9455,
+      "title": "State of South Dakota STL model",
+      "slug": "state-of-south-dakota-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9456,
+      "title": "State of Tennessee STL model",
+      "slug": "state-of-tennessee-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9457,
+      "title": "State of Texas STL model",
+      "slug": "state-of-texas-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9458,
+      "title": "State of Utah STL model",
+      "slug": "state-of-utah-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9459,
+      "title": "State of Vermont STL model",
+      "slug": "state-of-vermont-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9460,
+      "title": "State of Virginia STL model",
+      "slug": "state-of-virginia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9461,
+      "title": "State of Washington STL model",
+      "slug": "state-of-washington-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9462,
+      "title": "State of West Virginia STL model",
+      "slug": "state-of-west-virginia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9463,
+      "title": "State of Wisconsin STL model",
+      "slug": "state-of-wisconsin-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9464,
+      "title": "State of Wyoming STL model",
+      "slug": "state-of-wyoming-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9465,
+      "title": "Ukraine Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "ukraine-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9466,
+      "title": "Finland Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "finland-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9467,
+      "title": "Germany Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "germany-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9468,
+      "title": "Italy Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "italy-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9469,
+      "title": "Mexico Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "mexico-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9470,
+      "title": "Topographic map New Zealand STL model",
+      "slug": "new-zealand-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9471,
+      "title": "Norway Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "norway-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9472,
+      "title": "Ireland Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "ireland-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9473,
+      "title": "Spain Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "spain-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9474,
+      "title": "Sweden Topographic Map – STL Model for 3D Printing & CNC",
+      "slug": "sweden-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9475,
+      "title": "North America 3D Topographic Map STL Model – Lambert Conformal Conic Projection",
+      "slug": "north-america-lambert-conformal-conic-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9476,
+      "title": "Portugal Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "portugal-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9477,
+      "title": "Romania Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "romania-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9478,
+      "title": "China Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "china-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9479,
+      "title": "Czech Republic Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "czech-republic-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9480,
+      "title": "Iceland Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "iceland-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9481,
+      "title": "Luxembourg Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "luxembourg-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9482,
+      "title": "Latvia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "latvia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9483,
+      "title": "Lithuania Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "lithuania-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9484,
+      "title": "Poland Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "poland-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9485,
+      "title": "Hungary Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "hungary-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9486,
+      "title": "Serbia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "serbia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9487,
+      "title": "Slovakia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "slovakia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9488,
+      "title": "Slovenia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "slovenia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9489,
+      "title": "Switzerland Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "switzerland-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9490,
+      "title": "Moldova Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "moldova-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9491,
+      "title": "Netherlands Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "netherlands-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9492,
+      "title": "Montenegro Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "montenegro-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9493,
+      "title": "North Macedonia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "north-macedonia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9494,
+      "title": "Croatia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "croatia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9495,
+      "title": "Liechtenstein Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "liechtenstein-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 9496,
+      "title": "Greece Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "greece-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 10732,
+      "title": "Nevada Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-nevada-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 10743,
+      "title": "Nebraska Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-nebraska-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 10753,
+      "title": "Montana Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-montana-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 10763,
+      "title": "Mississippi Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-mississippi-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 10772,
+      "title": "Missouri Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+      "slug": "state-of-missouri-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 15811,
+      "title": "Papua New Guinea STL model",
+      "slug": "papua-new-guinea-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 16131,
+      "title": "Moon STL file",
+      "slug": "moon-stl-file",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 16772,
+      "title": "Geoid Height STL Model – Artistic Earth Gravity Surface for 3D Printing",
+      "slug": "geoid-height-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": false
+    },
+    {
+      "id": 16849,
+      "title": "Haiti Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "haiti-terrain-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 18811,
+      "title": "Europe Topographic Map STL – 3D Model for 3D Printing & CNC (Equidistant Conic Projection)",
+      "slug": "europe-3d-print-model-equidistan-conic",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 18873,
+      "title": "Complete USA Topographic Map STL – 50 States 3D Terrain Model for 3D Printing & CNC",
+      "slug": "complete-usa-50-states-topographic-map-3d-model-for-3d-printing-cnc-carving",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 18884,
+      "title": "USA 48 States Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "usa-48-states-topographic-map-3d-model-for-3d-printing-cnc-carving",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 19379,
+      "title": "Zimbabwe Terrain Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "zimbabwe-terrain-map-3d-model-for-3d-printing-cnc-carving",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": false
+    },
+    {
+      "id": 19729,
+      "title": "Belize Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "belize-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 19737,
+      "title": "Bolivia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "bolivia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 19746,
+      "title": "Bhutan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "bhutan-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 19753,
+      "title": "Bermuda Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "bermuda-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 19785,
+      "title": "Cambodia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "cambodia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 19801,
+      "title": "Colombia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "colombia-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 19809,
+      "title": "Costa Rica Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "costa-rica-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 19851,
+      "title": "Yemen Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "yemen-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 19859,
+      "title": "Vietnam Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "vietnam-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 19867,
+      "title": "Venezuela Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "venezuela-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 19875,
+      "title": "Uzbekistan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "uzbekistan-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 19883,
+      "title": "Uruguay Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "uruguay-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 19891,
+      "title": "UAE Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "uae-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 19908,
+      "title": "Taiwan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "taiwan-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 19916,
+      "title": "Tajikistan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "tajikistan-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 19923,
+      "title": "Thailand Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "thailand-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 19939,
+      "title": "Turkmenistan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "turkmenistan-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 19947,
+      "title": "Saudi Arabia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "saudi-arabia-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 20036,
+      "title": "Russia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "russia-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 20046,
+      "title": "Oman Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "oman-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 20070,
+      "title": "Peru Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "peru-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 20078,
+      "title": "Paraguay Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "paraguay-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 20086,
+      "title": "Panama Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "panama-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 20095,
+      "title": "Pakistan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "pakistan-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 20110,
+      "title": "Nepal Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "nepal-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 20134,
+      "title": "North Korea Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "north-korea-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 20175,
+      "title": "Mongolia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "mongolia-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 20311,
+      "title": "India Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "india-stl-model",
+      "own_carousel": true,
+      "ai_notice": true,
+      "shared_9586": false
+    },
+    {
+      "id": 20320,
+      "title": "Iran Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "iran-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 20329,
+      "title": "Iraq Topographic Map – 3D Model for 3D Printing & CNC Carving",
+      "slug": "iraq-stl-model",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 20345,
+      "title": "Israel Topographic Map – 3D Printable STL Terrain Model for CNC Carving",
+      "slug": "israel-topographic-map-3d-model-for-3d-printing-cnc-carving",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 20976,
+      "title": "3D Printed Modular Earth Globe (STL in 12-Part Dodecahedron for 3D Printing)",
+      "slug": "3d-printed-earth-dodecahedron",
+      "own_carousel": true,
+      "ai_notice": false,
+      "shared_9586": false
+    },
+    {
+      "id": 21118,
+      "title": "Israel 3D Topographic Map STL – High-Precision Relief Model for 3D Printing & CNC",
+      "slug": "israel-3d-topographic-map-stl",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": true
+    },
+    {
+      "id": 21146,
+      "title": "3D Printed Earth STL Model with Rivers – Detailed Topography for 3D Printing & CNC",
+      "slug": "earth-stl-with-rivers",
+      "own_carousel": true,
+      "ai_notice": false,
+      "shared_9586": false
+    },
+    {
+      "id": 21381,
+      "title": "New Zealand Flag 3D Medallion STL – Kiwi Bird Relief Model for 3D Printing & CNC",
+      "slug": "new-zealand-medallion-kiwi-stl",
+      "own_carousel": false,
+      "ai_notice": false,
+      "shared_9586": false
+    }
+  ]
+}

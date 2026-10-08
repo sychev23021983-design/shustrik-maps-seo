@@ -1,0 +1,83 @@
+{
+  "market": "USA",
+  "language": "English",
+  "new_metrics_collected": false,
+  "us_rank_verified": false,
+  "existing_clusters": [],
+  "existing_keywords": [],
+  "editorial_clusters": [
+    {
+      "cluster_id": "GEO-venezuela-stl-cnc",
+      "product_id": 19867,
+      "primary": "Venezuela topographic map STL",
+      "supporting": [
+        "Venezuela terrain STL",
+        "Venezuela relief map STL",
+        "Venezuela map 3D print",
+        "Venezuela CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; Google English USA intent; whole geographic entity, market remains USA"
+    },
+    {
+      "cluster_id": "GEO-uzbekistan-stl-cnc",
+      "product_id": 19875,
+      "primary": "Uzbekistan topographic map STL",
+      "supporting": [
+        "Uzbekistan terrain STL",
+        "Uzbekistan relief map STL",
+        "Uzbekistan map 3D print",
+        "Uzbekistan CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; Google English USA intent; whole geographic entity, market remains USA"
+    },
+    {
+      "cluster_id": "GEO-uruguay-stl-cnc",
+      "product_id": 19883,
+      "primary": "Uruguay topographic map STL",
+      "supporting": [
+        "Uruguay terrain STL",
+        "Uruguay relief map STL",
+        "Uruguay map 3D print",
+        "Uruguay CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; Google English USA intent; whole geographic entity, market remains USA"
+    },
+    {
+      "cluster_id": "GEO-uae-stl-cnc",
+      "product_id": 19891,
+      "primary": "UAE topographic map STL",
+      "supporting": [
+        "UAE terrain STL",
+        "UAE relief map STL",
+        "UAE map 3D print",
+        "UAE CNC terrain model",
+        "United Arab Emirates topographic STL",
+        "United Arab Emirates terrain STL"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; Google English USA intent; whole geographic entity, market remains USA"
+    },
+    {
+      "cluster_id": "GEO-taiwan-stl-cnc",
+      "product_id": 19908,
+      "primary": "Taiwan topographic map STL",
+      "supporting": [
+        "Taiwan terrain STL",
+        "Taiwan relief map STL",
+        "Taiwan map 3D print",
+        "Taiwan CNC terrain model"
+      ],
+      "measured_frequency": null,
+      "rank": null,
+      "status": "editorial product mapping; Google English USA intent; whole geographic entity, market remains USA"
+    }
+  ],
+  "note": "All five exact STL clusters are absent from the saved core: editorial product mapping only. Proposed paid digital-file queries are editorial hypotheses, not measured expansion. Existing elevation/vector clusters must not be reassigned to STL."
+}

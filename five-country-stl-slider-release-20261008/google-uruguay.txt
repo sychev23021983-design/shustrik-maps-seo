@@ -1,0 +1,187 @@
+Browser tab: 3, Title: "Uruguay topographic map STL - Google Search", URL: "https://www.google.com/search?q=Uruguay+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Uruguay topographic map STL - Google Search, URL: google.com/search?q=Uruguay+topographic+map+STL&hl=en&gl=us&pws=0
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp?hl=en&ictx=2&sa=X&ved=2ahUKEwjiqYr-0qmXAxUNg_0HHU1JD-cQPXoECAYQBA
+					12 combo box (collapsed) Description: Search, Value: Uruguay topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DUruguay%2Btopographic%2Bmap%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search?q=Uruguay+topographic+map+STL&sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&sxsrf=APpeQnu36IDcG1GPAWvjgYSrJIvCGil2bQ:1791435955417&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9CTv2VFxAmuj_pIIKZYnQkwEP6ELXrySt0U7JxYl42DEj-sjXy0KLQMH-T0hTrM5gpPgY4ElmO7Rn4Yot-V6Vpo9L4X7f9VebGIHPY7P37HT1wSMCYIbLn2klxWZm0V_WVtcH4Q&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjiqYr-0qmXAxUNg_0HHU1JD-cQ2J8OegQIEhAD
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search?sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&sxsrf=APpeQnu36IDcG1GPAWvjgYSrJIvCGil2bQ:1791435955417&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9CTv2VFxAmuj_pIIKZYnQkwEP6ELXrySt0U7JxYl42DEj-sjXy0KLQMH-T0hTrM5gpPgY4ElmO7Rn4Yot-V6Vpo9L4X7f9VebGIHPY7P37HT1wSMCYIbLn2klxWZm0V_WVtcH4Q&q=Uruguay+topographic+map+STL&sa=X&ved=2ahUKEwjiqYr-0qmXAxUNg_0HHU1JD-cQtKgLegQIGBAB
+					27 link Description: Shopping, Value: google.com/search?sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&sxsrf=APpeQnu36IDcG1GPAWvjgYSrJIvCGil2bQ:1791435955417&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9CTv2VFxAmuj_pIIKZYnQkwEP6ELXrySt0U7JxYl42DEj-sjXy0KLQMH-T0hTrM5gpPgY4ElmO7Rn4Yot-V6Vpo9L4X7f9VebGIHPY7P37HT1wSMCYIbLn2klxWZm0V_WVtcH4Q&q=Uruguay+topographic+map+STL&ved=1t:220175&ictx=111
+					28 link Description: Videos, Value: google.com/search?sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&sxsrf=APpeQnu36IDcG1GPAWvjgYSrJIvCGil2bQ:1791435955417&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9CTv2VFxAmuj_pIIKZYnQkwEP6ELXrySt0U7JxYl42DEj-sjXy0KLQMH-T0hTrM5gpPgY4ElmO7Rn4Yot-V6Vpo9L4X7f9VebGIHPY7P37HT1wSMCYIbLn2klxWZm0V_WVtcH4Q&q=Uruguay+topographic+map+STL&sa=X&ved=2ahUKEwjiqYr-0qmXAxUNg_0HHU1JD-cQtKgLegQIFhAB
+					29 link Description: Maps, Value: maps.google.com/maps?sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&output=search&q=Uruguay+topographic+map+STL&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9CTv2VFxAmuj_pIIKZYnQkwEP6ELXrySt0U7JxYl42DEj-sjXy0KLQMH-T0hTrM5gpPgY4ElmO7Rn4Yot-V6Vpo9L4X7f9VebGIHPY7P37HT1wSMCYIbLn2klxWZm0V_WVtcH4Q&entry=mc&ved=1t:200715&ictx=111
+					30 link Description: News, Value: google.com/search?sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&sxsrf=APpeQnu36IDcG1GPAWvjgYSrJIvCGil2bQ:1791435955417&q=Uruguay+topographic+map+STL&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9CTv2VFxAmuj_pIIKZYnQkwEP6ELXrySt0U7JxYl42DEj-sjXy0KLQMH-T0hTrM5gpPgY4ElmO7Rn4Yot-V6Vpo9L4X7f9VebGIHPY7P37HT1wSMCYIbLn2klxWZm0V_WVtcH4Q&sa=X&ved=2ahUKEwjiqYr-0qmXAxUNg_0HHU1JD-cQ0pQJegQIFBAB
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Description: Uruguay Topographic Terrain 3D Model STL Map ... Etsy https://www.etsy.com › listing › uruguay-topographic-t..., Value: google.com/goto?url=CAESiwEB6zswFYVKRHLnw-6O1h0y46IA3mVxhBwO428F-wSUfOD9paHOnjFUbCToNoc3zRV4bFOIih-VvGKpRQCUkfBgbWb3dD3leQ0PtKQWRFWCYC_bkCgKc-JsrsuQpWM4-2eBG5hqaILUVg1xdtPXAoYJe3pYqUhX8JSS7sNwbja37Khz2KfDoSsl9Hyp
+							44 button About this result
+							45 container
+								46 text The ... May include:  A detailed topographic map of Uruguay , showing the country's terrain and river. zoom image 5 of 6.
+								47 link Description: Read more, Value: google.com/goto?url=CAESqgEB6zswFZzhMZwmTgnV4cpxntq-hyeQlwLXuJObYrR5wj7shfCDMWKVgaS5-nJRdL2M-Xo4iXd3Q6QCJUTG9_mFlIu_X4R8qzY9nsoDb2fFIYdsFxmpiwZjnWF1Vgnpg_otk5fFxndRIc7Mio1-JisYyBMlvHK_eb4u81oVEhBB9otInJG3YJ1hKN-35RN_x0NIDDTMFiP1sKMAa4ka11mMvC3-K8qQYJQjrQ
+							48 container
+								49 text $14.99
+								50 image Rated 4.8 out of 5, (413) user reviews
+						51 container
+							52 container
+								53 heading AI Overview, Value: 2
+									54 text AI Overview
+								55 container
+									56 text You can  buy or download a 3D topographic map of  Uruguay  in STL format for 3D printing and CNC carving from platforms like
+									57 link Description: Cults3D, Value: google.com/goto?url=CAES5gEB6zswFWcillUCk8h3Qvnr_DIcrOuFKHUCF4GHqCouKkwEbrYSdeB-GOwEDhnyXqMioYYNqFsKCGn_BkPuNMNOAciMoV4lSeAa3XD1LhW-da8bTwD6wdEmoTO5GNPeTBD9b2qEeRwP5YCCEbDJLD7EUbvK-slRu-N6HZJFMfJSPfcdrHs_4pHwqaGvkE2-b5deRYuEv-lOeHv66a-a-KXUDPTt1lY_uJTJnHrxXYi7FZ4XP7mS6L5QMuBuP4HHsPCk2FAwZhCVc6BY-mNTVT2fPQyU-5ygfkIsW6VyMVdkbNwH890ukQ
+									58 text  or
+									59 link Description: Etsy, Value: google.com/goto?url=CAESiwEB6zswFaNObZ4GLBGqtyqkenlLQp5Oxj-OsleiWQo617mIyaJr82X4Q_jh1Z43GgX1hdfhF_v1ooHZTltakIfS43QmxMhpDXXwmT1ZOxwc1wixruUSBMRy8CJxePgaiRaBcq7n6gxg_Lj4KFUe9Z2LFqzG5p4nM2nNbdFKSdsIPn8-p2miNqaVGd-d
+									60 text .
+									61 button Related results
+								62 heading Available Options for Uruguay Topo STL Files, Value: 3
+									63 text Available Options for Uruguay Topo STL Files
+								64 content list
+									65 container
+										66 AXListMarker •
+										67 text Cults3D Model:  A high-polygon digital elevation model featuring over 4.7 million triangles, optimized for FDM/SLA 3D printers and CNC routers.
+										68 button Related results
+									69 container
+										70 AXListMarker •
+										71 text Etsy Digital Downloads:  Several creators offer optimized high-mesh density STL files specifically scaled and prepared for wood carving or plastic printing, often featuring slight vertical exaggeration to make the rolling plains and river valleys stand out clearly.
+								72 content list
+									73 container
+										74 link Description: Uruguay Topographic Terrain 3D Model STL Map ... - Etsy. Opens in new tab., Value: …
+										75 text Etsy
+										76 button Description: About this result, ID: snui-atr-syTHarCYMIS59u8P9tmCmAk_lyhl37_8
+										77 text Uruguay Topographic Map 3D Model File | Stl File for CNC Milling and 3D Printing | 3D Map STL of Uruguay $12.13 Australia Topograp...
+									78 container
+										79 link Description: Stl File for CNC Milling and 3D Printing | 3D Map STL of ... - Etsy. Opens in new tab., Value: …
+										80 text Etsy
+										81 button Description: About this result, ID: snui-atr-syTHarCYMIS59u8P9tmCmAk_lyhl37_12
+										82 text This digital product is a topographic 3D model of the terrain of Uruguay. This 3D model is in STL file format and therefore compat...
+									83 container
+										84 link Description: Uruguay Topographic Map – 3D Model for 3D Printing & CNC .... Opens in new tab., Value: …
+										85 text Cults 3D
+										86 button Description: About this result, ID: snui-atr-syTHarCYMIS59u8P9tmCmAk_lyhl37_16
+										87 text Jun 9, 2025 —  High-polygon 3D model of Uruguay in STL format. File size: 228 MB Model size: 204 mm x 220 mm x 3,5 mm. Projection: Mercator Scali...
+									88 container
+										89 link Description: Stl File for CNC Milling and 3D Printing | 3D Map STL of Uruguay. Opens in new tab., Value: …
+										90 text Etsy
+										91 button Description: About this result, ID: snui-atr-syTHarCYMIS59u8P9tmCmAk_lyhl37_20
+										92 text Highlights This digital product is a topographic 3D model of the terrain of Uruguay. This 3D model is in STL file format and there...
+									93 container
+										94 link Description: Uruguay Topographic Map – STL Model for 3D Printing & CNC. Opens in new tab., Value: …
+										95 text Shustrik Maps
+										96 button Description: About this result, ID: snui-atr-syTHarCYMIS59u8P9tmCmAk_lyhl37_24
+										97 text High-polygon 3D model of Uruguay in STL format Uruguay Topographic Map – 3D Model for 3D Printing & CNC Carving quantity You can a...
+							98 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								99 text Show more
+						100 container
+							101 heading Web results, Value: 2
+								102 text Web results
+							103 link Value: …, Description: Uruguay Topographic Map – STL Model for 3D Printing & ... Shustrik Maps https://shustrik-maps.com › ... › Countries
+							104 button About this result
+							105 container
+								106 text High-detail Uruguay Topographic Map in STL format . Perfect for 3D printing & CNC carving in education, design, souvenirs, and terrain visualization.
+							107 container
+								108 text $15.00 Free delivery
+						109 container
+							110 link Description: 3d Map Stl of Uruguay Pinterest https://www.pinterest.com › Explore, Value: …
+							111 button About this result
+							112 text Printable uruguay.
+							113 text Topography of Uruguay
+							114 text : Elevated Land, Fertile Regions, and Rolling Hills
+						115 container
+							116 link Value: …, Description: Uruguay topographic map, elevation, terrain topographic-map.com https://en-gb.topographic-map.com › map-nc5tj › Urug...
+							117 button About this result
+							118 text Average elevation: 83 m
+							119 text  Minimum elevation: -4 m Maximum elevation: 485 m. Click on a map to view its topography, its elevation and its terrain.
+						120 container
+							121 link Value: …, Description: Uruguay Topographic Map – 3D Model for 3D Printing & ... Cults 3D https://cults3d.com › architecture › uruguay-topographi...
+							122 button About this result
+							123 text Jun 9, 2025  —
+							124 text High-polygon 3D model of Uruguay in STL format
+							125 text . File size: 228 MB Model size: 204 mm x 220 mm x 3,5 mm. Projection: Mercator
+							126 link Description: Read more, Value: …
+							127 text 30-day returns
+						128 container
+							129 link Value: …, Description: Uruguay Topographic Map 3D Model File | Stl File for CNC ... Etsy https://www.etsy.com › listing › uruguay-topographic-...
+							130 button About this result
+							131 text This digital product is a
+							132 text topographic 3D model of the terrain of Uruguay
+							133 text . This 3D model is in STL file format and therefore compatible with CNC routers and 3D ...
+							134 link Description: Read more, Value: …
+							135 text $11.89
+							136 image Rated 4.7 out of 5, (158) user reviews
+						137 container
+							138 link Value: …, Description: South America 3D terrain (topography) model by malenma3 Printables.com https://www.printables.com › model › files
+							139 button About this result
+							140 text Topographic 3D models of all South American countries. | Download free 3D printable STL models.
+							141 text Download Uruguay stl
+							142 text  Uruguay stl 7 MB |
+						143 container
+							144 link Value: …, Description: File:Uruguay topographic location map.png Wikipedia https://en.wikipedia.org › wiki › File:Uruguay_topogra...
+							145 button About this result
+							146 text Topographic location map of Uruguay
+							147 text . Equirectangular projection (north-south stretching. This file is licensed under the Creative Commons Attribution 4.0 ...
+						148 container
+							149 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: …
+							150 button About this result
+							151 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: …
+							152 text ...  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! 🗺️ Learn how to create breathtaking maps with just ...
+				153 container
+					154 heading Page Navigation, Value: 1
+						155 text Page Navigation
+					156 text 1
+					157 link Description: Page 2, Value: …
+					158 link Description: Page 3, Value: …
+					159 link Description: Page 4, Value: …
+					160 link Description: Page 5, Value: …
+					161 link Description: Page 6, Value: …
+					162 link Description: Page 7, Value: …
+					163 link Description: Page 8, Value: …
+					164 link Description: Page 9, Value: …
+					165 link Description: Page 10, Value: …
+					166 heading Next, Value: 2
+						167 link Description: Next, Value: …, ID: pnnext
+			168 container sfooter
+				169 heading Footer Links, Value: 1
+					170 text Footer Links
+				171 container fbar
+					172 container
+						173 button Unknown  - Can't determine location
+							174 container
+								175 text Unknown
+							176 container
+								177 text  -  Can't determine location
+						178 text  -
+						179 button Update location
+							180 text Update location
+					181 container fsl
+						182 link Description: Help, Value: support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+						183 link Description: Send feedback, Value: …
+						184 link Description: Privacy, Value: …
+						185 link Description: Terms, Value: …
+
+The focused UI element is 1 AXWebArea Uruguay topographic map STL - Google Search, URL: google.com/search?q=Uruguay+topographic+map+STL&hl=en&gl=us&pws=0

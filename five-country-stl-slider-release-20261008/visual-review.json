@@ -1,0 +1,126 @@
+{
+  "pass": true,
+  "tool": "native ImageGen;20 separate calls",
+  "reviewed": [
+    {
+      "id": 19867,
+      "scene": "desk",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19867,
+      "scene": "wall",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19867,
+      "scene": "gift",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19867,
+      "scene": "commercial",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19875,
+      "scene": "desk",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19875,
+      "scene": "wall",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19875,
+      "scene": "gift",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19875,
+      "scene": "commercial",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19883,
+      "scene": "desk",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19883,
+      "scene": "wall",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19883,
+      "scene": "gift",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19883,
+      "scene": "commercial",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19891,
+      "scene": "desk",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19891,
+      "scene": "wall",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19891,
+      "scene": "gift",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19891,
+      "scene": "commercial",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19908,
+      "scene": "desk",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19908,
+      "scene": "wall",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19908,
+      "scene": "gift",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    },
+    {
+      "id": 19908,
+      "scene": "commercial",
+      "pass": true,
+      "note": "Output individually inspected: own silhouette and terrain, scene/material, whole geography within frame. Desktop relief and every fragment fixed flush to single continuous solid backing. AI concept, exact mesh fidelity not verified."
+    }
+  ]
+}

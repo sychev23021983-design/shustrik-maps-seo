@@ -1,0 +1,223 @@
+Browser tab: 3, Title: "Taiwan topographic map STL - Google Search", URL: "https://www.google.com/search?q=Taiwan+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea Taiwan topographic map STL - Google Search, URL: google.com/search
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp
+					12 combo box (collapsed) Description: Search, Value: Taiwan topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search
+					27 link Description: Shopping, Value: google.com/search
+					28 link Description: Videos, Value: google.com/search
+					29 link Description: Maps, Value: maps.google.com/maps
+					30 link Description: News, Value: google.com/search
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Value: google.com/goto, Description: Taiwan Topographical Map by Breeki | Download free STL ... Printables.com https://www.printables.com › model › 148835-taiwan-t...
+							44 button About this result
+							45 container
+								46 text Topographical model of Taiwan, not to be confused with China. |  Download free 3D printable STL models .
+							47 image Rated 5.0 out of 5, (2) user reviews
+						48 container
+							49 container
+								50 heading AI Overview, Value: 2
+									51 text AI Overview
+								52 container
+									53 button Taiwan 3D model of the terrain | Custom 3D Models and 3D Maps, ID: ic-__fVxRAKPgoFMM
+										54 image Description: Taiwan 3D model of the terrain | Custom 3D Models and 3D Maps, ID: img-LSXHar6-PLeP9u8Py_SG4AI_w66ixd_1
+									55 text You can download free 3D printable STL files of Taiwan's topography on community platforms like the
+									56 link Description: Taiwan Topographical Map on Printables, Value: google.com/goto
+									57 text , or search repositories like
+									58 link Description: Yeggi 3D Models for Taiwan, Value: google.com/goto
+									59 text  for both free and paid options.
+									60 link Description: Printables.com, Value: google.com/goto
+									61 button Printables.com (+1) - Related results
+										62 text Printables.com
+										63 text  +1
+								64 heading Where to Find Taiwan Topo STL Files, Value: 3
+									65 text Where to Find Taiwan Topo STL Files
+								66 content list
+									67 container
+										68 AXListMarker •
+										69 text Free Downloads:  Community makers share user-tested terrain models on  Printables  and Thingiverse.
+								70 content list
+									71 container
+										72 link Description: Taiwan Topographical Map by Breeki | Download free STL model | Printables.com. Opens in new tab., Value: google.com/goto
+										73 text Printables.com
+										74 button Description: About this result, ID: snui-atr-LSXHar6-PLeP9u8Py_SG4AI_w66ixd_11
+										75 text Model: Printable 3D topographical map of Taiwan created by Breeki (imported from Thingiverse). Print Settings: Prusa I3 MK3S print...
+									76 container
+										77 link Description: "taiwan topographic map by" 3D Models to Print - yeggi. Opens in new tab., Value: google.com/goto
+										78 text Yeggi
+										79 button Description: About this result, ID: snui-atr-LSXHar6-PLeP9u8Py_SG4AI_w66ixd_15
+										80 text Sources: Cults, Thingiverse, Makerworld, Creality Cloud, Pinshape, Printables, and Yeggi. Content: 3D printable miniature STL file...
+									81 container
+										82 link Description: Stl File for CNC Milling and 3D Printing | 3D Map STL of Taiwan. Opens in new tab., Value: google.com/goto
+										83 text Etsy
+										84 button Description: About this result, ID: snui-atr-LSXHar6-PLeP9u8Py_SG4AI_w66ixd_19
+										85 text Highlights This digital product is a topographic 3D model of the terrain of Taiwan. This 3D model is in STL file format and theref...
+									86 container
+										87 link Description: Taiwan Topographic Map – 3D Model for 3D Printing & CNC .... Opens in new tab., Value: google.com/goto
+										88 text Cults 3D
+										89 button Description: About this result, ID: snui-atr-LSXHar6-PLeP9u8Py_SG4AI_w66ixd_23
+										90 text Jun 9, 2025 —  High-polygon 3D model of Taiwan in STL format. File size: 176 MB Model size: 300 mm x 411 mm x 7 mm. Projection: Mercator Scaling ...
+							91 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								92 text Show more
+						93 container
+							94 heading Web results, Value: 2
+								95 text Web results
+							96 link Value: google.com/goto, Description: "taiwan topographic map by" 3D Models to Print Yeggi https://www.yeggi.com › taiwan+topographic+map+by
+							97 button About this result
+							98 container
+								99 text 5000+ " taiwan topographic map by" printable 3D Models . Every Day new 3D Models from all over the World. Click to find the best Results for taiwan ...
+						100 container
+							101 link Value: google.com/goto, Description: Taiwan Topographic Map 3D Model File | Stl File for CNC ... Etsy https://www.etsy.com › listing › taiwan-topographic-ma...
+							102 button About this result
+							103 text A 3D model of Taiwan, a mountainous island in East Asia.
+							104 text A grayscale topographic map of Taiwan
+							105 text , showing the island's mountainous terrain … elief Map, based on ...
+							106 text $11.81
+							107 text In stock
+							108 image Rated 4.8 out of 5, (163) user reviews
+						109 container
+							110 link Value: google.com/goto, Description: Taiwan Island 3D Print STL Map - Etsy Pinterest https://www.pinterest.com › pin › taiwan-island-3d-prin...
+							111 button About this result
+							112 text Taiwan detailed country map visualization 3d illustration
+							113 text  and explore millions of professional stock photos
+							114 text $42.35
+							115 image Rated 4.0 out of 5, (25) user reviews
+						116 container
+							117 heading Images, Value: 2
+								118 text Images
+							119 container iur
+								120 container
+									121 link Description: Taiwan Terrain 3D model Shustrik Maps, Value: google.com/goto
+									122 button Taiwan Terrain 3D model
+										123 image Description: Taiwan Terrain 3D model, ID: dimg_LSXHapb7F62A9u8Pt-r1AQ_2
+									124 button About this result
+								125 container
+									126 link Description: Taiwan Terrain 3D model Shustrik Maps, Value: google.com/goto
+									127 button Taiwan Terrain 3D model
+										128 image Description: Taiwan Terrain 3D model, ID: dimg_LSXHapb7F62A9u8Pt-r1AQ_1
+									129 button About this result
+								130 container
+									131 link Description: Taiwan Terrain 3D model Shustrik Maps, Value: google.com/goto
+									132 button Taiwan Terrain 3D model
+										133 image Description: Taiwan Terrain 3D model, ID: dimg_LSXHapb7F62A9u8Pt-r1AQ_5
+									134 button About this result
+								135 container
+									136 link Description: Taiwan Terrain 3D model Shustrik Maps, Value: google.com/goto
+									137 button Taiwan Terrain 3D model
+										138 image Description: Taiwan Terrain 3D model, ID: dimg_LSXHapb7F62A9u8Pt-r1AQ_8
+									139 button About this result
+								140 container
+									141 link Description: Taiwan Terrain 3D model Shustrik Maps, Value: google.com/goto
+									142 button Taiwan Terrain 3D model
+										143 image Description: Taiwan Terrain 3D model, ID: dimg_LSXHapb7F62A9u8Pt-r1AQ_7
+									144 button About this result
+								145 container
+									146 link Description: Taiwan Terrain 3D model Shustrik Maps, Value: google.com/goto
+									147 button Taiwan Terrain 3D model
+										148 image Description: Taiwan Terrain 3D model, ID: dimg_LSXHapb7F62A9u8Pt-r1AQ_11
+									149 button About this result
+							150 button Show more images
+								151 text Show more images
+						152 container
+							153 heading Web results, Value: 2
+								154 text Web results
+							155 link Value: google.com/goto, Description: I like to make 3D maps using real topographic data. I just ... Reddit · r/taiwan 30+ comments · 5 years ago
+							156 button About this result
+							157 container
+								158 text I made a  3D topographic wood map of Taiwan . Created with Birch Plywood, Laser Engraved, data from Open Street Map
+						159 container
+							160 link Value: google.com/goto, Description: Taiwan Topographic Map – 3D Model for 3D Printing & ... Cults 3D https://cults3d.com › architecture › taiwan-topographic-...
+							161 button About this result
+							162 text Jun 9, 2025  —
+							163 text High-polygon 3D model of Taiwan in STL format
+							164 text . File size: 176 MB Model size: 300 mm x 411 mm x 7 mm. Projection: Mercator
+							165 link Description: Read more, Value: google.com/goto
+							166 text 30-day returns
+						167 container
+							168 link Description: 3D Printing Digital Elevation Models OpenTopography https://opentopography.org › learn, Value: google.com/goto
+							169 button About this result
+							170 text In the tutorial, we describe step-by-step how to create the standard triangle language (
+							171 text STL
+							172 text ) file that is commonly used in 3D printing.
+						173 container
+							174 link Description: Taiwan 3d Map Etsy https://www.etsy.com › market › taiwan_3d_map, Value: google.com/goto
+							175 button About this result
+							176 text Explore unique 3D maps of Taiwan,
+							177 text Taiwan Topographic Map 3D Model File
+							178 text . Map STL of Taiwan (163) $12.06 ・ 751) $10.95 Digital Download ・ 869) $179.95 FREE ...
+							179 image Rated 4.5 out of 5,
+							180 text store rating  (
+							181 link Description: 1.1K user reviews, Value: google.com/m/storepages
+							182 text )
+				183 container
+					184 container
+						185 heading People also search for, Value: 2
+							186 text People also search for
+						187 link Description: Taiwan topographic map stl free download, Value: google.com/search
+						188 link Description: Taiwan topographic map stl free, Value: google.com/search
+						189 link Description: Taiwan topographic map stl download, Value: google.com/search
+						190 link Description: Taiwan topographic map stl 3d print, Value: google.com/search
+					191 heading Page Navigation, Value: 1
+						192 text Page Navigation
+					193 text 1
+					194 link Description: Page 2, Value: google.com/search
+					195 link Description: Page 3, Value: google.com/search
+					196 link Description: Page 4, Value: google.com/search
+					197 link Description: Page 5, Value: google.com/search
+					198 link Description: Page 6, Value: google.com/search
+					199 link Description: Page 7, Value: google.com/search
+					200 link Description: Page 8, Value: google.com/search
+					201 link Description: Page 9, Value: google.com/search
+					202 heading Next, Value: 2
+						203 link Description: Next, Value: google.com/search, ID: pnnext
+			204 container sfooter
+				205 heading Footer Links, Value: 1
+					206 text Footer Links
+				207 container fbar
+					208 container
+						209 button Unknown  - Can't determine location
+							210 container
+								211 text Unknown
+							212 container
+								213 text  -  Can't determine location
+						214 text  -
+						215 button Update location
+							216 text Update location
+					217 container fsl
+						218 link Description: Help, Value: support.google.com/websearch/
+						219 link Description: Send feedback, Value: google.com/search
+						220 link Description: Privacy, Value: policies.google.com/privacy
+						221 link Description: Terms, Value: policies.google.com/terms
+
+The focused UI element is 1 AXWebArea Taiwan topographic map STL - Google Search, URL: google.com/search

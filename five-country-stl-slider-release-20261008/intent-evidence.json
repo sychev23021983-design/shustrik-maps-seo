@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-08",
+  "market": "USA",
+  "language": "English",
+  "google_parameters": "hl=en&gl=us&pws=0",
+  "location": "Unknown / cannot determine location; US physical location and local ranking not verified",
+  "measured_frequency": null,
+  "measured_rank": null,
+  "rows": [
+    {
+      "id": 19867,
+      "query": "Venezuela topographic map STL",
+      "google_url": "https://www.google.com/search?q=Venezuela+topographic+map+STL&hl=en&gl=us&pws=0",
+      "raw_snapshot": "google-venezuela.txt",
+      "intent_inference": "Paid terrain STL/CNC listings versus free outline/claim-inclusive maps, ordinary elevation maps and GIS relief data. Preserve the supplied product outline, no geographic claim expansion.",
+      "primary_seller_source": "https://www.etsy.com/listing/1458469211/venezuela-topographical-relief-map-3d"
+    },
+    {
+      "id": 19875,
+      "query": "Uzbekistan topographic map STL",
+      "google_url": "https://www.google.com/search?q=Uzbekistan+topographic+map+STL&hl=en&gl=us&pws=0",
+      "raw_snapshot": "google-uzbekistan.txt",
+      "intent_inference": "Paid whole-geography STL terrain versus free relief images, map-to-STL tools, collector coins and city models.",
+      "primary_seller_source": "https://www.etsy.com/listing/1471233145/uzbekistan-hd-topographic-terrain-3d"
+    },
+    {
+      "id": 19883,
+      "query": "Uruguay topographic map STL",
+      "google_url": "https://www.google.com/search?q=Uruguay+topographic+map+STL&hl=en&gl=us&pws=0",
+      "raw_snapshot": "google-uruguay.txt",
+      "intent_inference": "Paid STL terrain versus free continent-country packs, outline cutters and ordinary printed/GIS maps.",
+      "primary_seller_source": "https://www.etsy.com/listing/1432143632/uruguay-topographic-map-3d-model-file"
+    },
+    {
+      "id": 19891,
+      "query": "UAE topographic map STL",
+      "google_url": "https://www.google.com/search?q=UAE+topographic+map+STL&hl=en&gl=us&pws=0",
+      "raw_snapshot": "google-uae.txt",
+      "intent_inference": "Whole UAE / United Arab Emirates terrain STL versus Dubai city infrastructure, building miniatures, physical shaded-relief prints and free map data.",
+      "primary_seller_source": "https://www.cgtrader.com/3d-print-models/miniatures/other/3d-topographical-map-of-the-united-arab-emirates"
+    },
+    {
+      "id": 19908,
+      "query": "Taiwan topographic map STL",
+      "google_url": "https://www.google.com/search?q=Taiwan+topographic+map+STL&hl=en&gl=us&pws=0",
+      "raw_snapshot": "google-taiwan.txt",
+      "intent_inference": "Paid Taiwan terrain STL versus free island relief, Taipei city miniatures, physical shaded-relief posters and ordinary GIS maps.",
+      "primary_seller_source": "https://www.etsy.com/ca/listing/1755322830/taiwan-topographic-map-3d-model-file-stl"
+    }
+  ]
+}

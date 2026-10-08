@@ -1,0 +1,216 @@
+Browser tab: 3, Title: "UAE topographic map STL - Google Search", URL: "https://www.google.com/search?q=UAE+topographic+map+STL&hl=en&gl=us&pws=0".
+1 AXWebArea UAE topographic map STL - Google Search, URL: google.com/search?q=UAE+topographic+map+STL&hl=en&gl=us&pws=0
+	2 container gsr
+		3 container
+			4 link Skip to main content
+				5 text Skip to main content
+			6 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		7 container searchform
+			8 container tsf
+				9 container
+					10 link Description: Learn more about World Space Week 2026, Value: google.com/webhp?hl=en&ictx=2&sa=X&ved=2ahUKEwiIle2X06mXAxUX87sIHWIMLLYQPXoECAYQBA
+					12 combo box (collapsed) Description: Search, Value: UAE topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					13 button  Clear
+					14 button Search by voice
+					15 button Search by image
+			16 button Description: Settings, ID: og-te
+			17 button Share
+			18 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			19 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DUAE%2Btopographic%2Bmap%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		20 container cnt
+			21 container
+				22 content list
+					23 link Description: AI Mode, Value: google.com/search?q=UAE+topographic+map+STL&sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&sxsrf=APpeQnvZVvOzLYJL08vx_nnyd_QNQytN8Q:1791436009465&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8If6UlQdzA3eae6DyEgB_K-Oo1DvwvNqNRv3gdbsoRfWHVTF95OvL34AXg7os5ZtnLg-hyVSE-sxRQ5Br450XBMGBoSj7SjsaRwd0OfiTicAThWwJFQ&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiIle2X06mXAxUX87sIHWIMLLYQ2J8OegQIEhAD
+					24 link (disabled) All
+						25 text All
+					26 link Description: Images, Value: google.com/search?sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&sxsrf=APpeQnvZVvOzLYJL08vx_nnyd_QNQytN8Q:1791436009465&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8If6UlQdzA3eae6DyEgB_K-Oo1DvwvNqNRv3gdbsoRfWHVTF95OvL34AXg7os5ZtnLg-hyVSE-sxRQ5Br450XBMGBoSj7SjsaRwd0OfiTicAThWwJFQ&q=UAE+topographic+map+STL&sa=X&ved=2ahUKEwiIle2X06mXAxUX87sIHWIMLLYQtKgLegQIFhAB
+					27 link Description: Shopping, Value: google.com/search?sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&sxsrf=APpeQnvZVvOzLYJL08vx_nnyd_QNQytN8Q:1791436009465&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8If6UlQdzA3eae6DyEgB_K-Oo1DvwvNqNRv3gdbsoRfWHVTF95OvL34AXg7os5ZtnLg-hyVSE-sxRQ5Br450XBMGBoSj7SjsaRwd0OfiTicAThWwJFQ&q=UAE+topographic+map+STL&ved=1t:220175&ictx=111
+					28 link Description: Videos, Value: google.com/search?sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&sxsrf=APpeQnvZVvOzLYJL08vx_nnyd_QNQytN8Q:1791436009465&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8If6UlQdzA3eae6DyEgB_K-Oo1DvwvNqNRv3gdbsoRfWHVTF95OvL34AXg7os5ZtnLg-hyVSE-sxRQ5Br450XBMGBoSj7SjsaRwd0OfiTicAThWwJFQ&q=UAE+topographic+map+STL&sa=X&ved=2ahUKEwiIle2X06mXAxUX87sIHWIMLLYQtKgLegQIGBAB
+					29 link Description: News, Value: google.com/search?sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&sxsrf=APpeQnvZVvOzLYJL08vx_nnyd_QNQytN8Q:1791436009465&q=UAE+topographic+map+STL&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8If6UlQdzA3eae6DyEgB_K-Oo1DvwvNqNRv3gdbsoRfWHVTF95OvL34AXg7os5ZtnLg-hyVSE-sxRQ5Br450XBMGBoSj7SjsaRwd0OfiTicAThWwJFQ&sa=X&ved=2ahUKEwiIle2X06mXAxUX87sIHWIMLLYQ0pQJegQIFRAB
+					30 link Description: Forums, Value: google.com/search?sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&sxsrf=APpeQnvZVvOzLYJL08vx_nnyd_QNQytN8Q:1791436009465&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9i-p_ALr7slx3OYYzZdb8If6UlQdzA3eae6DyEgB_K-Oo1DvwvNqNRv3gdbsoRfWHVTF95OvL34AXg7os5ZtnLg-hyVSE-sxRQ5Br450XBMGBoSj7SjsaRwd0OfiTicAThWwJFQ&q=UAE+topographic+map+STL&sa=X&ved=2ahUKEwiIle2X06mXAxUX87sIHWIMLLYQs6gLegQIFBAB
+					31 button (collapsed) More filters, Secondary Actions: Expand
+						32 container More filters
+							33 text More
+				34 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			35 heading Search Results, Value: 1
+				36 text Search Results
+			37 container center_col
+				38 container gevUs
+					39 container rso
+						40 container
+							41 heading Web results, Value: 2
+								42 text Web results
+							43 link Description: United Arab Emirates Topographic Map | 3D Model Stl for ... Etsy https://www.etsy.com › ... › 3D Printing & Machining, Value: google.com/goto?url=CAESigEB6zswFSH8G6AgkkZwsuN1fzxORBoNj6fZgl36_MO5NUrPJ8gC96tRepaH0qKULeS_u-EvPp5JgV8LtPrIzQxmiQVs5iMq-Je52ox2bzS7_SwemwZt0_Soyh3rr5ROVT_-VAijVGtsKQ7VrIb5q6AprkkveHc9301sHOC9y0hzWoziQjuTleZFV0w
+							44 button About this result
+							45 container
+								46 text This detailed 3D model in STL format is  perfect for 3D printing or wood milling using a CNC machine . Made using topographical satellite data,
+							47 container
+								48 text $12.17
+								49 image Rated 4.8 out of 5, (163) user reviews
+						50 container
+							51 container
+								52 heading AI Overview, Value: 2
+									53 text AI Overview
+								54 container
+									55 text You can download or purchase high-resolution 3D printable STL files of the UAE topographic map on platforms like
+									56 link Description: Cults3D, Value: google.com/goto?url=CAES4gEB6zswFU87mdUad4_hgl-Ic_-FKdAcDl6i_ywCYGL8A47o41zl7dyeLM_AGB70Xz2X5csdoJybKjMBmSLwLtRkSeIZFd-CcGr0coCYzOdsrZeFWfp9H4NZcUpQ_Anel2UGbg-5I-25modLZgWXBJBvsPsTg_yPsTooOwUzTtnE8--K9ig4oeDK1EsUCOORbUZz-awYH24ABQ6ona5MplZXDzHiKHXtuPHYI2Yep5-krgvw20RphwGlaRxmVkx5tMCiMUoP3WJ0iktVBFMWsknrzYrjz5GP3rfZH40i7RsAWhde
+									57 text  or
+									58 link Description: Etsy, Value: google.com/goto?url=CAESigEB6zswFQwPhTn-Kdal7bSXWWonkjXcOBQVPH4YBoiMjevYpKSYZ4Xti0m_sL5TzeIuiojPbBhYdVLcA0Wh4L_zX9dLjds0kL8O-SIUMS-7LTn4cBydPWOh6y7KVPvmudSk4EufjPGal5M2x5kkfGjwnSInp3VQRHlS6l4yDBE_WOkbZAKN3s_ZMgw
+									59 text .
+									60 button Related results
+								61 heading Where to Find UAE Topographic STL Models, Value: 3
+									62 text Where to Find UAE Topographic STL Models
+								63 content list
+									64 container
+										65 AXListMarker •
+										66 text Full Country Terrain (Paid/Commercial):  Detailed high-polygon models representing the Hajar Mountains, desert dunes, and coastal layouts are available on marketplaces like  Shustrik-Maps on Cults3D  and
+										67 link Description: CGTrader, Value: google.com/goto?url=CAESqwEB6zswFR1FBfki96WfxrUJ8mKyi11w8uLLL7l6W2IyojLASlG2pdTH4kQ2irbUOy423KVhD00pfI2wBiMy2S1QFwTFQ16mYLGRQ9hMDQDQScHgzNDmesCFR7ZvOlUKSfcbWwUahLmqKB-2WLofhmYE1glz-ks8xaQZ5wVJBQtbAXhknKUkTgClNeUxi8v5r367E4KtqJIVsko2Sh3kOsVVGoKpLBfTbgh45KI
+										68 text . These are optimized for both FDM/SLA 3D printers and CNC wood/metal routers.
+										69 link Description: CGTrader, Value: …
+										70 button CGTrader (+2) - Related results
+											71 text CGTrader
+											72 text  +2
+									73 AXListMarker •
+								74 content list
+									75 container
+										76 link Description: UAE Topographic Map – 3D Model for 3D Printing & CNC .... Opens in new tab., Value: …
+										77 text Cults 3D
+										78 button Description: About this result, ID: snui-atr-6iTHasXgBJyB9u8Pq5byyQw_z5ljz9_9
+										79 text Jun 9, 2025 —  High-polygon 3D model of the United Arab Emirates in STL format. File size: 286 MB Model size: 220 mm x 170 mm x 3,6 mm. Projectio...
+									80 container
+										81 link Description: United Arab Emirates Topographic Map | 3D Model Stl ... - Etsy. Opens in new tab., Value: …
+										82 text Etsy
+										83 button Description: About this result, ID: snui-atr-6iTHasXgBJyB9u8Pq5byyQw_z5ljz9_13
+										84 text Experience the beauty of the United Arab Emirates like never before with our stunning high-resolution topographic map! This detail...
+									85 container
+										86 link Description: UAE Topographic Map – STL Model for 3D Printing & CNC. Opens in new tab., Value: …
+										87 text Shustrik Maps
+										88 button Description: About this result, ID: snui-atr-6iTHasXgBJyB9u8Pq5byyQw_z5ljz9_17
+										89 text High-polygon 3D model of the United Arab Emirates in STL format UAE Topographic Map – 3D Model for 3D Printing & CNC Carving quant...
+									90 container
+										91 link Description: "uae map" 3D Models to Print - yeggi. Opens in new tab., Value: …
+										92 text Yeggi
+										93 button Description: About this result, ID: snui-atr-6iTHasXgBJyB9u8Pq5byyQw_z5ljz9_21
+										94 text Platforms: Cults, Pinshape, CGTrader, Creality Cloud, Thingiverse, MyMiniFactory, Makerworld, YouMagine. Content: 3D printable mod...
+									95 container
+										96 link Description: United Arab Emirates topographic raised relief map collection. Opens in new tab., Value: …
+										97 text CGTrader
+										98 button Description: About this result, ID: snui-atr-6iTHasXgBJyB9u8Pq5byyQw_z5ljz9_25
+										99 text UAE United Arab Emirates topographic raised relief map collection / geography kit / height maps Includes several models: a cutout ...
+									100 container
+										101 link Description: UAE by Fazi | Download free STL model. Opens in new tab., Value: …
+										102 text Printables.com
+										103 button Description: About this result, ID: snui-atr-6iTHasXgBJyB9u8Pq5byyQw_z5ljz9_29
+										104 text Highlighted models from creator * Cable Management Clips Slot / Holder 6 0 47 * Saudi Arabia 4 0 91 * Map of Iran 3 152 * Syria 3 ...
+									105 container
+										106 link Description: 3D Topographic Map of Dubai STL Model for CNC & 3D Printing. Opens in new tab., Value: …
+										107 text 3D GO
+										108 button Description: About this result, ID: snui-atr-6iTHasXgBJyB9u8Pq5byyQw_z5ljz9_33
+										109 text Sep 29, 2026 —  ☝️ Want to never miss these limited free drops and get 16+ models every month? Click on the "Personal Website" icon at the very to...
+									110 container
+										111 link Description: UAE Map – High Detail | Print Ready (No Supports Needed). Opens in new tab., Value: …
+										112 text Cults 3D
+										113 button Description: About this result, ID: snui-atr-6iTHasXgBJyB9u8Pq5byyQw_z5ljz9_37
+										114 text Mar 26, 2026 —  3D model description highly detailed 3D model of uae, precision-engineered using live GPS coordinates and satellite GIS data. This...
+							115 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								116 text Show more
+						117 container
+							118 heading Web results, Value: 2
+								119 text Web results
+							120 link Value: …, Description: UAE Topographic Map – 3D Model for 3D Printing & CNC ... Cults 3D https://cults3d.com › architecture › uae-topographic-ma...
+							121 button About this result
+							122 container
+								123 text Jun 9, 2025  —  High-polygon 3D model of the United Arab Emirates in STL format . File size: 286 MB Model size: 220 mm x 170 mm x 3,6 mm
+								124 link Description: Read more, Value: …
+							125 container
+								126 image Rated 5.0 out of 5, (1) user reviews
+								127 text 30-day returns
+						128 container
+							129 link Value: …, Description: UAE Topographic Map – STL Model for 3D Printing & CNC Shustrik Maps https://shustrik-maps.com › ... › Countries
+							130 button About this result
+							131 text The UAE Topographic Map is a
+							132 text high-resolution 3D terrain model
+							133 text  based on an accurate digital elevation model (DEM). It faithfully represents the desert dunes,
+							134 text $15.00
+							135 text In stock
+							136 text Free delivery
+						137 container
+							138 link Value: …, Description: UAE by Fazi | Download free STL model Printables.com https://www.printables.com › model › 1156789-uae
+							139 button About this result
+							140 text Map of UAE |
+							141 text Download free 3D printable STL models
+							142 text . PDF Map of UAE Model origin The author marked this model as their own original creation.
+						143 container
+							144 link Description: "uae map" 3D Models to Print Yeggi https://www.yeggi.com › uae+map, Value: …
+							145 button About this result
+							146 text Topographical Map of the United Arab Emirates ・ 3D printable model of model,
+							147 text UAE Topographic Map 3D Model for 3D Printing
+							148 text  ・ 150+ RACE TRACKS WITH TAGS STL ...
+						149 container
+							150 link Description: Dubai Marina United Arab Emirates 3d Model STL Digital ... Pinterest · Storehouse3d 1 year ago, Value: …
+							151 button About this result
+							152 text This
+							153 text STL
+							154 text  file contains a section of Dubai including its skyscrapers, buildings and
+							155 text terrain
+							156 text . This file is ready be used in 3D printing directly ...
+							157 link Description: Read more, Value: …
+						158 container
+							159 link Value: …, Description: Free relief map of the United Arab Emirates Blue Green Atlas https://bluegreenatlas.com › maps › relief_map_of_unit...
+							160 button About this result
+							161 text Free high-resolution relief map of the United Arab Emirates
+							162 text . Topographical map of the United Arab Emirates. Topography: NASA SRTM3 (Public domain).
+						163 container
+							164 link Value: …, Description: United Arab Emirates topographic raised relief map collection CGTrader https://www.cgtrader.com › ... › Art & Design › Other
+							165 button About this result
+							166 text Sep 7, 2024  —
+							167 text 3D printable model United Arab Emirates topographic 3 geography
+							168 text , formats OBJ, STL, ready for 3D animation and other 3D projects.
+							169 text $11.97
+							170 image Rated 3.6 out of 5, (7) user reviews
+						171 container
+							172 link Description: World Topographic Map (UAE Edition) - Overview ArcGIS Online https://www.arcgis.com › home › item, Value: …
+							173 button About this result
+							174 text May 4, 2023  —  This layer includes highways, major roads, minor roads, railways, water features, cities, parks, landmarks, building footprints, and ...
+							175 link Description: Read more, Value: …
+				176 container
+					177 container
+						178 heading People also search for, Value: 2
+							179 text People also search for
+						180 link Description: Free uae topographic map stl, Value: …
+						181 link Description: Uae topographic map stl download, Value: …
+						182 link Description: Uae topographic map stl 3d print, Value: …
+					183 heading Page Navigation, Value: 1
+						184 text Page Navigation
+					185 text 1
+					186 link Description: Page 2, Value: …
+					187 link Description: Page 3, Value: …
+					188 link Description: Page 4, Value: …
+					189 link Description: Page 5, Value: …
+					190 link Description: Page 6, Value: …
+					191 link Description: Page 7, Value: …
+					192 link Description: Page 8, Value: …
+					193 link Description: Page 9, Value: …
+					194 link Description: Page 10, Value: …
+					195 heading Next, Value: 2
+						196 link Description: Next, Value: …, ID: pnnext
+			197 container sfooter
+				198 heading Footer Links, Value: 1
+					199 text Footer Links
+				200 container fbar
+					201 container
+						202 button Unknown  - Can't determine location
+							203 container
+								204 text Unknown
+							205 container
+								206 text  -  Can't determine location
+						207 text  -
+						208 button Update location
+							209 text Update location
+					210 container fsl
+						211 link Description: Help, Value: …
+						212 link Description: Send feedback, Value: …
+						213 link Description: Privacy, Value: …
+						214 link Description: Terms, Value: …
+
+The focused UI element is 1 AXWebArea UAE topographic map STL - Google Search, URL: google.com/search?q=UAE+topographic+map+STL&hl=en&gl=us&pws=0

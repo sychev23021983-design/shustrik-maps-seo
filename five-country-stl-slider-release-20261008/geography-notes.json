@@ -1,0 +1,32 @@
+[
+  {
+    "id": 19867,
+    "slug": "venezuela",
+    "observed_reference": "Wide mainland, deep northwest Lake Maracaibo opening, western Andes, central low plains, southeastern Guiana uplands and long southward lobe. Preserve all northern offshore island fragments in exact reference positions.",
+    "mesh_accuracy_verified": false
+  },
+  {
+    "id": 19875,
+    "slug": "uzbekistan",
+    "observed_reference": "Long west-to-east angular outline, broad very flat western and central plains, narrow eastern neck, southeast mountain edge and detached eastern fragment as shown. Do not connect the detached fragment by invented terrain.",
+    "mesh_accuracy_verified": false
+  },
+  {
+    "id": 19883,
+    "slug": "uruguay",
+    "observed_reference": "Compact irregular roughly rounded vertical outline, gently undulating low hills and central/eastern ridges. No alpine peaks. Preserve coastline and jagged northern boundary.",
+    "mesh_accuracy_verified": false
+  },
+  {
+    "id": 19891,
+    "slug": "uae",
+    "observed_reference": "Wide low southern mainland rising toward a tall northeast mountain-bearing arm, deeply indented Gulf coastline, many separate northern offshore fragments and east-coast pieces. Use the exact reference geometry including its separate parts without substituting Dubai skyline or palm islands.",
+    "mesh_accuracy_verified": false
+  },
+  {
+    "id": 19908,
+    "slug": "taiwan",
+    "observed_reference": "Tall narrow leaf-shaped northeast-to-southwest island with rugged central and eastern mountain spine, flatter western margin and sharp southern tip. Keep the western offshore island cluster and other small southern/eastern fragments in their reference positions.",
+    "mesh_accuracy_verified": false
+  }
+]

@@ -1,0 +1,209 @@
+Browser tab: 3, Title: "Venezuela topographic map STL - Google Search", URL: "https://www.google.com/search?q=Venezuela+topographic+map+STL&hl=en&gl=us&pws=0".
+0 AXWebArea Venezuela topographic map STL - Google Search, URL: google.com/search?q=Venezuela+topographic+map+STL&hl=en&gl=us&pws=0
+	1 container gsr
+		2 container
+			3 link Skip to main content
+				4 text Skip to main content
+			5 link Description: Accessibility help, Value: support.google.com/websearch/answer/181196?hl=en
+		6 container searchform
+			7 container tsf
+				8 container
+					9 link Description: Learn more about World Space Week 2026, Value: google.com/webhp?hl=en&ictx=2&sa=X&ved=2ahUKEwiQzeb70amXAxVQh_0HHdwNMuUQPXoECAYQBA
+					11 combo box (collapsed) Description: Search, Value: Venezuela topographic map STL, ID: ti6dpd, Secondary Actions: Expand
+					12 button  Clear
+					13 button Search by voice
+					14 button Search by image
+			15 button Description: Settings, ID: og-te
+			16 button Share
+			17 button (collapsed) Description: Google apps, Secondary Actions: Expand
+			18 link Description: Sign in, Value: accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DVenezuela%2Btopographic%2Bmap%2BSTL%26hl%3Den%26gl%3Dus%26pws%3D0&ec=futura_srp_og_si_72236_p
+		19 container cnt
+			20 container
+				21 content list
+					22 link Description: AI Mode, Value: google.com/search?q=Venezuela+topographic+map+STL&sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&sxsrf=APpeQntVhBL1mgr_llLhAy8AJy_O8Kvpiw:1791435682204&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiQzeb70amXAxVQh_0HHdwNMuUQ2J8OegQIEhAD
+					23 link (disabled) All
+						24 text All
+					25 link Description: Images, Value: google.com/search?sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&sxsrf=APpeQntVhBL1mgr_llLhAy8AJy_O8Kvpiw:1791435682204&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&q=Venezuela+topographic+map+STL&sa=X&ved=2ahUKEwiQzeb70amXAxVQh_0HHdwNMuUQtKgLegQIFhAB
+					26 link Description: Shopping, Value: google.com/search?sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&sxsrf=APpeQntVhBL1mgr_llLhAy8AJy_O8Kvpiw:1791435682204&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&q=Venezuela+topographic+map+STL&ved=1t:220175&ictx=111
+					27 link Description: Videos, Value: google.com/search?sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&sxsrf=APpeQntVhBL1mgr_llLhAy8AJy_O8Kvpiw:1791435682204&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&q=Venezuela+topographic+map+STL&sa=X&ved=2ahUKEwiQzeb70amXAxVQh_0HHdwNMuUQtKgLegQIFRAB
+					28 link Description: News, Value: google.com/search?sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&sxsrf=APpeQntVhBL1mgr_llLhAy8AJy_O8Kvpiw:1791435682204&q=Venezuela+topographic+map+STL&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&sa=X&ved=2ahUKEwiQzeb70amXAxVQh_0HHdwNMuUQ0pQJegQIFBAB
+					29 link Description: Maps, Value: maps.google.com/maps?sca_esv=5e8bb257e240a171&hl=en&gl=us&pws=0&output=search&q=Venezuela+topographic+map+STL&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYQR84vEJkyW62ul7Q3Bkhu9h6dfhdEk8gJ_MEzq5-UtW7-4vz_60Dl43ihG-W9GuhmFOKRe5yKsW5954hZVsi2EyAHwZajmjwInKyW-jOczE8ozEiSYQF3C3dAw1wGW7uu2TRPjdF9pBafswv_ugfQ53KIsIg&entry=mc&ved=1t:200715&ictx=111
+					30 button (collapsed) More filters, Secondary Actions: Expand
+						31 container More filters
+							32 text More
+				33 button (collapsed) Tools, ID: hdtb-tls, Secondary Actions: Expand
+			34 heading Search Results, Value: 1
+				35 text Search Results
+			36 container center_col
+				37 container gevUs
+					38 container rso
+						39 container
+							40 heading Web results, Value: 2
+								41 text Web results
+							42 link Description: Venezuela Topographical Relief Map | 3D Model Stl for ... Etsy https://www.etsy.com › ... › 3D Printing & Machining, Value: google.com/goto?url=CAESiAEB6zswFYaqmH9nol2u8BE3Q71Kv6KsQBl9dZy3QdF-a_DpWcmnr1IWBfpiU3SrwlBXPq-yRHqsg6VYcEJOVzmQYRX9kF7uBBpQlFZpe41_FehTwfLoLsdBEXoPLF6C-LwjGWK5FiGeJ7mfYOt33Xx7TR7bkb-xYWCiG3ohSV8PZ2tsSPqNNGG-
+							43 button About this result
+							44 container
+								45 text Experience the beauty of Venezuela like never before with our stunning high-resolution topographic map! This  detailed 3D model in STL format  is perfect for 3D ...
+								46 link Description: Read more, Value: google.com/goto?url=CAESrAEB6zswFYHqp15wQR0981kx6L0q_ObF_L3uum3IlwUXphtSYO_p1UlZspCgPNuie6RcSqRC6Z8_M4kL_t-Mxz2HHBF8tCR9UFhnnM2WK55M3OJ42fSrmsEAYaRDemI4kfLQ-JON29JoVJK8iyYeniSrSIzXeEvuqYiTPM6CRw-cejOnuaX6lin01fzRWt-ZzQh_Mgqy6sV4YVEEL1AUNMhcCDLxW7o5ob-OBSRf
+							47 container
+								48 text $11.71 In stock
+								49 image Rated 5.0 out of 5, (1) user reviews
+								50 text Free delivery
+						51 container
+							52 container
+								53 heading AI Overview, Value: 2
+									54 text AI Overview
+								55 container
+									56 text You can find high-resolution 3D printable topographic relief models of  Venezuela  on platforms like
+									57 link Description: Cults3D, Value: google.com/goto?url=CAES6AEB6zswFeinKoaQ-zcrd2jWChlQXv0hLa9Kwjb8hpJdKl0Z_yUQeQsFKIzSGmRDibk9V0d4I7qonZRkc7rvnCd20e7hnhKTK1t0hEQd-gHXrYjQtCFEYOvYAR8Nkx_eg5gZFu_C4p-zbgVtpzoEldAeKLeVjkK-wWmUpoR8kcvAle6JpwJ25UO0lMzd8TC-p1YAtBtLNOoNDVs1YPV08JXfFx5R9FNaj6BVM0zOf5xJEAqjyhBCQmVdpplFMkHv0AYFrQrIzWmEmQXWmBjgvp9Cyk5h7GvQYnElV1KloA20ZWV2XlEXyY0J
+									58 text  or marketplaces like
+									59 link Description: Etsy, Value: google.com/goto?url=CAESiAEB6zswFe9cQYs8DHkPXe4d9gI_PWSPvmU78QQDjz4Skzg4kKo_GJpiM3tuOAg-sUvSnVPiNpGwlYnWr715zsDzgSAX3-smTc6BMnTshCg-Ltt2Poqvd0-qib18sqEiNTCbjUvzjnO-m_0Q4IoNIyg_rjezjnhvQWRXbOPYwHahrMLQcUt9Xjp0
+									60 text .
+									61 button Related results
+								62 heading Where to Find Venezuela Topo STL Files, Value: 3
+									63 text Where to Find Venezuela Topo STL Files
+								64 content list
+									65 container
+										66 AXListMarker •
+										67 text Cults3D :  Offers high-polygon digital elevation models featuring the Venezuelan Andes, Angel Falls, and the Orinoco River basin.
+										68 button Related results
+									69 container
+										70 AXListMarker •
+										71 link Description: Etsy, Value: …
+										72 text :  Multiple independent creators offer downloadable STL relief maps designed specifically for CNC wood milling and FDM/resin 3D printing.
+										73 link Description: Etsy, Value: …
+										74 button Etsy (+1) - Related results
+											75 text Etsy
+											76 text  +1
+								77 content list
+									78 container
+										79 link Description: Venezuela Topographic Map – STL Model for 3D Printing & CNC. Opens in new tab., Value: …
+										80 text Shustrik Maps
+										81 button Description: About this result, ID: snui-atr-oiPHau2YL4-D9u8P3dCB4Qw_v3en82_9
+										82 text Product: Venezuela Topographic Map 3D Model ($15.00) Format: STL file, high-polygon polygonal tris only (2,610,376 polygons; 1,305...
+									83 container
+										84 link Description: Venezuela 3d Map - Etsy. Opens in new tab., Value: …
+										85 text Etsy
+										86 button Description: About this result, ID: snui-atr-oiPHau2YL4-D9u8P3dCB4Qw_v3en82_13
+										87 text Venezuela Topographical Relief Map | 3D Model Stl for CNC and 3D Printing ... May include: A wooden topographic map of Venezuela, ...
+									88 container
+										89 link Description: CNC Carving File, Wood Relief Art, 3D Printing Ready. Opens in new tab., Value: …
+										90 text Etsy
+										91 button Description: About this result, ID: snui-atr-oiPHau2YL4-D9u8P3dCB4Qw_v3en82_17
+										92 text Highlights Premium Venezuela 3D design - clean, high-detail 3D models optimized for professional CNC and 3D printing results. High...
+									93 container
+										94 link Description: "venezuela map" 3D Models to Print - yeggi. Opens in new tab., Value: …
+										95 text Yeggi
+										96 button Description: About this result, ID: snui-atr-oiPHau2YL4-D9u8P3dCB4Qw_v3en82_21
+										97 text 3D Print Models Sources: Cults, cgtrader, MyMiniFactory, makerworld, Printables, Thingiverse, yeggi. Model Types: Venezuela maps, ...
+									98 container
+										99 link Description: Venezuela Topographical Relief Map | 3D Model Stl for CNC .... Opens in new tab., Value: …
+										100 text Etsy
+										101 button Description: About this result, ID: snui-atr-oiPHau2YL4-D9u8P3dCB4Qw_v3en82_25
+										102 text Experience the beauty of Venezuela like never before with our stunning high-resolution topographic map! This detailed 3D model in ...
+									103 container
+										104 link Description: Venezuela Topographical Relief Map | 3D Model Stl for CNC and .... Opens in new tab., Value: …
+										105 text Etsy
+										106 button Description: About this result, ID: snui-atr-oiPHau2YL4-D9u8P3dCB4Qw_v3en82_29
+										107 text Highlights Experience the beauty of Venezuela like never before with our stunning high-resolution topographic map! This detailed 3...
+							108 button (collapsed) Description: Show more AI Overview, Secondary Actions: Expand
+								109 text Show more
+						110 container
+							111 heading Web results, Value: 2
+								112 text Web results
+							113 link Value: …, Description: Venezuela Topographic Map – STL Model for 3D Printing ... Shustrik Maps https://shustrik-maps.com › ... › Countries
+							114 button About this result
+							115 container
+								116 text High-detail Venezuela Topographic Map in STL format . Ideal for 3D printing & CNC carving in education, design, souvenirs, and terrain visualization.
+							117 container
+								118 text $15.00 In stock Free delivery
+						119 container
+							120 link Description: "venezuela map" 3D Models to Print Yeggi https://www.yeggi.com › venezuela+map, Value: …
+							121 button About this result
+							122 text 5000+ "
+							123 text venezuela map" printable 3D Models
+							124 text . Every Day new 3D Models from all over the World. Click to find the best Results for venezuela map Models for your ...
+						125 container
+							126 link Value: …, Description: Venezuela topographic map, elevation, terrain topographic-map.com https://en-gb.topographic-map.com › map-fmtgp › Ven...
+							127 button About this result
+							128 text Average elevation: 218 m
+							129 text  • Venezuela • Shaped roughly like a triangle, Average elevation: 218 m Minimum elevation: -3 m Maximum elevation: 5,229 m
+						130 container
+							131 link Value: …, Description: Digital shaded-relief map of Venezuela USGS (.gov) https://www.usgs.gov › publications › digital-shaded-reli...
+							132 button About this result
+							133 text The digital shaded relief
+							134 text map
+							135 text  of
+							136 text Venezuela
+							137 text  is a composite of 3-arc-second (approximately 90-meter)
+							138 text elevation
+							139 text  data, captured during the Shuttle Radar ...
+						140 container
+							141 link Value: …, Description: Venezuela map by Geography_GamingVr Printables.com https://www.printables.com › 1847442-venezuela-map
+							142 button About this result
+							143 text map of Venezuela including the territorial claim of Guayana |
+							144 text Download free 3D printable STL models
+							145 text .
+						146 container
+							147 link Description: Venezuela 3d Map Etsy https://www.etsy.com › market › venezuela_3d_map, Value: …
+							148 button About this result
+							149 text Explore unique 3D
+							150 text maps
+							151 text  of
+							152 text Venezuela
+							153 text , The
+							154 text Venezuela Topographic Terrain
+							155 text  3D model
+							156 text STL Map
+							157 text  Model for CNC Milling and Printing (414) $14.99 Digital Download … $7. ...
+							158 image Rated 4.5 out of 5,
+							159 text store rating  (
+							160 link Description: 1.1K user reviews, Value: google.com/m/storepages?q=etsy.com&c=US&hl=en-US
+							161 text )
+						162 container
+							163 link Value: …, Description: Venezuela Topographic Map – 3D Model for 3D Printing & ... Cults 3D https://cults3d.com › architecture › venezuela-topograp...
+							164 button About this result
+							165 text Jun 9, 2025  —
+							166 text High-polygon 3D model of Venezuela in STL format
+							167 text . File size: 124 MB Model size: 220 mm x 188 mm x 2,8 mm. Projection: Mercator
+							168 link Description: Read more, Value: …
+						169 container
+							170 link Description: How to Create Stunning 3D Topographic Maps with STLMap YouTube · RS & GIS 4.3K+ views · 1 year ago, Value: …
+							171 button About this result
+							172 link Description: How to Create Stunning 3D Topographic Maps with STLMap by RS & GIS on YouTube. Play on YouTube. 6:41, Value: …
+							173 text ...  STLMap , an incredible tool for crafting 3D topographic maps of any location worldwide! 🗺️ Learn how to create breathtaking maps with just ...
+				174 container
+					175 heading Page Navigation, Value: 1
+						176 text Page Navigation
+					177 text 1
+					178 link Description: Page 2, Value: …
+					179 link Description: Page 3, Value: …
+					180 link Description: Page 4, Value: …
+					181 link Description: Page 5, Value: …
+					182 link Description: Page 6, Value: …
+					183 link Description: Page 7, Value: …
+					184 link Description: Page 8, Value: …
+					185 link Description: Page 9, Value: …
+					186 link Description: Page 10, Value: …
+					187 heading Next, Value: 2
+						188 link Description: Next, Value: …, ID: pnnext
+			189 container sfooter
+				190 heading Footer Links, Value: 1
+					191 text Footer Links
+				192 container fbar
+					193 container
+						194 button Unknown  - Can't determine location
+							195 container
+								196 text Unknown
+							197 container
+								198 text  -  Can't determine location
+						199 text  -
+						200 button Update location
+							201 text Update location
+					202 container fsl
+						203 link Description: Help, Value: …
+						204 link Description: Send feedback, Value: …
+						205 link Description: Privacy, Value: …
+						206 link Description: Terms, Value: …
+
+The focused UI element is 0 AXWebArea Venezuela topographic map STL - Google Search, URL: google.com/search?q=Venezuela+topographic+map+STL&hl=en&gl=us&pws=0
