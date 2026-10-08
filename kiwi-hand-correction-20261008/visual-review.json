@@ -1,0 +1,14 @@
+{
+  "pass": true,
+  "tool": "native ImageGen edit",
+  "generated_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-06d28f3e-a5f3-4615-b90d-d579db0f6346.png",
+  "input_path": "C:\\Users\\syche\\.codex\\generated_images\\01a11289-fa4a-71f1-94ff-0db88c3f8aad\\exec-ff42ee37-1518-462f-8d81-7491797d4cac.png",
+  "checks": {
+    "one_thumb_four_fingers": true,
+    "index_connected_natural_length_and_bend": true,
+    "no_disconnected_extra_or_fused_digits": true,
+    "medallion_rim_feathers_left_beak_union_jack_four_stars_preserved": true,
+    "ivory_plastic_and_warm_background_preserved": true
+  },
+  "review": "Visual inspection of full-size generated output: relaxed five-digit hand, index no longer stretched across top; entire rim and reference relief visible. ImageGen edit is visually preserved, not a claim of pixel identity."
+}
