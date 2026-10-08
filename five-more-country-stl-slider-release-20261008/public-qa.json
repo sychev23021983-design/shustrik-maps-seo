@@ -1,0 +1,337 @@
+{
+  "rows": [
+    {
+      "id": 19916,
+      "url": "https://shustrik-maps.com/product/tajikistan-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 19916,
+      "url": "https://shustrik-maps.com/product/tajikistan-stl-model/?five_more_country_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 19923,
+      "url": "https://shustrik-maps.com/product/thailand-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 19923,
+      "url": "https://shustrik-maps.com/product/thailand-stl-model/?five_more_country_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 19939,
+      "url": "https://shustrik-maps.com/product/turkmenistan-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 19939,
+      "url": "https://shustrik-maps.com/product/turkmenistan-stl-model/?five_more_country_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 19947,
+      "url": "https://shustrik-maps.com/product/saudi-arabia-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 19947,
+      "url": "https://shustrik-maps.com/product/saudi-arabia-stl-model/?five_more_country_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 20036,
+      "url": "https://shustrik-maps.com/product/russia-stl-model/",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    },
+    {
+      "id": 20036,
+      "url": "https://shustrik-maps.com/product/russia-stl-model/?five_more_country_qa=20261008",
+      "checks": {
+        "http": true,
+        "title": true,
+        "meta": true,
+        "h1": true,
+        "canonical": true,
+        "indexable": true,
+        "schema": true,
+        "short_centered_notice": true,
+        "four_new_images": true,
+        "own_slider": true,
+        "no_raw_shortcodes": true,
+        "cart_button": true
+      },
+      "pass": true
+    }
+  ],
+  "media": [
+    {
+      "id": 22646,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/tajikistan-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22647,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/tajikistan-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22648,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/tajikistan-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22649,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/tajikistan-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22650,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/thailand-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22651,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/thailand-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22652,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/thailand-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22653,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/thailand-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22654,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/turkmenistan-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22655,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/turkmenistan-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22656,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/turkmenistan-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22657,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/turkmenistan-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22658,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/saudi-arabia-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22659,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/saudi-arabia-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22660,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/saudi-arabia-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22661,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/saudi-arabia-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22662,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/russia-desk-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22663,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/russia-wall-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22664,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/russia-gift-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    },
+    {
+      "id": 22665,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/russia-commercial-1500x1000-1.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "pass": true
+    }
+  ],
+  "pass": true
+}
