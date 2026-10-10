@@ -1,0 +1,8 @@
+{
+  "scope": "isolated synthetic model",
+  "checks": 84,
+  "passed": true,
+  "google_requests": 0,
+  "real_orders": 0,
+  "production_installed": false
+}
