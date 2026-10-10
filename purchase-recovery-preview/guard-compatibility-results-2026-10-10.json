@@ -1,0 +1,217 @@
+{
+  "utc": "2026-10-10T12:27:36+00:00",
+  "checks_passed": 92,
+  "assertion_failures": 0,
+  "actual_orders_saved": 0,
+  "real_ga4_requests": 0,
+  "cases": [
+    {
+      "name": "pending",
+      "first_inline": [],
+      "second_inline": [],
+      "marker_after_first": "",
+      "memory_save_calls": 0
+    },
+    {
+      "name": "failed",
+      "first_inline": [],
+      "second_inline": [],
+      "marker_after_first": "",
+      "memory_save_calls": 0
+    },
+    {
+      "name": "cancelled",
+      "first_inline": [],
+      "second_inline": [],
+      "marker_after_first": "",
+      "memory_save_calls": 0
+    },
+    {
+      "name": "on-hold",
+      "first_inline": [],
+      "second_inline": [],
+      "marker_after_first": "",
+      "memory_save_calls": 0
+    },
+    {
+      "name": "refunded",
+      "first_inline": [],
+      "second_inline": [],
+      "marker_after_first": "",
+      "memory_save_calls": 0
+    },
+    {
+      "name": "completed-no-date",
+      "first_inline": [],
+      "second_inline": [],
+      "marker_after_first": "",
+      "memory_save_calls": 0
+    },
+    {
+      "name": "processing-no-date",
+      "first_inline": [],
+      "second_inline": [],
+      "marker_after_first": "",
+      "memory_save_calls": 0
+    },
+    {
+      "name": "completed",
+      "first_inline": [
+        "window._googlesitekit.wcdata = window._googlesitekit.wcdata || {};\nwindow._googlesitekit.wcdata.purchase = {\"id\":9000000001,\"affiliation\":\"3D Models and 3D Maps\",\"totals\":{\"currency_code\":\"USD\",\"tax_total\":0,\"shipping_total\":0,\"total_price\":1500},\"items\":[{\"id\":0,\"name\":\"Synthetic lab item\",\"categories\":[],\"price\":1500,\"quantity\":1,\"price_after_coupon_discount\":1500}]};"
+      ],
+      "second_inline": [],
+      "marker_after_first": "1",
+      "memory_save_calls": 1
+    },
+    {
+      "name": "processing",
+      "first_inline": [
+        "window._googlesitekit.wcdata = window._googlesitekit.wcdata || {};\nwindow._googlesitekit.wcdata.purchase = {\"id\":9000000001,\"affiliation\":\"3D Models and 3D Maps\",\"totals\":{\"currency_code\":\"USD\",\"tax_total\":0,\"shipping_total\":0,\"total_price\":1500},\"items\":[{\"id\":0,\"name\":\"Synthetic lab item\",\"categories\":[],\"price\":1500,\"quantity\":1,\"price_after_coupon_discount\":1500}]};"
+      ],
+      "second_inline": [],
+      "marker_after_first": "1",
+      "memory_save_calls": 1
+    },
+    {
+      "name": "free-paid",
+      "first_inline": [
+        "window._googlesitekit.wcdata = window._googlesitekit.wcdata || {};\nwindow._googlesitekit.wcdata.purchase = {\"id\":9000000001,\"affiliation\":\"3D Models and 3D Maps\",\"totals\":{\"currency_code\":\"USD\",\"tax_total\":0,\"shipping_total\":0,\"total_price\":0},\"items\":[{\"id\":0,\"name\":\"Synthetic lab item\",\"categories\":[],\"price\":1500,\"quantity\":1,\"price_after_coupon_discount\":1500}]};"
+      ],
+      "second_inline": [],
+      "marker_after_first": "1",
+      "memory_save_calls": 1
+    },
+    {
+      "name": "invalid-key",
+      "first_inline": [],
+      "second_inline": [],
+      "marker_after_first": "",
+      "memory_save_calls": 0
+    },
+    {
+      "name": "already-marked",
+      "first_inline": [],
+      "second_inline": [],
+      "marker_after_first": "1",
+      "memory_save_calls": 0
+    },
+    {
+      "name": "wgai-owned",
+      "first_inline": [],
+      "second_inline": [],
+      "marker_after_first": "",
+      "memory_save_calls": 0
+    },
+    {
+      "name": "late-payment",
+      "first_inline": [],
+      "second_inline": [
+        "window._googlesitekit.wcdata = window._googlesitekit.wcdata || {};\nwindow._googlesitekit.wcdata.purchase = {\"id\":9000000001,\"affiliation\":\"3D Models and 3D Maps\",\"totals\":{\"currency_code\":\"USD\",\"tax_total\":0,\"shipping_total\":0,\"total_price\":1500},\"items\":[{\"id\":0,\"name\":\"Synthetic lab item\",\"categories\":[],\"price\":1500,\"quantity\":1,\"price_after_coupon_discount\":1500}]};"
+      ],
+      "marker_after_first": "",
+      "memory_save_calls": 1
+    }
+  ],
+  "provider_js": "((t,o)=>{if(!t)return;const i=(null===(o=globalThis._googlesitekit)||void 0===o?void 0:o.wcdata)||{},e=i.currency,l=i.products,n=i.purchase,a=i.add_to_cart,c=i.eventsToTrack,r=null==c?void 0:c.includes(\"add_to_cart\"),d=null==c?void 0:c.includes(\"purchase\");if(a&&r){var s,u;const t=h(a.price,e,a);null===(s=globalThis._googlesitekit)||void 0===s||null===(u=s.gtagEvent)||void 0===u||u.call(s,\"add_to_cart\",t)}if(n&&d){var g,_,p;const t=n.id,o=n.totals,i=n.items,e=n.user_data,l=h(o.total_price,o.currency_code,i,t,o.shipping_total,o.tax_total);null!==(g=globalThis._googlesitekit)&&void 0!==g&&g.gtagUserData&&e&&(l.user_data=e),null===(_=globalThis._googlesitekit)||void 0===_||null===(p=_.gtagEvent)||void 0===p||p.call(_,\"purchase\",l)}const v=t(\"body\");function h(t,o,i){let e=arguments.length>3&&void 0!==arguments[3]?arguments[3]:null,l=arguments.length>4&&void 0!==arguments[4]?arguments[4]:null,n=arguments.length>5&&void 0!==arguments[5]?arguments[5]:null;const a={value:m(t),currency:o,items:[],googlesitekit_event_provider:\"woocommerce\"};if(e&&(a.transaction_id=e),\"number\"==typeof l&&(a.shipping=l),\"number\"==typeof n&&(a.tax=n),i&&i.length)for(const t of i)a.items.push(f(t));else i&&i.id&&(a.items=[f(i)]);return a}function f(t){const o=t.id,i=t.name,e=t.price,l=t.variation,n=t.quantity,a=t.categories,c={item_id:o,item_name:i,price:m(e)};if(n&&(c.quantity=n),l&&(c.item_variant=l),a&&null!=a&&a.length){let t=1;for(const o of a)c[t>1?\"item_category\".concat(t):\"item_category\"]=o.name,t++}return c}function m(t){let o=arguments.length>1&&void 0!==arguments[1]?arguments[1]:2;return parseInt(t,10)/10**o}r&&(v.on(\"added_to_cart\",(t,o,i,n)=>{var a,c;if(null==n||!n.jquery)return;const r=parseInt(n.data(\"product_id\"),10);if(!r)return;const d=(null==l?void 0:l.find(t=>(null==t?void 0:t.id)===r))||{},s=h(d.price,e,d);null===(a=globalThis._googlesitekit)||void 0===a||null===(c=a.gtagEvent)||void 0===c||c.call(a,\"add_to_cart\",s)}),t(\".products-block-post-template .product, .wc-block-product-template .product\").each(function(){const o=t(this),i=parseInt(o.find(\"[data-product_id]\").attr(\"data-product_id\"),10);i&&o.on(\"click\",o=>{var n,a;const c=t(o.target).closest(\".wc-block-components-product-button [data-product_id]\");if(!c.length||!c.hasClass(\"add_to_cart_button\")||c.hasClass(\"product_type_variable\"))return;const r=(null==l?void 0:l.find(t=>(null==t?void 0:t.id)===i))||{},d=h(r.price,e,r);null===(n=globalThis._googlesitekit)||void 0===n||null===(a=n.gtagEvent)||void 0===a||a.call(n,\"add_to_cart\",d)})}))})(globalThis.jQuery);",
+  "gtag_wrapper_js": "\n\t\t\twindow._googlesitekit = window._googlesitekit || {};\n\t\t\twindow._googlesitekit.throttledEvents = [];\n\t\t\twindow._googlesitekit.gtagEvent = (name, data) => {\n\t\t\t\tvar key = JSON.stringify( { name, data } );\n\n\t\t\t\tif ( !! window._googlesitekit.throttledEvents[ key ] ) {\n\t\t\t\t\treturn;\n\t\t\t\t}\n\t\t\t\twindow._googlesitekit.throttledEvents[ key ] = true;\n\t\t\t\tsetTimeout( () => {\n\t\t\t\t\tdelete window._googlesitekit.throttledEvents[ key ];\n\t\t\t\t}, 5 );\n\n\t\t\t\tgtag( \"event\", name, { ...data, event_source: \"site-kit\" } );\n\t\t\t};\n\t\t",
+  "guard_sha256": "6a9cfc06e1a93060777df0f8baef7aa54c13908486695a4b6ed5cf8d817b978d",
+  "source_sha256": {
+    "provider_js": "c6614432d6ae233eef22697ef97975b43d21cccbdeb16431d50cb7f00b02afc6",
+    "provider_php": "82da28caecda75acca747963336c170ddf6399999a91f7ecb7588db0b6182c85",
+    "tracking_php": "fab1b842ea5a6dbe9fe5a6c1a278443bee2c977d2885f65fec65ffdfe1935db9"
+  },
+  "checks": [
+    "disabled by default",
+    "enabled guest classic supported receipt",
+    "does not apply away from receipt",
+    "pending: verified single callback wrapped",
+    "pending: hook slot/order retained",
+    "pending: first inline count",
+    "pending: later inline count",
+    "pending: unpaid does not acquire marker",
+    "pending: other callback still runs",
+    "failed: verified single callback wrapped",
+    "failed: hook slot/order retained",
+    "failed: first inline count",
+    "failed: later inline count",
+    "failed: unpaid does not acquire marker",
+    "failed: other callback still runs",
+    "cancelled: verified single callback wrapped",
+    "cancelled: hook slot/order retained",
+    "cancelled: first inline count",
+    "cancelled: later inline count",
+    "cancelled: unpaid does not acquire marker",
+    "cancelled: other callback still runs",
+    "on-hold: verified single callback wrapped",
+    "on-hold: hook slot/order retained",
+    "on-hold: first inline count",
+    "on-hold: later inline count",
+    "on-hold: unpaid does not acquire marker",
+    "on-hold: other callback still runs",
+    "refunded: verified single callback wrapped",
+    "refunded: hook slot/order retained",
+    "refunded: first inline count",
+    "refunded: later inline count",
+    "refunded: unpaid does not acquire marker",
+    "refunded: other callback still runs",
+    "completed-no-date: verified single callback wrapped",
+    "completed-no-date: hook slot/order retained",
+    "completed-no-date: first inline count",
+    "completed-no-date: later inline count",
+    "completed-no-date: unpaid does not acquire marker",
+    "completed-no-date: other callback still runs",
+    "processing-no-date: verified single callback wrapped",
+    "processing-no-date: hook slot/order retained",
+    "processing-no-date: first inline count",
+    "processing-no-date: later inline count",
+    "processing-no-date: unpaid does not acquire marker",
+    "processing-no-date: other callback still runs",
+    "completed: verified single callback wrapped",
+    "completed: hook slot/order retained",
+    "completed: first inline count",
+    "completed: later inline count",
+    "completed: unpaid does not acquire marker",
+    "completed: other callback still runs",
+    "processing: verified single callback wrapped",
+    "processing: hook slot/order retained",
+    "processing: first inline count",
+    "processing: later inline count",
+    "processing: unpaid does not acquire marker",
+    "processing: other callback still runs",
+    "free-paid: verified single callback wrapped",
+    "free-paid: hook slot/order retained",
+    "free-paid: first inline count",
+    "free-paid: later inline count",
+    "free-paid: unpaid does not acquire marker",
+    "free-paid: other callback still runs",
+    "invalid-key: verified single callback wrapped",
+    "invalid-key: hook slot/order retained",
+    "invalid-key: first inline count",
+    "invalid-key: later inline count",
+    "invalid-key: unpaid does not acquire marker",
+    "invalid-key: other callback still runs",
+    "already-marked: verified single callback wrapped",
+    "already-marked: hook slot/order retained",
+    "already-marked: first inline count",
+    "already-marked: later inline count",
+    "already-marked: unpaid does not acquire marker",
+    "already-marked: other callback still runs",
+    "wgai-owned: verified single callback wrapped",
+    "wgai-owned: hook slot/order retained",
+    "wgai-owned: first inline count",
+    "wgai-owned: later inline count",
+    "wgai-owned: unpaid does not acquire marker",
+    "wgai-owned: other callback still runs",
+    "late-payment: verified single callback wrapped",
+    "late-payment: hook slot/order retained",
+    "late-payment: first inline count",
+    "late-payment: later inline count",
+    "late-payment: unpaid does not acquire marker",
+    "late-payment: other callback still runs",
+    "missing provider unchanged",
+    "ambiguous provider refused",
+    "ambiguity causes no partial mutation",
+    "priority drift refused",
+    "drift causes no partial mutation"
+  ]
+}

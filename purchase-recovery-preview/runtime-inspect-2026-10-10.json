@@ -1,0 +1,12 @@
+{
+  "utc": "2026-10-10T12:24:39+00:00",
+  "sitekit": "1.184.0",
+  "woo": "11.2.1",
+  "provider_hash": "82da28caecda75acca747963336c170ddf6399999a91f7ecb7588db0b6182c85",
+  "guard_hash": "666940e505df36627c2c556f680f0a0e3e71a7515c68e994b3f8c6a460b2fbe6",
+  "guard_option": "1",
+  "installed_guard_woo_gate_satisfied": false,
+  "block_theme": false,
+  "cmp_plugin_matches": [],
+  "scope": "read-only installed version/hash inspection; not a live purchase test"
+}

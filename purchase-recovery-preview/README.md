@@ -1,6 +1,14 @@
 # Purchase recovery architecture preview
 
-Executable isolated model, not an installable plugin. Run `node purchase-recovery-preview/test.cjs`. No network, WordPress hooks, payment callbacks, real orders, credentials or browser tracking are present. It does not change the active paid guard.
+Executable isolated preview, not an installable plugin. Run `node purchase-recovery-preview/test.cjs` and `node purchase-recovery-preview/test-browser.cjs`. The PHP adapter registers no hooks or routes on load; its CLI tests use request-local WP_Hook objects and a connection-scoped temporary InnoDB table. No payment callbacks, real-order writes or Google requests are performed.
+
+## WordPress adapter added 2026-10-10
+
+`wp-adapter.php` implements authenticated guest receipt eligibility, authoritative Site Kit payload formatting through an injected formatter, SQL state transitions, expiration and a disabled single-owner hook replacement capability. Hook takeover requires verified context, provider source hash, exact versions and a verified consent bridge; it refuses an external WGAI purchase owner. No public endpoint, browser storage, cron schedule, activation option or automatic installation exists. `browser.cjs` rechecks injected consent after both asynchronous boundaries, with no built-in sender or CMP integration.
+
+Run `python purchase-recovery-preview/run-wp.py` through the existing WireGuard SSH channel. It uses the installed formatter with synthetic objects and actual SQL in a temporary table that disappears at disconnect. Claims are tested with sequential competing operations, not simultaneous multi-process browser requests. `run-guard-compatibility.py` checks the separate paid guard compatibility candidate in a renamed CLI namespace.
+
+Read-only inspection 2026-10-10 found WooCommerce11.2.1, while the installed paid guard requires11.1.2. Its option remains enabled and original hash remains unchanged, but the version gate prevents installation of its wrapper on supported guest receipt requests. `paid-guard-compatibility-preview.php` changes only the allowed Woo version and plugin patch version; its 92 checks passed. It has NOT replaced the installed guard. The candidate is a separate compatibility fix, not activation of recovery.
 
 ## Proposed ownership and boundaries
 
