@@ -1,0 +1,16 @@
+{
+  "applied": true,
+  "source_commit": "03fc6768795d33223fecd6f8c5361045143e80d5",
+  "after": {
+    "utc": "2026-10-10T12:36:54+00:00",
+    "home": "https://shustrik-maps.com",
+    "sitekit": "1.184.0",
+    "woo": "11.2.1",
+    "block_theme": false,
+    "option": "1",
+    "guard_hash": "6a9cfc06e1a93060777df0f8baef7aa54c13908486695a4b6ed5cf8d817b978d",
+    "provider_hash": "82da28caecda75acca747963336c170ddf6399999a91f7ecb7588db0b6182c85",
+    "guard_version_gate_satisfied": true
+  },
+  "backup": "/root/shustrik-paid-guard-compat-20261010-backup"
+}

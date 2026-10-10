@@ -1,0 +1,16 @@
+[
+  {
+    "name": "/shustrik-maps-wordpress-1",
+    "running": true,
+    "restart_count": 0,
+    "started_at": "2026-08-28T05:54:09.048858196Z",
+    "before_after_unchanged": true
+  },
+  {
+    "name": "/shustrik-maps-db-1",
+    "running": true,
+    "restart_count": 0,
+    "started_at": "2026-08-28T05:54:08.884034687Z",
+    "before_after_unchanged": true
+  }
+]

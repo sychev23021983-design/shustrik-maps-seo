@@ -1,0 +1,37 @@
+{
+  "utc": "2026-10-10T12:41:00.611262+00:00",
+  "rows": [
+    {
+      "path": "/",
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/?shustrik_guard_qa=20261010",
+      "cache": "BYPASS",
+      "php_fatal_visible": false,
+      "html_present": true,
+      "cart_empty_text": false,
+      "scope": "anonymous page render without adding items or creating orders"
+    },
+    {
+      "path": "/cart/",
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/?shustrik_guard_qa=20261010",
+      "cache": "BYPASS",
+      "php_fatal_visible": false,
+      "html_present": true,
+      "cart_empty_text": true,
+      "scope": "anonymous page render without adding items or creating orders"
+    },
+    {
+      "path": "/checkout/",
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/",
+      "cache": "BYPASS",
+      "php_fatal_visible": false,
+      "html_present": true,
+      "cart_empty_text": true,
+      "scope": "anonymous page render without adding items or creating orders"
+    }
+  ],
+  "payment_flow_tested": false,
+  "order_or_payment_created": false
+}
