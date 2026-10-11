@@ -30,7 +30,7 @@ else:
  assert mode=='verify';baseline=json.loads((ROOT/'public-baseline.json').read_text());checks={}
  for field in ['title','description','canonical','robots','cards','schema_types']:checks[field+'_preserved']=state[field]==baseline[field]
  checks['h1']=state['h1']==['Country Terrain STL Models for 3D Printing & CNC'];block=first(tree.xpath('//*['+has_class('shustrik-countries-category')+']'));checks['block_exists']=block is not None
- checks['old_copy_removed']=b'Manufacturing-ready geometry with closed meshes' not in response['body']
+ checks['old_copy_removed']='Key Features of Our Country STL Models' not in text(tree)
  checks['pagination']=bool(tree.xpath('//*['+has_class('woocommerce-pagination')+' or '+has_class('wd-pagination')+']'))
  checks['images']=block is not None and len(block.xpath('.//img'))==4
  checks['product_examples']=block is not None and len(block.xpath('.//article//a'))==8

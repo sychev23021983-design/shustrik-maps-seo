@@ -1,0 +1,10 @@
+{
+  "commit": "73a81bfa9b4f4bc385951f6e8c980d0b91a89c42",
+  "archive_sha256": "31998251fffb9c6e6286f1c9bfdb06982c506159769790657f7e7dc3cd71f16b",
+  "remote_archive_sha256": "31998251fffb9c6e6286f1c9bfdb06982c506159769790657f7e7dc3cd71f16b",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/countries-category-73a81bfa9b4f",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

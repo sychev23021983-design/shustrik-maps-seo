@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "mode": "--preview",
+  "utc": "2026-10-11T13:27:27+00:00",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/countries-3d-print-cnc-models/",
+  "block_id": 21176,
+  "protected_preserved": true,
+  "reuse": {
+    "china": 22129,
+    "italy": 22094,
+    "spain": 22099
+  },
+  "media": [],
+  "content_sha256": "bbc1444600e95a349a704804dc71e4f37cf2a2e2eca4020aa7473c5c2cc8e2f8",
+  "rollback_backup": "_shustrik_countries_category_backup_20261011"
+}

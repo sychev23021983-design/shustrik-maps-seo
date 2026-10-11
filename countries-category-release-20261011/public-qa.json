@@ -1,0 +1,227 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "old_copy_removed": true,
+    "pagination": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "page2_http": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/cnc-models/countries-3d-print-cnc-models/",
+    "title": "Countries 3D STL Models for 3D Printing & CNC | Topographic Maps",
+    "description": "Download high-resolution countries 3D STL models for 3D printing and CNC. Accurate topographic maps of countries worldwide. Instant digital download.",
+    "canonical": "https://shustrik-maps.com/product-category/cnc-models/countries-3d-print-cnc-models/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "Country Terrain STL Models for 3D Printing & CNC"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/afghanistan-stl-model/",
+        "title": "Afghanistan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/albania-stl-model/",
+        "title": "Albania Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/algeria-stl-model/",
+        "title": "Algeria Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/andorra-stl-model/",
+        "title": "Andorra Topographic Map STL – 3D Terrain Model for 3D Printing & CNC Milling",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/angola-stl-model/",
+        "title": "Angola Topographic Map – 3D Terrain Model for Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/argentina-stl-model/",
+        "title": "Argentina Topographic Map – 3D Terrain Model for Printing & CNC",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/armenia-stl-model/",
+        "title": "Armenia Topographic Map – 3D Terrain Model for Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/ausrtia-stl-model/",
+        "title": "Austria Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/azerbaijan-stl-model/",
+        "title": "Azerbaijan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/bangladesh-stl-model/",
+        "title": "Bangladesh Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/belarus-stl-model/",
+        "title": "Belarus Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/belgium-stl-model/",
+        "title": "Belgium Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/belize-stl-model/",
+        "title": "Belize Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/bermuda-stl-model/",
+        "title": "Bermuda Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/bhutan-stl-model/",
+        "title": "Bhutan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/bolivia-stl-model/",
+        "title": "Bolivia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/bosnia-and-herzegovina-stl-model/",
+        "title": "Bosnia & Herzegovina Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/brazil-stl-model/",
+        "title": "Brazil Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/bulgaria-stl-model/",
+        "title": "Bulgaria Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/cambodia-stl-model/",
+        "title": "Cambodia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/china-stl-model/",
+        "title": "China Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/colombia-stl-model/",
+        "title": "Colombia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/complete-usa-50-states-topographic-map-3d-model-for-3d-printing-cnc-carving/",
+        "title": "Complete USA Topographic Map STL – 50 States 3D Terrain Model for 3D Printing & CNC",
+        "price": "$50.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/costa-rica-stl-model/",
+        "title": "Costa Rica Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/croatia-stl-model/",
+        "title": "Croatia Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ]
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/cnc-models/": 200,
+    "https://shustrik-maps.com/product-category/cnc-models/continents-3d-print-cnc-models/": 200,
+    "https://shustrik-maps.com/product/china-stl-model/": 200,
+    "https://shustrik-maps.com/product/italy-stl-model/": 200,
+    "https://shustrik-maps.com/product/spain-stl-model/": 200,
+    "https://shustrik-maps.com/product/switzerland-stl-model/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2022/06/china-desk-1500x1000-1.jpg": {
+      "http": 200,
+      "bytes": 624476,
+      "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic China terrain relief on a separate walnut desktop stand.",
+      "width": "1500",
+      "height": "1000"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/01/countries-category-switzerland-walnut-20261011.webp": {
+      "http": 200,
+      "bytes": 338388,
+      "alt": "AI-generated concept of Switzerland terrain CNC-carved in walnut on a separate solid wooden wall backing.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2022/06/italy-wall-1500x1000-1.jpg": {
+      "http": 200,
+      "bytes": 546655,
+      "alt": "AI-generated concept of an ivory Italy terrain relief in an oak frame with sage-green backing above a home console.",
+      "width": "1500",
+      "height": "1000"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2022/06/spain-gift-1500x1000-1.jpg": {
+      "http": 200,
+      "bytes": 693865,
+      "alt": "AI-generated concept of an ivory Spain terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "width": "1500",
+      "height": "1000"
+    }
+  },
+  "page2_cards": 25,
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}

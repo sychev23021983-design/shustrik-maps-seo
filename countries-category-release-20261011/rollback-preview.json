@@ -1,0 +1,49 @@
+{
+  "ok": true,
+  "mode": "--rollback-preview",
+  "utc": "2026-10-11T13:28:34+00:00",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/countries-3d-print-cnc-models/",
+  "block_id": 21176,
+  "protected_preserved": true,
+  "reuse": {
+    "china": 22129,
+    "italy": 22094,
+    "spain": 22099
+  },
+  "media": [
+    {
+      "key": "china",
+      "id": 22129,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/china-desk-1500x1000-1.jpg",
+      "mode": "reuse",
+      "width": 1500,
+      "height": 1000
+    },
+    {
+      "key": "switzerland",
+      "id": 22807,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/countries-category-switzerland-walnut-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "italy",
+      "id": 22094,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/italy-wall-1500x1000-1.jpg",
+      "mode": "reuse",
+      "width": 1500,
+      "height": 1000
+    },
+    {
+      "key": "spain",
+      "id": 22099,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/spain-gift-1500x1000-1.jpg",
+      "mode": "reuse",
+      "width": 1500,
+      "height": 1000
+    }
+  ],
+  "content_sha256": "f0d3b226a68c9423faa26d7b737c7d1b5a332214df675367625447f882df7e90",
+  "rollback_backup": "_shustrik_countries_category_backup_20261011"
+}
