@@ -6,3 +6,10 @@ cnc-category-release-20261011/*.php text eol=lf
 cnc-category-release-20261011/*.json text eol=lf
 cnc-category-release-20261011/*.py text eol=lf
 cnc-category-release-20261011/*.md text eol=lf
+
+# USA States category source and evidence
+usa-states-category-release-20261011/*.html text eol=lf
+usa-states-category-release-20261011/*.php text eol=lf
+usa-states-category-release-20261011/*.json text eol=lf
+usa-states-category-release-20261011/*.py text eol=lf
+usa-states-category-release-20261011/*.md text eol=lf

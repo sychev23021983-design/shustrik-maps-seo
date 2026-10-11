@@ -1,0 +1,5 @@
+# USA States category description and application examples
+
+Owner requested continuing the successful CNC category workflow to the next prepared category, USA States. Update only bottom HTML block21177 of term38. H1, three description paragraphs, six contextual links and four product-linked application examples; reuse all4 existing attachments without changing their metadata. Examples use California print22050, Arizona CNC wood22806, New Jersey print22270, New York State gift22059. AI-generated concepts disclosure retained.
+
+Protect category metadata, term/taxonomy/URL, products, commerce, prices, pagination and the newly published parent category block14417. snapshot.php captures shared usage and protected state; release.php validates baseline/template, stores the old block in `_shustrik_usa_category_backup_20261011`, applies with conditional SQL write, and supports verify and guarded rollback. No imported media, build or restart required. Deliver the exact pushed source archive to the existing external WordPress target. Public and browser QA before completion; report runtime facts and backup. Actual STL manufacturing accuracy and SEO uplift are not measured.

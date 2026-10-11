@@ -1,0 +1,55 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/states-of-america/",
+  "term_id": 38,
+  "block_id": 21177,
+  "before_sha256": "c3b6c2dc8ebfd4d423618400d8889e67da364f954d997e49c5e92ffb5190c783",
+  "template_sha256": "9a1b8d6f3b3cfe60075adc6ecf9e3c701ff8293d7d1407321d36f216bb06cb01",
+  "assets": [
+    {
+      "key": "california",
+      "id": 22050,
+      "product": "state-of-california-stl-model",
+      "title": "California — 3D-printed desktop map",
+      "mode": "reuse",
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/california-desk-1500x1000-1.jpg",
+      "alt": "AI-generated concept of an ivory California terrain relief on a walnut stand on a sunlit home desk.",
+      "source": "https://shustrik-maps.com/product/state-of-california-stl-model/",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "arizona",
+      "id": 22806,
+      "product": "state-of-arizona-stl-model",
+      "title": "Arizona — CNC-carved wooden relief",
+      "mode": "reuse",
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/08/cnc-category-arizona-walnut-20261011.webp",
+      "alt": "AI-generated concept of an Arizona terrain relief carved in walnut on a separate wooden wall backing.",
+      "source": "Owner-approved parent CNC category release 8e3945d, attachment22806",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "new_jersey",
+      "id": 22270,
+      "product": "state-of-new-jersey-stl-model",
+      "title": "New Jersey — 3D-printed geography display",
+      "mode": "reuse",
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/new-jersey-desk-1500x1000-1.jpg",
+      "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic New Jersey terrain relief fully supported on a solid walnut desktop backing panel.",
+      "source": "https://shustrik-maps.com/product/state-of-new-jersey-stl-model/",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "new_york",
+      "id": 22059,
+      "product": "state-of-new-york-stl-model",
+      "title": "New York State — printed relief gift",
+      "mode": "reuse",
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/new-york-gift-1500x1000-1.jpg",
+      "alt": "AI-generated concept of an ivory New York State terrain relief on a separate supporting base in a kraft gift box with forest-green tissue paper.",
+      "source": "https://shustrik-maps.com/product/state-of-new-york-stl-model/",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    }
+  ],
+  "authorization": "Owner approved and published the parent CNC category, then explicitly requested proceeding to the next category on 2026-10-11. USA States is the next prepared category. Same description and application-example workflow; metadata remains out of scope."
+}
