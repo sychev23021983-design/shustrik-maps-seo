@@ -11,9 +11,12 @@ if mode=='prepare':
  commit=run(['git','rev-parse','HEAD'],REPO).strip()
  assert run(['git','rev-list','--left-right','--count','HEAD...@{upstream}'],REPO).strip()=='0\t0'
  assert run(['git','ls-remote','origin','refs/heads/main'],REPO).split()[0]==commit
- assert not run(['git','status','--porcelain','--',FOLDER],REPO).strip(),'Release folder must match the committed source'
+ assert not run(['git','diff','HEAD','--',FOLDER],REPO).strip(),'Tracked release source must match the committed source'
+ allowed_evidence={'deployment.json','preview.json','apply.json','verify.json','rollback-preview.json','public-qa.json'}
+ untracked=run(['git','ls-files','--others','--exclude-standard','--',FOLDER],REPO).splitlines()
+ assert all(Path(path).name in allowed_evidence for path in untracked),'Unexpected untracked release source'
  archive=REPO/'.codex-work'/('cnc-category-'+commit[:12]+'.tar');archive.parent.mkdir(exist_ok=True)
- run(['git','archive','--format=tar','--output='+str(archive),commit+':'+FOLDER],REPO)
+ run(['git','-c','core.autocrlf=false','archive','--format=tar','--output='+str(archive),commit+':'+FOLDER],REPO)
  digest=hashlib.sha256(archive.read_bytes()).hexdigest();target='/tmp/cnc-category-'+commit[:12];remote_archive=target+'.tar'
  run(['scp',str(archive),HOST+':'+remote_archive]);actual=remote('sha256sum '+remote_archive).split()[0];assert actual==digest
  remote('test ! -e '+target+' && mkdir '+target+' && tar -xf '+remote_archive+' -C '+target)
