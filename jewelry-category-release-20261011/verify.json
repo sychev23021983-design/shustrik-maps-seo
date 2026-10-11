@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "mode": "--verify",
+  "utc": "2026-10-11T15:46:23+00:00",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/other-cnc-models/jewelry-pendant/",
+  "term_id": 246,
+  "block_id": 22827,
+  "protected_preserved": true,
+  "media": [
+    {
+      "key": "nautilus-print",
+      "id": 22828,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/jewelry-category-nautilus-print-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "nautilus-cnc",
+      "id": 22829,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/jewelry-category-nautilus-cnc-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "kiwi-print",
+      "id": 22830,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/jewelry-category-kiwi-print-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "kiwi-cnc",
+      "id": 22831,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/jewelry-category-kiwi-cnc-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": "4df2d69c0825dca95e7ca1d80eb1d3afb913937df72877b5894ff92a763f495b",
+  "rollback_backup": "_shustrik_jewelry_category_backup_20261011"
+}

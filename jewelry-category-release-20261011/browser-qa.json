@@ -1,0 +1,73 @@
+{
+  "desktop": {
+    "blockHeight": 1495.0125732421875,
+    "blockTop": 612.3499755859375,
+    "columns": "605.4px 605.4px",
+    "h1": [
+      "Jewelry & Pendant STL Models for 3D Printing & CNC"
+    ],
+    "images": [
+      {
+        "alt": "AI-generated concept of an ivory-accented resin-printed Nautilus spiral pendant on a stone bust against navy velvet.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/jewelry-category-nautilus-print-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a walnut CNC-carved Nautilus spiral pendant on a black jewellery stand in a burgundy boutique.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/jewelry-category-nautilus-cnc-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a bronze-finished resin-print New Zealand Kiwi medallion in a burgundy suede tray.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/jewelry-category-kiwi-print-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a cherry-wood CNC New Zealand Kiwi medallion on a wooden support in a bright workshop.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/jewelry-category-kiwi-cnc-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 1280
+  },
+  "mobile": {
+    "columns": "345.2px",
+    "h1": [
+      "Jewelry & Pendant STL Models for 3D Printing & CNC"
+    ],
+    "images": [
+      {
+        "alt": "AI-generated concept of an ivory-accented resin-printed Nautilus spiral pendant on a stone bust against navy velvet.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/jewelry-category-nautilus-print-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a walnut CNC-carved Nautilus spiral pendant on a black jewellery stand in a burgundy boutique.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/jewelry-category-nautilus-cnc-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a bronze-finished resin-print New Zealand Kiwi medallion in a burgundy suede tray.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/jewelry-category-kiwi-print-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a cherry-wood CNC New Zealand Kiwi medallion on a wooden support in a bright workshop.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/jewelry-category-kiwi-cnc-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  },
+  "mobile_screenshot_mode": "native viewport sequence"
+}

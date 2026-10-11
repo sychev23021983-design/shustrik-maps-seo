@@ -1,0 +1,10 @@
+{
+  "commit": "70e1d62ee3594aef1723571446feb2859303dace",
+  "archive_sha256": "aed1fd4cdad3aa0b4da18859d38c17f2a753f7eb39f86371061c12971f03990c",
+  "remote_archive_sha256": "aed1fd4cdad3aa0b4da18859d38c17f2a753f7eb39f86371061c12971f03990c",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/jewelry-category-70e1d62ee359",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

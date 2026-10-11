@@ -2,9 +2,9 @@
 type: seo-page-brief
 site_profile: shustrik-maps
 url: https://shustrik-maps.com/product-category/cnc-models/other-cnc-models/jewelry-pendant/
-status: approved
+status: published-check-passed
 created_at: 2026-10-11
-next_action: "Publish bottom block and complete public/browser/runtime QA"
+next_action: "Publication and live QA complete"
 ---
 
 # Page Brief — Jewelry & Pendant
@@ -17,6 +17,9 @@ New dedicated CMS block and two previously absent placement metadata fields. Pro
 
 - [x] Owner continuation authorizes publication and varied examples.
 - [x] Two products and original references inspected; four assets and copy prepared.
-- [ ] Exact pushed source/preview/backup/transaction/media checks passed.
-- [ ] Public cards/metadata/H1/four destinations/four images passed.
-- [ ] Desktop/mobile/runtime/rollback-preview passed.
+- [x] Exact pushed source/preview/backup/transaction/media checks passed.
+- [x] Public cards/metadata/H1/four destinations/four images passed.
+- [x] Desktop/mobile/runtime/rollback-preview passed.
+
+
+Final evidence: release-report.md.

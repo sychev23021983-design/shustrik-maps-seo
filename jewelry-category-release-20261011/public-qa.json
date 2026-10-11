@@ -1,0 +1,110 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "old_copy_removed": true,
+    "pagination_absent": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/cnc-models/other-cnc-models/jewelry-pendant/",
+    "title": "Jewelry & Pendant Archives | 3D Models and 3D Maps",
+    "description": null,
+    "canonical": "https://shustrik-maps.com/product-category/cnc-models/other-cnc-models/jewelry-pendant/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "Jewelry & Pendant STL Models for 3D Printing & CNC"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/new-zealand-medallion-kiwi-stl/",
+        "title": "New Zealand Flag 3D Medallion STL – Kiwi Bird Relief Model for 3D Printing & CNC",
+        "price": "$10.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/pendant-nautilus-in-maori-style/",
+        "title": "Pendant “Nautilus” in Maori Style",
+        "price": "$15.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/cnc-models/": 200,
+    "https://shustrik-maps.com/product-category/cnc-models/other-cnc-models/": 200,
+    "https://shustrik-maps.com/product/new-zealand-medallion-kiwi-stl/": 200,
+    "https://shustrik-maps.com/product/pendant-nautilus-in-maori-style/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/jewelry-category-nautilus-print-20261011.webp": {
+      "http": 200,
+      "bytes": 259472,
+      "alt": "AI-generated concept of an ivory-accented resin-printed Nautilus spiral pendant on a stone bust against navy velvet.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/jewelry-category-nautilus-cnc-20261011.webp": {
+      "http": 200,
+      "bytes": 228854,
+      "alt": "AI-generated concept of a walnut CNC-carved Nautilus spiral pendant on a black jewellery stand in a burgundy boutique.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/jewelry-category-kiwi-print-20261011.webp": {
+      "http": 200,
+      "bytes": 299586,
+      "alt": "AI-generated concept of a bronze-finished resin-print New Zealand Kiwi medallion in a burgundy suede tray.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/jewelry-category-kiwi-cnc-20261011.webp": {
+      "http": 200,
+      "bytes": 241106,
+      "alt": "AI-generated concept of a cherry-wood CNC New Zealand Kiwi medallion on a wooden support in a bright workshop.",
+      "width": "1536",
+      "height": "1024"
+    }
+  },
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}
