@@ -1,0 +1,76 @@
+{
+  "desktop": {
+    "grid": "605.4px 605.4px",
+    "height": 1525.5875244140625,
+    "images": [
+      {
+        "alt": "AI-generated concept of a cherry-wood Earth globe with exaggerated terrain relief in a bronze cradle on a dark living-room console.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/planets-category-earth-relief-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a pale aqua 3D-printed Earth globe with terrain and river detail on a low cream stand in a bright science classroom.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/planets-category-earth-rivers-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of an assembled rounded Earth globe with coloured curved pentagonal printed sections on a ring stand in a pastel creative workshop.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/planets-category-modular-earth-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a bronze-finished 3D-printed artistic Earth geoid sculpture with an uneven form on a green marble gallery pedestal.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/planets-category-geoid-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "top": 612.3624877929688,
+    "viewport": {
+      "height": 900,
+      "width": 1280
+    },
+    "width": 1234.800048828125
+  },
+  "mobile": {
+    "grid": "345.2px",
+    "height": 2451.900146484375,
+    "images": [
+      {
+        "alt": "AI-generated concept of a cherry-wood Earth globe with exaggerated terrain relief in a bronze cradle on a dark living-room console.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/planets-category-earth-relief-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a pale aqua 3D-printed Earth globe with terrain and river detail on a low cream stand in a bright science classroom.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/planets-category-earth-rivers-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of an assembled rounded Earth globe with coloured curved pentagonal printed sections on a ring stand in a pastel creative workshop.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/planets-category-modular-earth-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a bronze-finished 3D-printed artistic Earth geoid sculpture with an uneven form on a green marble gallery pedestal.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/planets-category-geoid-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "top": 854.2999877929688,
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "width": 345.20001220703125
+  }
+}

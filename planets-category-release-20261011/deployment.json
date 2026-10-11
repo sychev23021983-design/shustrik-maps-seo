@@ -1,0 +1,10 @@
+{
+  "commit": "08e139730d423e6b9705528596a8d831e9f9bb4f",
+  "archive_sha256": "11f1dfa703703a5f999e037542878dc673f5b076b4df8b260bc43db2addf9c85",
+  "remote_archive_sha256": "11f1dfa703703a5f999e037542878dc673f5b076b4df8b260bc43db2addf9c85",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/planets-category-08e139730d42",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

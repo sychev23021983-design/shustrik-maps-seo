@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "mode": "--rollback-preview",
+  "utc": "2026-10-11T14:24:34+00:00",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/planets/",
+  "block_id": 21162,
+  "protected_preserved": true,
+  "reuse": [],
+  "media": [
+    {
+      "key": "earth-relief",
+      "id": 22813,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/planets-category-earth-relief-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "earth-rivers",
+      "id": 22814,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/planets-category-earth-rivers-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "modular-earth",
+      "id": 22815,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/planets-category-modular-earth-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "geoid",
+      "id": 22816,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/planets-category-geoid-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": "1ab40cfb1ca395d216d5e2d51e7a547db8dbec5ba42b6d24645d7a2da47a8b48",
+  "rollback_backup": "_shustrik_planets_category_backup_20261011"
+}
