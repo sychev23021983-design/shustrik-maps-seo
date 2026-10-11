@@ -55,3 +55,10 @@ art-category-release-20261011/*.php text eol=lf
 art-category-release-20261011/*.json text eol=lf
 art-category-release-20261011/*.py text eol=lf
 art-category-release-20261011/*.md text eol=lf
+
+# Jewelry category source and evidence
+jewelry-category-release-20261011/*.html text eol=lf
+jewelry-category-release-20261011/*.php text eol=lf
+jewelry-category-release-20261011/*.json text eol=lf
+jewelry-category-release-20261011/*.py text eol=lf
+jewelry-category-release-20261011/*.md text eol=lf

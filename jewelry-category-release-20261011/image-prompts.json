@@ -1,0 +1,58 @@
+[
+  {
+    "key": "nautilus-print",
+    "slug": "pendant-nautilus-in-maori-style",
+    "ref": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Kiwi Nautilus Use Cases Revision 2026-10-08/nautilus-source-1.jpg",
+    "prompt": "Create a photorealistic editorial product photograph, horizontal 3:2, no text, watermark, people or hands. Use the attached product render as the strict geometry reference, not merely inspiration. Preserve silhouette, openings and relief design accurately. Show the whole finished object large and sharp, plausible small physical scale, beautiful natural lighting. This is a physical application concept. Show this precise asymmetric Maori-style open spiral pendant as an ivory resin 3D print, subtly visible printed material, suspended on a thin black cord on a simple pale stone necklace bust. Background deep navy velvet in a small jewellery boutique, warm side lighting. Pendant must keep the single circular cord hole at its top, distinctive inward open spiral and original curved edge notches; no regular seashell or symmetric spiral, no invented extra holes. Cord passes through original top hole. Close jewellery photograph.",
+    "tool": "image_gen.imagegen",
+    "mode": "reference-guided generation",
+    "references": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Kiwi Nautilus Use Cases Revision 2026-10-08/nautilus-source-1.jpg"
+    ],
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-be0dbc3b-eab6-45dc-adff-c9672eafb988.png",
+    "original_file": "assets/nautilus-print-original.png",
+    "web_file": "jewelry-category-nautilus-print-20261011.webp"
+  },
+  {
+    "key": "nautilus-cnc",
+    "slug": "pendant-nautilus-in-maori-style",
+    "ref": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Kiwi Nautilus Use Cases Revision 2026-10-08/nautilus-source-1.jpg",
+    "prompt": "Create a photorealistic editorial product photograph, horizontal 3:2, no text, watermark, people or hands. Use the attached product render as the strict geometry reference, not merely inspiration. Preserve silhouette, openings and relief design accurately. Show the whole finished object large and sharp, plausible small physical scale, beautiful natural lighting. This is a physical application concept. Show this exact open spiral pendant CNC-carved from dark walnut wood, rich fine grain and smooth carved relief, on a slim brown cord hanging over a matte black necklace display stand. Burgundy boutique wall and blurred brass shelving behind. Preserve asymmetric teardrop outline, the original single round top cord hole, inward open spiral and distinctive curved notches around outer edge, not a generic shell. Cord uses existing top hole. Frontal close-up of whole pendant with grain and carved depth clearly visible.",
+    "tool": "image_gen.imagegen",
+    "mode": "reference-guided generation",
+    "references": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Kiwi Nautilus Use Cases Revision 2026-10-08/nautilus-source-1.jpg"
+    ],
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-5538fb9f-a3c8-410a-910d-73f07d5336ff.png",
+    "original_file": "assets/nautilus-cnc-original.png",
+    "web_file": "jewelry-category-nautilus-cnc-20261011.webp"
+  },
+  {
+    "key": "kiwi-print",
+    "slug": "new-zealand-medallion-kiwi-stl",
+    "ref": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Kiwi Nautilus Use Cases Revision 2026-10-08/kiwi-medallion-source-1.jpg",
+    "prompt": "Create a photorealistic editorial product photograph, horizontal 3:2, no text, watermark, people or hands. Use the attached product render as the strict geometry reference, not merely inspiration. Preserve silhouette, openings and relief design accurately. Show the whole finished object large and sharp, plausible small physical scale, beautiful natural lighting. This is a physical application concept. Show the exact circular medallion as a bronze-finished resin 3D print lying in a shallow burgundy suede jewellery tray, oblique close-up under soft window light. Not cast metal. Preserve circular thin rim, geometric Union Jack flag motif upper left, EXACTLY FOUR five-point recessed stars placed as in reference on right/centre, finely textured kiwi BIRD HEAD at bottom and extremely long slender beak pointing left across disk. No full bird body, no additional symbols, no letters. No hole, loop, cord or chain: this is a medallion display object. Keep all relief features clear and the disk round despite mild perspective.",
+    "tool": "image_gen.imagegen",
+    "mode": "reference-guided generation",
+    "references": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Kiwi Nautilus Use Cases Revision 2026-10-08/kiwi-medallion-source-1.jpg"
+    ],
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-8506f4e7-9260-4195-b3f9-f475020484b2.png",
+    "original_file": "assets/kiwi-print-original.png",
+    "web_file": "jewelry-category-kiwi-print-20261011.webp"
+  },
+  {
+    "key": "kiwi-cnc",
+    "slug": "new-zealand-medallion-kiwi-stl",
+    "ref": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Kiwi Nautilus Use Cases Revision 2026-10-08/kiwi-medallion-source-1.jpg",
+    "prompt": "Create a photorealistic editorial product photograph, horizontal 3:2, no text, watermark, people or hands. Use the attached product render as the strict geometry reference, not merely inspiration. Preserve silhouette, openings and relief design accurately. Show the whole finished object large and sharp, plausible small physical scale, beautiful natural lighting. This is a physical application concept. Show this exact circular medallion CNC-carved from warm cherry wood, visible fine grain, set upright in a discreet slotted wooden support on a concrete plinth in a bright modern craft workshop. Pale sage walls, blurred tools far behind, diffused daylight. Preserve thin circular rim, recessed geometric Union Jack upper left, EXACTLY FOUR recessed five-point stars in same arrangement on right/centre, fine textured kiwi BIRD HEAD at bottom and extremely long slender beak pointing left across circle. Do not show full bird body. No holes, hanging loop, cord, chain, inscriptions or new motifs. Frontal photograph, all original relief elements legible.",
+    "tool": "image_gen.imagegen",
+    "mode": "reference-guided generation",
+    "references": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Kiwi Nautilus Use Cases Revision 2026-10-08/kiwi-medallion-source-1.jpg"
+    ],
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-dc0f5273-5397-4b4d-9331-b50641a61a89.png",
+    "original_file": "assets/kiwi-cnc-original.png",
+    "web_file": "jewelry-category-kiwi-cnc-20261011.webp"
+  }
+]

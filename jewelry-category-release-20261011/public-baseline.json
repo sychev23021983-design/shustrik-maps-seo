@@ -1,0 +1,36 @@
+{
+  "http": 200,
+  "url": "https://shustrik-maps.com/product-category/cnc-models/other-cnc-models/jewelry-pendant/",
+  "title": "Jewelry & Pendant Archives | 3D Models and 3D Maps",
+  "description": null,
+  "canonical": "https://shustrik-maps.com/product-category/cnc-models/other-cnc-models/jewelry-pendant/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "h1": [],
+  "cards": [
+    {
+      "url": "https://shustrik-maps.com/product/new-zealand-medallion-kiwi-stl/",
+      "title": "New Zealand Flag 3D Medallion STL \u2013 Kiwi Bird Relief Model for 3D Printing & CNC",
+      "price": "$10.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/pendant-nautilus-in-maori-style/",
+      "title": "Pendant \u201cNautilus\u201d in Maori Style",
+      "price": "$15.00"
+    }
+  ],
+  "schema_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    [
+      "Organization",
+      "Place",
+      "Store"
+    ],
+    "PostalAddress",
+    "ImageObject",
+    "BreadcrumbList"
+  ],
+  "pagination_present": false
+}

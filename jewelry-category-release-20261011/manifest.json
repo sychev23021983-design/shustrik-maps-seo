@@ -1,0 +1,63 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/other-cnc-models/jewelry-pendant/",
+  "term_id": 246,
+  "block_id": null,
+  "operation": "create dedicated bottom CMS block and two placement metadata fields",
+  "template_sha256": "a06ed1f415fc897bcfd15d6514413e71bc45b6ed1fb1f5d74ab0ffe0192af4ce",
+  "assets": [
+    {
+      "key": "nautilus-print",
+      "mode": "new",
+      "file": "jewelry-category-nautilus-print-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "4d91a969f742ad8bb1245c8ff390e3c5213ef2a033a3c0b3040b8a653d248f10",
+      "alt": "AI-generated concept of an ivory-accented resin-printed Nautilus spiral pendant on a stone bust against navy velvet.",
+      "source": "https://shustrik-maps.com/product/pendant-nautilus-in-maori-style/",
+      "prompt": "image-prompts.json",
+      "title": "Nautilus Print — jewelry application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "nautilus-cnc",
+      "mode": "new",
+      "file": "jewelry-category-nautilus-cnc-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "41a1926584a1b439d5715cfabc07e518c948976dc4b38ee36e1fb5d057c28cf7",
+      "alt": "AI-generated concept of a walnut CNC-carved Nautilus spiral pendant on a black jewellery stand in a burgundy boutique.",
+      "source": "https://shustrik-maps.com/product/pendant-nautilus-in-maori-style/",
+      "prompt": "image-prompts.json",
+      "title": "Nautilus Cnc — jewelry application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "kiwi-print",
+      "mode": "new",
+      "file": "jewelry-category-kiwi-print-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3911b75abb07f6f570d1a32a91429468ab2339c2719b4722cc1a0951b8f3230b",
+      "alt": "AI-generated concept of a bronze-finished resin-print New Zealand Kiwi medallion in a burgundy suede tray.",
+      "source": "https://shustrik-maps.com/product/new-zealand-medallion-kiwi-stl/",
+      "prompt": "image-prompts.json",
+      "title": "Kiwi Print — jewelry application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "kiwi-cnc",
+      "mode": "new",
+      "file": "jewelry-category-kiwi-cnc-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "8f763de514cf1137287e8d87c70298b07375864c67729563055576eee931b000",
+      "alt": "AI-generated concept of a cherry-wood CNC New Zealand Kiwi medallion on a wooden support in a bright workshop.",
+      "source": "https://shustrik-maps.com/product/new-zealand-medallion-kiwi-stl/",
+      "prompt": "image-prompts.json",
+      "title": "Kiwi Cnc — jewelry application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    }
+  ],
+  "authorization": "Owner requested next category in established live publication workflow; varied interiors/forms preference remains active. Two products, empty bottom section; preserve catalogue and SEO metadata."
+}

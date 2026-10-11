@@ -1,0 +1,157 @@
+{
+  "utc": "2026-10-11T15:43:50+00:00",
+  "block": null,
+  "term": {
+    "id": 246,
+    "slug": "jewelry-pendant",
+    "name": "Jewelry &amp; Pendant",
+    "description": "",
+    "meta": {
+      "order": [
+        "0"
+      ]
+    },
+    "protected_hash": "4dc8c194dda53518eb786c5279544568d076a67af03c4579c15b753ea41be0b7"
+  },
+  "art_block_hash": "c439197d2007c5644042a1f2fa312a102fd8c1c10d35979224427675f8da018b",
+  "satellites_block_hash": "f2b0f0eb8e1373911e88f83052c494a5ede06b4d801aab5d717eb8e697ad62ba",
+  "planets_block_hash": "c159f146aaa3f3ae4125b42e7b3e33e2a13add8a8ad74eed0ae6b6d134798367",
+  "islands_block_hash": "46c2f5ce2ca774279b50102c5133ba9405717195af9975094d400e3fa9634012",
+  "continents_block_hash": "53f5219b487d1b14c3b127c5b990e0892f44736a91bab5dbfe7eeee586d3e2a9",
+  "countries_block_hash": "f01816955682802fffd9564408d26a4a609b6d616a8a122bed4ccb394e31ca9f",
+  "usa_block_hash": "23273f7c1f5381fae079c45aaa75533204ca605859aec955a57ec84d7a05c937",
+  "parent_block_hash": "7f6ec5d47e68b6110e336be1a937f6eb24c668f3f2b9607b6d99a6d4ac47bea0",
+  "usage": {
+    "terms": [],
+    "post_refs": [],
+    "post_meta_refs": []
+  },
+  "products": [
+    {
+      "id": 21381,
+      "slug": "new-zealand-medallion-kiwi-stl",
+      "url": "https://shustrik-maps.com/product/new-zealand-medallion-kiwi-stl/",
+      "term_ids": [
+        246,
+        245,
+        174
+      ],
+      "state_hash": "7c9a3329241c674352218f36ba28941c0cb5930608f9e9e24a02b4c6733b6e06",
+      "images": [
+        {
+          "id": 21388,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/New-Zealand-Flag-3D-Medallion-STL.jpg"
+        },
+        {
+          "id": 21387,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/Kiwi-Bird-Relief-STL-Model.jpg"
+        },
+        {
+          "id": 21386,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/New-Zealand-CNC-Relief-Medallion.jpg"
+        },
+        {
+          "id": 21385,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/Circular-New-Zealand-Medallion-STL.jpg"
+        },
+        {
+          "id": 21384,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/New-Zealand-3D-Printing-Relief-Model.jpg"
+        },
+        {
+          "id": 21383,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/CNC-Carving-New-Zealand-Medallion.jpg"
+        },
+        {
+          "id": 21382,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/New-Zealand-Souvenir-STL-Model.jpg"
+        },
+        {
+          "id": 22774,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-hand-corrected-1500x1000-1.jpg",
+          "alt": "AI-generated concept of a small ivory plastic New Zealand flag and kiwi bird commemorative medallion resting naturally in an adult hand.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22767,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-capsule-revision-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an antique-brass-finish New Zealand kiwi and flag medallion in a clear collector capsule on a dark velvet tray.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22768,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-gift-revision-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an antique-bronze-finish New Zealand kiwi and flag commemorative medallion in a small navy-blue gift presentation box.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22769,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-pouch-revision-1500x1000-1.jpg",
+          "alt": "AI-generated concept of a small antique-brass-finish New Zealand kiwi and flag medallion displayed with a suede travel keepsake pouch.",
+          "kind": "body-gallery"
+        }
+      ]
+    },
+    {
+      "id": 18721,
+      "slug": "pendant-nautilus-in-maori-style",
+      "url": "https://shustrik-maps.com/product/pendant-nautilus-in-maori-style/",
+      "term_ids": [
+        246,
+        245,
+        174
+      ],
+      "state_hash": "ad9163e30ae057e1bdf0607a6341e888d4696e518d159b873b74c3124cde2e98",
+      "images": [
+        {
+          "id": 18722,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/K1-min.jpg"
+        },
+        {
+          "id": 18723,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/K2-min.jpg"
+        },
+        {
+          "id": 18724,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/K3-min.jpg"
+        },
+        {
+          "id": 18726,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/K5-min.jpg"
+        },
+        {
+          "id": 18725,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/K4-min.jpg"
+        },
+        {
+          "id": 18727,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/K6-min.jpg"
+        },
+        {
+          "id": 22770,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-necklace-revision-1500x1000-1.jpg",
+          "alt": "AI-generated concept of a small ivory plastic Maori-style Nautilus spiral pendant worn on a dark cord at the collarbone of an adult woman in a linen shirt.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22771,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-backpack-revision-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory plastic Maori-style Nautilus spiral keychain attached through its top hole to the zipper of an olive-green backpack.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22772,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-keys-revision-1500x1000-1.jpg",
+          "alt": "AI-generated concept of a small ivory plastic Maori-style Nautilus spiral keychain attached by a metal split ring to house keys beside a wallet.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22773,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-gift-revision-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory plastic Maori-style Nautilus spiral keychain with a metal split ring in a small kraft gift box with a forest-green insert.",
+          "kind": "body-gallery"
+        }
+      ]
+    }
+  ]
+}
