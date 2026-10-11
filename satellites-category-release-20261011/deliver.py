@@ -26,8 +26,8 @@ if mode=='prepare':
  data=dict(commit=commit,archive_sha256=digest,remote_archive_sha256=actual,mode='external',target='https://shustrik-maps.com',wp_source=target,container=CONTAINER,php_lint=True)
  (ROOT/'deployment.json').write_text(json.dumps(data,indent=2)+'\n',encoding='utf-8');print(json.dumps(data))
 else:
- assert mode in ['preview','apply','verify','rollback-preview','rollback']
- if mode=='apply':assert not (ROOT/'apply.json').exists(),'An apply record exists; inspect before retry'
- data=json.loads((ROOT/'deployment.json').read_text());output=remote('sudo -n docker exec '+CONTAINER+' php '+data['wp_source']+'/release.php --'+mode)
+ assert mode in ['preview','apply','resume-prepared','verify','rollback-preview','rollback']
+ if mode in ['apply','resume-prepared']:assert not (ROOT/'apply.json').exists(),'An apply record exists; inspect before retry'
+ data=json.loads((ROOT/'deployment.json').read_text());output=remote('sudo -n docker exec '+CONTAINER+' php -d memory_limit=512M '+data['wp_source']+'/release.php --'+mode)
  result=json.loads(next(line for line in output.splitlines() if line.startswith('{')))
- (ROOT/(mode+'.json')).write_text(json.dumps(result,indent=2)+'\n',encoding='utf-8');assert result['ok'];print(json.dumps(result))
+ (ROOT/(('apply' if mode=='resume-prepared' else mode)+'.json')).write_text(json.dumps(result,indent=2)+'\n',encoding='utf-8');assert result['ok'];print(json.dumps(result))

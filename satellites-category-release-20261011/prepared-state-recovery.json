@@ -1,0 +1,12 @@
+{
+  "failed_source": "579f73f055ca768c8ac48487d3f638023f00cdd0",
+  "failure_at": "2026-10-11T14:42:06Z",
+  "reason": "CLI WordPress memory limit 256 MiB exhausted during new CMS block insertion",
+  "inspected_at": "2026-10-11T14:42:33Z",
+  "backup_status": "prepared",
+  "journal": {"ids": [], "status": "importing"},
+  "draft": {"id": 22817, "status": "draft", "content_bytes": 0},
+  "placement": {"type": "text", "block": ""},
+  "public_category_changed": false,
+  "recovery": "Guarded resume of this exact empty draft and zero-media prepared state; one-off CLI memory 512 MiB, no persistent PHP configuration change"
+}
