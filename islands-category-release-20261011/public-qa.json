@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "old_copy_removed": true,
+    "pagination_absent": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/cnc-models/islands-3d-print-cnc-models/",
+    "title": "Islands 3D STL Models for 3D Printing & CNC | Topographic Maps",
+    "description": "Download high-resolution islands 3D STL models for 3D printing and CNC machining. Accurate topographic maps of islands worldwide. Instant digital download.",
+    "canonical": "https://shustrik-maps.com/product-category/cnc-models/islands-3d-print-cnc-models/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "Island Terrain STL Models for 3D Printing & CNC"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/bermuda-stl-model/",
+        "title": "Bermuda Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/corsica-island-stl-model/",
+        "title": "Corsica Island STL model",
+        "price": "$20.00 Original price was: $20.00.$14.00Current price is: $14.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/crete-island-stl-model/",
+        "title": "Crete Island 3D Topographic Map STL – Printable Relief Model for 3D Printing & CNC",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/cyprus-island-stl-model/",
+        "title": "Cyprus Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/dominica-island-stl-model/",
+        "title": "Dominica Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/iceland-stl-model/",
+        "title": "Iceland Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/jamaica-stl-model/",
+        "title": "Jamaica Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/japan-stl-model/",
+        "title": "Japan Topographic Map – 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/cnc-models/": 200,
+    "https://shustrik-maps.com/product-category/cnc-models/countries-3d-print-cnc-models/": 200,
+    "https://shustrik-maps.com/product/corsica-island-stl-model/": 200,
+    "https://shustrik-maps.com/product/crete-island-stl-model/": 200,
+    "https://shustrik-maps.com/product/iceland-stl-model/": 200,
+    "https://shustrik-maps.com/product/japan-stl-model/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2026/01/islands-category-iceland-20261011.webp": {
+      "http": 200,
+      "bytes": 383298,
+      "alt": "AI-generated concept of an Iceland terrain relief CNC-carved in pale oak on a dark backing, displayed on a travertine console in a brick-walled hotel lobby.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/01/islands-category-corsica-20261011.webp": {
+      "http": 200,
+      "bytes": 124852,
+      "alt": "AI-generated concept of a graphite-coloured 3D-printed Corsica relief on an oval ivory backing and brass stand, on a plaster plinth in a blue reading nook.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/01/islands-category-japan-20261011.webp": {
+      "http": 200,
+      "bytes": 141334,
+      "alt": "AI-generated concept of a blue 3D-printed Japan archipelago on a continuous grey board beneath a clear acrylic cover in a bright museum gallery.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/01/islands-category-crete-20261011.webp": {
+      "http": 200,
+      "bytes": 305310,
+      "alt": "AI-generated concept of Crete terrain CNC-carved in light ash wood on a sand-coloured continuous backing, on a stone shelf against a terracotta wall.",
+      "width": "1536",
+      "height": "1024"
+    }
+  },
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}

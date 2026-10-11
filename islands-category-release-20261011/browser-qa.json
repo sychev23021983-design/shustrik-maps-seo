@@ -1,0 +1,68 @@
+{
+  "desktop": {
+    "grid": "605.4px 605.4px",
+    "height": 1524.7625732421875,
+    "images": [
+      {
+        "alt": "AI-generated concept of an Iceland terrain relief CNC-carved in pale oak on a dark backing, displayed on a travertine console in a brick-walled hotel lobby.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/islands-category-iceland-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a graphite-coloured 3D-printed Corsica relief on an oval ivory backing and brass stand, on a plaster plinth in a blue reading nook.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/islands-category-corsica-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a blue 3D-printed Japan archipelago on a continuous grey board beneath a clear acrylic cover in a bright museum gallery.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/islands-category-japan-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of Crete terrain CNC-carved in light ash wood on a sand-coloured continuous backing, on a stone shelf against a terracotta wall.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/islands-category-crete-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "top": 945.1250610351562,
+    "viewport": {
+      "height": 900,
+      "width": 1280
+    },
+    "width": 1234.800048828125
+  },
+  "mobile": {
+    "grid": "345.2px",
+    "height": 2456.449951171875,
+    "images": [
+      {
+        "alt": "AI-generated concept of an Iceland terrain relief CNC-carved in pale oak on a dark backing, displayed on a travertine console in a brick-walled hotel lobby.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/islands-category-iceland-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a graphite-coloured 3D-printed Corsica relief on an oval ivory backing and brass stand, on a plaster plinth in a blue reading nook.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/islands-category-corsica-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a blue 3D-printed Japan archipelago on a continuous grey board beneath a clear acrylic cover in a bright museum gallery.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/islands-category-japan-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of Crete terrain CNC-carved in light ash wood on a sand-coloured continuous backing, on a stone shelf against a terracotta wall.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/islands-category-crete-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "top": 1424.1624755859375,
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "width": 345.20001220703125
+  }
+}

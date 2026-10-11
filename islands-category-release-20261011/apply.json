@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "mode": "--apply",
+  "utc": "2026-10-11T13:59:49+00:00",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/islands-3d-print-cnc-models/",
+  "block_id": 21178,
+  "protected_preserved": true,
+  "reuse": [],
+  "media": [
+    {
+      "key": "iceland",
+      "id": 22809,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/islands-category-iceland-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "corsica",
+      "id": 22810,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/islands-category-corsica-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "japan",
+      "id": 22811,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/islands-category-japan-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "crete",
+      "id": 22812,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/islands-category-crete-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": "ad956f4ac3ee3c351e08dea817d0b2dda84f501de8ed99d2ae8cdefbfc40baed",
+  "rollback_backup": "_shustrik_islands_category_backup_20261011"
+}

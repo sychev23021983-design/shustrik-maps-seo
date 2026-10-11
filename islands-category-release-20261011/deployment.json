@@ -1,0 +1,10 @@
+{
+  "commit": "e8f6cc007401b98cbb0445d3aa5864a97679577a",
+  "archive_sha256": "ce369510b37eb972376bbfaa1a72d7d166e80bfb8bf4f49eb3bd6d939105e442",
+  "remote_archive_sha256": "ce369510b37eb972376bbfaa1a72d7d166e80bfb8bf4f49eb3bd6d939105e442",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/islands-category-e8f6cc007401",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}
