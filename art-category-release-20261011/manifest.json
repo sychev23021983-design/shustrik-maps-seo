@@ -1,0 +1,63 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/other-cnc-models/",
+  "term_id": 245,
+  "block_id": null,
+  "operation": "create dedicated bottom CMS block and two placement metadata fields",
+  "template_sha256": "1a4dfbd2d357e1509c080354dab306534deb94b821d6476ef128d13f0e818295",
+  "assets": [
+    {
+      "key": "female-face",
+      "mode": "new",
+      "file": "art-category-female-face-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "91439a64d2c611a185443df3a2bde226dc1da348a76a7a72ad743d91d1dcb963",
+      "alt": "AI-generated concept of a charcoal-grey printed geometric female-face relief on a rust-red design-studio wall.",
+      "source": "https://shustrik-maps.com/product/abstract-female-face-silhouette-3d-model/",
+      "prompt": "image-prompts.json",
+      "title": "Female Face — art application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "nautilus",
+      "mode": "new",
+      "file": "art-category-nautilus-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "fc13f68f8eec36564ded360dc7a437f2344d96f85753c0b70b295105d98a6f62",
+      "alt": "AI-generated concept of a maple CNC-carved Nautilus spiral pendant with dark cord on linen in a blue ceramic tray.",
+      "source": "https://shustrik-maps.com/product/pendant-nautilus-in-maori-style/",
+      "prompt": "image-prompts.json",
+      "title": "Nautilus — art application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "kiwi-medallion",
+      "mode": "new",
+      "file": "art-category-kiwi-medallion-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "73bec7b6ce50bf60b95aeecefb45d8f49b3fda0e755976bdc0a079a04a853845",
+      "alt": "AI-generated concept of a slate-blue printed New Zealand medallion with kiwi head and flag relief on a clear support in a reading corner.",
+      "source": "https://shustrik-maps.com/product/new-zealand-medallion-kiwi-stl/",
+      "prompt": "image-prompts.json",
+      "title": "Kiwi Medallion — art application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "zombie-box",
+      "mode": "new",
+      "file": "art-category-zombie-box-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7d0c1ffaefcd4814c1eef6b01ae2dcbeb74a0d2e03889666e1aabb08abf8c282",
+      "alt": "AI-generated concept of a teal printed Zombie Monster storage box with orange glasses and open lid on a lilac board-game table.",
+      "source": "https://shustrik-maps.com/product/zombie-monster-box-3d-model/",
+      "prompt": "image-prompts.json",
+      "title": "Zombie Box — art application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    }
+  ],
+  "authorization": "Owner requested next category in established live publication workflow; varied interiors/forms remain active. Art term245 has six products and no bottom section. Preserve catalogue and SEO metadata."
+}

@@ -1,0 +1,5 @@
+# Art category — four varied physical application concepts
+
+Owner-authorized next category, Art term245/Other URL: six products; no existing bottom section. Add dedicated CMS block, H1/three paragraphs/eight contextual endpoints/four reference-based image-title pairs/AI disclosure. Four new built-in ImageGen assets; originals/prompts retained. No source product edits or manufacturing/license guarantee.
+
+512MiB allowance only for CLI invocation. New draft/media creation journaled, exact encoded HTML published with conditional SQL within placement transaction, bypassing save filters that stripped raw HTML in previous release. Two new bottom metadata fields only; all other category data/six product states excluding generated CSS cache/seven previous blocks protected. Backup before mutation; guarded rollback restores absence of placement keys, retaining new block/media. Exact pushed archive to external CMS through established VPN/SSH/sudoDocker, no build/restart. Public/browser/runtime/rollback-preview required.

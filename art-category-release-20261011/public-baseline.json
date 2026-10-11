@@ -1,0 +1,56 @@
+{
+  "http": 200,
+  "url": "https://shustrik-maps.com/product-category/cnc-models/other-cnc-models/",
+  "title": "Other Archives | 3D Models and 3D Maps",
+  "description": null,
+  "canonical": "https://shustrik-maps.com/product-category/cnc-models/other-cnc-models/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "h1": [],
+  "cards": [
+    {
+      "url": "https://shustrik-maps.com/product/abstract-female-face-silhouette-3d-model/",
+      "title": "Abstract Female Face Silhouette 3D Model",
+      "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+    },
+    {
+      "url": "https://shustrik-maps.com/product/new-zealand-medallion-kiwi-stl/",
+      "title": "New Zealand Flag 3D Medallion STL \u2013 Kiwi Bird Relief Model for 3D Printing & CNC",
+      "price": "$10.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/pendant-nautilus-in-maori-style/",
+      "title": "Pendant \u201cNautilus\u201d in Maori Style",
+      "price": "$15.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/sheik-zayed-3d-model/",
+      "title": "Sheikh Zayed 3D Model",
+      "price": "$40.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/troll-face-3d-model/",
+      "title": "Troll Face 3D Model for 3D Printing",
+      "price": "$15.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/zombie-monster-box-3d-model/",
+      "title": "Zombie Monster Storage Box 3D Model",
+      "price": "$15.00"
+    }
+  ],
+  "schema_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    [
+      "Organization",
+      "Place",
+      "Store"
+    ],
+    "PostalAddress",
+    "ImageObject",
+    "BreadcrumbList"
+  ],
+  "pagination_present": false
+}

@@ -1,0 +1,462 @@
+{
+  "utc": "2026-10-11T15:11:58+00:00",
+  "block": null,
+  "term": {
+    "id": 245,
+    "slug": "other-cnc-models",
+    "name": "Other",
+    "description": "",
+    "meta": {
+      "order": [
+        "0"
+      ]
+    },
+    "protected_hash": "692fcb6f7fd20ab154993f931c8e919f313832f7aa267f4b65d585710e04636e"
+  },
+  "satellites_block_hash": "f2b0f0eb8e1373911e88f83052c494a5ede06b4d801aab5d717eb8e697ad62ba",
+  "planets_block_hash": "c159f146aaa3f3ae4125b42e7b3e33e2a13add8a8ad74eed0ae6b6d134798367",
+  "islands_block_hash": "46c2f5ce2ca774279b50102c5133ba9405717195af9975094d400e3fa9634012",
+  "continents_block_hash": "53f5219b487d1b14c3b127c5b990e0892f44736a91bab5dbfe7eeee586d3e2a9",
+  "countries_block_hash": "f01816955682802fffd9564408d26a4a609b6d616a8a122bed4ccb394e31ca9f",
+  "usa_block_hash": "23273f7c1f5381fae079c45aaa75533204ca605859aec955a57ec84d7a05c937",
+  "parent_block_hash": "7f6ec5d47e68b6110e336be1a937f6eb24c668f3f2b9607b6d99a6d4ac47bea0",
+  "usage": {
+    "terms": [],
+    "post_refs": [],
+    "post_meta_refs": []
+  },
+  "products": [
+    {
+      "id": 21381,
+      "slug": "new-zealand-medallion-kiwi-stl",
+      "url": "https://shustrik-maps.com/product/new-zealand-medallion-kiwi-stl/",
+      "term_ids": [
+        246,
+        245,
+        174
+      ],
+      "state_hash": "7c9a3329241c674352218f36ba28941c0cb5930608f9e9e24a02b4c6733b6e06",
+      "images": [
+        {
+          "id": 21388,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/New-Zealand-Flag-3D-Medallion-STL.jpg"
+        },
+        {
+          "id": 21387,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/Kiwi-Bird-Relief-STL-Model.jpg"
+        },
+        {
+          "id": 21386,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/New-Zealand-CNC-Relief-Medallion.jpg"
+        },
+        {
+          "id": 21385,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/Circular-New-Zealand-Medallion-STL.jpg"
+        },
+        {
+          "id": 21384,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/New-Zealand-3D-Printing-Relief-Model.jpg"
+        },
+        {
+          "id": 21383,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/CNC-Carving-New-Zealand-Medallion.jpg"
+        },
+        {
+          "id": 21382,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/New-Zealand-Souvenir-STL-Model.jpg"
+        },
+        {
+          "id": 22774,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-hand-corrected-1500x1000-1.jpg",
+          "alt": "AI-generated concept of a small ivory plastic New Zealand flag and kiwi bird commemorative medallion resting naturally in an adult hand.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22767,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-capsule-revision-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an antique-brass-finish New Zealand kiwi and flag medallion in a clear collector capsule on a dark velvet tray.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22768,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-gift-revision-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an antique-bronze-finish New Zealand kiwi and flag commemorative medallion in a small navy-blue gift presentation box.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22769,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2026/01/kiwi-medallion-pouch-revision-1500x1000-1.jpg",
+          "alt": "AI-generated concept of a small antique-brass-finish New Zealand kiwi and flag medallion displayed with a suede travel keepsake pouch.",
+          "kind": "body-gallery"
+        }
+      ]
+    },
+    {
+      "id": 20199,
+      "slug": "zombie-monster-box-3d-model",
+      "url": "https://shustrik-maps.com/product/zombie-monster-box-3d-model/",
+      "term_ids": [
+        245,
+        174,
+        16
+      ],
+      "state_hash": "162eb11f88de9be33968962e83762bdcff71c30c9022c18613c6502f19cf16c3",
+      "images": [
+        {
+          "id": 20206,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/STL-file-of-a-monster-storage-box-for-3D-printing.jpg"
+        },
+        {
+          "id": 20205,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/3D-printed-monster-storage-box-with-a-fun-design.jpg"
+        },
+        {
+          "id": 20204,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/Creative-3D-printed-storage-box-with-a-unique-look.jpg"
+        },
+        {
+          "id": 20203,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/STL-file-of-the-zombie-box-in-unassembled-form.jpg"
+        },
+        {
+          "id": 20202,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/Colorful-3D-printed-zombie-box-with-multi-material-parts.jpg"
+        },
+        {
+          "id": 20201,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/Finished-decorative-zombie-box-for-3D-printing.jpg"
+        },
+        {
+          "id": 20200,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/Monster-Box-3D-STL.jpg"
+        },
+        {
+          "id": 22783,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/zombie-box-desk-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory plastic rectangular Zombie Monster storage box with large glasses, round eyes, square teeth and two block feet fully supported on a solid desktop base.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22784,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/zombie-box-wall-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory plastic rectangular Zombie Monster storage box with large glasses, round eyes, square teeth and two block feet with coral glasses and keys in its open storage cavity on an oak wall shelf.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22785,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/zombie-box-gift-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory plastic rectangular Zombie Monster storage box with large glasses, round eyes, square teeth and two block feet with coral glasses in a kraft gift box with a green fitted insert.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22786,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/zombie-box-commercial-1500x1000-1.jpg",
+          "alt": "AI-generated concept of a rectangular Zombie Monster storage box with large glasses, round eyes, square teeth and two block feet enlarged in grey concrete at a design exhibition with adults for scale.",
+          "kind": "body-gallery"
+        }
+      ]
+    },
+    {
+      "id": 20192,
+      "slug": "troll-face-3d-model",
+      "url": "https://shustrik-maps.com/product/troll-face-3d-model/",
+      "term_ids": [
+        245,
+        174,
+        16
+      ],
+      "state_hash": "fc9ccaaaa91fdb8a4c823639889f123434aae98d2aa765eea527873e3d933676",
+      "images": [
+        {
+          "id": 20193,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/1-min-27.jpg"
+        },
+        {
+          "id": 20194,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/2-min-27.jpg"
+        },
+        {
+          "id": 20195,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/3-min-27.jpg"
+        },
+        {
+          "id": 20196,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/4-min-27.jpg"
+        },
+        {
+          "id": 20197,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/5-min-27.jpg"
+        },
+        {
+          "id": 20408,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/3D-Printed-Troll-Face_Detachable-Teeth-and-Bones-min.jpg"
+        },
+        {
+          "id": 20409,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/Troll-Face-3D-Model-–-Printed-in-Parts-Teeth-Bones-min.jpg"
+        },
+        {
+          "id": 20410,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/3D-Printing-a-Meme_Troll-Face-with-Separate-Teeth-and-Bones-min.jpg"
+        },
+        {
+          "id": 20411,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/Modular-Troll-Face_Assemble-Your-Meme-in-3D-min.jpg"
+        },
+        {
+          "id": 22779,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/troll-skull-desk-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory plastic Troll Face skull with exaggerated toothy grin on a dark support post and rectangular base fully supported on a solid desktop base.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22780,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/troll-skull-wall-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory plastic Troll Face skull with exaggerated toothy grin on a dark support post and rectangular base on a solid shelf in a small oak wall display.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22781,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/troll-skull-gift-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory plastic Troll Face skull with exaggerated toothy grin on a dark support post and rectangular base supported in an open gift box with a fitted insert.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22782,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/troll-skull-commercial-1500x1000-1.jpg",
+          "alt": "AI-generated concept of a Troll Face skull with exaggerated toothy grin on a dark support post and rectangular base enlarged in grey concrete at a design exhibition with adults for scale.",
+          "kind": "body-gallery"
+        }
+      ]
+    },
+    {
+      "id": 18721,
+      "slug": "pendant-nautilus-in-maori-style",
+      "url": "https://shustrik-maps.com/product/pendant-nautilus-in-maori-style/",
+      "term_ids": [
+        246,
+        245,
+        174
+      ],
+      "state_hash": "ad9163e30ae057e1bdf0607a6341e888d4696e518d159b873b74c3124cde2e98",
+      "images": [
+        {
+          "id": 18722,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/K1-min.jpg"
+        },
+        {
+          "id": 18723,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/K2-min.jpg"
+        },
+        {
+          "id": 18724,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/K3-min.jpg"
+        },
+        {
+          "id": 18726,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/K5-min.jpg"
+        },
+        {
+          "id": 18725,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/K4-min.jpg"
+        },
+        {
+          "id": 18727,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/K6-min.jpg"
+        },
+        {
+          "id": 22770,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-necklace-revision-1500x1000-1.jpg",
+          "alt": "AI-generated concept of a small ivory plastic Maori-style Nautilus spiral pendant worn on a dark cord at the collarbone of an adult woman in a linen shirt.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22771,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-backpack-revision-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory plastic Maori-style Nautilus spiral keychain attached through its top hole to the zipper of an olive-green backpack.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22772,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-keys-revision-1500x1000-1.jpg",
+          "alt": "AI-generated concept of a small ivory plastic Maori-style Nautilus spiral keychain attached by a metal split ring to house keys beside a wallet.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22773,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/01/nautilus-gift-revision-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory plastic Maori-style Nautilus spiral keychain with a metal split ring in a small kraft gift box with a forest-green insert.",
+          "kind": "body-gallery"
+        }
+      ]
+    },
+    {
+      "id": 16812,
+      "slug": "abstract-female-face-silhouette-3d-model",
+      "url": "https://shustrik-maps.com/product/abstract-female-face-silhouette-3d-model/",
+      "term_ids": [
+        245,
+        174,
+        16
+      ],
+      "state_hash": "7ebb387f9a8052335b62e87d7b3b30910e78efbd8ec3d3f5d85134e0579fa820",
+      "images": [
+        {
+          "id": 16814,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Fase_Girl-1_1-min.jpg"
+        },
+        {
+          "id": 16819,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Fase_Girl-1_6-min.jpg"
+        },
+        {
+          "id": 16815,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Fase_Girl-1_2-min.jpg"
+        },
+        {
+          "id": 16817,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Fase_Girl-1_4-min.jpg"
+        },
+        {
+          "id": 16818,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Fase_Girl-1_5-min.jpg"
+        },
+        {
+          "id": 16820,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Fase_Girl-1_7-min.jpg"
+        },
+        {
+          "id": 16821,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Fase_Girl-1_8-min.jpg"
+        },
+        {
+          "id": 16822,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Fase_Girl1-min.jpg"
+        },
+        {
+          "id": 16823,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Fase_Girl-1_9-min.jpg"
+        },
+        {
+          "id": 22799,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/female-face-desk-1500x1000-1.jpg",
+          "alt": "AI-generated concept of Abstract Female Face Silhouette tall rectangular geometric face relief lying with its entire underside supported on a continuous solid walnut backing board on a desk.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22800,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/female-face-wall-1500x1000-1.jpg",
+          "alt": "AI-generated concept of Abstract Female Face Silhouette tall rectangular geometric face relief mounted on solid sage backing in a small oak wall frame.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22801,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/female-face-gift-1500x1000-1.jpg",
+          "alt": "AI-generated concept of Abstract Female Face Silhouette tall rectangular geometric face relief fully supported in a kraft gift box with a fitted green insert.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22802,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/female-face-commercial-1500x1000-1.jpg",
+          "alt": "AI-generated concept of Abstract Female Face Silhouette tall rectangular geometric face relief enlarged in grey concrete on a continuous charcoal backing wall with adults for scale.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16837,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Female-Face-Decor-min.jpg",
+          "alt": "Female Face Decor",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 18671,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/photo_2024-12-16_13-59-50.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 18670,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/photo_2024-11-27_09-50-23.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 18669,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/photo_2024-11-27_09-50-23-2.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 18668,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/photo_2024-11-27_09-50-23-3.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        }
+      ]
+    },
+    {
+      "id": 15527,
+      "slug": "sheik-zayed-3d-model",
+      "url": "https://shustrik-maps.com/product/sheik-zayed-3d-model/",
+      "term_ids": [
+        245,
+        174,
+        16
+      ],
+      "state_hash": "411e9e48e3c1760fe2a22433f13d0532d261fc5e65b8abd0d9fe595e28c9b148",
+      "images": [
+        {
+          "id": 15530,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/10/Sheikh-Zayed-3D-model_1_1-min.jpg"
+        },
+        {
+          "id": 15531,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/10/Sheikh-Zayed-3D-model_1_2-min.jpg"
+        },
+        {
+          "id": 15532,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/10/Sheikh-Zayed-3D-model_1_3-min.jpg"
+        },
+        {
+          "id": 15533,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/10/Sheikh-Zayed-3D-model_1_4-min.jpg"
+        },
+        {
+          "id": 15534,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/10/Sheikh-Zayed-3D-model_1_5-min.jpg"
+        },
+        {
+          "id": 15535,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/10/Sheikh-Zayed-3D-model_1_6-min.jpg"
+        },
+        {
+          "id": 15537,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/10/Sheikh-Zayed-3D-model_1_8-min.jpg"
+        },
+        {
+          "id": 22775,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/10/sheikh-zayed-desk-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory plastic Sheikh Zayed portrait bust with draped headdress and patterned robe fully supported on a solid desktop base.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22776,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/10/sheikh-zayed-wall-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory plastic Sheikh Zayed portrait bust with draped headdress and patterned robe on a solid shelf in a small oak wall display.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22777,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/10/sheikh-zayed-gift-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory plastic Sheikh Zayed portrait bust with draped headdress and patterned robe supported in an open gift box with a fitted insert.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22778,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/10/sheikh-zayed-commercial-1500x1000-1.jpg",
+          "alt": "AI-generated concept of a Sheikh Zayed portrait bust with draped headdress and patterned robe enlarged in grey concrete at a design exhibition with adults for scale.",
+          "kind": "body-gallery"
+        }
+      ]
+    }
+  ]
+}

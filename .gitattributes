@@ -48,3 +48,10 @@ satellites-category-release-20261011/*.php text eol=lf
 satellites-category-release-20261011/*.json text eol=lf
 satellites-category-release-20261011/*.py text eol=lf
 satellites-category-release-20261011/*.md text eol=lf
+
+# Art category source and evidence
+art-category-release-20261011/*.html text eol=lf
+art-category-release-20261011/*.php text eol=lf
+art-category-release-20261011/*.json text eol=lf
+art-category-release-20261011/*.py text eol=lf
+art-category-release-20261011/*.md text eol=lf

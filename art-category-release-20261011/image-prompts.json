@@ -1,0 +1,58 @@
+[
+  {
+    "key": "female-face",
+    "slug": "abstract-female-face-silhouette-3d-model",
+    "ref": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Final Two STL Sliders 2026-10-08/female-face-source-1.jpg",
+    "prompt": "Create a realistic physical-product application concept photograph, landscape 3:2 composition. The attached original product render is a strict geometry reference, not an edit target. Preserve its exact outline, proportions, cutouts and relief features; only change materials, lighting and surroundings. Entire object visible, sharp product detail, unobtrusive softly blurred setting. No people, hands, text, brand names, logos, watermark, collage or extra copies. Reproduce this tall rectangular abstract face relief panel: left eye is a recessed almond with a circular inset, right eye is a narrow horizontal almond; long angular raised central nose, geometric curved eyebrows and segmented lips, shallow rectangular lines. No realistic portrait or new facial features. Render as a matte charcoal-grey 3D-printed relief panel mounted directly on a warm rust-red plaster wall in a contemporary design studio, pale birch shelf below and softly blurred sculptural vase. Slight three-quarter view, full tall panel fills about 75% frame height, raking daylight reveals depth.",
+    "tool": "image_gen.imagegen",
+    "mode": "built-in product-mockup from reference",
+    "references": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Final Two STL Sliders 2026-10-08/female-face-source-1.jpg"
+    ],
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-a569da20-f903-40f9-809d-b076e4a7943b.png",
+    "original_file": "assets/female-face-original.png",
+    "web_file": "art-category-female-face-20261011.webp"
+  },
+  {
+    "key": "nautilus",
+    "slug": "pendant-nautilus-in-maori-style",
+    "ref": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Kiwi Nautilus Use Cases Revision 2026-10-08/nautilus-source-1.jpg",
+    "prompt": "Create a realistic physical-product application concept photograph, landscape 3:2 composition. The attached original product render is a strict geometry reference, not an edit target. Preserve its exact outline, proportions, cutouts and relief features; only change materials, lighting and surroundings. Entire object visible, sharp product detail, unobtrusive softly blurred setting. No people, hands, text, brand names, logos, watermark, collage or extra copies. Reproduce this Maori-style Nautilus pendant: asymmetric teardrop outline, circular cord hole near pointed top, large open central inward spiral and several small curved notch openings around edge. The reference white rim details become relief-carved edges in the same wood. One small CNC-carved maple wooden pendant, thin dark cord threaded through existing hole, resting on a folded cream linen cloth inside a shallow blue ceramic jewellery tray on a pale stone dressing table. Soft morning window light, macro editorial photograph, recognisable exact reference cutout pattern. No added holes or ordinary nautilus shell.",
+    "tool": "image_gen.imagegen",
+    "mode": "built-in product-mockup from reference",
+    "references": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Kiwi Nautilus Use Cases Revision 2026-10-08/nautilus-source-1.jpg"
+    ],
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-60980a5f-f961-4034-b2c8-e116fd36a353.png",
+    "original_file": "assets/nautilus-original.png",
+    "web_file": "art-category-nautilus-20261011.webp"
+  },
+  {
+    "key": "kiwi-medallion",
+    "slug": "new-zealand-medallion-kiwi-stl",
+    "ref": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Kiwi Nautilus Use Cases Revision 2026-10-08/kiwi-medallion-source-1.jpg",
+    "prompt": "Create a realistic physical-product application concept photograph, landscape 3:2 composition. The attached original product render is a strict geometry reference, not an edit target. Preserve its exact outline, proportions, cutouts and relief features; only change materials, lighting and surroundings. Entire object visible, sharp product detail, unobtrusive softly blurred setting. No people, hands, text, brand names, logos, watermark, collage or extra copies. Reproduce the circular New Zealand medallion exactly: thin circular raised rim, geometrical Union Jack motif occupying upper-left area, exactly four recessed five-point stars in right/centre positions, finely textured kiwi head at bottom with extremely long slender beak pointing left across coin. Keep exact bird silhouette and flag geometry. A slate-blue monochrome resin-printed medallion standing upright on a tiny transparent acrylic support on a pale concrete shelf, in a bright travel-themed reading corner with soft green wall and blurred folded textiles. No colour-painted flag, no inscriptions, no added hanging loop, no full-body bird; medallion roughly hand-sized but no hands.",
+    "tool": "image_gen.imagegen",
+    "mode": "built-in product-mockup from reference",
+    "references": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Kiwi Nautilus Use Cases Revision 2026-10-08/kiwi-medallion-source-1.jpg"
+    ],
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-0aaea4e1-87c8-4cb0-b9fc-955987533bee.png",
+    "original_file": "assets/kiwi-medallion-original.png",
+    "web_file": "art-category-kiwi-medallion-20261011.webp"
+  },
+  {
+    "key": "zombie-box",
+    "slug": "zombie-monster-box-3d-model",
+    "ref": "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Next Model Sliders 2026-10-08/zombie-box-source-1.jpg",
+    "prompt": "Create a realistic physical-product application concept photograph, landscape 3:2 composition. The attached original product render is a strict geometry reference, not an edit target. Preserve its exact outline, proportions, cutouts and relief features; only change materials, lighting and surroundings. Entire object visible, sharp product detail, unobtrusive softly blurred setting. No people, hands, text, brand names, logos, watermark, collage or extra copies. Reproduce this exact playful Zombie Monster storage box: teal rectangular base, two small squared feet, raised lid shaped as an upper rectangular face, oversized orange-red glasses, two white circular eyes with tiny centre pupils and white block teeth along lid bottom. Lid open slightly above base as in reference; visible dark empty rectangular storage interior; do not turn into skull or organic monster. Real 3D printed plastic with subtle layer lines, shown on a lilac tabletop in a modern board-game nook, warm orange wall and blurred game shelf. Two generic unbranded dice beside box, none obscuring product. Product about 60% frame width, low three-quarter photo angle, vivid but restrained daylight.",
+    "tool": "image_gen.imagegen",
+    "mode": "built-in product-mockup from reference",
+    "references": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Next Model Sliders 2026-10-08/zombie-box-source-1.jpg"
+    ],
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-75f0b862-b7a3-4014-946c-7c3c00bb764f.png",
+    "original_file": "assets/zombie-box-original.png",
+    "web_file": "art-category-zombie-box-20261011.webp"
+  }
+]
