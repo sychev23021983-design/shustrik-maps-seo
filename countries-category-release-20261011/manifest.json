@@ -1,0 +1,54 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/countries-3d-print-cnc-models/",
+  "term_id": 17,
+  "block_id": 21176,
+  "before_sha256": "bbc1444600e95a349a704804dc71e4f37cf2a2e2eca4020aa7473c5c2cc8e2f8",
+  "template_sha256": "029440d28059d732b4552463f57e6c1cef6a6510b6a12d13703365cbcc2f7684",
+  "assets": [
+    {
+      "key": "china",
+      "mode": "reuse",
+      "id": 22129,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/china-desk-1500x1000-1.jpg",
+      "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic China terrain relief on a separate walnut desktop stand.",
+      "source": "https://shustrik-maps.com/product/china-stl-model/",
+      "title": "China — terrain application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "switzerland",
+      "mode": "new",
+      "file": "countries-category-switzerland-walnut-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "d5ab264759a6e2f55cca0e8c47a2c7d6321e726a4c73a9d103b31734c1dc78bd",
+      "alt": "AI-generated concept of Switzerland terrain CNC-carved in walnut on a separate solid wooden wall backing.",
+      "source": "https://shustrik-maps.com/product/switzerland-stl-model/",
+      "prompt": "image-prompt.json",
+      "title": "Switzerland — terrain application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "italy",
+      "mode": "reuse",
+      "id": 22094,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/italy-wall-1500x1000-1.jpg",
+      "alt": "AI-generated concept of an ivory Italy terrain relief in an oak frame with sage-green backing above a home console.",
+      "source": "https://shustrik-maps.com/product/italy-stl-model/",
+      "title": "Italy — terrain application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "spain",
+      "mode": "reuse",
+      "id": 22099,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/06/spain-gift-1500x1000-1.jpg",
+      "alt": "AI-generated concept of an ivory Spain terrain relief with additional support in a kraft gift box with forest-green tissue paper.",
+      "source": "https://shustrik-maps.com/product/spain-stl-model/",
+      "title": "Spain — terrain application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    }
+  ],
+  "authorization": "Owner explicitly requested proceeding to the next category after approving published CNC Models and USA States. Same bottom description and finished printing/CNC examples workflow for Countries; title/meta remain unchanged."
+}

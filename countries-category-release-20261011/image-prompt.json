@@ -1,0 +1,10 @@
+{
+  "tool": "built-in image_gen",
+  "mode": "product-mockup using original product render references",
+  "prompt": "Use case: product-mockup. Generate one photorealistic application concept for a website category, landscape 3:2. The two reference images are ORIGINAL Switzerland topographic STL product renders, not an image to edit: preserve their exact Switzerland boundary, landscape orientation (west at left, east at right, north up), broad width-to-height proportions, shallow overall relief, flatter northern plateau and dense connected Alpine ridge/valley relief concentrated across the southern half. Make the same terrain geometry look CNC-carved from natural walnut wood, one continuous wood material with realistic fine grain following the carved surfaces, not a white/plastic insert. No invented giant isolated peaks; do not turn it into a mountain sculpture or generic country silhouette. Mount the whole Switzerland outline on a separate simple solid rectangular wooden wall backing panel so every narrow tip is supported. Tasteful home study, off-white wall, soft window daylight, slight perspective but nearly front-facing and all country edges clearly visible. Show the entire wooden backing and relief with breathing room, the relief occupies about 65 percent of image width; subtle small plant and book at lower edge for context. Match the warm natural styling of Shustrik Maps finished-product illustrations. No lettering, labels, logos, borders, interface, people, machines, watermark or overlaid text. This is an illustrative finished CNC object, no claim of tested fabrication. Opaque background.",
+  "references": [
+    "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Five STL Sliders 2026-10-06\\switzerland-source-1.jpg",
+    "J:\\1. My Vault\\01 Projects\\WordPress\\shustrik-maps.com\\Five STL Sliders 2026-10-06\\switzerland-source-2.jpg"
+  ],
+  "output": "assets/switzerland-walnut-original.png"
+}
