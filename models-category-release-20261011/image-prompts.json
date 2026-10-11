@@ -1,0 +1,58 @@
+[
+  {
+    "key": "copernicus-cnc",
+    "slug": "copernicus-lunar-crater-3d-model",
+    "ref": "J:/1. My Vault/90 Migration/shustrik-maps-seo/models-category-release-20261011/references/copernicus-lunar-crater-3d-model.jpg",
+    "prompt": "Create a photorealistic editorial application concept, landscape 3:2. Use attached actual product render as strict shape reference. Preserve exact outline and distinctive detail layout, no generic replacement. No people, hands, logos, watermark or text. Whole subject visible and large, realistic materials, natural lighting. Turn the exact square Copernicus lunar terrain tile into CNC-carved honey-coloured beech wood relief, laid flat on a dark green astronomy-club worktable. Main crater large and low-centred like reference with its terraced ring, small central peak group and surrounding small pits in original positions. Keep square tile with generous surrounding terrain, do not isolate circular crater. Photograph obliquely from above, wood grain and carved geometry clear, blurred small telescope and brass compass at far back, no labels. Fine relief rather than exaggerated volcano.",
+    "tool": "image_gen.imagegen",
+    "mode": "reference-guided generation",
+    "references": [
+      "J:/1. My Vault/90 Migration/shustrik-maps-seo/models-category-release-20261011/references/copernicus-lunar-crater-3d-model.jpg"
+    ],
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-737d76c1-ae93-48f5-98cf-20243a079edc.png",
+    "original_file": "assets/copernicus-cnc-original.png",
+    "web_file": "models-category-copernicus-cnc-20261011.webp"
+  },
+  {
+    "key": "theophilus-print",
+    "slug": "theophilus-lunar-crater-3d-model",
+    "ref": "J:/1. My Vault/90 Migration/shustrik-maps-seo/models-category-release-20261011/references/theophilus-lunar-crater-3d-model.jpg",
+    "prompt": "Create a photorealistic editorial application concept, landscape 3:2. Use attached actual product render as strict shape reference. Preserve exact outline and distinctive detail layout, no generic replacement. No people, hands, logos, watermark or text. Whole subject visible and large, realistic materials, natural lighting. Show exact square Theophilus lunar terrain tile as matte pale-grey resin 3D print on low steel display easel in a science exhibition. Must preserve central roughly circular terraced crater, distinctive prominent jagged central peak cluster, nearby lower-left crater and right-edge partial crater as attached. Full square tile visible, realistic modest terrain depth, not volcano, not separate round disk. Pale peach exhibition wall, cool blue floor, soft directional light to show relief, no readable signage.",
+    "tool": "image_gen.imagegen",
+    "mode": "reference-guided generation",
+    "references": [
+      "J:/1. My Vault/90 Migration/shustrik-maps-seo/models-category-release-20261011/references/theophilus-lunar-crater-3d-model.jpg"
+    ],
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-5b4d573c-0e54-4ff9-a9f6-67967e284e3a.png",
+    "original_file": "assets/theophilus-print-original.png",
+    "web_file": "models-category-theophilus-print-20261011.webp"
+  },
+  {
+    "key": "zayed-print",
+    "slug": "sheik-zayed-3d-model",
+    "ref": "J:/1. My Vault/90 Migration/shustrik-maps-seo/models-category-release-20261011/references/sheik-zayed-3d-model.jpg",
+    "prompt": "Create a photorealistic editorial application concept, landscape 3:2. Use attached actual product render as strict shape reference. Preserve exact outline and distinctive detail layout, no generic replacement. No people, hands, logos, watermark or text. Whole subject visible and large, realistic materials, natural lighting. Recreate exactly the attached Sheikh Zayed portrait bust as a warm ivory resin print on a short square black pedestal in a quiet pale sage gallery alcove. Entire bust visible with original asymmetric face, short beard, headcloth and ridged headband, triangular decorative robe border and centre braided ornament. Maintain original cropped shoulder and chest outline. Not a living person; a monochrome physical sculpture. Soft museum side lighting, blurred simple dark bench at far back, no inscriptions or new jewellery.",
+    "tool": "image_gen.imagegen",
+    "mode": "reference-guided generation",
+    "references": [
+      "J:/1. My Vault/90 Migration/shustrik-maps-seo/models-category-release-20261011/references/sheik-zayed-3d-model.jpg"
+    ],
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-5b48e7e4-a5e6-47a5-b4ee-361842a7263c.png",
+    "original_file": "assets/zayed-print-original.png",
+    "web_file": "models-category-zayed-print-20261011.webp"
+  },
+  {
+    "key": "europe-digital",
+    "slug": "europe-3d-model",
+    "ref": "J:/1. My Vault/90 Migration/shustrik-maps-seo/models-category-release-20261011/references/europe-3d-model.jpg",
+    "prompt": "Create a photorealistic editorial application concept, landscape 3:2. Use attached actual product render as strict shape reference. Preserve exact outline and distinctive detail layout, no generic replacement. No people, hands, logos, watermark or text. Whole subject visible and large, realistic materials, natural lighting. Show an elegant wide computer monitor on a clean oak desk in a sunlit cartography studio, black unbranded frame. Screen prominently displays a digital 3D terrain visualisation of the exact Europe model from reference, green/brown satellite colours and thin country-border lines, Scandinavia upper right, Iceland upper left, Britain and Ireland left, Iberia lower left, Italy lower centre and Balkans lower right, preserve coastline and island arrangement. Screen image near-front view on pale light grey background, no software text or UI labels. This is a digital scene on a screen, no physical carved or printed map. Close composition, monitor fills most frame, subtle books and cobalt desk lamp in background.",
+    "tool": "image_gen.imagegen",
+    "mode": "reference-guided generation",
+    "references": [
+      "J:/1. My Vault/90 Migration/shustrik-maps-seo/models-category-release-20261011/references/europe-3d-model.jpg"
+    ],
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-64932455-5ca4-4488-a2c0-41f6cf90df71.png",
+    "original_file": "assets/europe-digital-original.png",
+    "web_file": "models-category-europe-digital-20261011.webp"
+  }
+]

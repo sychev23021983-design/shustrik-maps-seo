@@ -62,3 +62,10 @@ jewelry-category-release-20261011/*.php text eol=lf
 jewelry-category-release-20261011/*.json text eol=lf
 jewelry-category-release-20261011/*.py text eol=lf
 jewelry-category-release-20261011/*.md text eol=lf
+
+# 3D Models category source and evidence
+models-category-release-20261011/*.html text eol=lf
+models-category-release-20261011/*.php text eol=lf
+models-category-release-20261011/*.json text eol=lf
+models-category-release-20261011/*.py text eol=lf
+models-category-release-20261011/*.md text eol=lf

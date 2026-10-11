@@ -1,0 +1,64 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/3d-models/",
+  "term_id": 26,
+  "block_id": 14416,
+  "operation": "update existing bottom CMS block only; preserve placement and catalogue",
+  "before_sha256": "7d7d2cf57c45e448e089e4c081e4c49be2e45839e92a27fefcd613a1f63f4468",
+  "template_sha256": "94c8ddcefcf29fe0e65480ce6343d439197d70fd848e1f7199a3911d362cb447",
+  "assets": [
+    {
+      "key": "copernicus-cnc",
+      "mode": "new",
+      "file": "models-category-copernicus-cnc-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "ba6358011d49afa56f7a3e8677e8031e5f6931fe052cd5a630fba7bafb35cece",
+      "alt": "AI-generated concept of a beech-wood CNC Copernicus crater relief tile on a green astronomy table.",
+      "source": "https://shustrik-maps.com/product/copernicus-lunar-crater-3d-model/",
+      "prompt": "image-prompts.json",
+      "title": "Copernicus Cnc — model application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "theophilus-print",
+      "mode": "new",
+      "file": "models-category-theophilus-print-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "24ff9ea6ca00f6d11fb2cf125644625c1b7b99e4b2e0aba4ed7205239b4d1146",
+      "alt": "AI-generated concept of a pale-grey resin-printed Theophilus crater tile on a steel support in a science exhibition.",
+      "source": "https://shustrik-maps.com/product/theophilus-lunar-crater-3d-model/",
+      "prompt": "image-prompts.json",
+      "title": "Theophilus Print — model application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "zayed-print",
+      "mode": "new",
+      "file": "models-category-zayed-print-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "0e9403b029c67ce789d5ff0677ae47f20c07dea0f2ecec383c2ad73f4cbe298b",
+      "alt": "AI-generated concept of an ivory resin-printed Sheikh Zayed bust on a black pedestal in a sage gallery alcove.",
+      "source": "https://shustrik-maps.com/product/sheik-zayed-3d-model/",
+      "prompt": "image-prompts.json",
+      "title": "Zayed Print — model application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "europe-digital",
+      "mode": "new",
+      "file": "models-category-europe-digital-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "87c659f98f6e9e15468f05315e796b2187e5c4e315846dfd0b454706f09bc1be",
+      "alt": "AI-generated concept of the Europe textured digital terrain model displayed on a monitor in a cartography studio.",
+      "source": "https://shustrik-maps.com/product/europe-3d-model/",
+      "prompt": "image-prompts.json",
+      "title": "Europe Digital — model application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    }
+  ],
+  "authorization": "Owner requested next category; CNC branch complete, continue 3D Models parent with varied examples, verified format distinctions and live publication."
+}
