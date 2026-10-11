@@ -1,0 +1,10 @@
+{
+  "commit": "8e3945d758e996ec70b3c95b9e8bfd4993d71526",
+  "archive_sha256": "7a5f7981f87c43f8c3bcc73c5bc00ebb3990ea6581087b852a8d5db8de884c6c",
+  "remote_archive_sha256": "7a5f7981f87c43f8c3bcc73c5bc00ebb3990ea6581087b852a8d5db8de884c6c",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/cnc-category-8e3945d758e9",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

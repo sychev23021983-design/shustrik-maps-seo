@@ -1,0 +1,25 @@
+{
+  "utc": "2026-10-11T11:03:16.404309+00:00",
+  "ssh": "available",
+  "sudo_docker": "available",
+  "target": "https://shustrik-maps.com",
+  "deployment_mode": "external",
+  "source_commit": "8e3945d758e996ec70b3c95b9e8bfd4993d71526",
+  "build_restart": false,
+  "containers": [
+    {
+      "name": "shustrik-maps-wordpress-1",
+      "status": "running",
+      "started_at": "2026-08-28T05:54:09.048858196Z",
+      "restart_count": 0
+    },
+    {
+      "name": "shustrik-maps-db-1",
+      "status": "running",
+      "started_at": "2026-08-28T05:54:08.884034687Z",
+      "restart_count": 0
+    }
+  ],
+  "started_at_unchanged": true,
+  "scope": "Shustrik Maps only; portfolio analytics degraded remains open"
+}

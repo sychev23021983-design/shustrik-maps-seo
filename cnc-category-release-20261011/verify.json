@@ -1,0 +1,48 @@
+{
+  "ok": true,
+  "mode": "--verify",
+  "utc": "2026-10-11T10:53:14+00:00",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/",
+  "block_id": 14417,
+  "protected_preserved": true,
+  "reuse": {
+    "print": 22053,
+    "troll": 22779
+  },
+  "media": [
+    {
+      "key": "print",
+      "id": 22053,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/arizona-desk-ivory-plastic-1500x1000-v2.jpg",
+      "mode": "reuse",
+      "width": 1500,
+      "height": 1000
+    },
+    {
+      "key": "globe",
+      "id": 22805,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/08/cnc-category-modular-earth-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "wood",
+      "id": 22806,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/08/cnc-category-arizona-walnut-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "troll",
+      "id": 22779,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/troll-skull-desk-1500x1000-1.jpg",
+      "mode": "reuse",
+      "width": 1500,
+      "height": 1000
+    }
+  ],
+  "content_sha256": "856f427892958573be1c927a7200a9e0b9517a58a3e614dbcd8d1719ac83b72c",
+  "rollback_backup": "_shustrik_cnc_category_backup_20261011"
+}

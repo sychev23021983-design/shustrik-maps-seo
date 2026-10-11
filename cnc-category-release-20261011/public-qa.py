@@ -39,7 +39,7 @@ else:
  if block is not None:
   for url in sorted(set(block.xpath('.//a/@href'))):links[url]=fetch(url)['http']
   for image in block.xpath('.//img'):
-   url=image.get('src');r=fetch(url);media[url]={'http':r['http'],'bytes':len(r['body']),'alt':image.get('alt'),'width':image.get('width'),'height':image.get('height')}
+   url=image.get('data-src') or image.get('src');r=fetch(url);media[url]={'http':r['http'],'bytes':len(r['body']),'alt':image.get('alt'),'width':image.get('width'),'height':image.get('height')}
  checks['links_http']=bool(links) and all(code==200 for code in links.values());checks['media_http_alt']=len(media)==4 and all(m['http']==200 and m['alt'] for m in media.values())
  _,_,second=page_state(URL+'page/2/');checks['page2_http']=second['http']==200 and len(second['cards'])>=20
  health={}

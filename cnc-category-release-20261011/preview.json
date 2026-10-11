@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "mode": "--preview",
+  "utc": "2026-10-11T10:52:59+00:00",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/",
+  "block_id": 14417,
+  "protected_preserved": true,
+  "reuse": {
+    "print": 22053,
+    "troll": 22779
+  },
+  "media": [],
+  "content_sha256": "d7d02c54db1ee63965c5bc400d5b37a20a6925984db91ba3037abc163cffd7e4",
+  "rollback_backup": "_shustrik_cnc_category_backup_20261011"
+}
