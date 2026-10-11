@@ -1,0 +1,54 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/continents-3d-print-cnc-models/",
+  "term_id": 32,
+  "block_id": 21175,
+  "before_sha256": "e02e3e1dae5a796e3ecf0db39adaa674cfb4d73929225e629146c612dd7bc6ac",
+  "template_sha256": "136b607c26d19a0aa6591993450e6358608d8e1d6fae0aedd13171a144ad2258",
+  "assets": [
+    {
+      "key": "europe",
+      "mode": "reuse",
+      "id": 22141,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/02/europe-desk-1500x1000-1.jpg",
+      "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Europe terrain relief on a separate walnut desktop stand.",
+      "source": "https://shustrik-maps.com/product/europe-3d-print-model-equidistan-conic/",
+      "title": "Europe — terrain application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "africa",
+      "mode": "new",
+      "file": "continents-category-africa-walnut-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a4a7d58c6f7692d3485b5d2753d453db6ceede2dd00130e708d73d2cd76ab49d",
+      "alt": "AI-generated concept of Africa terrain CNC-carved in walnut, including Madagascar, on a separate solid wooden wall backing.",
+      "source": "https://shustrik-maps.com/product/africa-stl-model/",
+      "prompt": "image-prompt.json",
+      "title": "Africa — terrain application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "asia",
+      "mode": "reuse",
+      "id": 22154,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/asia-wall-1500x1000-1.jpg",
+      "alt": "AI-generated concept of an ivory Asia terrain relief in an oak frame with sage-green backing above a home console.",
+      "source": "https://shustrik-maps.com/product/asia-stl-model/",
+      "title": "Asia — terrain application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "south-america",
+      "mode": "reuse",
+      "id": 22344,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/south-america-gift-1500x1000-1.jpg",
+      "alt": "AI-generated concept of an ivory South America terrain relief with additional support in a kraft gift box with forest-green tissue paper. Separate islands are mounted on the backing.",
+      "source": "https://shustrik-maps.com/product/south-america-stl-model/",
+      "title": "South America — terrain application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    }
+  ],
+  "authorization": "Owner explicitly requested proceeding to the next category after approving the published CNC Models, USA States and Countries workflow. Same bottom description and finished printing/CNC examples workflow for Continents; SEO title/meta preserved."
+}

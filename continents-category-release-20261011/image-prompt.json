@@ -1,0 +1,11 @@
+{
+  "mode": "edit with original model render references",
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Create one photorealistic 3:2 landscape product application concept, using the two reference renders as the authoritative geometry. A shallow CNC-carved Africa terrain relief in natural medium-dark walnut mounted on a separate solid rectangular walnut backing panel on a warm off-white home study wall. Keep the Africa continent outline, north-up orientation, relative terrain heights and detached Madagascar southeast of Africa as close to the reference model as possible. Broad low, relatively flat Sahara and western regions; restrained Atlas relief northwest, detailed but shallow eastern highlands and southern terrain. No invented giant mountains, no reshaping the coastline, no missing southern tip. Madagascar and every separate piece fully supported on the solid backing panel, no floating parts. Continuous real wood grain, subtly lighter carved ridges, all relief made of walnut, no white plastic. Whole rectangular panel visible with generous breathing room, Africa occupies roughly 65 percent of image height. Soft natural daylight from the left, a small understated shelf edge and plant low in the composition, premium believable interior photography. No lettering, labels, arrows, people, printers, CNC machines, watermark or logo. This is an illustrative finished-object concept, not a technical demonstration.",
+  "references": [
+    "Five Global STL Sliders 2026-10-06/africa-source-1.jpg",
+    "Five Global STL Sliders 2026-10-06/africa-source-2.jpg"
+  ],
+  "output": "assets/africa-walnut-original.png",
+  "processing": "RGB WebP quality88 method6; no geometry or image-content alteration"
+}

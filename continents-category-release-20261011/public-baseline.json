@@ -1,0 +1,68 @@
+{
+  "http": 200,
+  "url": "https://shustrik-maps.com/product-category/cnc-models/continents-3d-print-cnc-models/",
+  "title": "Continents 3D STL Models for 3D Printing & CNC | Topographic Maps",
+  "description": "Download high-resolution continents 3D STL models for 3D printing and CNC machining. Accurate topographic maps of all world continents. Instant download.",
+  "canonical": "https://shustrik-maps.com/product-category/cnc-models/continents-3d-print-cnc-models/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "h1": [
+    "Continents 3D STL Models for 3D Printing & CNC"
+  ],
+  "cards": [
+    {
+      "url": "https://shustrik-maps.com/product/africa-stl-model/",
+      "title": "Africa Topographic Map STL \u2013 3D Terrain Model for 3D Printing & CNC",
+      "price": "$21.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/antarctica-stl-model/",
+      "title": "Antarctica Topographic Map STL \u2013 3D Terrain Model for 3D Printing & CNC",
+      "price": "$21.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/asia-stl-model/",
+      "title": "Asia Topographic Map STL \u2013 3D Terrain Model of Asia for 3D Printing & CNC",
+      "price": "$21.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/australia-stl-model/",
+      "title": "Australia Topographic Map STL\u2013 3D Model for 3D Printing & CNC Carving",
+      "price": "$15.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/europe-3d-print-model-equidistan-conic/",
+      "title": "Europe Topographic Map STL \u2013 3D Model for 3D Printing & CNC (Equidistant Conic Projection)",
+      "price": "$21.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/north-america-lambert-conformal-conic-stl-model/",
+      "title": "North America 3D Topographic Map STL Model \u2013 Lambert Conformal Conic Projection",
+      "price": "$21.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/north-america-stl-model/",
+      "title": "North America STL model",
+      "price": "$21.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/south-america-stl-model/",
+      "title": "South America 3D STL Map \u2013 Topographic Model for 3D Printing & CNC",
+      "price": "$21.00"
+    }
+  ],
+  "schema_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    [
+      "Organization",
+      "Place",
+      "Store"
+    ],
+    "PostalAddress",
+    "ImageObject",
+    "BreadcrumbList"
+  ],
+  "pagination_present": false
+}
