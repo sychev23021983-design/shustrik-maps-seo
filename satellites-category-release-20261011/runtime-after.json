@@ -1,0 +1,40 @@
+{
+  "checked_at": "2026-10-11T18:01:51.930642+03:00",
+  "source_commit": "173f7ce3ac63aa8754536fa7cf52672bfa2b15a0",
+  "qa_tools_commit": "e5f7a910b61b72a3a27c1c94047bbe35c7cb4822",
+  "deployment_mode": "external",
+  "target": "https://shustrik-maps.com",
+  "ssh": "available",
+  "sudo_docker": "available",
+  "containers": [
+    {
+      "name": "shustrik-maps-wordpress-1",
+      "status": "running",
+      "started_at": "2026-08-28T05:54:09.048858196Z",
+      "restart_count": 0
+    },
+    {
+      "name": "shustrik-maps-db-1",
+      "status": "running",
+      "started_at": "2026-08-28T05:54:08.884034687Z",
+      "restart_count": 0
+    }
+  ],
+  "started_at_unchanged": true,
+  "build_restart": false,
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  },
+  "scope": "Shustrik Maps only; analytics/recovery/consent degraded remains open"
+}

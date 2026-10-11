@@ -1,0 +1,10 @@
+{
+  "commit": "173f7ce3ac63aa8754536fa7cf52672bfa2b15a0",
+  "archive_sha256": "745f979c33ba914c11b1056bf35b582c0aa716e282021307f608c44a37875687",
+  "remote_archive_sha256": "745f979c33ba914c11b1056bf35b582c0aa716e282021307f608c44a37875687",
+  "wp_source": "/tmp/satellites-category-173f7ce3ac63",
+  "applied_at": "2026-10-11T14:52:29+00:00",
+  "operation": "publish-ready, attach prepared block once; no repeated apply after publication",
+  "qa_tools_commit": "e5f7a910b61b72a3a27c1c94047bbe35c7cb4822",
+  "qa_tools_source": "/tmp/satellites-category-e5f7a910b61b"
+}

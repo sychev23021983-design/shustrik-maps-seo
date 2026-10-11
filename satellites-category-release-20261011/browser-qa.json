@@ -1,0 +1,75 @@
+{
+  "desktop": {
+    "blockHeight": 1524.7625732421875,
+    "blockTop": 540.9500122070312,
+    "columns": "605.4px 605.4px",
+    "h1": [
+      "Moon STL Models for 3D Printing & CNC"
+    ],
+    "images": [
+      {
+        "alt": "AI-generated concept of a grey 3D-printed Moon globe with lunar craters on an aluminium cradle in an observatory lounge.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/satellites-category-moon-print-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a maple CNC-carved Moon hemisphere on a round backing above an olive bench in a museum alcove.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/satellites-category-moon-cnc-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a copper-finished printed Moon globe on a black ring and terrazzo ledge in a peach-toned interior.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/satellites-category-moon-copper-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a white 3D-printed Moon globe on a blue cradle in a bright astronomy teaching room.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/satellites-category-moon-study-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 1280
+  },
+  "mobile": {
+    "blockHeight": 2431.75,
+    "blockTop": 480.6125183105469,
+    "columns": "360.4px",
+    "h1": [
+      "Moon STL Models for 3D Printing & CNC"
+    ],
+    "images": [
+      {
+        "alt": "AI-generated concept of a grey 3D-printed Moon globe with lunar craters on an aluminium cradle in an observatory lounge.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/satellites-category-moon-print-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a maple CNC-carved Moon hemisphere on a round backing above an olive bench in a museum alcove.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/satellites-category-moon-cnc-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a copper-finished printed Moon globe on a black ring and terrazzo ledge in a peach-toned interior.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/satellites-category-moon-copper-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a white 3D-printed Moon globe on a blue cradle in a bright astronomy teaching room.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/satellites-category-moon-study-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  },
+  "mobile_screenshot_mode": "native viewport sequence; full-page mobile capture unavailable"
+}

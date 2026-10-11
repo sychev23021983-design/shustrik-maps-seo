@@ -1,0 +1,104 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "old_copy_removed": true,
+    "pagination_absent": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/cnc-models/satellites-cnc-models/",
+    "title": "Satellites Archives | 3D Models and 3D Maps",
+    "description": null,
+    "canonical": "https://shustrik-maps.com/product-category/cnc-models/satellites-cnc-models/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "Moon STL Models for 3D Printing & CNC"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/moon-stl-file/",
+        "title": "Moon STL file",
+        "price": "$15.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/cnc-models/": 200,
+    "https://shustrik-maps.com/product-category/cnc-models/planets/": 200,
+    "https://shustrik-maps.com/product/moon-stl-file/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/satellites-category-moon-print-20261011.webp": {
+      "http": 200,
+      "bytes": 234554,
+      "alt": "AI-generated concept of a grey 3D-printed Moon globe with lunar craters on an aluminium cradle in an observatory lounge.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/satellites-category-moon-cnc-20261011.webp": {
+      "http": 200,
+      "bytes": 284058,
+      "alt": "AI-generated concept of a maple CNC-carved Moon hemisphere on a round backing above an olive bench in a museum alcove.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/satellites-category-moon-copper-20261011.webp": {
+      "http": 200,
+      "bytes": 233552,
+      "alt": "AI-generated concept of a copper-finished printed Moon globe on a black ring and terrazzo ledge in a peach-toned interior.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/satellites-category-moon-study-20261011.webp": {
+      "http": 200,
+      "bytes": 197326,
+      "alt": "AI-generated concept of a white 3D-printed Moon globe on a blue cradle in a bright astronomy teaching room.",
+      "width": "1536",
+      "height": "1024"
+    }
+  },
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}

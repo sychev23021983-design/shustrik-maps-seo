@@ -2,10 +2,10 @@
 type: seo-page-brief
 site_profile: shustrik-maps
 url: https://shustrik-maps.com/product-category/cnc-models/satellites-cnc-models/
-status: approved
+status: published-check-passed
 created_at: 2026-10-11
 sources: ["category.html", "manifest.json", "baseline.json", "public-baseline.json", "product-reference-qa.json", "image-prompts.json"]
-next_action: "Опубликовать нижний блок и выполнить public/browser/runtime QA"
+next_action: "Публикация и live QA завершены"
 ---
 
 # Page Brief — Satellites
@@ -20,6 +20,9 @@ Four new ImageGen concepts based on the same lunar render: grey printed globe/ob
 
 - [x] Owner continuation authorizes publication; varied interiors/forms preference persists.
 - [x] Actual Moon product and original references inspected; final copy/images prepared.
-- [ ] Pushed exact Git source, preview, backup, placement transaction and media guards pass.
-- [ ] Public one card/price/no-pagination, unchanged metadata, one H1, three links/four images pass.
-- [ ] Desktop/mobile/runtime/rollback-preview pass.
+- [x] Pushed exact Git source, preview, backup, placement transaction and media guards pass.
+- [x] Public one card/price/no-pagination, unchanged metadata, one H1, three links/four images pass.
+- [x] Desktop/mobile/runtime/rollback-preview pass.
+
+
+Publication details and guarded recovery: release-report.md. Installed source173f7ce; verification tools e5f7a91; runtime CSS cache key excluded by proven hash comparison.

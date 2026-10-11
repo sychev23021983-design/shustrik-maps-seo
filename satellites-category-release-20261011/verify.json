@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "mode": "--verify",
+  "utc": "2026-10-11T14:56:10+00:00",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/satellites-cnc-models/",
+  "term_id": 175,
+  "block_id": 22817,
+  "protected_preserved": true,
+  "media": [
+    {
+      "key": "moon-print",
+      "id": 22818,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/satellites-category-moon-print-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "moon-cnc",
+      "id": 22819,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/satellites-category-moon-cnc-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "moon-copper",
+      "id": 22820,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/satellites-category-moon-copper-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "moon-study",
+      "id": 22821,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/satellites-category-moon-study-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": "10c246c6dfdf4f99306166c323b26e297662578cd2fcde46a4525f5b16de96ee",
+  "rollback_backup": "_shustrik_satellites_category_backup_20261011"
+}
