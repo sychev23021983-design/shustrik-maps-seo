@@ -1,0 +1,63 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/planets/",
+  "term_id": 30,
+  "block_id": 21162,
+  "before_sha256": "5036da47274e8c8ab4adb1ef6d5b66ae6ecf30424e4885ec5c0fc9efa195a568",
+  "template_sha256": "1e0b3d44ce297f4d8ca5775b4821c90ea8c9ea0bc6e0e412b4acf3c9d39422f1",
+  "assets": [
+    {
+      "key": "earth-relief",
+      "mode": "new",
+      "file": "planets-category-earth-relief-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "0eef0697c879673828963d7ba82f69a827c84e9e7a4d063dea428f8279ff9e52",
+      "alt": "AI-generated concept of a cherry-wood Earth globe with exaggerated terrain relief in a bronze cradle on a dark living-room console.",
+      "source": "https://shustrik-maps.com/product/earth-stl-model/",
+      "prompt": "image-prompts.json",
+      "title": "Earth Relief — planetary application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "earth-rivers",
+      "mode": "new",
+      "file": "planets-category-earth-rivers-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "369ab2734809e03a49a56809eefb0fb5110341d5ea5b3af5397e9d2464072d6b",
+      "alt": "AI-generated concept of a pale aqua 3D-printed Earth globe with terrain and river detail on a low cream stand in a bright science classroom.",
+      "source": "https://shustrik-maps.com/product/earth-stl-with-rivers/",
+      "prompt": "image-prompts.json",
+      "title": "Earth Rivers — planetary application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "modular-earth",
+      "mode": "new",
+      "file": "planets-category-modular-earth-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7d2364119addd781a62d167c67b308573b6402d89ebb74a7abab03d3828fc05a",
+      "alt": "AI-generated concept of an assembled rounded Earth globe with coloured curved pentagonal printed sections on a ring stand in a pastel creative workshop.",
+      "source": "https://shustrik-maps.com/product/3d-printed-earth-dodecahedron/",
+      "prompt": "image-prompts.json",
+      "title": "Modular Earth — planetary application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "geoid",
+      "mode": "new",
+      "file": "planets-category-geoid-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "624f34c80b84e5b07b0e6945c38dc5746a6b5211e87eae1b6229fb07a2d2e4e3",
+      "alt": "AI-generated concept of a bronze-finished 3D-printed artistic Earth geoid sculpture with an uneven form on a green marble gallery pedestal.",
+      "source": "https://shustrik-maps.com/product/geoid-height-stl-model/",
+      "prompt": "image-prompts.json",
+      "title": "Geoid — planetary application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    }
+  ],
+  "authorization": "Owner instructed proceeding to next category in established publication workflow; prior instruction to vary interiors/forms remains active. Planets selected, four newly generated product-reference concepts. Preserve SEO metadata and catalogue."
+}

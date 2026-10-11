@@ -1,0 +1,48 @@
+{
+  "http": 200,
+  "url": "https://shustrik-maps.com/product-category/cnc-models/planets/",
+  "title": "3D Printed Planet Models \u2013 STL for 3D Printing & CNC",
+  "description": "High-quality 3D printed planet models in STL format for 3D printing and CNC. Earth globes, modular planets, and artistic planetary designs.",
+  "canonical": "https://shustrik-maps.com/product-category/cnc-models/planets/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "h1": [
+    "Planets \u2013 3D Print & CNC Models"
+  ],
+  "cards": [
+    {
+      "url": "https://shustrik-maps.com/product/earth-stl-model/",
+      "title": "3D Printed Earth STL Model \u2013 Exaggerated Relief Topography for 3D Printing & CNC",
+      "price": "$20.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/earth-stl-with-rivers/",
+      "title": "3D Printed Earth STL Model with Rivers \u2013 Detailed Topography for 3D Printing & CNC",
+      "price": "$20.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/3d-printed-earth-dodecahedron/",
+      "title": "3D Printed Modular Earth Globe (STL in 12-Part Dodecahedron for 3D Printing)",
+      "price": "$35.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/geoid-height-stl-model/",
+      "title": "Geoid Height STL Model \u2013 Artistic Earth Gravity Surface for 3D Printing",
+      "price": "$21.00"
+    }
+  ],
+  "schema_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    [
+      "Organization",
+      "Place",
+      "Store"
+    ],
+    "PostalAddress",
+    "ImageObject",
+    "BreadcrumbList"
+  ],
+  "pagination_present": false
+}

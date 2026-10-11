@@ -1,0 +1,54 @@
+[
+  {
+    "key": "earth-relief",
+    "refs": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five Final Terrain STL Sliders 2026-10-08/earth-relief-source-1.jpg"
+    ],
+    "prompt": "Use case: product-mockup. Generate one photorealistic 3:2 landscape ecommerce application concept. The input image is an authoritative reference for model geometry: keep the overall form, exact visible land shapes, orientation, ocean-floor detail and relative relief visually as close as possible. Do not replace it with a generic globe, invent countries, flatten distinctive terrain or add labels. Whole object and its support visible with generous breathing room, object fills about 60 percent of image height. Realistic construction, clear contact with support, soft detailed light. No writing, logos, watermark, people, machinery, planets in space, map grid or country boundary lines. This is an illustrative possible finished object, not a customer project photo. Subject: full CNC-carved Earth terrain sphere made of warm natural cherry wood, genuine continuous wood grain across the whole surface, Africa facing forward exactly as reference with Europe and western Asia above/right. Preserve the strongly exaggerated terrain and recessed seas of the source including ocean-floor relief, not a globe with smooth blue oceans. Globe in a simple small dark-bronze three-point cradle on a short wide cylindrical plinth. Scene: refined mid-century living room, low black lacquer console, warm ivory wall, softly blurred burgundy upholstered chair and geometric textile at edges, late afternoon side lighting. A sculptural wood globe, not a flattened plaque or hemisphere.",
+    "mode": "generate with original product geometry reference",
+    "tool": "built-in image_gen.imagegen",
+    "original_file": "assets/earth-relief-original.png",
+    "web_file": "planets-category-earth-relief-20261011.webp",
+    "processing": "RGB WebP quality88 method6; content unchanged",
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-03d3c36d-7569-4a9b-a5d2-97e2d8666301.png"
+  },
+  {
+    "key": "earth-rivers",
+    "refs": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five Final Terrain STL Sliders 2026-10-08/earth-rivers-source-1.jpg"
+    ],
+    "prompt": "Use case: product-mockup. Generate one photorealistic 3:2 landscape ecommerce application concept. The input image is an authoritative reference for model geometry: keep the overall form, exact visible land shapes, orientation, ocean-floor detail and relative relief visually as close as possible. Do not replace it with a generic globe, invent countries, flatten distinctive terrain or add labels. Whole object and its support visible with generous breathing room, object fills about 60 percent of image height. Realistic construction, clear contact with support, soft detailed light. No writing, logos, watermark, people, machinery, planets in space, map grid or country boundary lines. This is an illustrative possible finished object, not a customer project photo. Subject: pale aqua monochrome 3D-printed plastic Earth sphere with engraved fine river networks and moderately raised terrain, front Atlantic view matching reference: North/South America left, Greenland upper middle, Europe/Africa right. All ocean-floor relief preserved. Fine subtle print layers. Globe rests physically on a small low cream circular cradle. Scene: bright school science room display, cobalt-blue metal cabinet top, soft pale yellow wall behind, blurred books and educational materials at far edges with no readable writing. Clear tactile teaching object with restrained daytime lighting. No exaggerated spikes; distinguish this lower-relief rivers globe from the strongly amplified terrain model.",
+    "mode": "generate with original product geometry reference",
+    "tool": "built-in image_gen.imagegen",
+    "original_file": "assets/earth-rivers-original.png",
+    "web_file": "planets-category-earth-rivers-20261011.webp",
+    "processing": "RGB WebP quality88 method6; content unchanged",
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-9f546c99-e0c8-48c2-85a1-b8ccff8fc98a.png"
+  },
+  {
+    "key": "modular-earth",
+    "refs": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five Mixed STL Sliders 2026-10-08/modular-earth-source-1.jpg"
+    ],
+    "prompt": "Use case: product-mockup. Generate one photorealistic 3:2 landscape ecommerce application concept. The input image is an authoritative reference for model geometry: keep the overall form, exact visible land shapes, orientation, ocean-floor detail and relative relief visually as close as possible. Do not replace it with a generic globe, invent countries, flatten distinctive terrain or add labels. Whole object and its support visible with generous breathing room, object fills about 60 percent of image height. Realistic construction, clear contact with support, soft detailed light. No writing, logos, watermark, people, machinery, planets in space, map grid or country boundary lines. This is an illustrative possible finished object, not a customer project photo. Subject: fully assembled rounded Earth globe constructed from exactly 12 gently curved pentagonal sections, showing fine seam lines and embossed terrain from the input reference. Rounded spherical outer silhouette, not flat-faced solid dodecahedron, not triangles. Each section one muted pastel material colour such as teal, terracotta, mustard, dusty blue and cream; colours follow whole pentagonal sections rather than continents. North America and South America positioned as reference. Subtle 3D-printed plastic layer texture; all pieces assembled, no holes, floating parts or extra loose tiles. Globe on a plain small light grey ring cradle. Scene: creative community workshop display, worktable with pink laminate top and brushed steel edge, lilac pegboard background and softly blurred neatly arranged tools far back, fresh daylight. No tools obscure globe. Focus on assembled puzzle construction, no invented connecters.",
+    "mode": "generate with original product geometry reference",
+    "tool": "built-in image_gen.imagegen",
+    "original_file": "assets/modular-earth-original.png",
+    "web_file": "planets-category-modular-earth-20261011.webp",
+    "processing": "RGB WebP quality88 method6; content unchanged",
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-6c2a4e4c-a46a-4982-8092-42941130f03a.png"
+  },
+  {
+    "key": "geoid",
+    "refs": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five Mixed STL Sliders 2026-10-08/geoid-source-1.jpg"
+    ],
+    "prompt": "Use case: product-mockup. Generate one photorealistic 3:2 landscape ecommerce application concept. The input image is an authoritative reference for model geometry: keep the overall form, exact visible land shapes, orientation, ocean-floor detail and relative relief visually as close as possible. Do not replace it with a generic globe, invent countries, flatten distinctive terrain or add labels. Whole object and its support visible with generous breathing room, object fills about 60 percent of image height. Realistic construction, clear contact with support, soft detailed light. No writing, logos, watermark, people, machinery, planets in space, map grid or country boundary lines. This is an illustrative possible finished object, not a customer project photo. Subject: artistic Earth geoid globe as a bronze-finished 3D-printed sculpture; preserve reference's distinctive uneven, softly bulging and depressed sphere shape and raised geographic surface, Africa forward and Europe above. This is not a smooth regular sphere and not a generic cratered asteroid. Sculptural broad variations closely follow the original, do not make huge spikes. Metallic coating over a printed object, softly brushed bronze with subtle patina and gentle highlights, not cast-metal manufacturing demonstration. Sculpture fully resting on a compact black square cradle atop a narrow polished green-marble pedestal. Scene: contemporary art gallery with pale lavender wall and soft diffuse gallery spotlights, blurred doorway at far side. Whole globe and pedestal top in view, uncluttered sophisticated composition.",
+    "mode": "generate with original product geometry reference",
+    "tool": "built-in image_gen.imagegen",
+    "original_file": "assets/geoid-original.png",
+    "web_file": "planets-category-geoid-20261011.webp",
+    "processing": "RGB WebP quality88 method6; content unchanged",
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-7a3d4c56-422b-421c-b72e-e98eb20075de.png"
+  }
+]
