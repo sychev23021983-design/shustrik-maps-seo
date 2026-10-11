@@ -1,0 +1,26 @@
+[
+  {
+    "key": "europe-banner",
+    "slug": "europe-3d-model",
+    "prompt": "Use case: compositing. Asset: 1536x1024 digital website hero banner concept. Input image is the exact Europe terrain product render; preserve its continent and island silhouettes, proportions, coastline and recognizable satellite terrain as closely as possible. Recompose this same map into a polished digital banner, filling right two thirds, gentle oblique angle with restrained terrain depth, ivory light blue backdrop, soft directional lighting, subtle cast shadow. Include Iceland, Ireland, Britain, Scandinavia, Iberia and Italy as in reference; keep north up, do not add islands or arbitrary map land. Empty clean left third for future website headline. No text, no UI, no monitor, no room, no physical manufactured model, no labels, no watermark. The actual map is the subject.",
+    "generated_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-8c47f806-a2e4-40ae-a49e-0bd730d2cfe5.png"
+  },
+  {
+    "key": "earth-animation",
+    "slug": "earth-3d-model",
+    "prompt": "Use case: compositing. Asset: 1536x1024 cinematic animation scene still concept. Input is exact Earth product render. Preserve the reference globe geography, viewing direction showing Africa Europe Middle East and Asia, relative coastlines, satellite textures and cloud look. Compose the same Earth as a complete globe centered slightly right, around 75 percent image height, into dark navy space with few restrained stars. Beautiful physically plausible thin cyan atmospheric rim, sunlit right side, soft terminator on left, subtle night lights near dark Europe. Polished film motion-graphics still, calm sophisticated realistic digital render, no excessive flare. No text, no play button, no UI, no satellites, no extra planets, no watermark. Do not invent continents.",
+    "generated_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-bf971a57-f090-409e-ab60-40398b47dde0.png"
+  },
+  {
+    "key": "andorra-education",
+    "slug": "3d-model-of-andorra",
+    "prompt": "Use case: compositing. Asset: 1536x1024 educational geography illustration concept. Input is exact satellite textured Andorra country terrain product render; preserve this exact irregular outline and mountain and valley layout as closely as possible. The same terrain fills center at gentle isometric angle, north approximately up; apply an illustrative elevation inspired color material, forest green lower valleys through ochre to pale cream mountain ridges, not a numerical data map. Clean cream background, clear crisp terrain detail, light technical editorial aesthetic, small unnumbered gradient swatch at bottom right, a few fine grey leader lines in empty margins with no text. Terrain should be a digital visualization without tabletop, physical print or heavy slab. No invented geographic labels, no arbitrary roads or buildings, no real elevation values, no text, no watermark.",
+    "generated_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-72bcdfa6-4730-4e0a-a2d5-1693a3537ab8.png"
+  },
+  {
+    "key": "sydney-render",
+    "slug": "sydney-opera-house-3d-model",
+    "prompt": "Use case: compositing. Asset: 1536x1024 architectural digital scene concept. Input is exact Sydney Opera House 3D product render; preserve its specific grouping, number and proportions of shell roofs, glazing, stepped podium and foreground forecourt. Place this same recognizable modeled building and podium into a believable minimal Sydney harbour setting, dark teal water around waterfront edge, twilight blue sky, warm golden interior lights in glazing, delicate water reflections. Camera gently elevated three-quarter like reference but wider to show full building and waterfront, architectural render finish, structure dominates around 70 percent image width. No additions to shell geometry, no extra towers, no bridges blocking building, no people closeups, no text, no UI, no watermark. Maintain the product's geometry rather than substitute unrelated photograph.",
+    "generated_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-4e3ebf7c-4d4d-48e5-9c59-13d90ec395fb.png"
+  }
+]

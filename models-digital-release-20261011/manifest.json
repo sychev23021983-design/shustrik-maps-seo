@@ -1,0 +1,64 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/3d-models/",
+  "term_id": 26,
+  "block_id": 22832,
+  "operation": "Replace dedicated bottom block content with four digital application concepts; preserve category placement and original shared block.",
+  "before_sha256": "50a81c6543b334385defd2116fdd2e0b23d4bde076e005f19d049aa1215f3c60",
+  "template_sha256": "bb4edab4e70a8dcea6191aeafa90796247bc2a74500293d714c7dd739bb2dc42",
+  "assets": [
+    {
+      "key": "europe-banner",
+      "mode": "new",
+      "file": "models-digital-europe-banner-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "89cac6e8d18e2741709b9d6515e316486da92c3acbbd0b711ed5ed35cfbecfca",
+      "alt": "AI-generated Europe terrain website banner concept with satellite texture and space for a headline.",
+      "title": "Europe - website banner concept",
+      "caption": "AI-generated digital application concept; scene setup and styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/europe-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "earth-animation",
+      "mode": "new",
+      "file": "models-digital-earth-animation-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e32d6340dd283bc2477eb4a271182bccce14268ecb310e4eddfa3f38356d555c",
+      "alt": "AI-generated Earth animation scene still concept with clouds, night lights and a blue atmospheric rim.",
+      "title": "Earth - animation scene still concept",
+      "caption": "AI-generated digital application concept; scene setup and styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/earth-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "andorra-education",
+      "mode": "new",
+      "file": "models-digital-andorra-education-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "87ca54befb968b6ca0e1a8c376540a278397621776f9448516bc20b52f565c9f",
+      "alt": "AI-generated Andorra educational terrain illustration concept with an illustrative green-to-gold palette.",
+      "title": "Andorra - educational illustration concept",
+      "caption": "AI-generated digital application concept; scene setup and styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/3d-model-of-andorra/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "sydney-render",
+      "mode": "new",
+      "file": "models-digital-sydney-render-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7cbe002855e31a5e4464acf0267792e794c3b8cf4b54ad43bf6e3ebd9c0009c3",
+      "alt": "AI-generated Sydney Opera House architectural scene concept with evening lighting and harbour reflections.",
+      "title": "Sydney Opera House - architectural render concept",
+      "caption": "AI-generated digital application concept; scene setup and styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/sydney-opera-house-3d-model/",
+      "prompt": "image-prompts.json"
+    }
+  ],
+  "authorization": "Owner said Р”РµР»Р°Р№ after four digital concepts were proposed: Europe website banner, Earth animation frame, Andorra educational illustration, Sydney Opera House architecture. Live publication authorized in existing session."
+}
