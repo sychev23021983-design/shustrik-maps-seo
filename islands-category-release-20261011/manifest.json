@@ -1,0 +1,63 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/islands-3d-print-cnc-models/",
+  "term_id": 27,
+  "block_id": 21178,
+  "before_sha256": "7cf5785e1445c1fdcac3567ef90183231d7ce6bb213742d0b1fe308d07e68dba",
+  "template_sha256": "27592a1c4ce0cee97f9fe75d468d372d14afc142e2e896c1f7acca14511d362b",
+  "assets": [
+    {
+      "key": "iceland",
+      "mode": "new",
+      "file": "islands-category-iceland-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c00c5c53b8afd502ef785d1cd7cff98a88a6e1051e6ee821173b95401c7bb4e1",
+      "alt": "AI-generated concept of an Iceland terrain relief CNC-carved in pale oak on a dark backing, displayed on a travertine console in a brick-walled hotel lobby.",
+      "source": "https://shustrik-maps.com/product/iceland-stl-model/",
+      "prompt": "image-prompts.json",
+      "title": "Iceland — island terrain application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "corsica",
+      "mode": "new",
+      "file": "islands-category-corsica-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "611f9bcc143a31a344cf4b87b7efd0ed9d9da884e5b4ced90151bf20ee93a639",
+      "alt": "AI-generated concept of a graphite-coloured 3D-printed Corsica relief on an oval ivory backing and brass stand, on a plaster plinth in a blue reading nook.",
+      "source": "https://shustrik-maps.com/product/corsica-island-stl-model/",
+      "prompt": "image-prompts.json",
+      "title": "Corsica — island terrain application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "japan",
+      "mode": "new",
+      "file": "islands-category-japan-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "dcf3fc47971617089748287b9dd78c1bec6c03c6f3d545af2a065137f172fe15",
+      "alt": "AI-generated concept of a blue 3D-printed Japan archipelago on a continuous grey board beneath a clear acrylic cover in a bright museum gallery.",
+      "source": "https://shustrik-maps.com/product/japan-stl-model/",
+      "prompt": "image-prompts.json",
+      "title": "Japan — island terrain application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "crete",
+      "mode": "new",
+      "file": "islands-category-crete-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "14659a78283a58b70e202fd24c9cc729cb2b50294a31689242a0858fb31cb655",
+      "alt": "AI-generated concept of Crete terrain CNC-carved in light ash wood on a sand-coloured continuous backing, on a stone shelf against a terracotta wall.",
+      "source": "https://shustrik-maps.com/product/crete-island-stl-model/",
+      "prompt": "image-prompts.json",
+      "title": "Crete — island terrain application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    }
+  ],
+  "authorization": "Owner instructed proceeding to next category in the already authorized publication workflow, specifically varying interiors or physical products. Islands selected; four newly generated settings/forms based on product card renders. Preserve SEO title/meta and catalogue."
+}

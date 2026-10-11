@@ -1,0 +1,68 @@
+{
+  "http": 200,
+  "url": "https://shustrik-maps.com/product-category/cnc-models/islands-3d-print-cnc-models/",
+  "title": "Islands 3D STL Models for 3D Printing & CNC | Topographic Maps",
+  "description": "Download high-resolution islands 3D STL models for 3D printing and CNC machining. Accurate topographic maps of islands worldwide. Instant digital download.",
+  "canonical": "https://shustrik-maps.com/product-category/cnc-models/islands-3d-print-cnc-models/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "h1": [
+    "Islands 3D STL Models for 3D Printing & CNC"
+  ],
+  "cards": [
+    {
+      "url": "https://shustrik-maps.com/product/bermuda-stl-model/",
+      "title": "Bermuda Topographic Map \u2013 3D Model for 3D Printing & CNC Carving",
+      "price": "$15.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/corsica-island-stl-model/",
+      "title": "Corsica Island STL model",
+      "price": "$20.00 Original price was: $20.00.$14.00Current price is: $14.00."
+    },
+    {
+      "url": "https://shustrik-maps.com/product/crete-island-stl-model/",
+      "title": "Crete Island 3D Topographic Map STL \u2013 Printable Relief Model for 3D Printing & CNC",
+      "price": "$15.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/cyprus-island-stl-model/",
+      "title": "Cyprus Topographic Map \u2013 3D Model for 3D Printing & CNC Carving",
+      "price": "$15.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/dominica-island-stl-model/",
+      "title": "Dominica Topographic Map \u2013 3D Model for 3D Printing & CNC Carving",
+      "price": "$15.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/iceland-stl-model/",
+      "title": "Iceland Topographic Map \u2013 3D Model for 3D Printing & CNC Carving",
+      "price": "$15.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/jamaica-stl-model/",
+      "title": "Jamaica Topographic Map \u2013 3D Model for 3D Printing & CNC Carving",
+      "price": "$15.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/japan-stl-model/",
+      "title": "Japan Topographic Map \u2013 3D Model for 3D Printing & CNC Carving",
+      "price": "$15.00"
+    }
+  ],
+  "schema_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    [
+      "Organization",
+      "Place",
+      "Store"
+    ],
+    "PostalAddress",
+    "ImageObject",
+    "BreadcrumbList"
+  ],
+  "pagination_present": false
+}
