@@ -1,0 +1,9 @@
+{
+  "full_state_hash": "55dd9e017e761c8d5d8fad01c4b8df2df1057ae682d3321f6a6f743798fbe829",
+  "excluded_runtime_cache_key": "wd_page_css_files",
+  "cache_value_hash": "72873095914f1dd9623f3d991ab95309033774244ab64082b3a170a31b44caaa",
+  "protected_without_cache": "f66728a0b36953f5725bdfac27bc94e46f5cdbf84bcd87928cd6fc935e2f7535",
+  "matches_verified_guard": true,
+  "content_installed_by_source": "173f7ce3ac63aa8754536fa7cf52672bfa2b15a0",
+  "followup": "Only guarded verification/rollback tools updated; existing publication is not applied again. Ignore exactly generated CSS cache metadata, retain exact current product post and every other metadata guard."
+}

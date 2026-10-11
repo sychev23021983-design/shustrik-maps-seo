@@ -3,7 +3,7 @@ ini_set('display_errors','0');define('WP_USE_THEMES',false);ob_start();require '
 function fail_release($message){throw new RuntimeException($message);}
 function protected_state(){
  $t=get_term(175,'product_cat');$m=get_term_meta(175);foreach(['wd_page_css_files','xts-term-175-status','product_count_product_cat','category_extra_description_type','category_extra_description_html_block'] as $k)unset($m[$k]);
- $products=[];foreach(get_posts(['post_type'=>'product','post_status'=>'publish','numberposts'=>-1,'tax_query'=>[['taxonomy'=>'product_cat','field'=>'term_id','terms'=>[175],'include_children'=>false]]]) as $p)$products[$p->ID]=hash('sha256',serialize([$p,get_post_meta($p->ID)]));
+ $products=[];foreach(get_posts(['post_type'=>'product','post_status'=>'publish','numberposts'=>-1,'tax_query'=>[['taxonomy'=>'product_cat','field'=>'term_id','terms'=>[175],'include_children'=>false]]]) as $p){$pm=get_post_meta($p->ID);unset($pm['wd_page_css_files']);$products[$p->ID]=hash('sha256',serialize([$p,$pm]));}
  $blocks=[];foreach([14417,21177,21176,21175,21178,21162] as $id)$blocks[$id]=hash('sha256',serialize([get_post($id),get_post_meta($id)]));
  return ['term'=>hash('sha256',serialize([$t,$m])),'products'=>$products,'blocks'=>$blocks];
 }
