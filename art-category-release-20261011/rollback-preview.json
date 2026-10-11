@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "mode": "--rollback-preview",
+  "utc": "2026-10-11T15:20:48+00:00",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/other-cnc-models/",
+  "term_id": 245,
+  "block_id": 22822,
+  "protected_preserved": true,
+  "media": [
+    {
+      "key": "female-face",
+      "id": 22823,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/art-category-female-face-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "nautilus",
+      "id": 22824,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/art-category-nautilus-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "kiwi-medallion",
+      "id": 22825,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/art-category-kiwi-medallion-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "zombie-box",
+      "id": 22826,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/art-category-zombie-box-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": "bf9827aac4832dce4cf49a8d3f9fda36929c90df718f052460cff7faba3c7b23",
+  "rollback_backup": "_shustrik_art_category_backup_20261011"
+}

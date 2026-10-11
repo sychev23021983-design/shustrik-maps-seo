@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "old_copy_removed": true,
+    "pagination_absent": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/cnc-models/other-cnc-models/",
+    "title": "Other Archives | 3D Models and 3D Maps",
+    "description": null,
+    "canonical": "https://shustrik-maps.com/product-category/cnc-models/other-cnc-models/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "Art STL Models for 3D Printing & CNC"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/abstract-female-face-silhouette-3d-model/",
+        "title": "Abstract Female Face Silhouette 3D Model",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/new-zealand-medallion-kiwi-stl/",
+        "title": "New Zealand Flag 3D Medallion STL – Kiwi Bird Relief Model for 3D Printing & CNC",
+        "price": "$10.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/pendant-nautilus-in-maori-style/",
+        "title": "Pendant “Nautilus” in Maori Style",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/sheik-zayed-3d-model/",
+        "title": "Sheikh Zayed 3D Model",
+        "price": "$40.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/troll-face-3d-model/",
+        "title": "Troll Face 3D Model for 3D Printing",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/zombie-monster-box-3d-model/",
+        "title": "Zombie Monster Storage Box 3D Model",
+        "price": "$15.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/cnc-models/": 200,
+    "https://shustrik-maps.com/product-category/cnc-models/other-cnc-models/jewelry-pendant/": 200,
+    "https://shustrik-maps.com/product/abstract-female-face-silhouette-3d-model/": 200,
+    "https://shustrik-maps.com/product/new-zealand-medallion-kiwi-stl/": 200,
+    "https://shustrik-maps.com/product/pendant-nautilus-in-maori-style/": 200,
+    "https://shustrik-maps.com/product/sheik-zayed-3d-model/": 200,
+    "https://shustrik-maps.com/product/troll-face-3d-model/": 200,
+    "https://shustrik-maps.com/product/zombie-monster-box-3d-model/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/art-category-female-face-20261011.webp": {
+      "http": 200,
+      "bytes": 248266,
+      "alt": "AI-generated concept of a charcoal-grey printed geometric female-face relief on a rust-red design-studio wall.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/art-category-nautilus-20261011.webp": {
+      "http": 200,
+      "bytes": 302404,
+      "alt": "AI-generated concept of a maple CNC-carved Nautilus spiral pendant with dark cord on linen in a blue ceramic tray.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/art-category-kiwi-medallion-20261011.webp": {
+      "http": 200,
+      "bytes": 148972,
+      "alt": "AI-generated concept of a slate-blue printed New Zealand medallion with kiwi head and flag relief on a clear support in a reading corner.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/art-category-zombie-box-20261011.webp": {
+      "http": 200,
+      "bytes": 135904,
+      "alt": "AI-generated concept of a teal printed Zombie Monster storage box with orange glasses and open lid on a lilac board-game table.",
+      "width": "1536",
+      "height": "1024"
+    }
+  },
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}

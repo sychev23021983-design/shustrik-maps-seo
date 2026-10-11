@@ -1,0 +1,76 @@
+{
+  "desktop": {
+    "blockHeight": 1554.5125732421875,
+    "blockTop": 945.112548828125,
+    "columns": "605.4px 605.4px",
+    "h1": [
+      "Art STL Models for 3D Printing & CNC"
+    ],
+    "images": [
+      {
+        "alt": "AI-generated concept of a charcoal-grey printed geometric female-face relief on a rust-red design-studio wall.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/art-category-female-face-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a maple CNC-carved Nautilus spiral pendant with dark cord on linen in a blue ceramic tray.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/art-category-nautilus-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a slate-blue printed New Zealand medallion with kiwi head and flag relief on a clear support in a reading corner.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/art-category-kiwi-medallion-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a teal printed Zombie Monster storage box with orange glasses and open lid on a lilac board-game table.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/art-category-zombie-box-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 1280
+  },
+  "mobile": {
+    "blockHeight": 2578.85009765625,
+    "blockTop": 1085.7000732421875,
+    "columns": "345.2px",
+    "h1": [
+      "Art STL Models for 3D Printing & CNC"
+    ],
+    "images": [
+      {
+        "alt": "AI-generated concept of a charcoal-grey printed geometric female-face relief on a rust-red design-studio wall.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/art-category-female-face-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a maple CNC-carved Nautilus spiral pendant with dark cord on linen in a blue ceramic tray.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/art-category-nautilus-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a slate-blue printed New Zealand medallion with kiwi head and flag relief on a clear support in a reading corner.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/art-category-kiwi-medallion-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a teal printed Zombie Monster storage box with orange glasses and open lid on a lilac board-game table.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/art-category-zombie-box-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "scrollY": 0,
+    "width": 390
+  },
+  "mobile_screenshot_mode": "native viewport sequence"
+}

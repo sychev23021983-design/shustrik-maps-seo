@@ -2,10 +2,10 @@
 type: seo-page-brief
 site_profile: shustrik-maps
 url: https://shustrik-maps.com/product-category/cnc-models/other-cnc-models/
-status: approved
+status: published-check-passed
 created_at: 2026-10-11
 sources: ["category.html", "manifest.json", "baseline.json", "public-baseline.json", "product-reference-qa.json", "image-prompts.json"]
-next_action: "Опубликовать нижний блок и выполнить public/browser/runtime QA"
+next_action: "Публикация и live QA завершены"
 ---
 
 # Page Brief — Art
@@ -20,6 +20,9 @@ Image constraints: geometric rectangular portrait/charcoal print/rust studio wal
 
 - [x] Owner continuation authorizes publication; varied interiors/forms preference persists.
 - [x] Six current products read; four original render references inspected and new assets/copy prepared.
-- [ ] Exact pushed source/preview/backup/transaction/media checks passed.
-- [ ] Public six cards/prices,metadata,H1,eight endpoints,four images/pairs passed.
-- [ ] Desktop/mobile/runtime/rollback-preview passed.
+- [x] Exact pushed source/preview/backup/transaction/media checks passed.
+- [x] Public six cards/prices,metadata,H1,eight endpoints,four images/pairs passed.
+- [x] Desktop/mobile/runtime/rollback-preview passed.
+
+
+Final publication and QA evidence: release-report.md.

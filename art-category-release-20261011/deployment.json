@@ -1,0 +1,10 @@
+{
+  "commit": "81f0c4e9a3e74b1e8dfc5ebb9cd2f3c7ff810c0e",
+  "archive_sha256": "ff6906cc5b3820edf78ecf9fddf05b0edb95d201df5a4ead9fa4008cbfc7904b",
+  "remote_archive_sha256": "ff6906cc5b3820edf78ecf9fddf05b0edb95d201df5a4ead9fa4008cbfc7904b",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/art-category-81f0c4e9a3e7",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}
