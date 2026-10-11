@@ -1,0 +1,128 @@
+{
+  "utc": "2026-10-11T14:40:15+00:00",
+  "block": null,
+  "term": {
+    "id": 175,
+    "slug": "satellites-cnc-models",
+    "name": "Satellites",
+    "description": "",
+    "meta": {
+      "order": [
+        "33"
+      ],
+      "title_image": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_icon": [
+        "a:2:{s:3:\"url\";s:75:\"https://shustrik-maps.com/wp-content/uploads/2024/04/NATURAL-SATELLITES.png\";s:2:\"id\";s:5:\"16288\";}"
+      ],
+      "category_icon_alt": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_extra_description_type": [
+        "text"
+      ],
+      "category_extra_description_html_block": [
+        ""
+      ],
+      "category_extra_description_text": [
+        ""
+      ],
+      "display_type": [
+        ""
+      ],
+      "thumbnail_id": [
+        "0"
+      ]
+    },
+    "protected_hash": "962838ca019658048640ca6c9489d0ed80a607a41e8cb5ea4dd07c7d3ca26c80"
+  },
+  "planets_block_hash": "c159f146aaa3f3ae4125b42e7b3e33e2a13add8a8ad74eed0ae6b6d134798367",
+  "islands_block_hash": "46c2f5ce2ca774279b50102c5133ba9405717195af9975094d400e3fa9634012",
+  "continents_block_hash": "53f5219b487d1b14c3b127c5b990e0892f44736a91bab5dbfe7eeee586d3e2a9",
+  "countries_block_hash": "f01816955682802fffd9564408d26a4a609b6d616a8a122bed4ccb394e31ca9f",
+  "usa_block_hash": "23273f7c1f5381fae079c45aaa75533204ca605859aec955a57ec84d7a05c937",
+  "parent_block_hash": "7f6ec5d47e68b6110e336be1a937f6eb24c668f3f2b9607b6d99a6d4ac47bea0",
+  "usage": {
+    "terms": [],
+    "post_refs": [],
+    "post_meta_refs": []
+  },
+  "products": [
+    {
+      "id": 16131,
+      "slug": "moon-stl-file",
+      "url": "https://shustrik-maps.com/product/moon-stl-file/",
+      "term_ids": [
+        175
+      ],
+      "state_hash": "f9ba6a9a51102ce0728cadf1f1b557fb3b04a5a84ef5265fa1445258520e10f4",
+      "images": [
+        {
+          "id": 16132,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_1-min-1.jpg"
+        },
+        {
+          "id": 16133,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_2-min-1.jpg"
+        },
+        {
+          "id": 16134,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_3-min-1.jpg"
+        },
+        {
+          "id": 16135,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_4-min-1.jpg"
+        },
+        {
+          "id": 16136,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_5-min-1.jpg"
+        },
+        {
+          "id": 16137,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_6-min-1.jpg"
+        },
+        {
+          "id": 16138,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_7-min-1.jpg"
+        },
+        {
+          "id": 16139,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_8-min-1.jpg"
+        },
+        {
+          "id": 16140,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_9-min-1.jpg"
+        },
+        {
+          "id": 16141,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_10-min-1.jpg"
+        },
+        {
+          "id": 22161,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/moon-desk-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory 3D-printed plastic Moon globe on a separate walnut cradle on a desk.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22162,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/moon-wall-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory plastic Moon hemisphere in a deep oak shadow-box frame with sage-green backing.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22163,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/moon-gift-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory plastic Moon globe in a kraft gift box with forest-green tissue and a separate walnut cradle.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22164,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/moon-commercial-1500x1000-1.jpg",
+          "alt": "AI-generated concept of a large grey concrete Moon sphere on a concrete pedestal in an astronomy museum lobby.",
+          "kind": "body-gallery"
+        }
+      ]
+    }
+  ]
+}

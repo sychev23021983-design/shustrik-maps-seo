@@ -1,0 +1,63 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/satellites-cnc-models/",
+  "term_id": 175,
+  "block_id": null,
+  "operation": "create dedicated bottom CMS block and attach via two bottom placement metadata fields",
+  "template_sha256": "acc11a0a7b168166bd6b946471c15ab7e1b0d016a26a6fd20d26de60e6400bfb",
+  "assets": [
+    {
+      "key": "moon-print",
+      "mode": "new",
+      "file": "satellites-category-moon-print-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a7500afdc671b63e1786caa09f04c301b73208e2b00aeb1670b6921c7b11d168",
+      "alt": "AI-generated concept of a grey 3D-printed Moon globe with lunar craters on an aluminium cradle in an observatory lounge.",
+      "source": "https://shustrik-maps.com/product/moon-stl-file/",
+      "prompt": "image-prompts.json",
+      "title": "Moon Print — lunar application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "moon-cnc",
+      "mode": "new",
+      "file": "satellites-category-moon-cnc-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3a1ad424d40c79416a99af03ad842b1f7053c8b82b3ed0813b66dcedbcc4317c",
+      "alt": "AI-generated concept of a maple CNC-carved Moon hemisphere on a round backing above an olive bench in a museum alcove.",
+      "source": "https://shustrik-maps.com/product/moon-stl-file/",
+      "prompt": "image-prompts.json",
+      "title": "Moon Cnc — lunar application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "moon-copper",
+      "mode": "new",
+      "file": "satellites-category-moon-copper-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "47fbd3a47e2e53853f429f432b4bba6976299f78f688bf06600b0539bae921a5",
+      "alt": "AI-generated concept of a copper-finished printed Moon globe on a black ring and terrazzo ledge in a peach-toned interior.",
+      "source": "https://shustrik-maps.com/product/moon-stl-file/",
+      "prompt": "image-prompts.json",
+      "title": "Moon Copper — lunar application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "moon-study",
+      "mode": "new",
+      "file": "satellites-category-moon-study-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "bd519f26452e479e4045ed6df185a4269ac8cb00b6d1b1053bf004eefdff9f37",
+      "alt": "AI-generated concept of a white 3D-printed Moon globe on a blue cradle in a bright astronomy teaching room.",
+      "source": "https://shustrik-maps.com/product/moon-stl-file/",
+      "prompt": "image-prompts.json",
+      "title": "Moon Study — lunar application concept",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    }
+  ],
+  "authorization": "Owner requested next category in established publication workflow; varied physical examples/interiors persist. Satellites currently one Moon product, no existing bottom block. Preserve all other category metadata/catalogue."
+}

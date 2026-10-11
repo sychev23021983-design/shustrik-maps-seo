@@ -41,3 +41,10 @@ planets-category-release-20261011/*.php text eol=lf
 planets-category-release-20261011/*.json text eol=lf
 planets-category-release-20261011/*.py text eol=lf
 planets-category-release-20261011/*.md text eol=lf
+
+# Satellites category source and evidence
+satellites-category-release-20261011/*.html text eol=lf
+satellites-category-release-20261011/*.php text eol=lf
+satellites-category-release-20261011/*.json text eol=lf
+satellites-category-release-20261011/*.py text eol=lf
+satellites-category-release-20261011/*.md text eol=lf

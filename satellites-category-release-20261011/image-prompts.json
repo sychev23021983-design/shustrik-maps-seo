@@ -1,0 +1,50 @@
+[
+  {
+    "key": "moon-print",
+    "prompt": "Use the attached original Moon product render as a strict geometry reference: preserve the spherical outline, orientation, large circular basin at upper left, dense small crater distribution, low rim heights and relative surface relief. Change its false-colour shader to the specified physical material. Do not invent Earth continents, generic exaggerated giant craters or random lunar terrain. Professional realistic physical-product concept photograph, horizontal 3:2 composition, entire object visible with breathing room, object about 55% of frame height, clear relief in grazing light. No text, logos, collage, watermark or people. A pearl-grey 3D-printed full Moon globe with subtle printing texture on a slim brushed aluminium three-point cradle, sitting on a warm terracotta tiled side table in an observatory reading lounge. Deep petrol-blue wall, soft blurred books and round window in background, daylight, calm sophisticated photographic realism. Non-luminous globe; reference details remain sharp.",
+    "tool": "image_gen.imagegen",
+    "mode": "built-in product-mockup from product reference",
+    "references": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five Atlas STL Sliders 2026-10-06/moon-source-1.jpg"
+    ],
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-c535ee26-8f4a-4420-a7f0-3417156e79f2.png",
+    "original_file": "assets/moon-print-original.png",
+    "web_file": "satellites-category-moon-print-20261011.webp"
+  },
+  {
+    "key": "moon-cnc",
+    "prompt": "Use the attached original Moon product render as a strict geometry reference: preserve the spherical outline, orientation, large circular basin at upper left, dense small crater distribution, low rim heights and relative surface relief. Change its false-colour shader to the specified physical material. Do not invent Earth continents, generic exaggerated giant craters or random lunar terrain. Professional realistic physical-product concept photograph, horizontal 3:2 composition, entire object visible with breathing room, object about 55% of frame height, clear relief in grazing light. No text, logos, collage, watermark or people. A CNC-carved light maple Moon hemisphere with its flat rear attached to a thin round charcoal backing plate, mounted on an ivory plaster wall above an olive-green upholstered bench in a contemporary museum alcove. The front is convex, genuinely hemispherical rather than a flat engraved disc; lunar reference crater pattern retained. Subtle real wood grain, raking warm museum light, unobtrusive blurred architecture. One physical sculptural piece, no frames or gift boxes.",
+    "tool": "image_gen.imagegen",
+    "mode": "built-in product-mockup from product reference",
+    "references": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five Atlas STL Sliders 2026-10-06/moon-source-1.jpg"
+    ],
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-0ff62da9-020e-40f6-af46-21959d263206.png",
+    "original_file": "assets/moon-cnc-original.png",
+    "web_file": "satellites-category-moon-cnc-20261011.webp"
+  },
+  {
+    "key": "moon-copper",
+    "prompt": "Use the attached original Moon product render as a strict geometry reference: preserve the spherical outline, orientation, large circular basin at upper left, dense small crater distribution, low rim heights and relative surface relief. Change its false-colour shader to the specified physical material. Do not invent Earth continents, generic exaggerated giant craters or random lunar terrain. Professional realistic physical-product concept photograph, horizontal 3:2 composition, entire object visible with breathing room, object about 55% of frame height, clear relief in grazing light. No text, logos, collage, watermark or people. A full spherical 3D-printed Moon sculpture with a satin copper surface finish, lightly patinated inside the craters. Supported on a low black circular ring atop a white terrazzo ledge, in a minimalist apartment with peach plaster wall and sheer curtain. Copper is a finish on a printed object, not solid cast metal. Late-afternoon side lighting, relief and characteristic large upper-left basin exactly preserved, complete globe.",
+    "tool": "image_gen.imagegen",
+    "mode": "built-in product-mockup from product reference",
+    "references": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five Atlas STL Sliders 2026-10-06/moon-source-1.jpg"
+    ],
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-64cae2fe-eb23-4cbd-897d-e1d3036f2cff.png",
+    "original_file": "assets/moon-copper-original.png",
+    "web_file": "satellites-category-moon-copper-20261011.webp"
+  },
+  {
+    "key": "moon-study",
+    "prompt": "Use the attached original Moon product render as a strict geometry reference: preserve the spherical outline, orientation, large circular basin at upper left, dense small crater distribution, low rim heights and relative surface relief. Change its false-colour shader to the specified physical material. Do not invent Earth continents, generic exaggerated giant craters or random lunar terrain. Professional realistic physical-product concept photograph, horizontal 3:2 composition, entire object visible with breathing room, object about 55% of frame height, clear relief in grazing light. No text, logos, collage, watermark or people. A chalk-white 3D-printed full Moon globe supported by a small navy-blue U-shaped cradle on a turquoise worktop in a modern astronomy teaching room. Warm yellow cabinetry and a softly blurred unlabelled star chart behind, bright natural light. Small separate ruler blurred in far background only. Full spherical shape, dense realistic reference craters and large upper-left basin preserved, non-luminous physical model.",
+    "tool": "image_gen.imagegen",
+    "mode": "built-in product-mockup from product reference",
+    "references": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/Five Atlas STL Sliders 2026-10-06/moon-source-1.jpg"
+    ],
+    "saved_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-d2a626d0-6afc-4a2b-a0f9-efa9d852484c.png",
+    "original_file": "assets/moon-study-original.png",
+    "web_file": "satellites-category-moon-study-20261011.webp"
+  }
+]
