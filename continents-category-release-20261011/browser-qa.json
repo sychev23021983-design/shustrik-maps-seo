@@ -1,0 +1,68 @@
+{
+  "desktop": {
+    "grid": "605.4px 605.4px",
+    "height": 1500.7625732421875,
+    "images": [
+      {
+        "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Europe terrain relief on a separate walnut desktop stand.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2025/02/europe-desk-1500x1000-1-766x511.jpg"
+      },
+      {
+        "alt": "AI-generated concept of Africa terrain CNC-carved in walnut, including Madagascar, on a separate solid wooden wall backing.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/continents-category-africa-walnut-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of an ivory Asia terrain relief in an oak frame with sage-green backing above a home console.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/asia-wall-1500x1000-1-766x511.jpg"
+      },
+      {
+        "alt": "AI-generated concept of an ivory South America terrain relief with additional support in a kraft gift box with forest-green tissue paper. Separate islands are mounted on the backing.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/south-america-gift-1500x1000-1-766x511.jpg"
+      }
+    ],
+    "overflow": false,
+    "top": 992.7125244140624,
+    "viewport": {
+      "height": 900,
+      "width": 1280
+    },
+    "width": 1234.800048828125
+  },
+  "mobile": {
+    "grid": "345.2px",
+    "height": 2348.5,
+    "images": [
+      {
+        "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Europe terrain relief on a separate walnut desktop stand.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2025/02/europe-desk-1500x1000-1-766x511.jpg"
+      },
+      {
+        "alt": "AI-generated concept of Africa terrain CNC-carved in walnut, including Madagascar, on a separate solid wooden wall backing.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/01/continents-category-africa-walnut-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of an ivory Asia terrain relief in an oak frame with sage-green backing above a home console.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/asia-wall-1500x1000-1-766x511.jpg"
+      },
+      {
+        "alt": "AI-generated concept of an ivory South America terrain relief with additional support in a kraft gift box with forest-green tissue paper. Separate islands are mounted on the backing.",
+        "loaded": true,
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/05/south-america-gift-1500x1000-1-766x511.jpg"
+      }
+    ],
+    "overflow": false,
+    "top": 1656.9124755859375,
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "width": 345.20001220703125
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "old_copy_removed": true,
+    "pagination_absent": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/cnc-models/continents-3d-print-cnc-models/",
+    "title": "Continents 3D STL Models for 3D Printing & CNC | Topographic Maps",
+    "description": "Download high-resolution continents 3D STL models for 3D printing and CNC machining. Accurate topographic maps of all world continents. Instant download.",
+    "canonical": "https://shustrik-maps.com/product-category/cnc-models/continents-3d-print-cnc-models/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "Continent Terrain STL Models for 3D Printing & CNC"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/africa-stl-model/",
+        "title": "Africa Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/antarctica-stl-model/",
+        "title": "Antarctica Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/asia-stl-model/",
+        "title": "Asia Topographic Map STL – 3D Terrain Model of Asia for 3D Printing & CNC",
+        "price": "$21.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/australia-stl-model/",
+        "title": "Australia Topographic Map STL– 3D Model for 3D Printing & CNC Carving",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/europe-3d-print-model-equidistan-conic/",
+        "title": "Europe Topographic Map STL – 3D Model for 3D Printing & CNC (Equidistant Conic Projection)",
+        "price": "$21.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/north-america-lambert-conformal-conic-stl-model/",
+        "title": "North America 3D Topographic Map STL Model – Lambert Conformal Conic Projection",
+        "price": "$21.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/north-america-stl-model/",
+        "title": "North America STL model",
+        "price": "$21.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/south-america-stl-model/",
+        "title": "South America 3D STL Map – Topographic Model for 3D Printing & CNC",
+        "price": "$21.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/cnc-models/": 200,
+    "https://shustrik-maps.com/product-category/cnc-models/countries-3d-print-cnc-models/": 200,
+    "https://shustrik-maps.com/product/africa-stl-model/": 200,
+    "https://shustrik-maps.com/product/asia-stl-model/": 200,
+    "https://shustrik-maps.com/product/europe-3d-print-model-equidistan-conic/": 200,
+    "https://shustrik-maps.com/product/south-america-stl-model/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2025/02/europe-desk-1500x1000-1.jpg": {
+      "http": 200,
+      "bytes": 628898,
+      "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic Europe terrain relief on a separate walnut desktop stand.",
+      "width": "1500",
+      "height": "1000"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/01/continents-category-africa-walnut-20261011.webp": {
+      "http": 200,
+      "bytes": 235392,
+      "alt": "AI-generated concept of Africa terrain CNC-carved in walnut, including Madagascar, on a separate solid wooden wall backing.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2022/05/asia-wall-1500x1000-1.jpg": {
+      "http": 200,
+      "bytes": 575496,
+      "alt": "AI-generated concept of an ivory Asia terrain relief in an oak frame with sage-green backing above a home console.",
+      "width": "1500",
+      "height": "1000"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2022/05/south-america-gift-1500x1000-1.jpg": {
+      "http": 200,
+      "bytes": 543924,
+      "alt": "AI-generated concept of an ivory South America terrain relief with additional support in a kraft gift box with forest-green tissue paper. Separate islands are mounted on the backing.",
+      "width": "1500",
+      "height": "1000"
+    }
+  },
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}

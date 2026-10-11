@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "mode": "--preview",
+  "utc": "2026-10-11T13:46:24+00:00",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/continents-3d-print-cnc-models/",
+  "block_id": 21175,
+  "protected_preserved": true,
+  "reuse": {
+    "europe": 22141,
+    "asia": 22154,
+    "south-america": 22344
+  },
+  "media": [],
+  "content_sha256": "e02e3e1dae5a796e3ecf0db39adaa674cfb4d73929225e629146c612dd7bc6ac",
+  "rollback_backup": "_shustrik_continents_category_backup_20261011"
+}

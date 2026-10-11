@@ -1,0 +1,10 @@
+{
+  "commit": "cb9903532afd3819db8f46ccbd2e2bf915214adc",
+  "archive_sha256": "fb23f89c92f20c922a82b0f517cd5798a94f33641c74cbaa245b5345dbb94087",
+  "remote_archive_sha256": "fb23f89c92f20c922a82b0f517cd5798a94f33641c74cbaa245b5345dbb94087",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/continents-category-cb9903532afd",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}
