@@ -2,8 +2,8 @@
   "site": "https://shustrik-maps.com",
   "url": "https://shustrik-maps.com/product-category/3d-models/",
   "term_id": 26,
-  "block_id": 14416,
-  "operation": "update existing bottom CMS block only; preserve placement and catalogue",
+  "block_id": null,
+  "operation": "create dedicated bottom CMS block and conditionally replace term26 description reference; preserve shared14416 and menus",
   "before_sha256": "7d7d2cf57c45e448e089e4c081e4c49be2e45839e92a27fefcd613a1f63f4468",
   "template_sha256": "94c8ddcefcf29fe0e65480ce6343d439197d70fd848e1f7199a3911d362cb447",
   "assets": [
@@ -17,7 +17,7 @@
       "alt": "AI-generated concept of a beech-wood CNC Copernicus crater relief tile on a green astronomy table.",
       "source": "https://shustrik-maps.com/product/copernicus-lunar-crater-3d-model/",
       "prompt": "image-prompts.json",
-      "title": "Copernicus Cnc — model application concept",
+      "title": "Copernicus Cnc вЂ” model application concept",
       "caption": "AI-generated application concept; not a photograph of a customer project."
     },
     {
@@ -30,7 +30,7 @@
       "alt": "AI-generated concept of a pale-grey resin-printed Theophilus crater tile on a steel support in a science exhibition.",
       "source": "https://shustrik-maps.com/product/theophilus-lunar-crater-3d-model/",
       "prompt": "image-prompts.json",
-      "title": "Theophilus Print — model application concept",
+      "title": "Theophilus Print вЂ” model application concept",
       "caption": "AI-generated application concept; not a photograph of a customer project."
     },
     {
@@ -43,7 +43,7 @@
       "alt": "AI-generated concept of an ivory resin-printed Sheikh Zayed bust on a black pedestal in a sage gallery alcove.",
       "source": "https://shustrik-maps.com/product/sheik-zayed-3d-model/",
       "prompt": "image-prompts.json",
-      "title": "Zayed Print — model application concept",
+      "title": "Zayed Print вЂ” model application concept",
       "caption": "AI-generated application concept; not a photograph of a customer project."
     },
     {
@@ -56,7 +56,7 @@
       "alt": "AI-generated concept of the Europe textured digital terrain model displayed on a monitor in a cartography studio.",
       "source": "https://shustrik-maps.com/product/europe-3d-model/",
       "prompt": "image-prompts.json",
-      "title": "Europe Digital — model application concept",
+      "title": "Europe Digital вЂ” model application concept",
       "caption": "AI-generated application concept; not a photograph of a customer project."
     }
   ],
