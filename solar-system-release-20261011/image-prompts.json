@@ -1,0 +1,26 @@
+[
+  {
+    "key": "saturn-banner",
+    "slug": "3d-model-of-saturn",
+    "prompt": "Use case: compositing. Asset: 1536x1024 digital astronomy website banner concept. Input is the Saturn product render; preserve this exact pale cream-gold planet, delicate cloud band appearance, broad fine concentric rings, dark ring division and diagonal ring plane from upper left to lower right. Recompose this same model in a refined midnight indigo space scene. Full planet and full ring ellipse visible, filling right two thirds, with clean calm negative space on left for future heading. Gentle warm side light and clear ring shadow, beautiful restrained cinematic render. Sparse small stars, no big nebula. No text, no UI, no monitor, no room, no physical globe, no extra moons or spacecraft, no watermark. Do not alter ring topology or replace it with unrelated Saturn geometry.",
+    "generated_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-8ed9e258-3b47-409b-9a88-167c77ce30f9.png"
+  },
+  {
+    "key": "mars-animation",
+    "slug": "mars-planet-3d-model",
+    "prompt": "Use case: compositing. Asset: 1536x1024 space documentary animation scene still concept. Input is the Mars product render; preserve the same red-orange globe, its specific surface pattern, volcanic forms, craters and long branching canyon region in the lower half. Create a polished cinematic orbital-view still: whole globe slightly left of center around 80 percent image height, near-black copper toned space, soft sunlight from upper right revealing terrain, left in gentle shadow. Sharp rugged terrain texture, restrained warm limb light, only sparse distant stars. No blue Earth atmosphere, no clouds, no forests or water, no invented settlements, no rover, no spacecraft, no text or video player, no watermark. The globe comes from the reference and must remain recognizably the same product.",
+    "generated_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-b9760c80-3eb1-4bff-8296-0a2016a1fe96.png"
+  },
+  {
+    "key": "moon-education",
+    "slug": "moon-3d-model",
+    "prompt": "Use case: compositing. Asset: 1536x1024 astronomy educational illustration concept. Input is the exact Moon product render. Preserve the exact visible near-side maria layout, grey terrain and crater patterns, circular globe silhouette and reference orientation as closely as possible. Isolate this same lunar globe on an elegant pale grey off-white editorial background, approximately 70 percent image height, slightly to right, with directional lighting making crater rims legible, clean black-grey tonal texture. Add a few very thin light grey leader lines pointing toward existing maria and crater areas, small endpoints only, no text. Minimal scientific editorial design, suitable for a lesson or article illustration. No atmosphere glow, no clouds, no new craters or labelled geographic claims, no cutaway interior, no physical support, no UI, no numbers, no watermark.",
+    "generated_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-48136fef-4e35-435f-8615-4ea87764fc3e.png"
+  },
+  {
+    "key": "jupiter-editorial",
+    "slug": "jupiter-planet-3d-model",
+    "prompt": "Use case: compositing. Asset: 1536x1024 science website article cover concept. Input is the exact Jupiter product render. Preserve the detailed tan, cream and pale blue-grey horizontal cloud bands, their swirling structures and the Great Red Spot in the lower right portion as in reference. Feature this same complete Jupiter globe prominently at right, roughly 85 percent image height, against deep charcoal teal space, generous negative space at left for article headline. Soft broad studio-like sunlight illuminating planet's right side, gentle shadow left, fine restrained stars and cool subdued backdrop. Premium digital editorial planetary render. Do not add new storms, rings, moons or spacecraft; no text, UI, monitor or watermark. Preserve reference globe orientation and identifiable cloud texture rather than invent a different planetary map.",
+    "generated_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-f1394c2c-37ea-43e8-ab6c-1ee8bfb6616b.png"
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "http": 200,
+  "url": "https://shustrik-maps.com/product-category/3d-models/solar-system/",
+  "title": "3D Models of the Solar System - Planets and Moons",
+  "description": "Buy high-quality 3D models of the Solar System: planets, moons, and asteroids. Perfect for graphic design and 3D printing.",
+  "canonical": "https://shustrik-maps.com/product-category/3d-models/solar-system/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "h1": [
+    "Solar System 3D Models \u2013 Planets, Earth, Moon and Lunar Surface Models"
+  ],
+  "cards": [
+    {
+      "url": "https://shustrik-maps.com/product/3d-model-of-saturn/",
+      "title": "3D Model of Saturn",
+      "price": "$25.00 Original price was: $25.00.$15.00Current price is: $15.00."
+    },
+    {
+      "url": "https://shustrik-maps.com/product/copernicus-lunar-crater-3d-model/",
+      "title": "Copernicus Lunar Crater 3D Model",
+      "price": "$25.00 Original price was: $25.00.$15.00Current price is: $15.00."
+    },
+    {
+      "url": "https://shustrik-maps.com/product/earth-3d-model-terrain-without-water/",
+      "title": "Earth 3D model Terrain Without Water",
+      "price": "$40.00 Original price was: $40.00.$32.00Current price is: $32.00."
+    },
+    {
+      "url": "https://shustrik-maps.com/product/earth-3d-model/",
+      "title": "Earth 3D Model with High-Resolution Satellite Maps and DEM Data",
+      "price": "$35.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/earths-gravity-map-3d-model/",
+      "title": "Earth\u2019s Gravity Map 3D Model \u2013 Global Gravity Anomalies with Color & Height Maps",
+      "price": "$35.00 Original price was: $35.00.$25.00Current price is: $25.00."
+    },
+    {
+      "url": "https://shustrik-maps.com/product/jupiter-planet-3d-model/",
+      "title": "Jupiter Planet 3D Model",
+      "price": "$20.00 Original price was: $20.00.$15.00Current price is: $15.00."
+    },
+    {
+      "url": "https://shustrik-maps.com/product/mars-planet-3d-model/",
+      "title": "Mars Planet 3D Model",
+      "price": "$20.00 Original price was: $20.00.$15.00Current price is: $15.00."
+    },
+    {
+      "url": "https://shustrik-maps.com/product/mercury-planet-3d-model/",
+      "title": "Mercury Planet 3D Model",
+      "price": "$20.00 Original price was: $20.00.$15.00Current price is: $15.00."
+    },
+    {
+      "url": "https://shustrik-maps.com/product/moon-3d-model/",
+      "title": "Moon 3D Model",
+      "price": "$15.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/moon-surface-3d-model/",
+      "title": "Moon Surface 3D Model",
+      "price": "$25.00 Original price was: $25.00.$15.00Current price is: $15.00."
+    },
+    {
+      "url": "https://shustrik-maps.com/product/neptune-planet-3d-model/",
+      "title": "Neptune Planet 3D Model",
+      "price": "$25.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/pluto-dwarf-planet-3d-model/",
+      "title": "Pluto Dwarf Planet 3D Model",
+      "price": "$20.00 Original price was: $20.00.$15.00Current price is: $15.00."
+    },
+    {
+      "url": "https://shustrik-maps.com/product/theophilus-lunar-crater-3d-model/",
+      "title": "Theophilus Lunar Crater 3D Model",
+      "price": "$25.00 Original price was: $25.00.$15.00Current price is: $15.00."
+    },
+    {
+      "url": "https://shustrik-maps.com/product/uranus-3d-model/",
+      "title": "Uranus 3D Model",
+      "price": "$25.00 Original price was: $25.00.$15.00Current price is: $15.00."
+    },
+    {
+      "url": "https://shustrik-maps.com/product/venus-planet-3d-model/",
+      "title": "Venus Planet 3D Model",
+      "price": "$20.00 Original price was: $20.00.$15.00Current price is: $15.00."
+    }
+  ],
+  "schema_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    [
+      "Organization",
+      "Place",
+      "Store"
+    ],
+    "PostalAddress",
+    "ImageObject",
+    "BreadcrumbList"
+  ],
+  "pagination_present": false
+}

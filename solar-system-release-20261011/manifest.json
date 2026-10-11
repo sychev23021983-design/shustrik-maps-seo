@@ -1,0 +1,64 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/3d-models/solar-system/",
+  "term_id": 170,
+  "block_id": 16359,
+  "operation": "Update dedicated bottom block content only; preserve category placement and catalogue.",
+  "before_sha256": "c0d755a00cd98968e3201231fd3471975ddb8e3e2c93d0350abecb2c69ae97d7",
+  "template_sha256": "c22d94cdaaa9f6587ec1774d0ca5dcbfe632a78fabaa1118b069adb7d95d0cb3",
+  "assets": [
+    {
+      "key": "saturn-banner",
+      "mode": "new",
+      "file": "solar-system-saturn-banner-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "1c91632358b5d770ac2829a4337b197478d8dff8371e51234f9a69d89c26f5c6",
+      "alt": "AI-generated Saturn astronomy website banner concept with detailed rings and an indigo star field.",
+      "title": "Saturn - website banner concept",
+      "caption": "AI-generated digital application concept; scene setup and styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/3d-model-of-saturn/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "mars-animation",
+      "mode": "new",
+      "file": "solar-system-mars-animation-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "1a44a02baf122f6c9c638bc7dcaada4fb5b78adf758d40ba3b2c9f4f1dd098d5",
+      "alt": "AI-generated Mars animation scene still concept with red terrain and warm directional light.",
+      "title": "Mars - animation scene still concept",
+      "caption": "AI-generated digital application concept; scene setup and styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/mars-planet-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "moon-education",
+      "mode": "new",
+      "file": "solar-system-moon-education-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "dacbb69947fc36aaa6d7ee68f79e0ac8fc1cd0fa60515ffba3d9b78ff630fb30",
+      "alt": "AI-generated Moon educational illustration concept with lunar surface detail on a light background.",
+      "title": "Moon - educational illustration concept",
+      "caption": "AI-generated digital application concept; scene setup and styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/moon-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "jupiter-editorial",
+      "mode": "new",
+      "file": "solar-system-jupiter-editorial-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b4bd59af35674c66b27779d14f1fcb5551b6255ba6a25d87de5ab91d2ff10e9d",
+      "alt": "AI-generated Jupiter science article cover concept with cloud bands and the Great Red Spot.",
+      "title": "Jupiter - article cover concept",
+      "caption": "AI-generated digital application concept; scene setup and styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/jupiter-planet-3d-model/",
+      "prompt": "image-prompts.json"
+    }
+  ],
+  "authorization": "Owner requested next category after digital applications refresh; Solar System next navigation category. Four new reference-guided digital concepts and live publication."
+}
