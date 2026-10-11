@@ -1,0 +1,51 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/",
+  "term_id": 16,
+  "block_id": 14417,
+  "before_sha256": "d7d02c54db1ee63965c5bc400d5b37a20a6925984db91ba3037abc163cffd7e4",
+  "template_sha256": "e86b98c677d735b4bb2a5f0da0aa1e73bb9117d23988ea123de4ae9298d2416a",
+  "assets": [
+    {
+      "key": "print",
+      "mode": "reuse",
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/arizona-desk-ivory-plastic-1500x1000-v2.jpg",
+      "title": "3D-printed terrain map",
+      "alt": "AI-generated concept of an ivory Arizona terrain relief on a separate wooden desk stand.",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "globe",
+      "mode": "new",
+      "original": "modular-earth-original.png",
+      "file": "cnc-category-modular-earth-20261011.webp",
+      "title": "Modular Earth globe",
+      "alt": "AI-generated concept of a spherical Earth relief globe assembled from colored curved sections on a shelf.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "78300d0fc1973cc548f01359f12254e552abef3077ddf9d65f63592541535d07",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "wood",
+      "mode": "new",
+      "original": "arizona-wood-original.png",
+      "file": "cnc-category-arizona-walnut-20261011.webp",
+      "title": "CNC-carved wooden map",
+      "alt": "AI-generated concept of an Arizona terrain relief carved in walnut on a separate wooden wall backing.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3dbbe2e27359096394ae99debca7661c2b774cfb11826a6c30f5abd3e19feccc",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    },
+    {
+      "key": "troll",
+      "mode": "reuse",
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/05/troll-skull-desk-1500x1000-1.jpg",
+      "title": "3D-printed Troll Face skull",
+      "alt": "AI-generated concept of the Troll Face skull with its wide grin and stand on a wooden desk.",
+      "caption": "AI-generated application concept; not a photograph of a customer project."
+    }
+  ],
+  "authorization": "Owner approved the category mockup and explicitly requested replacing the decorative panel with Troll Face and publishing to the site on 2026-10-11."
+}

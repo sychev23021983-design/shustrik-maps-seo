@@ -1,0 +1,9 @@
+# CNC category description and application examples
+
+Owner-approved release for https://shustrik-maps.com/product-category/cnc-models/, 2026-10-11. Replace only the category's existing bottom HTML block 14417. Category term 16, product cards, prices, pagination, URL, SEO title/meta, canonical, robots and product content remain protected by baseline hashes and public checks.
+
+The approved description is followed by four linked examples: ivory Arizona printed map, colored spherical modular Earth globe, walnut CNC Arizona map, and the owner-selected Troll Face skull replacing the decorative face panel. Images are labeled AI-generated application concepts. Reuse two existing product-card illustration attachments; import two optimized WebP illustrations made with built-in image_gen and original product renders. All four are illustrative applications, not proof of customer manufacturing or file accuracy.
+
+`snapshot.php` captures the original block and checks for shared usage. `prepare.py` creates asset hashes and the manifest. `release.php` supports preview, guarded apply, verify, rollback-preview and conditional rollback. Backup is saved in WordPress option `_shustrik_cnc_category_backup_20261011` before importing media; imported attachment IDs are journaled. A rollback restores only the original block while retaining media. `deliver.py prepare` sends a SHA256-verified Git archive of the pushed commit to the explicit external WordPress target using the established WireGuard SSH channel and existing container; no build/restart is required for this CMS-only release.
+
+Validation: PHP lint and read-only preview before apply; protected state and media hashes after apply; public checks of HTTP, H1, unchanged metadata/indexing/schema types, catalogue/pagination, links and all four images; desktop/mobile browser inspection.

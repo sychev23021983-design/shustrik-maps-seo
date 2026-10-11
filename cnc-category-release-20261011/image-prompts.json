@@ -1,0 +1,18 @@
+[
+  {
+    "key": "wood",
+    "refs": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/CNC Category Preview 2026-10-11/references/arizona-top.jpg",
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/CNC Category Preview 2026-10-11/cnc-category-preview-v3.png"
+    ],
+    "prompt": "Use case: product-mockup. Generate a SINGLE photorealistic editorial application photograph, landscape 3:2, ideally 1500 x 1000. Image 1 is authoritative Arizona terrain geometry. Image 2 is only the approved website's scene/style reference: reproduce the bottom-left wall photo as a standalone high-resolution asset, WITHOUT webpage, captions or text. Walnut Arizona-shaped 3D CNC-carved terrain slab mounted on a separate simple walnut rectangular backing on a warm off-white wall above a console, with potted plant at left, soft natural daylight. Geometry must closely trace Image 1. North up, exact irregular west edge, diagonal southwestern border, straight north and long straight east. Same canyon near upper-left third, broad smooth northeast plateau, central diagonal escarpment, broad flat southwest with sparse separated low ridges, separate ranges southeast. Shallow relative relief, no huge invented cliffs or dense generic mountains. Transfer Image 1 terrain surface accurately into wood grain. Not color printed, no yellow/orange paint, not stacked plywood, no laser outlines. Entire panel visible with comfortable margins, near frontal camera. Use the approved scene of Image 2 but emphasize exact landforms in Image 1. No words, logos, watermarks or UI."
+  },
+  {
+    "key": "globe",
+    "refs": [
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/CNC Category Preview 2026-10-11/references/earth-assembled.jpg",
+      "J:/1. My Vault/01 Projects/WordPress/shustrik-maps.com/CNC Category Preview 2026-10-11/cnc-category-preview-v3.png"
+    ],
+    "prompt": "Use case: product-mockup. Generate a SINGLE photorealistic editorial application photograph, landscape 3:2, ideally 1500 x 1000. Image 1 is authoritative assembled globe geometry and colors. Image 2 is only approved scene/style reference: recreate its top-right application photo as a standalone high-resolution asset, WITHOUT webpage/captions/text. A round assembled twelve-section Earth relief globe on a pale wooden shelf with soft natural daylight, neutral cream background, plant at right and a small softly blurred ordinary globe at far left. Preserve the SPHERICAL continuous silhouette of Image 1, flush curved pentagonal seams, original raised geographical landforms, exact visible orientation and the same sector coloring: yellow upper-left, burgundy right, cyan lower-left, pink far-left, green top-right, ochre lower-right. Solid color by section, not blue oceans/green land coloring. Matte plausible PLA, fine print layer texture, realistic shadows. NOT flat-faced dodecahedron, NOT angular polyhedron, NO triangle tiling. Entire globe comfortably visible. A small discreet support ring only if needed. The subject must be a close faithful physical material interpretation of the original product render. No words, logos, watermarks or UI."
+  }
+]
