@@ -6,8 +6,13 @@
   "post_modified_gmt": "2026-10-06 11:58:36",
   "core_reference_sha256": {
     "title": "d3d3117dc8a0b58d1806a00f06deb7958123ec562ead516f15c1bb60eef1d837",
-    "excerpt": "aaca469a72bba3da25bdf34f5f18d95d0ec79d3a3f621131e27406797ec13756",
-    "body": "56d0359f2b61c40415108500099c62a1c070e11a8f3843814dcc355ea8196fd3"
+    "excerpt": "b8dc4f4f19a110e9a90ac9b9d232adc8c0b8ea96991bc52a2b69af0dbd55735f",
+    "body": "ed0e346fc803d08577f4ff50bed75cf14462b2564d41b916046e42f4886c6358"
   },
-  "core_reference": "Read-only CNC STL inventory audit 2026-10-10; title/excerpt/body exact SHA256 guard. Product not edited by this release. Original full-state hash drift observed after preparation; exact changed metadata not identifiable from hash-only original snapshot. Guard explicitly refreshed to observed current full-state hash after verifying reference core; old baseline preserved."
+  "core_reference": "Fresh raw title/excerpt/body; HTML-stripped whitespace-normalized text matches CNC STL inventory audit 2026-10-10. Audit itself stores stripped HTML, so raw hashes use current public core. Exact current full-state guard; original hash drift remains unexplained, product not edited.",
+  "audit_normalized_text_match": {
+    "title": true,
+    "excerpt": true,
+    "body": true
+  }
 }
