@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "utc": "2026-10-11T16:14:35+00:00",
+  "source_commit": "eb7c44e99768f954addff49019a993ed41e307ec",
+  "block_id": 22832,
+  "term_id": 26,
+  "heading_only": true,
+  "no_media_created": true,
+  "protected_preserved": true,
+  "content_sha256": "50a81c6543b334385defd2116fdd2e0b23d4bde076e005f19d049aa1215f3c60",
+  "preview_passed": true,
+  "php_lint": true
+}

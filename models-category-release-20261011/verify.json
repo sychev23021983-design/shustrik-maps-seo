@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "mode": "--verify",
+  "utc": "2026-10-11T16:14:56+00:00",
+  "url": "https://shustrik-maps.com/product-category/3d-models/",
+  "term_id": 26,
+  "block_id": 22832,
+  "protected_preserved": true,
+  "media": [
+    {
+      "key": "copernicus-cnc",
+      "id": 22833,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-category-copernicus-cnc-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "theophilus-print",
+      "id": 22834,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-category-theophilus-print-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "zayed-print",
+      "id": 22835,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-category-zayed-print-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "europe-digital",
+      "id": 22836,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-category-europe-digital-20261011.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": "50a81c6543b334385defd2116fdd2e0b23d4bde076e005f19d049aa1215f3c60",
+  "rollback_backup": "_shustrik_models_category_backup_20261011"
+}

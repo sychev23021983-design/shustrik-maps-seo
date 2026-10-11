@@ -2,9 +2,9 @@
 type: seo-page-brief
 site_profile: shustrik-maps
 url: https://shustrik-maps.com/product-category/3d-models/
-status: approved
+status: published-check-passed
 created_at: 2026-10-11
-next_action: "Publish bottom block and complete public/browser/runtime QA"
+next_action: "Publication and live QA complete"
 ---
 
 # Page Brief — 3D Models
@@ -19,6 +19,9 @@ GitHub-first/source pushed before exact archive deployment to external CMS. Back
 
 - [x] Owner continuation authorizes publication and varied examples.
 - [x] Four products and original renders inspected; copy/assets prepared.
-- [ ] Exact pushed source/preview/backup/transaction/media checks passed.
-- [ ] Public metadata/cards/pagination/H1/H2/nine endpoints/four images passed.
-- [ ] Desktop/mobile/runtime/rollback-preview passed.
+- [x] Exact pushed source/preview/backup/transaction/media checks passed.
+- [x] Public metadata/cards/pagination/H1/H2/nine endpoints/four images passed.
+- [x] Desktop/mobile/runtime/rollback-preview passed.
+
+
+Final evidence: release-report.md. Initial apply followed by heading-only H1-to-H2 correction; one existing top H1 preserved.

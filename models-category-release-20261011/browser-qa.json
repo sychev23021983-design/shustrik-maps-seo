@@ -1,0 +1,75 @@
+{
+  "desktop": {
+    "blockHeight": 1578.9749755859375,
+    "blockTop": 2042.8123779296875,
+    "bottomHeading": "H2",
+    "columns": "605.4px 605.4px",
+    "h1": [
+      "3D Models"
+    ],
+    "images": [
+      {
+        "alt": "AI-generated concept of a beech-wood CNC Copernicus crater relief tile on a green astronomy table.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-category-copernicus-cnc-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a pale-grey resin-printed Theophilus crater tile on a steel support in a science exhibition.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-category-theophilus-print-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of an ivory resin-printed Sheikh Zayed bust on a black pedestal in a sage gallery alcove.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-category-zayed-print-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of the Europe textured digital terrain model displayed on a monitor in a cartography studio.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-category-europe-digital-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 1280
+  },
+  "mobile": {
+    "bottomHeading": "H2",
+    "columns": "345.2px",
+    "h1": [
+      "3D Models"
+    ],
+    "images": [
+      {
+        "alt": "AI-generated concept of a beech-wood CNC Copernicus crater relief tile on a green astronomy table.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-category-copernicus-cnc-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of a pale-grey resin-printed Theophilus crater tile on a steel support in a science exhibition.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-category-theophilus-print-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of an ivory resin-printed Sheikh Zayed bust on a black pedestal in a sage gallery alcove.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-category-zayed-print-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated concept of the Europe textured digital terrain model displayed on a monitor in a cartography studio.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-category-europe-digital-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  },
+  "mobile_screenshot_mode": "native viewport sequence"
+}

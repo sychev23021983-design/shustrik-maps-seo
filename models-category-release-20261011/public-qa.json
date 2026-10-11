@@ -1,0 +1,230 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "bottom_heading": true,
+    "old_copy_removed": true,
+    "pagination_present": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/3d-models/",
+    "title": "Buy Terrain 3D Models for Graphic Design, 3D Printing & CNC",
+    "description": "Download high-quality terrain 3D models for graphic design, topographic mapping, and 3D printing. Perfect for cartographers, educators, and CNC milling.",
+    "canonical": "https://shustrik-maps.com/product-category/3d-models/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "3D Models"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/3d-model-of-andorra/",
+        "title": "3D Model of Andorra in C4D and OBJ with High-Resolution Textures",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/europe-3d-model/",
+        "title": "3D Model of Europe (C4D, OBJ) with High-Res Relief & Textures",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/3d-model-of-saturn/",
+        "title": "3D Model of Saturn",
+        "price": "$25.00 Original price was: $25.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/3d-map-of-south-america-c4d-model/",
+        "title": "3D Model of South America",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/50-united-states-of-america-3d-model/",
+        "title": "50 United States of America 3D Model",
+        "price": "$200.00 Original price was: $200.00.$150.00Current price is: $150.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/abstract-female-face-silhouette-3d-model/",
+        "title": "Abstract Female Face Silhouette 3D Model",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/afghanistan-3d-model-terrain-map/",
+        "title": "Afghanistan OBJ Terrain Model with Texture Maps",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/afghanistan-terrain-3d-model/",
+        "title": "Afghanistan Terrain Model in C4D and OBJ",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/africa-3d-model-terrain/",
+        "title": "Africa C4D Terrain Model with Texture Maps",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/3d-model-of-africa-relief/",
+        "title": "Africa C4D Terrain Model with TIF Textures",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/alabama-state-terrain-map-3d-model/",
+        "title": "Alabama State Terrain Map 3D Model",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/albania-3d-model-terrain-map/",
+        "title": "Albania 3D Model Terrain Map",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/alberta-3d-model-terrain/",
+        "title": "Alberta 3D Model Terrain",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/algeria-3d-model-terrain-map/",
+        "title": "Algeria 3D Model Terrain Map",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/antarctica-with-ice-3d-model/",
+        "title": "Antarctica Elevation Map 3D Model",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/arabian-peninsula-3d-model-terrain/",
+        "title": "Arabian Peninsula 3D Model Terrain",
+        "price": "$35.00 Original price was: $35.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/argentina-terrain-3d-model/",
+        "title": "Argentina Terrain 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/arizona-state-terrain-map-3d-model/",
+        "title": "Arizona State Terrain Map 3D Model",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/arkansas-state-terrain-map-3d-model/",
+        "title": "Arkansas State Terrain Map 3D Model",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/armenia-3d-model-terrain-map/",
+        "title": "Armenia 3D Model Terrain Map",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/asia-3d-model-terrain/",
+        "title": "Asia 3D Model Terrain",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/australia-3d-model-terrain/",
+        "title": "Australia C4D Terrain Model with Texture Maps",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/relief-map-of-australia-3d-model/",
+        "title": "Australia Relief Map 3D model",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/australia-terrain-3d-model/",
+        "title": "Australia terrain 3D model",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/austria-3d-model-terrain-map/",
+        "title": "Austria 3D Model Terrain Map",
+        "price": "$35.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": true
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/countries-3d-models/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/other/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/solar-system/": 200,
+    "https://shustrik-maps.com/product-category/cnc-models/": 200,
+    "https://shustrik-maps.com/product/copernicus-lunar-crater-3d-model/": 200,
+    "https://shustrik-maps.com/product/europe-3d-model/": 200,
+    "https://shustrik-maps.com/product/sheik-zayed-3d-model/": 200,
+    "https://shustrik-maps.com/product/theophilus-lunar-crater-3d-model/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/models-category-copernicus-cnc-20261011.webp": {
+      "http": 200,
+      "bytes": 321778,
+      "alt": "AI-generated concept of a beech-wood CNC Copernicus crater relief tile on a green astronomy table.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/models-category-theophilus-print-20261011.webp": {
+      "http": 200,
+      "bytes": 239088,
+      "alt": "AI-generated concept of a pale-grey resin-printed Theophilus crater tile on a steel support in a science exhibition.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/models-category-zayed-print-20261011.webp": {
+      "http": 200,
+      "bytes": 82248,
+      "alt": "AI-generated concept of an ivory resin-printed Sheikh Zayed bust on a black pedestal in a sage gallery alcove.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/models-category-europe-digital-20261011.webp": {
+      "http": 200,
+      "bytes": 174312,
+      "alt": "AI-generated concept of the Europe textured digital terrain model displayed on a monitor in a cartography studio.",
+      "width": "1536",
+      "height": "1024"
+    }
+  },
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}
