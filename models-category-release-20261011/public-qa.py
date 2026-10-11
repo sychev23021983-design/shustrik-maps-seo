@@ -29,7 +29,7 @@ if mode=='baseline':
 else:
  assert mode=='verify';baseline=json.loads((ROOT/'public-baseline.json').read_text());checks={}
  for field in ['title','description','canonical','robots','cards','schema_types','pagination_present']:checks[field+'_preserved']=state[field]==baseline[field]
- checks['h1']=state['h1']==['3D Models for Terrain, Space and Sculptural Projects'];block=first(tree.xpath('//*['+has_class('shustrik-models-category')+']'));checks['block_exists']=block is not None
+ checks['h1']=state['h1']==baseline['h1']==['3D Models'];block=first(tree.xpath('//*['+has_class('shustrik-models-category')+']'));checks['block_exists']=block is not None;checks['bottom_heading']=block is not None and block.xpath('.//h2[@id="models-category-title"]/text()')==['3D Models for Terrain, Space and Sculptural Projects']
  checks['old_copy_removed']='UNUSED_PREVIOUS_HEADING' not in text(tree)
  checks['pagination_present']=state['pagination_present']
  checks['images']=block is not None and len(block.xpath('.//img'))==4
