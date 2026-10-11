@@ -1,0 +1,50 @@
+{
+  "ok": true,
+  "mode": "--verify",
+  "utc": "2026-10-11T11:13:20+00:00",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/states-of-america/",
+  "block_id": 21177,
+  "protected_preserved": true,
+  "reuse": {
+    "california": 22050,
+    "arizona": 22806,
+    "new_jersey": 22270,
+    "new_york": 22059
+  },
+  "media": [
+    {
+      "key": "california",
+      "id": 22050,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/california-desk-1500x1000-1.jpg",
+      "mode": "reuse",
+      "width": 1500,
+      "height": 1000
+    },
+    {
+      "key": "arizona",
+      "id": 22806,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/08/cnc-category-arizona-walnut-20261011.webp",
+      "mode": "reuse",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "new_jersey",
+      "id": 22270,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/new-jersey-desk-1500x1000-1.jpg",
+      "mode": "reuse",
+      "width": 1500,
+      "height": 1000
+    },
+    {
+      "key": "new_york",
+      "id": 22059,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2022/05/new-york-gift-1500x1000-1.jpg",
+      "mode": "reuse",
+      "width": 1500,
+      "height": 1000
+    }
+  ],
+  "content_sha256": "2bdca6c7d0db8f42e8dda684c5acdc0b1b65b67f5f8140a29a4a393c51277e36",
+  "rollback_backup": "_shustrik_usa_category_backup_20261011"
+}

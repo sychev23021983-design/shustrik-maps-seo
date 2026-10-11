@@ -1,0 +1,227 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "old_copy_removed": true,
+    "pagination": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "page2_http": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/cnc-models/states-of-america/",
+    "title": "USA States 3D STL Models for 3D Printing & CNC | Topographic Maps",
+    "description": "Download high-resolution USA states 3D STL models for 3D printing and CNC machining. Accurate topographic maps of all U.S. states. Instant download.",
+    "canonical": "https://shustrik-maps.com/product-category/cnc-models/states-of-america/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "U.S. State Terrain STL Models for 3D Printing & CNC"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/state-of-alabama-stl-model/",
+        "title": "Alabama Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-arizona-stl-model/",
+        "title": "Arizona Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-arkansas-stl-model/",
+        "title": "Arkansas Topographic Map STL Models – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-colorado-stl-model/",
+        "title": "Colorado Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/complete-usa-50-states-topographic-map-3d-model-for-3d-printing-cnc-carving/",
+        "title": "Complete USA Topographic Map STL – 50 States 3D Terrain Model for 3D Printing & CNC",
+        "price": "$50.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-connecticut-stl-model/",
+        "title": "Connecticut Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-florida-stl-model/",
+        "title": "Florida Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-hawaii-stl-model/",
+        "title": "Hawaii Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-idaho-stl-model/",
+        "title": "Idaho Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-illinois-stl-model/",
+        "title": "Illinois Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-indiana-stl-model/",
+        "title": "Indiana Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-iowa-stl-model/",
+        "title": "Iowa Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-kansas-stl-model/",
+        "title": "Kansas Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-kentucky-stl-model/",
+        "title": "Kentucky Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-louisiana-stl-model/",
+        "title": "Louisiana Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-maine-stl-model/",
+        "title": "Maine Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-maryland-stl-model/",
+        "title": "Maryland Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-massachusetts-stl-model/",
+        "title": "Massachusetts Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-michigan-stl-model/",
+        "title": "Michigan Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-minnesota-stl-model/",
+        "title": "Minnesota Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-mississippi-stl-model/",
+        "title": "Mississippi Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-missouri-stl-model/",
+        "title": "Missouri Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-montana-stl-model/",
+        "title": "Montana Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-nebraska-stl-model/",
+        "title": "Nebraska Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/state-of-nevada-stl-model/",
+        "title": "Nevada Topographic Map STL – 3D Terrain Model for 3D Printing & CNC",
+        "price": "$21.00 Original price was: $21.00.$15.00Current price is: $15.00."
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ]
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/cnc-models/": 200,
+    "https://shustrik-maps.com/product/state-of-arizona-stl-model/": 200,
+    "https://shustrik-maps.com/product/state-of-california-stl-model/": 200,
+    "https://shustrik-maps.com/product/state-of-missouri-stl-model/": 200,
+    "https://shustrik-maps.com/product/state-of-new-jersey-stl-model/": 200,
+    "https://shustrik-maps.com/product/state-of-new-york-stl-model/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/california-desk-1500x1000-1.jpg": {
+      "http": 200,
+      "bytes": 501452,
+      "alt": "AI-generated concept of an ivory California terrain relief on a walnut stand on a sunlit home desk.",
+      "width": "1500",
+      "height": "1000"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2023/08/cnc-category-arizona-walnut-20261011.webp": {
+      "http": 200,
+      "bytes": 280878,
+      "alt": "AI-generated concept of an Arizona terrain relief carved in walnut on a separate wooden wall backing.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2022/05/new-jersey-desk-1500x1000-1.jpg": {
+      "http": 200,
+      "bytes": 559870,
+      "alt": "AI-generated concept of an ivory-coloured 3D-printed plastic New Jersey terrain relief fully supported on a solid walnut desktop backing panel.",
+      "width": "1500",
+      "height": "1000"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2022/05/new-york-gift-1500x1000-1.jpg": {
+      "http": 200,
+      "bytes": 724328,
+      "alt": "AI-generated concept of an ivory New York State terrain relief on a separate supporting base in a kraft gift box with forest-green tissue paper.",
+      "width": "1500",
+      "height": "1000"
+    }
+  },
+  "page2_cards": 25,
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}

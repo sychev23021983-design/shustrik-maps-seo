@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "mode": "--preview",
+  "utc": "2026-10-11T11:12:35+00:00",
+  "url": "https://shustrik-maps.com/product-category/cnc-models/states-of-america/",
+  "block_id": 21177,
+  "protected_preserved": true,
+  "reuse": {
+    "california": 22050,
+    "arizona": 22806,
+    "new_jersey": 22270,
+    "new_york": 22059
+  },
+  "media": [],
+  "content_sha256": "c3b6c2dc8ebfd4d423618400d8889e67da364f954d997e49c5e92ffb5190c783",
+  "rollback_backup": "_shustrik_usa_category_backup_20261011"
+}
