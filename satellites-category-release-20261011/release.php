@@ -25,7 +25,7 @@ function verify_block($b){$p=get_post($b['block_id']);if(!$p||$p->post_type!=='c
 function refresh_category($url,$id){clean_post_cache($id);clean_term_cache(175,'product_cat');if(function_exists('rocket_clean_files'))rocket_clean_files([$url]);do_action('litespeed_purge_url',$url);}
 try{
  if(PHP_SAPI!=='cli'||rtrim(home_url(),'/')!=='https://shustrik-maps.com')fail_release('Wrong site');
- $mode=$argv[1]??'--preview';if(!in_array($mode,['--preview','--apply','--resume-prepared','--verify','--rollback-preview','--rollback']))fail_release('Mode');
+ $mode=$argv[1]??'--preview';if(!in_array($mode,['--preview','--apply','--resume-prepared','--publish-ready','--verify','--rollback-preview','--rollback']))fail_release('Mode');
  $m=json_decode(file_get_contents(__DIR__.'/manifest.json'),true,512,JSON_THROW_ON_ERROR);$baseline=json_decode(file_get_contents(__DIR__.'/baseline.json'),true,512,JSON_THROW_ON_ERROR);
  if($m['term_id']!==175||$m['block_id']!==null||count($m['assets'])!==4)fail_release('Scope');
  $template=file_get_contents(__DIR__.'/category.html');if(hash('sha256',$template)!==$m['template_sha256'])fail_release('Template hash');
@@ -36,7 +36,8 @@ try{
  if(in_array($mode,['--verify','--rollback-preview','--rollback'])){if(!$b||$b['status']!=='published')fail_release('Missing published backup');assert_placement($b['placement_after']);verify_block($b);check_usage($b['block_id']);}
  else{assert_placement($before);if($before!==['type'=>'text','block'=>'']||get_term_meta(175,'category_extra_description_text',true)!=='')fail_release('Not an empty bottom section');
   $draft=get_page_by_path('satellites-category-applications-20261011',OBJECT,'cms_block');
-  if($mode==='--resume-prepared'){$j=get_option($journal_key,null);if(!$b||$b['status']!=='prepared'||isset($b['block_id'])||$b['placement_before']!==$before||$b['baseline']!==$baseline||$j!==['ids'=>[],'status'=>'importing']||!$draft||$draft->ID!==22817||$draft->post_status!=='draft'||$draft->post_content!==''||$draft->post_title!=='Satellites — Moon STL applications')fail_release('Prepared resume state mismatch');}
+  if($mode==='--publish-ready'){$j=get_option($journal_key,null);if(!$b||$b['status']!=='ready'||$b['block_id']!==22817||$b['placement_before']!==$before||$b['baseline']!==$baseline||$j!==['ids'=>$b['ids'],'status'=>'importing']||!$draft||$draft->ID!==22817||$draft->post_status!=='publish'||hash('sha256',$draft->post_content)!=='6ed241a74ec44287ebfc4a6b3feffd06f3242ef111c05bd788ab1ce07cf4c68c')fail_release('Ready publication state mismatch');}
+  elseif($mode==='--resume-prepared'){$j=get_option($journal_key,null);if(!$b||$b['status']!=='prepared'||isset($b['block_id'])||$b['placement_before']!==$before||$b['baseline']!==$baseline||$j!==['ids'=>[],'status'=>'importing']||!$draft||$draft->ID!==22817||$draft->post_status!=='draft'||$draft->post_content!==''||$draft->post_title!=='Satellites — Moon STL applications')fail_release('Prepared resume state mismatch');}
   elseif($b!==null||get_option($journal_key,null)!==null||$draft)fail_release('Existing release; inspect before retry');
  }
  if(in_array($mode,['--apply','--resume-prepared'])){
@@ -52,20 +53,32 @@ try{
   }
   if(strpos($template,'{{')!==false)fail_release('Unresolved template');
   $after='[vc_row type="boxed" max_width="1600"][vc_column][vc_raw_html]'.base64_encode(rawurlencode($template)).'[/vc_raw_html][/vc_column][/vc_row]';
-  $r=wp_update_post(wp_slash(['ID'=>$id,'post_status'=>'publish','post_content'=>$after]),true);if(is_wp_error($r))fail_release('Block publication');
+  $r=wp_update_post(wp_slash(['ID'=>$id,'post_status'=>'publish']),true);if(is_wp_error($r))fail_release('Block publication');$block_before=get_post($id)->post_content;
   $b=array_merge($b,['after'=>$after,'ids'=>$ids,'placement_after'=>['type'=>'html_block','block'=>(string)$id],'status'=>'ready']);update_option($backup_key,$b,false);
   global $wpdb;$wpdb->query('START TRANSACTION');
   try{$wpdb->get_results($wpdb->prepare("SELECT meta_id FROM {$wpdb->termmeta} WHERE term_id=%d FOR UPDATE",175));wp_cache_delete(175,'term_meta');assert_placement($before);if(protected_state()!==$protected)fail_release('Concurrent protected edit');
+   $changed=$wpdb->query($wpdb->prepare("UPDATE {$wpdb->posts} SET post_content=%s,post_modified=%s,post_modified_gmt=%s WHERE ID=%d AND post_content=%s",$after,current_time('mysql'),current_time('mysql',true),$id,$block_before));if($changed!==1)fail_release('Conditional block content write');clean_post_cache($id);
    foreach(['category_extra_description_type'=>'html_block','category_extra_description_html_block'=>(string)$id] as $key=>$value){if(!update_term_meta(175,$key,$value))fail_release('Placement write');}
    wp_cache_delete(175,'term_meta');assert_placement($b['placement_after']);assert_protected(protected_state(),$baseline);verify_block($b);check_usage($id);$wpdb->query('COMMIT');
   }catch(Throwable $e){$wpdb->query('ROLLBACK');wp_cache_delete(175,'term_meta');throw $e;}
   $b['status']='published';$b['published_at']=gmdate('c');update_option($backup_key,$b,false);update_option($journal_key,['ids'=>$ids,'status'=>'published'],false);refresh_category($m['url'],$id);
+ }
+ if($mode==='--publish-ready'){
+  $id=$b['block_id'];$block_before=$draft->post_content;$protected=protected_state();
+  foreach($m['assets'] as $asset){$aid=$b['ids'][$asset['key']];if(hash_file('sha256',get_attached_file($aid))!==$asset['sha256'])fail_release('Ready media hash');$image=wp_get_attachment_image($aid,'large',false,['alt'=>$asset['alt'],'loading'=>'lazy','decoding'=>'async','class'=>'cnc-application-photo']);$template=str_replace('{{IMAGE:'.$asset['key'].'}}',$image,$template);}
+  $after='[vc_row type="boxed" max_width="1600"][vc_column][vc_raw_html]'.base64_encode(rawurlencode($template)).'[/vc_raw_html][/vc_column][/vc_row]';if($after!==$b['after']||strpos($template,'{{')!==false)fail_release('Ready template mismatch');
+  global $wpdb;$wpdb->query('START TRANSACTION');try{$wpdb->get_var($wpdb->prepare("SELECT ID FROM {$wpdb->posts} WHERE ID=%d FOR UPDATE",$id));$wpdb->get_results($wpdb->prepare("SELECT meta_id FROM {$wpdb->termmeta} WHERE term_id=%d FOR UPDATE",175));wp_cache_delete(175,'term_meta');clean_post_cache($id);assert_placement($before);if(protected_state()!==$protected||get_post($id)->post_content!==$block_before)fail_release('Concurrent ready edit');
+   $changed=$wpdb->query($wpdb->prepare("UPDATE {$wpdb->posts} SET post_content=%s,post_modified=%s,post_modified_gmt=%s WHERE ID=%d AND post_content=%s",$after,current_time('mysql'),current_time('mysql',true),$id,$block_before));if($changed!==1)fail_release('Conditional ready block write');clean_post_cache($id);
+   foreach(['category_extra_description_type'=>'html_block','category_extra_description_html_block'=>(string)$id] as $key=>$value)if(!update_term_meta(175,$key,$value))fail_release('Ready placement write');
+   wp_cache_delete(175,'term_meta');assert_placement($b['placement_after']);assert_protected(protected_state(),$baseline);verify_block($b);check_usage($id);$wpdb->query('COMMIT');
+  }catch(Throwable $e){$wpdb->query('ROLLBACK');wp_cache_delete(175,'term_meta');clean_post_cache($id);throw $e;}
+  $b['status']='published';$b['published_at']=gmdate('c');update_option($backup_key,$b,false);update_option($journal_key,['ids'=>$b['ids'],'status'=>'published'],false);refresh_category($m['url'],$id);
  }
  if($mode==='--rollback'){
   global $wpdb;$wpdb->query('START TRANSACTION');try{$wpdb->get_results($wpdb->prepare("SELECT meta_id FROM {$wpdb->termmeta} WHERE term_id=%d FOR UPDATE",175));wp_cache_delete(175,'term_meta');assert_placement($b['placement_after']);verify_block($b);assert_protected(protected_state(),$baseline);
    update_term_meta(175,'category_extra_description_type',$b['placement_before']['type']);update_term_meta(175,'category_extra_description_html_block',$b['placement_before']['block']);wp_cache_delete(175,'term_meta');assert_placement($b['placement_before']);assert_protected(protected_state(),$baseline);$wpdb->query('COMMIT');
   }catch(Throwable $e){$wpdb->query('ROLLBACK');wp_cache_delete(175,'term_meta');throw $e;}$b['status']='rolled-back';update_option($backup_key,$b,false);refresh_category($m['url'],$b['block_id']);
  }
- $media=[];if(in_array($mode,['--apply','--resume-prepared','--verify','--rollback-preview'])){foreach($m['assets'] as $asset){$aid=$b['ids'][$asset['key']];$data=wp_get_attachment_metadata($aid);if(!$data||$data['width']<1000||$data['height']<600||hash_file('sha256',get_attached_file($aid))!==$asset['sha256']||get_post_meta($aid,'_wp_attachment_image_alt',true)!==$asset['alt'])fail_release('Media verification');$media[]=['key'=>$asset['key'],'id'=>$aid,'url'=>wp_get_attachment_url($aid),'mode'=>'new','width'=>$data['width'],'height'=>$data['height']];}}
+ $media=[];if(in_array($mode,['--apply','--resume-prepared','--publish-ready','--verify','--rollback-preview'])){foreach($m['assets'] as $asset){$aid=$b['ids'][$asset['key']];$data=wp_get_attachment_metadata($aid);if(!$data||$data['width']<1000||$data['height']<600||hash_file('sha256',get_attached_file($aid))!==$asset['sha256']||get_post_meta($aid,'_wp_attachment_image_alt',true)!==$asset['alt'])fail_release('Media verification');$media[]=['key'=>$asset['key'],'id'=>$aid,'url'=>wp_get_attachment_url($aid),'mode'=>'new','width'=>$data['width'],'height'=>$data['height']];}}
  assert_protected(protected_state(),$baseline);echo json_encode(['ok'=>true,'mode'=>$mode,'utc'=>gmdate('c'),'url'=>$m['url'],'term_id'=>175,'block_id'=>$b['block_id']??null,'protected_preserved'=>true,'media'=>$media,'content_sha256'=>isset($b['after'])?hash('sha256',$b['after']):null,'rollback_backup'=>$backup_key],JSON_UNESCAPED_SLASHES|JSON_UNESCAPED_UNICODE)."\n";
 }catch(Throwable $e){echo json_encode(['ok'=>false,'reason'=>$e instanceof RuntimeException?$e->getMessage():'Internal error'])."\n";exit(1);}
