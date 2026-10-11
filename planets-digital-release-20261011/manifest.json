@@ -1,0 +1,64 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/3d-models/solar-system/planets-3d-models/",
+  "term_id": 86,
+  "block_id": 17235,
+  "operation": "Update dedicated bottom block content only; preserve category placement/catalogue/prior blocks.",
+  "before_sha256": "c2cd2a0494dc8d4f26b382cf3162554b5ea21beedaa04987b826b267921947a6",
+  "template_sha256": "7db38af377d8b67f8ffbb822081154134327a0244ee1b491ac523be2a236382d",
+  "assets": [
+    {
+      "key": "mercury-education",
+      "mode": "new",
+      "file": "planets-digital-mercury-education-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e0c63ee4e600eeccb844e9060b9041ff6dd33748d14455358be5263d7ee9779e",
+      "alt": "AI-generated Mercury colour-texture illustration concept with blue and gold terrain on a dark editorial background.",
+      "title": "Mercury - colour-texture illustration concept",
+      "caption": "AI-generated digital application concept; scene setup and styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/mercury-planet-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "venus-animation",
+      "mode": "new",
+      "file": "planets-digital-venus-animation-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7c8fc0f75416cb46beb502e20fe3003efa8f173a19a72eb92bfe97a7a6321b68",
+      "alt": "AI-generated Venus animation scene still concept with soft cloud textures and warm light.",
+      "title": "Venus - animation scene still concept",
+      "caption": "AI-generated digital application concept; scene setup and styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/venus-planet-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "neptune-banner",
+      "mode": "new",
+      "file": "planets-digital-neptune-banner-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "105fde8e51b14bd814dfc35b84d604fcb04ea94cc5d305053dc3b34041737f54",
+      "alt": "AI-generated Neptune astronomy website banner concept with a pale globe and a blue space background.",
+      "title": "Neptune - website banner concept",
+      "caption": "AI-generated digital application concept; scene setup and styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/neptune-planet-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "uranus-presentation",
+      "mode": "new",
+      "file": "planets-digital-uranus-presentation-20261011.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "67d66766e3a948411fd9920e26a0587c73a6656f83bcd9db69bb7a267d9ffc76",
+      "alt": "AI-generated Uranus presentation illustration concept with a cyan globe and ring arcs on a lavender background.",
+      "title": "Uranus - presentation illustration concept",
+      "caption": "AI-generated digital application concept; scene setup and styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/uranus-3d-model/",
+      "prompt": "image-prompts.json"
+    }
+  ],
+  "authorization": "Owner requested next category; continue Planets under 3D Models with four new reference-guided digital applications and live publication."
+}

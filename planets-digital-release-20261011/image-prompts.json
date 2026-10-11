@@ -1,0 +1,26 @@
+[
+  {
+    "key": "mercury-education",
+    "slug": "mercury-planet-3d-model",
+    "prompt": "Use case: compositing. Asset: 1536x1024 digital planetary texture educational illustration concept. Reference image is exact Mercury product render with blue-violet and gold enhanced-colour terrain texture. Preserve this same colour treatment, specific crater markings, gold upper-right region, deep blue lower terrain and original globe orientation as closely as possible. Place complete globe at center-left occupying 80 percent image height on an elegant dark charcoal blue editorial backdrop. Directional light revealing crater textures but less shadow than reference. On empty right margin place a minimal vertical row of four small unlabelled colour swatches drawn from planet palette, no numbers or labels. Clean scientific editorial illustration aesthetic. These are illustrative texture colours, not natural colour, not an elevation legend. No atmosphere, oceans, new continents, spacecraft, physical support, text, UI, watermark.",
+    "generated_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-2e8b8e4f-1553-4f8b-92d7-3e5f76dbc248.png"
+  },
+  {
+    "key": "venus-animation",
+    "slug": "venus-planet-3d-model",
+    "prompt": "Use case: compositing. Asset: 1536x1024 cinematic planetary animation scene still concept. Reference image is exact Venus product render. Preserve its creamy beige cloudy globe and the precise soft cloud texture pattern and orientation, subtle grey-blue rim. Recompose this same complete globe slightly right of centre, 78 percent image height, on restrained dark plum and bronze space, warm grazing sunlight from upper right, gentle broad terminator on left. A polished documentary motion-graphics still, sophisticated soft cloud detail rather than terrestrial surface terrain. Small restrained distant stars only. No added volcanic terrain, no blue oceans, no continents, no orange lava, no rings, moons, spacecraft, text, play button, UI, watermark. Do not replace reference texture with unrelated planet.",
+    "generated_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-b6eb459f-554b-49e4-bf54-12a71cbfe6f6.png"
+  },
+  {
+    "key": "neptune-banner",
+    "slug": "neptune-planet-3d-model",
+    "prompt": "Use case: compositing. Asset: 1536x1024 digital astronomy website banner concept. Reference is exact Neptune product render: pale muted icy blue-grey globe with restrained thin white cloud streaks. Preserve reference hue rather than make it saturated cobalt; preserve soft atmospheric texture and exact visible cloud streak arrangement and orientation. Complete globe on right two thirds at about 78 percent image height, a sophisticated deep blue-to-muted-teal gradient space backdrop, open empty left third for future web headline. Gentle cool directional light, spherical shape readable, few fine stars. No new large storms, no extra rings or Triton moon because not in reference, no Earth-like clouds, continents or water, no text, UI, monitor, physical globe, watermark.",
+    "generated_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-f0ae45a3-dd57-4713-94e2-9ee023c96c14.png"
+  },
+  {
+    "key": "uranus-presentation",
+    "slug": "uranus-3d-model",
+    "prompt": "Use case: compositing. Asset: 1536x1024 digital presentation illustration concept. Reference is the exact Uranus product render: soft cyan planet with its particular cloudy texture and nearly vertical diagonal ring plane behind the globe. Keep the same sphere, texture orientation, cyan tones, original ring angles and number of visible ring arcs as closely as possible. Wider clean composition with full globe around 75 percent image height at centre-right, some ring arcs extend beyond frame as in reference; do not invent missing ring structure. Pale lavender-grey editorial gradient background, clear soft directional lighting, delicate dark-grey rings behind planet. Empty space on left for a presentation title. Digital astronomy illustration, no physical stand or room, no extra moons, Saturn-like diagonal rings or ring recolouring, no text, numerical claims, UI, watermark.",
+    "generated_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-0996b83f-8f6d-4b46-9bfb-525d6cadb292.png"
+  }
+]
