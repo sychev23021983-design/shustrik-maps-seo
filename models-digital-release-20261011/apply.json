@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "mode": "--apply",
+  "utc": "2026-10-11T17:17:56+00:00",
+  "url": "https://shustrik-maps.com/product-category/3d-models/",
+  "term_id": 26,
+  "block_id": 22832,
+  "protected_preserved": true,
+  "media": [
+    {
+      "key": "europe-banner",
+      "id": 22837,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-digital-europe-banner-20261011.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "earth-animation",
+      "id": 22838,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-digital-earth-animation-20261011.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "andorra-education",
+      "id": 22839,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-digital-andorra-education-20261011.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "sydney-render",
+      "id": 22840,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-digital-sydney-render-20261011.webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": "2253a9bdde318c4e4097380d11acd79360401a7e4866ec7961bfe19151605a57",
+  "rollback_backup": "_shustrik_models_digital_backup_20261011"
+}

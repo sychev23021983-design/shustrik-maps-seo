@@ -1,0 +1,75 @@
+{
+  "desktop": {
+    "blockHeight": 1578.9749755859375,
+    "blockTop": 2042.812438964844,
+    "bottomHeading": "H2",
+    "columns": "605.4px 605.4px",
+    "h1": [
+      "3D Models"
+    ],
+    "images": [
+      {
+        "alt": "AI-generated Europe terrain website banner concept with satellite texture and space for a headline.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-digital-europe-banner-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Earth animation scene still concept with clouds, night lights and a blue atmospheric rim.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-digital-earth-animation-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Andorra educational terrain illustration concept with an illustrative green-to-gold palette.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-digital-andorra-education-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Sydney Opera House architectural scene concept with evening lighting and harbour reflections.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-digital-sydney-render-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 1280
+  },
+  "mobile": {
+    "bottomHeading": "H2",
+    "columns": "345.2px",
+    "h1": [
+      "3D Models"
+    ],
+    "images": [
+      {
+        "alt": "AI-generated Europe terrain website banner concept with satellite texture and space for a headline.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-digital-europe-banner-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Earth animation scene still concept with clouds, night lights and a blue atmospheric rim.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-digital-earth-animation-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Andorra educational terrain illustration concept with an illustrative green-to-gold palette.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-digital-andorra-education-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Sydney Opera House architectural scene concept with evening lighting and harbour reflections.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/models-digital-sydney-render-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  },
+  "mobile_capture_mode": "native viewport sequence"
+}
