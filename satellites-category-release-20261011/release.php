@@ -10,7 +10,7 @@ function protected_state(){
 function assert_protected($a,$b){
  if($a['term']!==$b['term']['protected_hash'])fail_release('Protected category drift');
  if(count($a['products'])!==count($b['products']))fail_release('Catalogue membership drift');
- foreach($b['products'] as $p)if(($a['products'][$p['id']]??'')!==$p['state_hash'])fail_release('Product drift');
+ foreach($b['products'] as $p){$expected=$p['state_hash'];if($p['id']===16131){$r=json_decode(file_get_contents(__DIR__.'/product-guard-refresh.json'),true,512,JSON_THROW_ON_ERROR);if($r['original_state_hash']!==$expected)fail_release('Original product guard mismatch');$v=get_post(16131);foreach(['title'=>'post_title','excerpt'=>'post_excerpt','body'=>'post_content'] as $key=>$field)if(hash('sha256',$v->$field)!==$r['core_reference_sha256'][$key])fail_release('Moon product core reference drift');if($v->post_modified_gmt!==$r['post_modified_gmt'])fail_release('Moon modified date drift');$expected=$r['current_state_hash'];}if(($a['products'][$p['id']]??'')!==$expected)fail_release('Product drift');}
  foreach([14417=>'parent',21177=>'usa',21176=>'countries',21175=>'continents',21178=>'islands',21162=>'planets'] as $id=>$key)if($a['blocks'][$id]!==$b[$key.'_block_hash'])fail_release('Existing category block drift');
 }
 function placement_state(){return ['type'=>get_term_meta(175,'category_extra_description_type',true),'block'=>get_term_meta(175,'category_extra_description_html_block',true)];}

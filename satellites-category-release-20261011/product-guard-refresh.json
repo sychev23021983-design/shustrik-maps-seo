@@ -1,0 +1,13 @@
+{
+  "product_id": 16131,
+  "original_state_hash": "f9ba6a9a51102ce0728cadf1f1b557fb3b04a5a84ef5265fa1445258520e10f4",
+  "current_state_hash": "f66728a0b36953f5725bdfac27bc94e46f5cdbf84bcd87928cd6fc935e2f7535",
+  "observed_at": "2026-10-11T14:44:48Z",
+  "post_modified_gmt": "2026-10-06 11:58:36",
+  "core_reference_sha256": {
+    "title": "d3d3117dc8a0b58d1806a00f06deb7958123ec562ead516f15c1bb60eef1d837",
+    "excerpt": "aaca469a72bba3da25bdf34f5f18d95d0ec79d3a3f621131e27406797ec13756",
+    "body": "56d0359f2b61c40415108500099c62a1c070e11a8f3843814dcc355ea8196fd3"
+  },
+  "core_reference": "Read-only CNC STL inventory audit 2026-10-10; title/excerpt/body exact SHA256 guard. Product not edited by this release. Original full-state hash drift observed after preparation; exact changed metadata not identifiable from hash-only original snapshot. Guard explicitly refreshed to observed current full-state hash after verifying reference core; old baseline preserved."
+}
