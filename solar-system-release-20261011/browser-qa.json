@@ -1,0 +1,75 @@
+{
+  "desktop": {
+    "blockHeight": 1554.5125732421875,
+    "blockTop": 1230.2874145507812,
+    "bottomHeading": "H1",
+    "columns": "605.4px 605.4px",
+    "h1": [
+      "Solar System 3D Models for Rendering and Animation"
+    ],
+    "images": [
+      {
+        "alt": "AI-generated Saturn astronomy website banner concept with detailed rings and an indigo star field.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/06/solar-system-saturn-banner-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Mars animation scene still concept with red terrain and warm directional light.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/06/solar-system-mars-animation-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Moon educational illustration concept with lunar surface detail on a light background.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/06/solar-system-moon-education-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Jupiter science article cover concept with cloud bands and the Great Red Spot.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/06/solar-system-jupiter-editorial-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 1280
+  },
+  "mobile": {
+    "bottomHeading": "H1",
+    "columns": "345.2px",
+    "h1": [
+      "Solar System 3D Models for Rendering and Animation"
+    ],
+    "images": [
+      {
+        "alt": "AI-generated Saturn astronomy website banner concept with detailed rings and an indigo star field.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/06/solar-system-saturn-banner-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Mars animation scene still concept with red terrain and warm directional light.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/06/solar-system-mars-animation-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Moon educational illustration concept with lunar surface detail on a light background.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/06/solar-system-moon-education-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Jupiter science article cover concept with cloud bands and the Great Red Spot.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/06/solar-system-jupiter-editorial-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  },
+  "mobile_capture_mode": "native viewport sequence"
+}

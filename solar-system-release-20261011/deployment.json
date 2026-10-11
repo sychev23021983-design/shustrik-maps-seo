@@ -1,0 +1,10 @@
+{
+  "commit": "d9295c7752a4d66d4d6b332c8de48f87df8853a5",
+  "archive_sha256": "bb85d3115a7cb6e9fafef18629df7a5e4659e9b3329d15fcfd84522cbd2573a2",
+  "remote_archive_sha256": "bb85d3115a7cb6e9fafef18629df7a5e4659e9b3329d15fcfd84522cbd2573a2",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/solar-system-d9295c7752a4",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}
