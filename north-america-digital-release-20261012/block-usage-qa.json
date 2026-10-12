@@ -1,0 +1,16 @@
+{
+  "block_id": 14996,
+  "description_term": 159,
+  "term_meta_refs": [],
+  "actual_post_refs": [],
+  "post_meta_refs": [],
+  "retained_nested_blocks": [
+    15267,
+    15269,
+    15271,
+    15364,
+    15346,
+    15361
+  ],
+  "decision": "Update dedicated existing block; retain exact final shortcode row for existing country/region sections. Preserve term placement and metadata."
+}

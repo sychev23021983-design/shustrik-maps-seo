@@ -1,0 +1,44 @@
+[
+  {
+    "key": "website-hero",
+    "title": "North America — website hero",
+    "source": "https://shustrik-maps.com/product/north-america-3d-model/",
+    "reference": "north-america-3d-model-view-1.jpg",
+    "caption": "A continental relief view composed as a website hero with room for a headline.",
+    "prompt": "Create a 1536x1024 landscape digital website hero using this North America 3D terrain reference as authoritative geography, projection, silhouette, texture and modest relief. Preserve full Greenland, Alaska, Canada/Arctic islands, Great Lakes, USA, Mexico/Central America, original Caribbean islands. Satellite green/brown terrain and white Greenland, north-up. Full continent on right 60%, slight overhead oblique CGI view; left calm pale sand background with a restrained terracotta abstract disk partly behind left background, editorial text NORTH AMERICA only. Soft warm light, elegant modern web composition. Background is digital graphic styling, not planet or physical object. No printed maps, frames, screens, furniture, city dots, fake data, exaggerated peaks, invented land, logos or watermark. Maximal reference similarity.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-0e897edf-c1d0-4810-a6bb-16041dd888e8.png",
+    "visual_qa": "Reviewed against source card images for recognisable geography, relief colouring and original variant appearance; creative lighting/layout and still-image nature disclosed."
+  },
+  {
+    "key": "relief-learning",
+    "title": "North America — relief learning graphic",
+    "source": "https://shustrik-maps.com/product/north-america-3d-model/",
+    "reference": "north-america-3d-model-view-2.jpg",
+    "caption": "An educational graphic exploring relief through a colour-shaded terrain view.",
+    "prompt": "Create a 1536x1024 landscape educational digital illustration matching this North America colour-shaded relief reference. Preserve exact complete recognisable silhouette/projection including Greenland upper right, Alaska upper left, Arctic islands, Great Lakes, Canada/USA/Mexico/Central America and reference Caribbean islands. Match original green lowland / pale ochre high relief colouring, Greenland warm orange elevation gradient and detailed but small-scale western mountain relief. Overhead north-up map centred left 65%, full continent uncropped. Backdrop very pale lavender, subtle warm-white grid only in background. Right short title RELIEF STUDY and two small text-only labels MOUNTAINS / LOWLANDS, no arrows, measurements or numeric elevation scale. Crisp gentle CGI light, designed educational illustration, not certified geographic dataset or screenshot. No physical manufactured object, paper, furniture, screens, inflated peaks, extra continents, logos or watermark. Match reference maximally.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-d374de85-5b2c-4ff4-acbd-11e01c2efc07.png",
+    "visual_qa": "Reviewed against source card images for recognisable geography, relief colouring and original variant appearance; creative lighting/layout and still-image nature disclosed."
+  },
+  {
+    "key": "animation-still",
+    "title": "North America — animation scene still",
+    "source": "https://shustrik-maps.com/product/north-america-3d-model-terrain/",
+    "reference": "north-america-3d-model-terrain-view-1.jpg",
+    "caption": "A still-frame concept for a camera move over the model’s textured terrain.",
+    "prompt": "Create a 1536x1024 landscape cinematic motion-graphics still using this North America Map 3D Model reference as authoritative silhouette, projection, muted satellite texture and terrain features. Preserve full Greenland upper right, Alaska upper left, Arctic islands, Canada, USA/Great Lakes, Mexico/Central America and original Caribbean geography, north-up. Full map centred with broad margins in an oblique overhead CGI camera, modest relief as source, not giant peaks. Seamless deep midnight teal digital space, cool blue rim light with a restrained amber key light, one delicate sweeping luminous camera-path arc in empty background away from land, no text/labels/data. Pure digital animation concept frozen frame; no physical plaque/pedestal/table, furniture or screens. No globe, invented borders or land, exaggerated height, logos or watermark. Match reference maximally; vary only framing/light/scene.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-03d44b15-6ddb-43bb-ac53-7626069ec73b.png",
+    "visual_qa": "Reviewed against source card images for recognisable geography, relief colouring and original variant appearance; creative lighting/layout and still-image nature disclosed."
+  },
+  {
+    "key": "presentation-graphic",
+    "title": "North America — presentation graphic",
+    "source": "https://shustrik-maps.com/product/north-america-3d-model-terrain/",
+    "reference": "north-america-3d-model-terrain-view-2.jpg",
+    "caption": "A clean presentation composition using the terrain model as the main geographic visual.",
+    "prompt": "Create a 1536x1024 landscape digital presentation graphic using the supplied North America Map 3D Model reference as authoritative full silhouette, exact projection, satellite land texture and small-scale terrain. Preserve Greenland, Alaska, Arctic islands, Canada/USA/Great Lakes, Mexico/Central America and original Caribbean islands. Full uncropped continent near-overhead on left 65%; muted green/grey/brown land and pale snowy Greenland as source. Light peach background with warm-white title column at right, charcoal sans-serif text TERRAIN & TEXTURES only and three short abstract editorial rules beneath; no numerical data, labels, arrows or fake technical UI. Soft even CGI lighting, clean conference slide composition, not image of printed slide or device. No furniture, manufactured physical maps, additional continents, logos or watermark. Faithful product geometry and texture, only graphic styling differs.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-e08c35c4-6891-4c1c-8193-60315ba7536a.png",
+    "initial_generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-44bb9e9a-4840-4ff1-91f2-4b534327af8d.png",
+    "edit_prompt": "Edit only the right-hand text column of this supplied presentation graphic. Keep exactly the title TERRAIN & TEXTURES at its current position and size. Remove the three extra text paragraphs below it (Real landscapes..., Landforms..., A continent...) and fill their positions with the same blank warm-white background. Keep the three short peach editorial rules. Do not change anything else: preserve all map pixels, geographic silhouette, Greenland, islands, texture, colours, lighting, crop, background layout and 1536x1024 dimensions. No additional text. This supplied image is the edit target.",
+    "visual_qa": "Reviewed against source card images for recognisable geography, relief colouring and original variant appearance; creative lighting/layout and still-image nature disclosed."
+  }
+]

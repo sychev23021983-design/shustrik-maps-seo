@@ -1,0 +1,36 @@
+{
+  "http": 200,
+  "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/north-america/",
+  "title": "North America 3D model. High-Quality Models for Creative Design",
+  "description": "Explore detailed 3D models of North America. Perfect for graphic design and creative projects. Dive into the continent's beauty and unleash your creativity.",
+  "canonical": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/north-america/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "h1": [],
+  "cards": [
+    {
+      "url": "https://shustrik-maps.com/product/north-america-3d-model/",
+      "title": "North America 3D model",
+      "price": "$28.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/north-america-3d-model-terrain/",
+      "title": "North America Map 3D Model",
+      "price": "$35.00"
+    }
+  ],
+  "schema_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    [
+      "Organization",
+      "Place",
+      "Store"
+    ],
+    "PostalAddress",
+    "ImageObject",
+    "BreadcrumbList"
+  ],
+  "pagination_present": false
+}

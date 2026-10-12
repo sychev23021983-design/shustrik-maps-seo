@@ -1,0 +1,64 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/north-america/",
+  "term_id": 159,
+  "block_id": 14996,
+  "operation": "Update dedicated existing category content; retain six nested regional sections",
+  "before_sha256": "cc69b757cbd4fcf15a4e1e02b510ab250e1d2f6df4f5c526e5df33ed2d133283",
+  "template_sha256": "a9b06b2998f966444a836b7caefb30af06e6ec653d7be2467761bf489995f015",
+  "assets": [
+    {
+      "key": "website-hero",
+      "mode": "new",
+      "file": "north-america-digital-website-hero-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "56a85fa6482554f6c37214ea36c972161064580e17f3393481c26f0d7be1e62a",
+      "alt": "AI-generated north america — website hero concept.",
+      "title": "North America — website hero",
+      "caption": "AI-generated digital application concept; lighting and graphic styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/north-america-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "relief-learning",
+      "mode": "new",
+      "file": "north-america-digital-relief-learning-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "511bebe36196dea10905ecc2d7513ee42c66544ac8e23f09a583b2e72f2d8598",
+      "alt": "AI-generated north america — relief learning graphic concept.",
+      "title": "North America — relief learning graphic",
+      "caption": "AI-generated digital application concept; lighting and graphic styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/north-america-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "animation-still",
+      "mode": "new",
+      "file": "north-america-digital-animation-still-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "dc5e8cc7adc47ec602d83de96b6735d05a3ce3a357bf35885d22943e86e35b71",
+      "alt": "AI-generated north america — animation scene still concept.",
+      "title": "North America — animation scene still",
+      "caption": "AI-generated digital application concept; lighting and graphic styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/north-america-3d-model-terrain/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "presentation-graphic",
+      "mode": "new",
+      "file": "north-america-digital-presentation-graphic-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f8d0d243c97453c2fc2c1b99a93d1858bf804bb3a825c689e584944f84fd121b",
+      "alt": "AI-generated north america — presentation graphic concept.",
+      "title": "North America — presentation graphic",
+      "caption": "AI-generated digital application concept; lighting and graphic styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/north-america-3d-model-terrain/",
+      "prompt": "image-prompts.json"
+    }
+  ],
+  "authorization": "Owner requested next category and continued authorised live updates; two-product category receives text and varied digital examples."
+}
