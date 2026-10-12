@@ -1,0 +1,64 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/south-america/",
+  "term_id": 160,
+  "block_id": 15031,
+  "operation": "Update dedicated existing category content; retain existing country collection",
+  "before_sha256": "9f9750c9fdf470dce45672fa6e6da60a1522dadba7a6f82fca694fd9b1a59961",
+  "template_sha256": "e21c425b6b5c5e42c96a2a6866f2e8621759c379c1f55fdd69a0177131b0e463",
+  "assets": [
+    {
+      "key": "website-banner",
+      "mode": "new",
+      "file": "south-america-digital-website-banner-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "ece1f5570540e27e1da9253dc7dff76ecae4dff987268c98c470b918084376c3",
+      "alt": "AI-generated south america — website banner concept.",
+      "title": "South America — website banner",
+      "caption": "AI-generated digital application concept; lighting and graphic styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/3d-map-of-south-america-c4d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "relief-illustration",
+      "mode": "new",
+      "file": "south-america-digital-relief-illustration-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "2af4e6c8cc9fd6a4d47397387f30a448a5f660e0593c1272f9187ef68b05a1e9",
+      "alt": "AI-generated south america — relief illustration concept.",
+      "title": "South America — relief illustration",
+      "caption": "AI-generated digital application concept; lighting and graphic styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/south-america-3d-model-terrain/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "animation-frame",
+      "mode": "new",
+      "file": "south-america-digital-animation-frame-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "5238fdce4e9c650f67f8db75ec3d6fff6565e7aafd7b87b48c76cc444824fdd8",
+      "alt": "AI-generated south america — animation frame concept.",
+      "title": "South America — animation frame",
+      "caption": "AI-generated digital application concept; lighting and graphic styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/3d-map-of-south-america-c4d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "editorial-layout",
+      "mode": "new",
+      "file": "south-america-digital-editorial-layout-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "23a04ac48b50eee38fd12b8ea9a713e4fb8b13c28ef82b7579d97532693764ad",
+      "alt": "AI-generated south america — editorial graphic concept.",
+      "title": "South America — editorial graphic",
+      "caption": "AI-generated digital application concept; lighting and graphic styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/south-america-3d-model-terrain/",
+      "prompt": "image-prompts.json"
+    }
+  ],
+  "authorization": "Owner requested next category and continued authorised live updates; two-product category receives text and varied digital examples."
+}

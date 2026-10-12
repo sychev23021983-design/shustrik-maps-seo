@@ -1,0 +1,38 @@
+[
+  {
+    "key": "website-banner",
+    "title": "South America — website banner",
+    "source": "https://shustrik-maps.com/product/3d-map-of-south-america-c4d-model/",
+    "reference": "3d-map-of-south-america-c4d-model-view-1.jpg",
+    "caption": "A website banner placing the continental terrain beside a clear headline area.",
+    "prompt": "Create one 1536x1024 landscape digital website banner based on the supplied South America 3D model reference. Reference is authoritative full silhouette, Mercator projection, terrain, colours and original island positions. Preserve complete continent: broad northern Colombia/Venezuela, Brazil east, Andes western spine, narrow southern Patagonia, Tierra del Fuego and original Falkland islands. Match green/brown satellite texture and modest snowy mountain relief. Entire uncropped north-up map on right 60%; background deep muted indigo with a clean white vertical editorial title column left. Only text SOUTH AMERICA in restrained modern dark-indigo typography. Soft neutral CGI lighting, light digital shadow, balanced premium website composition. No extra words, logos, watermark, fake data or borders, globe, physical map object, paper, frames, screens, furniture, exaggerated peaks or invented land. Geographic appearance maximally like source; only background and framing vary.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-48d92262-1f28-428e-aa27-c5b00b9dfffe.png"
+  },
+  {
+    "key": "relief-illustration",
+    "title": "South America — relief illustration",
+    "source": "https://shustrik-maps.com/product/south-america-3d-model-terrain/",
+    "reference": "south-america-3d-model-terrain-view-2.jpg",
+    "caption": "A learning illustration using colour-shaded relief to distinguish mountains and lowlands.",
+    "prompt": "Create one 1536x1024 landscape digital geography learning illustration using this South America colour-shaded terrain reference. Preserve complete exact recognisable silhouette/projection and original island positions; north-up, broad Brazil east, narrow southern Patagonia, full Andes along west. Match source light-green lowland palette with pale salmon/pink high Andes and modest detailed relief. Complete uncropped map on left 60%, overhead CGI camera, bright diffuse light. Very pale mint background with extremely subtle white grid only behind map. Right only text RELIEF, MOUNTAINS, LOWLANDS; short abstract coloured rules, no arrows, no data or numerical elevation scale. Contemporary digital educational graphic, not a calibrated dataset. No extra words, logos/watermarks, physical maps/printed paper/furniture/screens, new countries/land/islands or inflated mountains. Source map fidelity first; graphic setting changes only.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-22f33171-a1e5-4067-94ab-f5f46d229b4e.png"
+  },
+  {
+    "key": "animation-frame",
+    "title": "South America — animation frame",
+    "source": "https://shustrik-maps.com/product/3d-map-of-south-america-c4d-model/",
+    "reference": "3d-map-of-south-america-c4d-model-view-2.jpg",
+    "caption": "A cinematic still-frame concept for a camera move over textured continental relief.",
+    "prompt": "Create one 1536x1024 landscape cinematic digital motion-graphics still from this South America 3D model reference. Preserve full recognisable original north-up Mercator silhouette, entire continent and original islands, green Amazon/brown southern satellite texture, snowy Andes along west; terrain height modest exactly like product. Full map centrally framed with wide margins and slight oblique overhead view, no crop. Seamless dark burnt-sienna/burgundy digital background, warm side key light and subtle cool rim light on modest terrain, one delicate sweeping luminous camera-path arc only in empty background. No text at all, no data, borders, globe, physical tabletop/plaque/frames/furniture/screens, new land or excessive peaks, logos or watermark. High-end CGI animation-frame concept, faithful to original geography, only scene and lighting vary.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-a9a78e76-22ef-47b7-a177-59c7b0cc9e06.png"
+  },
+  {
+    "key": "editorial-layout",
+    "title": "South America — editorial graphic",
+    "source": "https://shustrik-maps.com/product/south-america-3d-model-terrain/",
+    "reference": "south-america-3d-model-terrain-view-1.jpg",
+    "caption": "A digital article graphic combining a terrain overview with a simple editorial title.",
+    "prompt": "Create one 1536x1024 landscape editorial digital article graphic based on this South America terrain-model reference. Preserve exact recognisable complete Mercator coastline, original islands, north-up orientation, green/grey satellite texture, Andes terrain location, broad Brazil and narrow southern Patagonia. Full continent uncropped on left 60%, near-overhead CGI camera and soft even neutral light. Pale warm-grey backdrop with a narrow pale lavender editorial title panel on right; only exact title TOPOGRAPHY in dark charcoal sans serif and three short abstract editorial rules beneath. No additional paragraphs, claims, data, labels or arrows. Not physical paper/magazine/computer/map panel; pure digital composition. No excessive peaks, extra continents, invented islands, logos or watermark. Maintain faithful source model appearance; only editorial layout and background differ.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-58fa87fe-4562-42eb-a1f3-a72bdaebafed.png"
+  }
+]

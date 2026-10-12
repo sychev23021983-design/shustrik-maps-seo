@@ -1,0 +1,51 @@
+{
+  "http": 200,
+  "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/south-america/",
+  "title": "South America 3D model. Realistic 3D Models for Creative Design",
+  "description": "Discover intricate 3D models of South America, tailored for graphic design and creative projects. Dive into the continent's allure & ignite your artistic imagination.",
+  "canonical": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/south-america/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "h1": [],
+  "cards": [
+    {
+      "url": "https://shustrik-maps.com/product/3d-map-of-south-america-c4d-model/",
+      "title": "3D Model of South America",
+      "price": "$28.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/south-america-3d-model-terrain/",
+      "title": "South America 3D Model Terrain",
+      "price": "$35.00"
+    }
+  ],
+  "schema_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    [
+      "Organization",
+      "Place",
+      "Store"
+    ],
+    "PostalAddress",
+    "ImageObject",
+    "BreadcrumbList"
+  ],
+  "pagination_present": false,
+  "retained_country_headings": [
+    "SOUTH AMERICA 3D MODELS",
+    "Argentina",
+    "Bolivia",
+    "Brazil",
+    "Chile",
+    "Colombia",
+    "Ecuador",
+    "Guyana",
+    "Paraguay",
+    "Peru",
+    "Suriname",
+    "Uruguay",
+    "Venezuela"
+  ]
+}
