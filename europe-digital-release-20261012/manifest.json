@@ -1,0 +1,64 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/europe/",
+  "term_id": 161,
+  "block_id": 15197,
+  "operation": "Update dedicated existing category content; retain existing country collection",
+  "before_sha256": "a89b74a93b1e7f6777905c4887e03e973a34991a37f6e58dbe6cb95f00e16bd7",
+  "template_sha256": "cae03e5052d927e9e269763ad8ac5462864ab4d2fa2dbaac351905222bf23fbf",
+  "assets": [
+    {
+      "key": "website-banner",
+      "mode": "new",
+      "file": "europe-digital-website-banner-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "ddeed11c509f6f9203b0a01584028cf0fb37fb48c8b0ba997b4c93f60ff2b6d0",
+      "alt": "AI-generated Europe — website banner concept.",
+      "title": "Europe — website banner",
+      "caption": "AI-generated digital application concept; lighting and graphic styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/europe-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "relief-illustration",
+      "mode": "new",
+      "file": "europe-digital-relief-illustration-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "05c21733c8c62b3271fbd1507dbb100be04c677eabb82644376119955c91742c",
+      "alt": "AI-generated Europe — geography illustration concept.",
+      "title": "Europe — geography illustration",
+      "caption": "AI-generated digital application concept; lighting and graphic styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/europe-3d-model-terrain/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "animation-frame",
+      "mode": "new",
+      "file": "europe-digital-animation-frame-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e2d190147a4383a65b2a0d5b9e875f2cc218e53be0dc8fdc5bfc7b3feff2df7f",
+      "alt": "AI-generated Europe — animation title frame concept.",
+      "title": "Europe — animation title frame",
+      "caption": "AI-generated digital application concept; lighting and graphic styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/europe-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "interface-map",
+      "mode": "new",
+      "file": "europe-digital-interface-map-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f6ef27a6eec48f785de570988d1cb67d9d8f024fa3a25fbe25ca3d30314c8875",
+      "alt": "AI-generated Europe — interface map concept concept.",
+      "title": "Europe — interface map concept",
+      "caption": "AI-generated digital application concept; lighting and graphic styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/europe-3d-model-terrain/",
+      "prompt": "image-prompts.json"
+    }
+  ],
+  "authorization": "Owner requested next category and continued authorised live updates; two-product category receives text and varied digital examples."
+}

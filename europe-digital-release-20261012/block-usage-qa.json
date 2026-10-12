@@ -1,0 +1,22 @@
+{
+  "dedicated": true,
+  "term": 161,
+  "block": 15197,
+  "usage": {
+    "description_terms": [
+      {
+        "term_id": "161",
+        "description": "[html_block id=\"15197\"]"
+      }
+    ],
+    "terms": [],
+    "post_refs": [],
+    "post_meta_refs": []
+  },
+  "retained_country_blocks": [
+    15195,
+    15193,
+    15191,
+    15189
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "utc": "2026-10-12T15:57:38+00:00",
+  "block": {
+    "id": 15197,
+    "title": "Europe Category",
+    "content": "[vc_row][vc_column][woodmart_title size=\"medium\" font_weight=\"600\" tag=\"h2\" woodmart_css_id=\"6513c867c78c8\" title=\"EUROPE\" responsive_spacing=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NTEzYzg2N2M3OGM4Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==\" after_color=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfY29sb3JwaWNrZXIiLCJjc3NfYXJncyI6eyJjb2xvciI6WyIgLnRpdGxlLWFmdGVyX3RpdGxlIl19LCJzZWxlY3Rvcl9pZCI6IjY1MTNjODY3Yzc4YzgiLCJkYXRhIjp7ImRlc2t0b3AiOiIjZGQ5OTMzIn19\" subtitle=\"3D MODELS OF THE\" title_custom_color=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfY29sb3JwaWNrZXIiLCJjc3NfYXJncyI6eyJjb2xvciI6WyIgLndvb2RtYXJ0LXRpdGxlLWNvbnRhaW5lciJdfSwic2VsZWN0b3JfaWQiOiI2NTEzYzg2N2M3OGM4IiwiZGF0YSI6eyJkZXNrdG9wIjoiIzdhOWM1OSJ9fQ==\" woodmart_empty_space=\"\"][vc_separator style=\"shadow\" wd_hide_on_desktop=\"no\" wd_hide_on_tablet=\"no\" wd_hide_on_mobile=\"no\"][/vc_column][/vc_row][vc_row][vc_column width=\"1/2\"][woodmart_text_block woodmart_css_id=\"6513c87309d8c\" woodmart_inline=\"no\" responsive_spacing=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NTEzYzg3MzA5ZDhjIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGV4dF9ibG9jayIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19\" parallax_scroll=\"no\" wd_hide_on_desktop=\"no\" wd_hide_on_tablet=\"no\" wd_hide_on_mobile=\"no\" woodmart_empty_space=\"\"]Welcome to our page featuring 3D models of Europe! Here, you will find a diverse range of highly detailed 3D models of Europe that can be used for various purposes:\r\n<ol>\r\n \t<li><strong>Education and Research:</strong> Explore the geography, culture, architecture, and history of Europe for educational and research purposes.</li>\r\n \t<li><strong>Tourism and Travel:</strong> Plan your journeys, study routes, and explore the beautiful landscapes and historical landmarks of Europe.</li>\r\n \t<li><strong>Architectural and Urban Design:</strong> Incorporate 3D models of European cities and architectural objects into your architectural and urban projects to create realistic scenes and layouts.</li>\r\n \t<li><strong>Geospatial Analysis:</strong> Utilize data from these 3D models for geospatial analysis, urban planning, and geographical research.</li>\r\n \t<li><strong>Educational Resources:</strong> Create educational materials, interactive learning applications, and visualizations to deepen knowledge about the cultural and geographical features of Europe.</li>\r\n</ol>\r\nWhether you need 3D models for educational purposes, professional projects, or personal interest, our European 3D models provide a high level of detail and realism to help you achieve your goals.[/woodmart_text_block][/vc_column][vc_column width=\"1/2\"][woodmart_image img_align=\"center\" rounding_size=\"\" woodmart_css_id=\"6513cc1f590a2\" display_inline=\"no\" parallax_scroll=\"no\" responsive_spacing=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NTEzY2MxZjU5MGEyIiwic2hvcnRjb2RlIjoid29vZG1hcnRfaW1hZ2UiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==\" woodmart_box_shadow=\"no\" wd_hide_on_desktop=\"no\" wd_hide_on_tablet=\"no\" wd_hide_on_mobile=\"no\" img_id=\"15199\" img_size=\"full\"][/vc_column][/vc_row][vc_row][vc_column][vc_message color=\"success\" message_box_color=\"success\" icon_fontawesome=\"fas fa-check\"]Do you need a 3D model or map that isn't in the store yet? No problem, I can make one for you.[/vc_message][/vc_column][/vc_row][vc_row][vc_column][html_block id=\"15195\"][html_block id=\"15193\"][html_block id=\"15191\"][html_block id=\"15189\"][/vc_column][/vc_row]",
+    "content_sha256": "a89b74a93b1e7f6777905c4887e03e973a34991a37f6e58dbe6cb95f00e16bd7",
+    "protected_hash": "17114583fb5ae57ad034715248907d13b602ba8341291ba29e407452319019cb"
+  },
+  "term": {
+    "id": 161,
+    "slug": "europe",
+    "name": "Europe",
+    "description": "[html_block id=\"15197\"]",
+    "meta": {
+      "order": [
+        "16"
+      ],
+      "title_image": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_icon": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_icon_alt": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_extra_description_type": [
+        "html_block"
+      ],
+      "category_extra_description_html_block": [
+        ""
+      ],
+      "category_extra_description_text": [
+        ""
+      ],
+      "display_type": [
+        ""
+      ],
+      "thumbnail_id": [
+        "15057"
+      ]
+    },
+    "protected_hash": "08af715f35e6b192613fed276c115cf5e22cf419dfe300b6f2d7a0c559c43015"
+  },
+  "usage": {
+    "description_terms": [
+      {
+        "term_id": "161",
+        "description": "[html_block id=\"15197\"]"
+      }
+    ],
+    "terms": [],
+    "post_refs": [],
+    "post_meta_refs": []
+  },
+  "products": [
+    {
+      "id": 13363,
+      "slug": "europe-3d-model-terrain",
+      "url": "https://shustrik-maps.com/product/europe-3d-model-terrain/",
+      "state_hash": "af2a5eadd4d834ecc8ce6a0cd6e28f6a3e6656a7649ea4b2dccb52e281306cd0",
+      "images": [
+        {
+          "id": 13364,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_1-min.jpg"
+        },
+        {
+          "id": 13365,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_2-min.jpg"
+        },
+        {
+          "id": 13366,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_3-min.jpg"
+        },
+        {
+          "id": 13367,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_4-min.jpg"
+        },
+        {
+          "id": 13368,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_5-min.jpg"
+        },
+        {
+          "id": 13369,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_6-min.jpg"
+        },
+        {
+          "id": 13370,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_7-min.jpg"
+        },
+        {
+          "id": 13371,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_8-min.jpg"
+        },
+        {
+          "id": 13372,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_9-min.jpg"
+        },
+        {
+          "id": 13373,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_10-min.jpg"
+        },
+        {
+          "id": 13374,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_11-min.jpg"
+        },
+        {
+          "id": 13375,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_12-min.jpg"
+        },
+        {
+          "id": 13376,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_13-min.jpg"
+        },
+        {
+          "id": 13377,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_14-min.jpg"
+        },
+        {
+          "id": 13378,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_15-min.jpg"
+        },
+        {
+          "id": 13379,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_16-min.jpg"
+        },
+        {
+          "id": 13380,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_17-min.jpg"
+        },
+        {
+          "id": 13381,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_18-min.jpg"
+        },
+        {
+          "id": 13382,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-1_19-min.jpg"
+        },
+        {
+          "id": 13383,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Europe-Textures-min.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10216,
+      "slug": "europe-3d-model",
+      "url": "https://shustrik-maps.com/product/europe-3d-model/",
+      "state_hash": "00e7b54bea00a76519cf943f25c2b9319ddd72f163b17cc5d3006ca846e49743",
+      "images": [
+        {
+          "id": 20929,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/europe-3d-model-c4d-obj-front.jpg"
+        },
+        {
+          "id": 20930,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/europe-3d-map-relief.jpg"
+        },
+        {
+          "id": 20931,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/europe-3d-texture-satellite.jpg"
+        },
+        {
+          "id": 20932,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/europe-3d-country-borders.jpg"
+        },
+        {
+          "id": 20933,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/europe-3d-unity-game.jpg"
+        },
+        {
+          "id": 20934,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/europe-3d-unreal-engine.jpg"
+        },
+        {
+          "id": 20935,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/europe-3d-animation-scene.jpg"
+        },
+        {
+          "id": 20936,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/europe-3d-vr-presentation.jpg"
+        },
+        {
+          "id": 20937,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/europe-3d-marketing.jpg"
+        },
+        {
+          "id": 20938,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/europe-3d-poster-print.jpg"
+        },
+        {
+          "id": 20939,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Europe_11-min.jpg"
+        },
+        {
+          "id": 20940,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Europe_12-min.jpg"
+        }
+      ]
+    }
+  ],
+  "previous_terms": {
+    "63": "7185eb3eb55f4eaf6a34af2ce02c73991d34137fee0eb8a472d58a0f821606dc",
+    "67": "75870e5f49b16ad8c2c6db84c6b1e32617ce0878ec277746f430ddc8701560ad",
+    "68": "3bee7a6884658b96ba4c1edd5cd615cb2645ce557519d214ade850d9c58e1dfe",
+    "159": "8592495c6e9351041c6be9f0ab5d112d0770d85fd8c6d9fa75bb7b9833c6babf",
+    "160": "63dea58161d53ffa2ed935f67183199aea68663739936f035164e547eb7493b2"
+  },
+  "previous_blocks": {
+    "14416": "6edba256e6089d2e27c9f5d230b20db60aa1cc2d8398322d381093b57c3c253a",
+    "14417": "7f6ec5d47e68b6110e336be1a937f6eb24c668f3f2b9607b6d99a6d4ac47bea0",
+    "21177": "23273f7c1f5381fae079c45aaa75533204ca605859aec955a57ec84d7a05c937",
+    "21176": "f01816955682802fffd9564408d26a4a609b6d616a8a122bed4ccb394e31ca9f",
+    "21175": "53f5219b487d1b14c3b127c5b990e0892f44736a91bab5dbfe7eeee586d3e2a9",
+    "21178": "46c2f5ce2ca774279b50102c5133ba9405717195af9975094d400e3fa9634012",
+    "21162": "c159f146aaa3f3ae4125b42e7b3e33e2a13add8a8ad74eed0ae6b6d134798367",
+    "22817": "f2b0f0eb8e1373911e88f83052c494a5ede06b4d801aab5d717eb8e697ad62ba",
+    "22822": "c439197d2007c5644042a1f2fa312a102fd8c1c10d35979224427675f8da018b",
+    "22827": "a98f920ca48a22cf879f863fcf514eef5dcf6307b67d44e47858afac0cab39fc",
+    "22832": "4bb72feff2345744d4171b4e0e886bf95122fb064c0ab1b6b3a6f7c89a38b0d8",
+    "16359": "77cf2f56a209237a92e4d9daa8efacee60a19cd293ffd883d7aeb2ef1324a8b4",
+    "17235": "8b01205a70cdda5137df13e489ec13d5b4a4958ee47ea59234018606b6504280",
+    "18122": "73f258ea58ae41f60245e8323fc41d4e27e8a6954b2bd27c85c5532d7c31bb62",
+    "22853": "a1319b9171901b4bc043bfd4d7b6fbd659371681f03a6c3d15332ac044df2827",
+    "22858": "c2e016f67047f32ebe18cd1a0751eb7f901e11024b7608c55f08584729ada63e",
+    "15975": "505f09a591611f2b98b30dedb6f631abe6702ad693399fa2e5e6c8037a197f8e",
+    "14991": "9dbbadbb630610cd6f3bb918ca096e1cece46aa8bf7ca067dc51c032f4e18d98",
+    "18211": "0fc46dc9872dc5c7dfbe021211215f71ea4e1fdb03e1f85d006f3929471b6aba",
+    "20008": "eee153a041e9120dc47f1c7ccd778926c3da0f3d7855f29a7dc1a184df1b8fab",
+    "20525": "357a45ccf9fc3dc8664aace1b2ffb52e416ce30e0f66b62fede54025fb8ba505",
+    "22867": "1ce3483a3fb5fc51ae0cbe1c80dcdfc78dd6dd09058fadb863e9e260ab1a36c0",
+    "15267": "7a77776a85b638c3f9dc1734e110924dd8087079f27d7630e420902f2313120e",
+    "15269": "0dc60f99eeb694cd3cd4657745779e34a65cc47b8b33762d1ec6a4646fab59f5",
+    "15271": "9c6eee646ca773895cef46ea734c2fdd0c77d7bcde88a5d0bd00dced77f41785",
+    "15364": "31211b3533a8a7c4fcda1af1cc9be181e1f133822a2f3650f20482705eb5a3c1",
+    "15346": "443c17012d1d988493c40cb0fbcae559ef843961c6d7c14f7ce72b8831cd4c48",
+    "15361": "dd587981eaf876f985c7942355d7446afdee38accb80c21aef7a5a73995d6ab1",
+    "14996": "a7bc3a19ef3288c2695d4abdf2a13b3dce50c5d0e4af7b8dc7d7ea9b14efcb07",
+    "15273": "b1a9fc391038665e50f61dbeede9369ed1d00b9a566724993807e210fc6ea266",
+    "15031": "85bb8d9a59140fd759449d48efbdbe7c6de4f92cac65023ba106a4166aa0b1ea",
+    "15195": "42533a6603592f0842005b4971b6e80d043f5a01ee2d89a964efd236a42578b6",
+    "15193": "1b0404749c0145b509d9197205c7b53be5f9c4906e6965a1e02d975350610a67",
+    "15191": "982af620b545b9832d38778692f3a2b2781a0ce2e6c884bf7ea5ee9351f8807b",
+    "15189": "2d5c9a9b41145431d636976f8cc29e7b1617aaafe73216610cc8c3cc66065bf0"
+  },
+  "retained_shortcode_tail": "[vc_row][vc_column][html_block id=\"15195\"][html_block id=\"15193\"][html_block id=\"15191\"][html_block id=\"15189\"][/vc_column][/vc_row]"
+}
