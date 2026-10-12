@@ -1,0 +1,195 @@
+{
+  "utc": "2026-10-12T06:31:05+00:00",
+  "block": null,
+  "term": {
+    "id": 67,
+    "slug": "north-pole",
+    "name": "North Pole",
+    "description": "",
+    "meta": {
+      "order": [
+        "11"
+      ],
+      "title_image": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_icon": [
+        "a:2:{s:3:\"url\";s:67:\"https://shustrik-maps.com/wp-content/uploads/2024/04/NORTH-POLE.png\";s:2:\"id\";s:5:\"16331\";}"
+      ],
+      "category_icon_alt": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "display_type": [
+        ""
+      ],
+      "thumbnail_id": [
+        "15073"
+      ],
+      "wpfoof-identifier_exists": [
+        "yes"
+      ],
+      "feed_google_category": [
+        "Software > Digital Goods & Currency > Digital Artwork"
+      ],
+      "wpfoof-adult": [
+        "no"
+      ],
+      "wpfoof-shipping-label": [
+        ""
+      ],
+      "wpfoof-tax-category": [
+        ""
+      ],
+      "category_extra_description_type": [
+        "text"
+      ],
+      "category_extra_description_html_block": [
+        ""
+      ],
+      "category_extra_description_text": [
+        ""
+      ]
+    },
+    "protected_hash": "cd311b6f8b40049e57669c4fffa5b10940909bc5211c854881540a50b3178be1"
+  },
+  "previous_blocks": {
+    "14416": "6edba256e6089d2e27c9f5d230b20db60aa1cc2d8398322d381093b57c3c253a",
+    "14417": "7f6ec5d47e68b6110e336be1a937f6eb24c668f3f2b9607b6d99a6d4ac47bea0",
+    "21177": "23273f7c1f5381fae079c45aaa75533204ca605859aec955a57ec84d7a05c937",
+    "21176": "f01816955682802fffd9564408d26a4a609b6d616a8a122bed4ccb394e31ca9f",
+    "21175": "53f5219b487d1b14c3b127c5b990e0892f44736a91bab5dbfe7eeee586d3e2a9",
+    "21178": "46c2f5ce2ca774279b50102c5133ba9405717195af9975094d400e3fa9634012",
+    "21162": "c159f146aaa3f3ae4125b42e7b3e33e2a13add8a8ad74eed0ae6b6d134798367",
+    "22817": "f2b0f0eb8e1373911e88f83052c494a5ede06b4d801aab5d717eb8e697ad62ba",
+    "22822": "c439197d2007c5644042a1f2fa312a102fd8c1c10d35979224427675f8da018b",
+    "22827": "a98f920ca48a22cf879f863fcf514eef5dcf6307b67d44e47858afac0cab39fc",
+    "22832": "4bb72feff2345744d4171b4e0e886bf95122fb064c0ab1b6b3a6f7c89a38b0d8",
+    "16359": "77cf2f56a209237a92e4d9daa8efacee60a19cd293ffd883d7aeb2ef1324a8b4",
+    "17235": "8b01205a70cdda5137df13e489ec13d5b4a4958ee47ea59234018606b6504280",
+    "18122": "73f258ea58ae41f60245e8323fc41d4e27e8a6954b2bd27c85c5532d7c31bb62",
+    "22853": "a1319b9171901b4bc043bfd4d7b6fbd659371681f03a6c3d15332ac044df2827",
+    "22858": "c2e016f67047f32ebe18cd1a0751eb7f901e11024b7608c55f08584729ada63e",
+    "15975": "505f09a591611f2b98b30dedb6f631abe6702ad693399fa2e5e6c8037a197f8e"
+  },
+  "products": [
+    {
+      "id": 10258,
+      "slug": "north-pole-3d-model",
+      "url": "https://shustrik-maps.com/product/north-pole-3d-model/",
+      "term_ids": [
+        67
+      ],
+      "state_hash": "37e8ddb8d5926dcfb3ccb4164136bfdb0cc64ac1b67f141ca90fe16ee35a6291",
+      "images": [
+        {
+          "id": 10260,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_1-min.jpg"
+        },
+        {
+          "id": 10261,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_2-min.jpg"
+        },
+        {
+          "id": 10262,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_3-min.jpg"
+        },
+        {
+          "id": 10263,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_4-min.jpg"
+        },
+        {
+          "id": 10264,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_5-min.jpg"
+        },
+        {
+          "id": 10265,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_6-min.jpg"
+        },
+        {
+          "id": 10266,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_7-min.jpg"
+        },
+        {
+          "id": 10267,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_8-min.jpg"
+        },
+        {
+          "id": 10268,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_9-min.jpg"
+        },
+        {
+          "id": 10269,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_10-min.jpg"
+        },
+        {
+          "id": 10270,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_11-min.jpg"
+        },
+        {
+          "id": 10271,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_12-min.jpg"
+        },
+        {
+          "id": 10272,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_13-min.jpg"
+        }
+      ]
+    }
+  ],
+  "inventory_counts": {
+    "attachments": {
+      "publish": 0,
+      "future": 0,
+      "draft": 0,
+      "pending": 0,
+      "private": "1",
+      "trash": 0,
+      "auto-draft": 0,
+      "inherit": "7048",
+      "request-pending": 0,
+      "request-confirmed": 0,
+      "request-failed": 0,
+      "request-completed": 0,
+      "wc-pending": 0,
+      "wc-processing": 0,
+      "wc-on-hold": 0,
+      "wc-completed": 0,
+      "wc-cancelled": 0,
+      "wc-refunded": 0,
+      "wc-failed": 0,
+      "wc-checkout-draft": 0,
+      "wc-transporting": 0,
+      "wc-ready-for-pickup": 0,
+      "email_sent": 0,
+      "email_failed": 0,
+      "email_scheduled": 0
+    },
+    "blocks": {
+      "publish": "417",
+      "future": 0,
+      "draft": 0,
+      "pending": 0,
+      "private": 0,
+      "trash": 0,
+      "auto-draft": 0,
+      "inherit": 0,
+      "request-pending": 0,
+      "request-confirmed": 0,
+      "request-failed": 0,
+      "request-completed": 0,
+      "wc-pending": 0,
+      "wc-processing": 0,
+      "wc-on-hold": 0,
+      "wc-completed": 0,
+      "wc-cancelled": 0,
+      "wc-refunded": 0,
+      "wc-failed": 0,
+      "wc-checkout-draft": 0,
+      "wc-transporting": 0,
+      "wc-ready-for-pickup": 0,
+      "email_sent": 0,
+      "email_failed": 0,
+      "email_scheduled": 0
+    }
+  }
+}

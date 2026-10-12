@@ -1,0 +1,31 @@
+{
+  "http": 200,
+  "url": "https://shustrik-maps.com/product-category/3d-models/world/north-pole/",
+  "title": "North Pole Archives | 3D Models and 3D Maps",
+  "description": null,
+  "canonical": "https://shustrik-maps.com/product-category/3d-models/world/north-pole/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "h1": [],
+  "cards": [
+    {
+      "url": "https://shustrik-maps.com/product/north-pole-3d-model/",
+      "title": "North Pole 3D model",
+      "price": "$30.00 Original price was: $30.00.$20.00Current price is: $20.00."
+    }
+  ],
+  "schema_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    [
+      "Organization",
+      "Place",
+      "Store"
+    ],
+    "PostalAddress",
+    "ImageObject",
+    "BreadcrumbList"
+  ],
+  "pagination_present": false
+}
