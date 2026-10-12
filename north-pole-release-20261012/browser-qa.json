@@ -1,0 +1,38 @@
+{
+  "desktop": {
+    "blockHeight": 374.9250183105469,
+    "blockTop": 572.9500122070312,
+    "h1": [
+      "North Pole 3D Model for Arctic Terrain Visualisation"
+    ],
+    "height": 900,
+    "images": 0,
+    "links": [
+      "https://shustrik-maps.com/product/north-pole-3d-model/",
+      "https://shustrik-maps.com/product-category/3d-models/world/",
+      "https://shustrik-maps.com/product/antarctica-with-ice-3d-model/",
+      "https://shustrik-maps.com/product-category/3d-models/"
+    ],
+    "overflow": false,
+    "paragraphs": 3,
+    "width": 1280
+  },
+  "mobile": {
+    "blockHeight": 815,
+    "blockTop": 519.0125122070312,
+    "h1": [
+      "North Pole 3D Model for Arctic Terrain Visualisation"
+    ],
+    "height": 844,
+    "images": 0,
+    "links": [
+      "https://shustrik-maps.com/product/north-pole-3d-model/",
+      "https://shustrik-maps.com/product-category/3d-models/world/",
+      "https://shustrik-maps.com/product/antarctica-with-ice-3d-model/",
+      "https://shustrik-maps.com/product-category/3d-models/"
+    ],
+    "overflow": false,
+    "paragraphs": 3,
+    "width": 390
+  }
+}

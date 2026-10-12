@@ -1,0 +1,10 @@
+{
+  "commit": "69400cef55d383b7d11fe4e3984e65f4a6c5b28c",
+  "archive_sha256": "d5e23f01043cf8dc2a2d1d47d6ee573ebeb3f9145c59c695ccd881a76be1cf87",
+  "remote_archive_sha256": "d5e23f01043cf8dc2a2d1d47d6ee573ebeb3f9145c59c695ccd881a76be1cf87",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/north-pole-text-69400cef55d3",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "mode": "--apply",
+  "utc": "2026-10-12T06:33:31+00:00",
+  "url": "https://shustrik-maps.com/product-category/3d-models/world/north-pole/",
+  "term_id": 67,
+  "block_id": null,
+  "protected_preserved": true,
+  "inventory_counts_preserved": true,
+  "media": [],
+  "content_sha256": "e9180493135a05f65b49b4186c9a87222ab59779305babce6bdb1a5d5eebd5f9",
+  "rollback_backup": "_shustrik_north_pole_text_backup_20261012"
+}
