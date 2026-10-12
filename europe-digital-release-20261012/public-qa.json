@@ -1,0 +1,163 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "retained_country_headings_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "bottom_heading": true,
+    "old_copy_removed": true,
+    "pagination_absent": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/europe/",
+    "title": "Europe Map 3D model. Authentic 3D Models for Creative Design",
+    "description": "Explore diverse 3D models of Europe, perfect for graphic design and creative endeavors. Immerse yourself in Europe's beauty and bring your artistic visions to life.",
+    "canonical": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/europe/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "Europe 3D Models for Renders and Animation"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/europe-3d-model/",
+        "title": "3D Model of Europe (C4D, OBJ) with High-Res Relief & Textures",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/europe-3d-model-terrain/",
+        "title": "Europe Terrain Map 3D Model",
+        "price": "$35.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false,
+    "retained_country_headings": [
+      "EASTERN EUROPE 3D MODELS",
+      "Belarus",
+      "Bulgaria",
+      "Czech Republic",
+      "Georgia",
+      "Hungary",
+      "Kosovo",
+      "Moldova",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Slovakia",
+      "Ukraine",
+      "SOUTHERN EUROPE 3D MODELS",
+      "Albania",
+      "Andorra",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Greece",
+      "Italy",
+      "Malta",
+      "Montenegro",
+      "North Macedonia",
+      "Portugal",
+      "San Marino",
+      "Serbia",
+      "Slovenia",
+      "Spain",
+      "NORTHERN EUROPE 3D MODELS",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "Iceland",
+      "Latvia",
+      "Lithuania",
+      "Norway",
+      "Ireland",
+      "Sweden",
+      "United Kingdom",
+      "WESTERN EUROPE 3D MODELS",
+      "Austria",
+      "Belgium",
+      "France",
+      "Germany",
+      "Liechtenstein",
+      "Luxembourg",
+      "Monaco",
+      "Netherlands",
+      "Switzerland"
+    ]
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/3d-models/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/": 200,
+    "https://shustrik-maps.com/product/europe-3d-model-terrain/": 200,
+    "https://shustrik-maps.com/product/europe-3d-model/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2023/09/europe-digital-website-banner-20261012.webp": {
+      "http": 200,
+      "bytes": 198610,
+      "alt": "AI-generated Europe — website banner concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2023/09/europe-digital-relief-illustration-20261012.webp": {
+      "http": 200,
+      "bytes": 146908,
+      "alt": "AI-generated Europe — geography illustration concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2023/09/europe-digital-animation-frame-20261012.webp": {
+      "http": 200,
+      "bytes": 276836,
+      "alt": "AI-generated Europe — animation title frame concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2023/09/europe-digital-interface-map-20261012.webp": {
+      "http": 200,
+      "bytes": 137220,
+      "alt": "AI-generated Europe — interface map concept concept.",
+      "width": "1536",
+      "height": "1024"
+    }
+  },
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}

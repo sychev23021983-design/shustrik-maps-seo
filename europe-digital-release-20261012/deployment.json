@@ -1,0 +1,10 @@
+{
+  "commit": "1a19910ec633a02946a9f3db45a81163ce0770db",
+  "archive_sha256": "02b6cd1c41e024136dced6cab00d1a869cf74c0f039c6c0d16e9eedfeb8f0011",
+  "remote_archive_sha256": "02b6cd1c41e024136dced6cab00d1a869cf74c0f039c6c0d16e9eedfeb8f0011",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/europe-digital-1a19910ec633",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

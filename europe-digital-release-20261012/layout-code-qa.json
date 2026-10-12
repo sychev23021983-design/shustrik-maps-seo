@@ -1,0 +1,8 @@
+{
+  "static_css_checks": true,
+  "desktop_columns": 2,
+  "mobile_columns": 1,
+  "breakpoint_px": 600,
+  "native_visual_qa": "not completed",
+  "reason": "Windows Computer Use stopped because current browser URL could not be reliably determined; no further UI actions attempted."
+}

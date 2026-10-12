@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "mode": "--rollback-preview",
+  "utc": "2026-10-12T16:05:03+00:00",
+  "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/europe/",
+  "term_id": 161,
+  "block_id": 15197,
+  "protected_preserved": true,
+  "media": [
+    {
+      "key": "website-banner",
+      "id": 22880,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/europe-digital-website-banner-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "relief-illustration",
+      "id": 22881,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/europe-digital-relief-illustration-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "animation-frame",
+      "id": 22882,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/europe-digital-animation-frame-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "interface-map",
+      "id": 22883,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/europe-digital-interface-map-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": "4cafadfdf26c99d0f6f0184992fe8c3d03d3097d5e9a2105247ab6598b52bdcf",
+  "rollback_backup": "_shustrik_europe_digital_backup_20261012"
+}
