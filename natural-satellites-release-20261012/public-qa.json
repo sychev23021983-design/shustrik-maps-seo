@@ -1,0 +1,105 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "bottom_heading": true,
+    "old_copy_removed": true,
+    "pagination_absent": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/3d-models/solar-system/satellites/natural-satellites/",
+    "title": "Natural Satellites Archives | 3D Models and 3D Maps",
+    "description": null,
+    "canonical": "https://shustrik-maps.com/product-category/3d-models/solar-system/satellites/natural-satellites/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "Natural Satellite 3D Models for Lunar Visualisation"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/moon-3d-model/",
+        "title": "Moon 3D Model",
+        "price": "$15.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/3d-models/solar-system/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/solar-system/satellites/": 200,
+    "https://shustrik-maps.com/product/moon-3d-model/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/natural-satellites-night-banner-20261012.webp": {
+      "http": 200,
+      "bytes": 138518,
+      "alt": "AI-generated moon — night landscape banner concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/natural-satellites-orbital-frame-20261012.webp": {
+      "http": 200,
+      "bytes": 328614,
+      "alt": "AI-generated moon — orbital flyby still concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/natural-satellites-learning-graphic-20261012.webp": {
+      "http": 200,
+      "bytes": 124680,
+      "alt": "AI-generated moon — educational illustration concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/natural-satellites-presentation-slide-20261012.webp": {
+      "http": 200,
+      "bytes": 120168,
+      "alt": "AI-generated moon — presentation slide concept.",
+      "width": "1536",
+      "height": "1024"
+    }
+  },
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}

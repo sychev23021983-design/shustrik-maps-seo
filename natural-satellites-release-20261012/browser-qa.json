@@ -1,0 +1,74 @@
+{
+  "desktop": {
+    "blockHeight": 1554.5125732421875,
+    "blockTop": 540.9500122070312,
+    "columns": "605.4px 605.4px",
+    "h1": [
+      "Natural Satellite 3D Models for Lunar Visualisation"
+    ],
+    "height": 900,
+    "images": [
+      {
+        "alt": "AI-generated moon — night landscape banner concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/natural-satellites-night-banner-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated moon — orbital flyby still concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/natural-satellites-orbital-frame-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated moon — educational illustration concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/natural-satellites-learning-graphic-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated moon — presentation slide concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/natural-satellites-presentation-slide-20261012-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 1280
+  },
+  "mobile": {
+    "columns": "345.2px",
+    "h1": [
+      "Natural Satellite 3D Models for Lunar Visualisation"
+    ],
+    "height": 844,
+    "images": [
+      {
+        "alt": "AI-generated moon — night landscape banner concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/natural-satellites-night-banner-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated moon — orbital flyby still concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/natural-satellites-orbital-frame-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated moon — educational illustration concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/natural-satellites-learning-graphic-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated moon — presentation slide concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/natural-satellites-presentation-slide-20261012-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  }
+}

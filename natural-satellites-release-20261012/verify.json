@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "mode": "--verify",
+  "utc": "2026-10-12T05:40:42+00:00",
+  "url": "https://shustrik-maps.com/product-category/3d-models/solar-system/satellites/natural-satellites/",
+  "term_id": 176,
+  "block_id": 22853,
+  "protected_preserved": true,
+  "media": [
+    {
+      "key": "night-banner",
+      "id": 22854,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/natural-satellites-night-banner-20261012.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "orbital-frame",
+      "id": 22855,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/natural-satellites-orbital-frame-20261012.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "learning-graphic",
+      "id": 22856,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/natural-satellites-learning-graphic-20261012.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "presentation-slide",
+      "id": 22857,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/natural-satellites-presentation-slide-20261012.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": "73afb8d0fc470e8c3bce047ebbaa68a3c36b39c052f33329f4b7e35f37dc93e1",
+  "rollback_backup": "_shustrik_natural_satellites_backup_20261012"
+}

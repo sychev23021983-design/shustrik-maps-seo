@@ -1,0 +1,10 @@
+{
+  "commit": "e6126418ffa04d1b2055e153cc53744e3f6b6a8f",
+  "archive_sha256": "4dbb9cacbd01f536a235cb005c385f4fa3c5d17b7ad794f35b86b82b7aa1e2ee",
+  "remote_archive_sha256": "4dbb9cacbd01f536a235cb005c385f4fa3c5d17b7ad794f35b86b82b7aa1e2ee",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/natural-satellites-e6126418ffa0",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}
