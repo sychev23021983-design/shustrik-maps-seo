@@ -1,0 +1,30 @@
+[
+  {
+    "key": "moon-banner",
+    "title": "Moon - astronomy website banner concept",
+    "prompt": "Use case: compositing. Make a 1536x1024 digital astronomy website banner. Exact Moon product render is reference; preserve same near-side grey maria and crater pattern and orientation closely. Full moon at right, 70 percent height, black midnight space with sparse fine stars, clean negative space on left for future heading. Crisp restrained neutral side light. No text, UI, atmosphere, new surface features, spacecraft, extra planets or physical display. Reference moon is subject.",
+    "slug": "moon-3d-model",
+    "generated_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-2a78a4fb-4730-4f7c-ba10-5d75ba056098.png"
+  },
+  {
+    "key": "moon-animation",
+    "title": "Moon - animation scene still concept",
+    "prompt": "Use case: compositing. Make a 1536x1024 documentary animation scene STILL concept based on exact reference Moon model image. Preserve exact lunar near-side terrain pattern and orientation. Full circular globe slightly left of center, around 80 percent height, directional grazing sunlight from right, broad terminator so left half dark but discernible lunar surface, few sparse stars in deep charcoal space. Emphasize crater rim shadows, no added crater geometry. Cinematic lunar orbital-view composition without atmosphere. No text, UI, play button, Earth, spacecraft or invented terrain.",
+    "slug": "moon-3d-model",
+    "generated_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-b2a3bb36-41d3-474e-a496-c98f54779bf2.png"
+  },
+  {
+    "key": "moon-poster",
+    "title": "Moon - editorial poster illustration concept",
+    "prompt": "Use case: compositing. Make a 1536x1024 digital editorial poster illustration concept from exact reference Moon product render. Preserve its maria and craters and visible orientation closely. Full lunar globe centered,70 percent height,greyscale texture on warm sand ivory background, narrow plain charcoal horizontal rule near bottom and ample empty margins for future poster layout. Soft directional light, crisp surface. Elegant museum editorial illustration, no leader lines or labels, no text, UI, physical print, stand, room or watermark. Do not invent scientific features.",
+    "slug": "moon-3d-model",
+    "generated_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-eb343a95-fa54-421c-9941-794f379f154f.png"
+  },
+  {
+    "key": "moon-video",
+    "title": "Moon - astronomy video cover concept",
+    "prompt": "Use case: compositing. Make a 1536x1024 astronomy video cover concept. Exact reference Moon render is source; preserve identifiable near-side maria and crater pattern and orientation. Moon large on left two thirds, around95 percent height, right open space, subtle dark violet-blue gradient background, sparse stars, clear neutral side lighting and crisp texture, premium digital thumbnail composition. No glow atmosphere, no text, title, UI or play icon, no spacecraft, extra planets or new surface features, no watermark. Same product moon rather than replacement photo.",
+    "slug": "moon-3d-model",
+    "generated_source": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-faefad85-1fa0-4fc8-a19d-0b1ccd6ad026.png"
+  }
+]

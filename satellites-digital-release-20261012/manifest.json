@@ -1,0 +1,64 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/3d-models/solar-system/satellites/",
+  "term_id": 171,
+  "block_id": 18122,
+  "operation": "Update dedicated bottom content only",
+  "before_sha256": "06147ffe05a3145833c3b385ed38988c0f2baf2c2f62f6696c7de04ca1fdd3e5",
+  "template_sha256": "dcd7c10cf78b9741e6d47b8745cb47e8c91a0d9d34cf413b50ed55999a42bcbc",
+  "assets": [
+    {
+      "key": "moon-banner",
+      "mode": "new",
+      "file": "satellites-digital-moon-banner-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "6f11077714f3433136f23a6c4a560f109ff6aae214df19d7cd4ff6f3ad9a9b76",
+      "alt": "AI-generated moon - astronomy website banner concept.",
+      "title": "Moon - astronomy website banner concept",
+      "caption": "AI-generated digital application concept; scene setup and styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/moon-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "moon-animation",
+      "mode": "new",
+      "file": "satellites-digital-moon-animation-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "63a5bb15d33cc2093492f3a129d255469f584158c085bb3f8d680b926f7c5821",
+      "alt": "AI-generated moon - animation scene still concept.",
+      "title": "Moon - animation scene still concept",
+      "caption": "AI-generated digital application concept; scene setup and styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/moon-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "moon-poster",
+      "mode": "new",
+      "file": "satellites-digital-moon-poster-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e752d855313871d8795af2a95bae21598d319de89cd1e5621592c48027dbdb1c",
+      "alt": "AI-generated moon - editorial poster illustration concept.",
+      "title": "Moon - editorial poster illustration concept",
+      "caption": "AI-generated digital application concept; scene setup and styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/moon-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "moon-video",
+      "mode": "new",
+      "file": "satellites-digital-moon-video-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f92450e8b022ac25ae6898986907858070f3b5f33ced7d506f3392454e77f490",
+      "alt": "AI-generated moon - astronomy video cover concept.",
+      "title": "Moon - astronomy video cover concept",
+      "caption": "AI-generated digital application concept; scene setup and styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/moon-3d-model/",
+      "prompt": "image-prompts.json"
+    }
+  ],
+  "authorization": "Owner requested next category after Planets;publish Satellites with four new digital concepts."
+}

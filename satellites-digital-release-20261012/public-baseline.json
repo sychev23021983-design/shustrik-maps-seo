@@ -1,0 +1,33 @@
+{
+  "http": 200,
+  "url": "https://shustrik-maps.com/product-category/3d-models/solar-system/satellites/",
+  "title": "High-Quality 3D Model of Satellite \u2013 Download for Animation, VR & Games",
+  "description": "Get a detailed 3D model of a satellite for animation, gaming, and simulations. Optimized for Blender, Maya, and 3ds Max with high-resolution textures and realistic materials. Perfect for educational and professional projects!",
+  "canonical": "https://shustrik-maps.com/product-category/3d-models/solar-system/satellites/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "h1": [
+    "SATELLITES"
+  ],
+  "cards": [
+    {
+      "url": "https://shustrik-maps.com/product/moon-3d-model/",
+      "title": "Moon 3D Model",
+      "price": "$15.00"
+    }
+  ],
+  "schema_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    [
+      "Organization",
+      "Place",
+      "Store"
+    ],
+    "PostalAddress",
+    "ImageObject",
+    "BreadcrumbList"
+  ],
+  "pagination_present": false
+}
