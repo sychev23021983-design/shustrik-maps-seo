@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "mode": "--apply",
+  "utc": "2026-10-12T05:22:21+00:00",
+  "url": "https://shustrik-maps.com/product-category/3d-models/solar-system/satellites/",
+  "term_id": 171,
+  "block_id": 18122,
+  "protected_preserved": true,
+  "media": [
+    {
+      "key": "moon-banner",
+      "id": 22849,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/09/satellites-digital-moon-banner-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "moon-animation",
+      "id": 22850,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/09/satellites-digital-moon-animation-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "moon-poster",
+      "id": 22851,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/09/satellites-digital-moon-poster-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "moon-video",
+      "id": 22852,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/09/satellites-digital-moon-video-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": "5632298fccedeff3911759aced3e1df1b0c5613d3b7131be2a79a4d6719cf19a",
+  "rollback_backup": "_shustrik_satellites_digital_backup_20261012"
+}

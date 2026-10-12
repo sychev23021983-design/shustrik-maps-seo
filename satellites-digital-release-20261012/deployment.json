@@ -1,0 +1,10 @@
+{
+  "commit": "88481b5ed2253a01851f4c31a8278526e55517f6",
+  "archive_sha256": "2f0e54d768df2219e17ff6554f5c5b54b9474f24dd5aa6ac16903f35223c411e",
+  "remote_archive_sha256": "2f0e54d768df2219e17ff6554f5c5b54b9474f24dd5aa6ac16903f35223c411e",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/satellites-digital-88481b5ed225",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

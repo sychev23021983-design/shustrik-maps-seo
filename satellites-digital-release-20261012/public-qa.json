@@ -1,0 +1,105 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "bottom_heading": true,
+    "old_copy_removed": true,
+    "pagination_absent": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/3d-models/solar-system/satellites/",
+    "title": "High-Quality 3D Model of Satellite – Download for Animation, VR & Games",
+    "description": "Get a detailed 3D model of a satellite for animation, gaming, and simulations. Optimized for Blender, Maya, and 3ds Max with high-resolution textures and realistic materials. Perfect for educational and professional projects!",
+    "canonical": "https://shustrik-maps.com/product-category/3d-models/solar-system/satellites/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "Satellite 3D Models for Lunar Renders and Animation"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/moon-3d-model/",
+        "title": "Moon 3D Model",
+        "price": "$15.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/3d-models/solar-system/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/solar-system/planets-3d-models/": 200,
+    "https://shustrik-maps.com/product/moon-3d-model/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2024/09/satellites-digital-moon-banner-20261012.webp": {
+      "http": 200,
+      "bytes": 126216,
+      "alt": "AI-generated moon - astronomy website banner concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2024/09/satellites-digital-moon-animation-20261012.webp": {
+      "http": 200,
+      "bytes": 120240,
+      "alt": "AI-generated moon - animation scene still concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2024/09/satellites-digital-moon-poster-20261012.webp": {
+      "http": 200,
+      "bytes": 148536,
+      "alt": "AI-generated moon - editorial poster illustration concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2024/09/satellites-digital-moon-video-20261012.webp": {
+      "http": 200,
+      "bytes": 191874,
+      "alt": "AI-generated moon - astronomy video cover concept.",
+      "width": "1536",
+      "height": "1024"
+    }
+  },
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}

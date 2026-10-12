@@ -1,5 +1,5 @@
 ---
-status: approved
+status: published-check-passed
 site_profile: shustrik-maps
 url: https://shustrik-maps.com/product-category/3d-models/solar-system/satellites/
 ---
