@@ -1,0 +1,7 @@
+{
+  "reviewed": true,
+  "images": 16,
+  "actual_product_references": 8,
+  "findings": "Generated stills visually inspected against eight supplied product images. Geographic outlines, regional terrain coverage, major islands and natural textures recognisable. Lighting, backgrounds, titles and locator accents illustrative; flyovers are still concepts, not produced clips. Original PNGs retained; only RGB/WebP conversion applied.",
+  "native_page_visual_qa": "not completed"
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "term_id": 69,
+    "name": "Islands",
+    "block_id": 17106,
+    "usage": {
+      "description_terms": [],
+      "meta_refs": [
+        {
+          "term_id": "69",
+          "meta_key": "category_extra_description_html_block"
+        }
+      ],
+      "post_refs": [],
+      "post_meta_refs": []
+    },
+    "operation": "update dedicated bottom block"
+  },
+  {
+    "term_id": 62,
+    "name": "Countries",
+    "block_id": 17109,
+    "usage": {
+      "description_terms": [],
+      "meta_refs": [
+        {
+          "term_id": "62",
+          "meta_key": "category_extra_description_html_block"
+        }
+      ],
+      "post_refs": [],
+      "post_meta_refs": []
+    },
+    "operation": "update dedicated bottom block"
+  },
+  {
+    "term_id": 81,
+    "name": "States of America",
+    "block_id": 14986,
+    "usage": {
+      "description_terms": [
+        {
+          "term_id": "81",
+          "description": "[html_block id=\"14986\"]"
+        }
+      ],
+      "meta_refs": [],
+      "post_refs": [
+        {
+          "id": "18217",
+          "type": "nav_menu_item",
+          "slug": "18217"
+        },
+        {
+          "id": "20020",
+          "type": "nav_menu_item",
+          "slug": "20020"
+        },
+        {
+          "id": "21228",
+          "type": "nav_menu_item",
+          "slug": "21228"
+        }
+      ],
+      "post_meta_refs": []
+    },
+    "operation": "create category-only block; preserve shared block and menus"
+  },
+  {
+    "term_id": 91,
+    "name": "Canadian Provinces",
+    "block_id": 17112,
+    "usage": {
+      "description_terms": [],
+      "meta_refs": [
+        {
+          "term_id": "91",
+          "meta_key": "category_extra_description_html_block"
+        }
+      ],
+      "post_refs": [],
+      "post_meta_refs": []
+    },
+    "operation": "update dedicated bottom block"
+  }
+]

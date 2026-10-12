@@ -1,0 +1,996 @@
+{
+  "islands": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/3d-models/islands-3d-models/",
+    "title": "3D Models of Islands - Realistic Relief Maps",
+    "description": "Get 3D models of popular islands: Hawaii, Iceland, Madagascar, and others. Perfect for 3D printing and graphic design.",
+    "canonical": "https://shustrik-maps.com/product-category/3d-models/islands-3d-models/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "ISLANDS"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/bali-3d-model/",
+        "title": "Bali 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/bali-3d-relief-without-water/",
+        "title": "Bali 3D terrain without water",
+        "price": "$30.00 Original price was: $30.00.$20.00Current price is: $20.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/corsica-and-sardinia-3d-model/",
+        "title": "Corsica and Sardinia 3D model",
+        "price": "$30.00 Original price was: $30.00.$20.00Current price is: $20.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/crete-relief-without-water-3d-model/",
+        "title": "Crete terrain without water 3D model",
+        "price": "$30.00 Original price was: $30.00.$20.00Current price is: $20.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/cyprus-without-water-3d-model/",
+        "title": "Cyprus terrain without water 3D model",
+        "price": "$30.00 Original price was: $30.00.$20.00Current price is: $20.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/galapagos-islands-3d-model/",
+        "title": "Galapagos Islands 3D Terrain Model (OBJ) – DEM + Satellite Map)",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/greenland-relief-without-water-3d-model/",
+        "title": "Greenland terrain without water 3D model",
+        "price": "$30.00 Original price was: $30.00.$20.00Current price is: $20.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/hawaii-3d-relief-without-water/",
+        "title": "Hawaii 3D terrain without water",
+        "price": "$30.00 Original price was: $30.00.$20.00Current price is: $20.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/hawaii-terrain-3d-model/",
+        "title": "Hawaii Terrain 3D model",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/iceland-terrain-without-water-3d-model/",
+        "title": "Iceland Terrain Without Water 3D Model",
+        "price": "$30.00 Original price was: $30.00.$20.00Current price is: $20.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/jamaica-terrain-3d-model/",
+        "title": "Jamaica Terrain 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/japan-3d-relief-without-water/",
+        "title": "Japan 3D terrain without water",
+        "price": "$30.00 Original price was: $30.00.$20.00Current price is: $20.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/sicily-3d-relief-without-water/",
+        "title": "Sicily 3D relief without water",
+        "price": "$30.00 Original price was: $30.00.$20.00Current price is: $20.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/taiwan-3d-relief-without-water/",
+        "title": "Taiwan 3D terrain without water",
+        "price": "$30.00 Original price was: $30.00.$20.00Current price is: $20.00."
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false,
+    "retained_h4": [],
+    "retained_main_links": [
+      "#",
+      "/product-category/3d-models/islands-3d-models/?add-to-cart=10276",
+      "/product-category/3d-models/islands-3d-models/?add-to-cart=10394",
+      "/product-category/3d-models/islands-3d-models/?add-to-cart=10523",
+      "/product-category/3d-models/islands-3d-models/?add-to-cart=10543",
+      "/product-category/3d-models/islands-3d-models/?add-to-cart=10560",
+      "/product-category/3d-models/islands-3d-models/?add-to-cart=10577",
+      "/product-category/3d-models/islands-3d-models/?add-to-cart=10595",
+      "/product-category/3d-models/islands-3d-models/?add-to-cart=10612",
+      "/product-category/3d-models/islands-3d-models/?add-to-cart=10632",
+      "/product-category/3d-models/islands-3d-models/?add-to-cart=11075",
+      "/product-category/3d-models/islands-3d-models/?add-to-cart=11159",
+      "/product-category/3d-models/islands-3d-models/?add-to-cart=17082",
+      "/product-category/3d-models/islands-3d-models/?add-to-cart=18040",
+      "/product-category/3d-models/islands-3d-models/?add-to-cart=21442",
+      "https://shustrik-maps.com",
+      "https://shustrik-maps.com/product-category/3d-models/",
+      "https://shustrik-maps.com/product/bali-3d-model/",
+      "https://shustrik-maps.com/product/bali-3d-model/",
+      "https://shustrik-maps.com/product/bali-3d-relief-without-water/",
+      "https://shustrik-maps.com/product/bali-3d-relief-without-water/",
+      "https://shustrik-maps.com/product/corsica-and-sardinia-3d-model/",
+      "https://shustrik-maps.com/product/corsica-and-sardinia-3d-model/",
+      "https://shustrik-maps.com/product/crete-relief-without-water-3d-model/",
+      "https://shustrik-maps.com/product/crete-relief-without-water-3d-model/",
+      "https://shustrik-maps.com/product/cyprus-without-water-3d-model/",
+      "https://shustrik-maps.com/product/cyprus-without-water-3d-model/",
+      "https://shustrik-maps.com/product/galapagos-islands-3d-model/",
+      "https://shustrik-maps.com/product/galapagos-islands-3d-model/",
+      "https://shustrik-maps.com/product/greenland-relief-without-water-3d-model/",
+      "https://shustrik-maps.com/product/greenland-relief-without-water-3d-model/",
+      "https://shustrik-maps.com/product/hawaii-3d-relief-without-water/",
+      "https://shustrik-maps.com/product/hawaii-3d-relief-without-water/",
+      "https://shustrik-maps.com/product/hawaii-terrain-3d-model/",
+      "https://shustrik-maps.com/product/hawaii-terrain-3d-model/",
+      "https://shustrik-maps.com/product/iceland-terrain-without-water-3d-model/",
+      "https://shustrik-maps.com/product/iceland-terrain-without-water-3d-model/",
+      "https://shustrik-maps.com/product/jamaica-terrain-3d-model/",
+      "https://shustrik-maps.com/product/jamaica-terrain-3d-model/",
+      "https://shustrik-maps.com/product/japan-3d-relief-without-water/",
+      "https://shustrik-maps.com/product/japan-3d-relief-without-water/",
+      "https://shustrik-maps.com/product/sicily-3d-relief-without-water/",
+      "https://shustrik-maps.com/product/sicily-3d-relief-without-water/",
+      "https://shustrik-maps.com/product/taiwan-3d-relief-without-water/",
+      "https://shustrik-maps.com/product/taiwan-3d-relief-without-water/"
+    ],
+    "retained_main_images": [
+      "https://shustrik-maps.com/wp-content/uploads/2022/10/Corsica-and-Sardinia-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/10/Corsica-and-Sardinia-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/10/Cyprus_1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/10/Cyprus_1_1-min-1-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/11/13Bali_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/11/14Bali_1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/11/Crete_1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/11/Crete_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/11/Greenland_1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/11/Greenland_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/11/Hawaii_1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/11/Hawaii_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/11/Japan_1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/11/Japan_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/11/Sicily_1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/11/Sicily_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/11/Taiwan_1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/11/Taiwan_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/01/Hawaii_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/01/Hawaii_1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/01/Iceland_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/01/Iceland_1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/06/3D-Models-of-Islands-min.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/06/Jamaica-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/06/Jamaica-1_3-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/09/Bali-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/09/Bali-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2026/02/Galapagos-3D-Terrain-–-Satellite-Texture-1-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2026/02/Galapagos-Islands-3D-Model-Preview-1-300x300.jpg"
+    ]
+  },
+  "countries": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/3d-models/countries-3d-models/",
+    "title": "3D Models of Countries - Detailed Relief Maps",
+    "description": "Buy 3D models of various countries: USA, Russia, China, and others. High quality and accuracy for graphic design and 3D printing.",
+    "canonical": "https://shustrik-maps.com/product-category/3d-models/countries-3d-models/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "COUNTRIES"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/3d-model-of-andorra/",
+        "title": "3D Model of Andorra in C4D and OBJ with High-Resolution Textures",
+        "price": "$15.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/50-united-states-of-america-3d-model/",
+        "title": "50 United States of America 3D Model",
+        "price": "$200.00 Original price was: $200.00.$150.00Current price is: $150.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/afghanistan-3d-model-terrain-map/",
+        "title": "Afghanistan OBJ Terrain Model with Texture Maps",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/afghanistan-terrain-3d-model/",
+        "title": "Afghanistan Terrain Model in C4D and OBJ",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/albania-3d-model-terrain-map/",
+        "title": "Albania 3D Model Terrain Map",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/algeria-3d-model-terrain-map/",
+        "title": "Algeria 3D Model Terrain Map",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/argentina-terrain-3d-model/",
+        "title": "Argentina Terrain 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/armenia-3d-model-terrain-map/",
+        "title": "Armenia 3D Model Terrain Map",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/austria-3d-model-terrain-map/",
+        "title": "Austria 3D Model Terrain Map",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/azerbaijan-3d-model-terrain-map/",
+        "title": "Azerbaijan OBJ Terrain Model with Texture Maps",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/azerbaijan-3d-model-terrain/",
+        "title": "Azerbaijan Terrain Model in C4D and OBJ",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/bali-3d-model/",
+        "title": "Bali 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/belarus-3d-model-terrain/",
+        "title": "Belarus 3D model terrain",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/belgium-3d-model-terrain-map/",
+        "title": "Belgium 3D Model Terrain Map",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/bolivia-terrain-3d-model/",
+        "title": "Bolivia Terrain 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/brazil-3d-model-terrain/",
+        "title": "Brazil 3D model terrain",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/brazil-terrain-3d-model/",
+        "title": "Brazil Terrain 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/bulgaria-3d-model-terrain-map/",
+        "title": "Bulgaria 3D Model Terrain Map",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/canada-3d-model-terrain/",
+        "title": "Canada 3D Model Terrain",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/chile-terrain-3d-model/",
+        "title": "Chile Terrain 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/china-terrain-3d-model/",
+        "title": "China 3d model",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/china-3d-model-terrain/",
+        "title": "China 3D Model Terrain",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/colombia-terrain-3d-model/",
+        "title": "Colombia Terrain 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/contiguous-48-usa-states/",
+        "title": "Contiguous 48 USA States 3D Model",
+        "price": "$300.00 Original price was: $300.00.$190.00Current price is: $190.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/crimea-3d-model-terrain/",
+        "title": "Crimea 3D Model Terrain",
+        "price": "$35.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": true,
+    "retained_h4": [],
+    "retained_main_links": [
+      "#",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=11039",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=11099",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=11382",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=11410",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=11460",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=11719",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=11943",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=12235",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=12807",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=13017",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=13041",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=13136",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=13160",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=13211",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=14662",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=14848",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=15665",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=16863",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=16889",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=16914",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=16938",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=16961",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=18040",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=19313",
+      "/product-category/3d-models/countries-3d-models/?add-to-cart=20943",
+      "https://shustrik-maps.com",
+      "https://shustrik-maps.com/product-category/3d-models/",
+      "https://shustrik-maps.com/product-category/3d-models/countries-3d-models/page/2/",
+      "https://shustrik-maps.com/product-category/3d-models/countries-3d-models/page/2/",
+      "https://shustrik-maps.com/product-category/3d-models/countries-3d-models/page/3/",
+      "https://shustrik-maps.com/product-category/3d-models/countries-3d-models/page/4/",
+      "https://shustrik-maps.com/product/3d-model-of-andorra/",
+      "https://shustrik-maps.com/product/3d-model-of-andorra/",
+      "https://shustrik-maps.com/product/50-united-states-of-america-3d-model/",
+      "https://shustrik-maps.com/product/50-united-states-of-america-3d-model/",
+      "https://shustrik-maps.com/product/afghanistan-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/afghanistan-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/afghanistan-terrain-3d-model/",
+      "https://shustrik-maps.com/product/afghanistan-terrain-3d-model/",
+      "https://shustrik-maps.com/product/albania-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/albania-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/algeria-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/algeria-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/argentina-terrain-3d-model/",
+      "https://shustrik-maps.com/product/argentina-terrain-3d-model/",
+      "https://shustrik-maps.com/product/armenia-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/armenia-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/austria-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/austria-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/azerbaijan-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/azerbaijan-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/azerbaijan-3d-model-terrain/",
+      "https://shustrik-maps.com/product/azerbaijan-3d-model-terrain/",
+      "https://shustrik-maps.com/product/bali-3d-model/",
+      "https://shustrik-maps.com/product/bali-3d-model/",
+      "https://shustrik-maps.com/product/belarus-3d-model-terrain/",
+      "https://shustrik-maps.com/product/belarus-3d-model-terrain/",
+      "https://shustrik-maps.com/product/belgium-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/belgium-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/bolivia-terrain-3d-model/",
+      "https://shustrik-maps.com/product/bolivia-terrain-3d-model/",
+      "https://shustrik-maps.com/product/brazil-3d-model-terrain/",
+      "https://shustrik-maps.com/product/brazil-3d-model-terrain/",
+      "https://shustrik-maps.com/product/brazil-terrain-3d-model/",
+      "https://shustrik-maps.com/product/brazil-terrain-3d-model/",
+      "https://shustrik-maps.com/product/bulgaria-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/bulgaria-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/canada-3d-model-terrain/",
+      "https://shustrik-maps.com/product/canada-3d-model-terrain/",
+      "https://shustrik-maps.com/product/chile-terrain-3d-model/",
+      "https://shustrik-maps.com/product/chile-terrain-3d-model/",
+      "https://shustrik-maps.com/product/china-3d-model-terrain/",
+      "https://shustrik-maps.com/product/china-3d-model-terrain/",
+      "https://shustrik-maps.com/product/china-terrain-3d-model/",
+      "https://shustrik-maps.com/product/china-terrain-3d-model/",
+      "https://shustrik-maps.com/product/colombia-terrain-3d-model/",
+      "https://shustrik-maps.com/product/colombia-terrain-3d-model/",
+      "https://shustrik-maps.com/product/contiguous-48-usa-states/",
+      "https://shustrik-maps.com/product/contiguous-48-usa-states/",
+      "https://shustrik-maps.com/product/crimea-3d-model-terrain/",
+      "https://shustrik-maps.com/product/crimea-3d-model-terrain/"
+    ],
+    "retained_main_images": [
+      "https://shustrik-maps.com/wp-content/uploads/2022/12/Afghanistan-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/12/Afghanistan-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/01/China_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/01/China_1_3-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/02/Azerbaijan_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/02/Azerbaijan_1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/02/Belarus_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/02/Belarus_1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/02/Brazil_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/02/Brazil_1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/04/Crimea_1_1-min-e1684569202812-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/04/Crimea_1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/05/China-1_1-min-e1684680529624-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/05/China-1_2-min-e1684680563607-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Azerbaijan-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Azerbaijan-1_3-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Canada-1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Canada-1_2-min-e1687081116725-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/07/Afghanistan-1_1-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/07/Afghanistan-1_2-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/07/Albania-1_1-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/07/Albania-1_2-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/07/Armenia-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/07/Armenia-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/07/Austria-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/07/Austria-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/07/Belgium-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/07/Belgium-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/09/Algeria_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/09/Algeria_1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/09/Bulgaria_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/09/Bulgaria_1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/02/50-United-States-of-America_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/02/50-United-States-of-America_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/06/3D-Models-of-Countries-min.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/06/Argentina-1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/06/Argentina-1_3-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/06/Bolivia-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/06/Bolivia-1_3-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/06/Brazil-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/06/Brazil-1_3-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/06/Chile-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/06/Chile-1_3-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/06/Colombia-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/06/Colombia-1_3-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/09/Bali-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/09/Bali-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2025/04/0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2025/04/22-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2025/09/3d-model-andorra-c4d-obj-1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2025/09/3d-model-andorra-top-view-min-300x300.jpg"
+    ]
+  },
+  "states": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/3d-models/states-of-america-3d-models/",
+    "title": "3D Models of American States - Detailed Relief Maps",
+    "description": "Get 3D models of US states: California, Texas, New York, and others. Perfect for 3D printing and graphic design. States of America 3d models.",
+    "canonical": "https://shustrik-maps.com/product-category/3d-models/states-of-america-3d-models/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/50-united-states-of-america-3d-model/",
+        "title": "50 United States of America 3D Model",
+        "price": "$200.00 Original price was: $200.00.$150.00Current price is: $150.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/alabama-state-terrain-map-3d-model/",
+        "title": "Alabama State Terrain Map 3D Model",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/arizona-state-terrain-map-3d-model/",
+        "title": "Arizona State Terrain Map 3D Model",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/arkansas-state-terrain-map-3d-model/",
+        "title": "Arkansas State Terrain Map 3D Model",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/california-state-terrain-map-3d-model/",
+        "title": "California State Terrain Map 3D Model",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/colorado-3d-model-terrain/",
+        "title": "Colorado State 3D Model Terrain Map",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/contiguous-48-usa-states/",
+        "title": "Contiguous 48 USA States 3D Model",
+        "price": "$300.00 Original price was: $300.00.$190.00Current price is: $190.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/florida-state-terrain-map-3d-model/",
+        "title": "Florida State Terrain Map 3D Model",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/idaho-state-terrain-map-3d-model/",
+        "title": "Idaho State Terrain Map 3D Model",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/indiana-3d-model-terrain/",
+        "title": "Indiana 3D model terrain",
+        "price": "$30.00 Original price was: $30.00.$20.00Current price is: $20.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/iowa-3d-model-state-terrain-map/",
+        "title": "Iowa 3D Model State Terrain Map",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/kansas-3d-model-state-terrain-map/",
+        "title": "Kansas 3D Model State Terrain Map",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/montana-3d-model-terrain/",
+        "title": "Montana 3D model terrain",
+        "price": "$30.00 Original price was: $30.00.$20.00Current price is: $20.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/montana-state-terrain-map-3d-model/",
+        "title": "Montana State Terrain Map 3D Model",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/nebraska-3d-model-state-terrain-map/",
+        "title": "Nebraska 3D Model State Terrain Map",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/nevada-state-terrain-map-3d-model/",
+        "title": "Nevada State Terrain Map 3D Model",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/new-mexico-state-terrain-map-3d-model/",
+        "title": "New Mexico State Terrain Map 3D Model",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/north-dakota-3d-model-state-terrain-map/",
+        "title": "North Dakota 3D Model State Terrain Map",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/oregon-state-terrain-map-3d-model/",
+        "title": "Oregon State Terrain Map 3D Model",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/relief-map-of-the-state-of-california-3d-model/",
+        "title": "Relief map of the state of California 3D model",
+        "price": "$30.00 Original price was: $30.00.$20.00Current price is: $20.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/south-dakota-3d-model-state-terrain-map/",
+        "title": "South Dakota 3D Model State Terrain Map",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/texas-3d-model-state-terrain-map/",
+        "title": "Texas 3D Model State Terrain Map",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/utah-state-terrain-map-3d-model/",
+        "title": "Utah State Terrain Map 3D Model",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/washington-3d-model-state-terrain-map/",
+        "title": "Washington 3D Model State Terrain Map",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/wyoming-3d-model-state-terrain-map/",
+        "title": "Wyoming 3D Model State Terrain Map",
+        "price": "$40.00 Original price was: $40.00.$28.00Current price is: $28.00."
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false,
+    "retained_h4": [
+      "A-K",
+      "L-N",
+      "O-W"
+    ],
+    "retained_main_links": [
+      "#",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=10853",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=11551",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=11579",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=11819",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=12370",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=12394",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=12421",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=12446",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=12468",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=12491",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=12517",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=12543",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=12567",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=12594",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=12646",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=12756",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=12782",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=14700",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=14727",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=14772",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=14796",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=14822",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=15665",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=17994",
+      "/product-category/3d-models/states-of-america-3d-models/?add-to-cart=19313",
+      "https://shustrik-maps.com",
+      "https://shustrik-maps.com/product-category/3d-models/",
+      "https://shustrik-maps.com/product/50-united-states-of-america-3d-model/",
+      "https://shustrik-maps.com/product/50-united-states-of-america-3d-model/",
+      "https://shustrik-maps.com/product/alabama-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/alabama-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/alabama-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/arizona-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/arizona-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/arizona-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/arkansas-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/arkansas-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/arkansas-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/california-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/california-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/california-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/colorado-3d-model-terrain/",
+      "https://shustrik-maps.com/product/colorado-3d-model-terrain/",
+      "https://shustrik-maps.com/product/colorado-3d-model-terrain/",
+      "https://shustrik-maps.com/product/contiguous-48-usa-states/",
+      "https://shustrik-maps.com/product/contiguous-48-usa-states/",
+      "https://shustrik-maps.com/product/florida-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/florida-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/hawaii-3d-relief-without-water/",
+      "https://shustrik-maps.com/product/idaho-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/idaho-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/idaho-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/indiana-3d-model-terrain/",
+      "https://shustrik-maps.com/product/indiana-3d-model-terrain/",
+      "https://shustrik-maps.com/product/iowa-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/iowa-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/iowa-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/kansas-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/kansas-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/kansas-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/montana-3d-model-terrain/",
+      "https://shustrik-maps.com/product/montana-3d-model-terrain/",
+      "https://shustrik-maps.com/product/montana-3d-model-terrain/",
+      "https://shustrik-maps.com/product/montana-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/montana-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/montana-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/nebraska-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/nebraska-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/nebraska-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/nevada-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/nevada-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/nevada-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/new-mexico-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/new-mexico-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/new-mexico-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/north-dakota-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/north-dakota-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/north-dakota-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/oregon-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/oregon-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/oregon-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/relief-map-of-the-state-of-california-3d-model/",
+      "https://shustrik-maps.com/product/relief-map-of-the-state-of-california-3d-model/",
+      "https://shustrik-maps.com/product/south-dakota-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/south-dakota-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/south-dakota-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/state-of-alabama-stl-model/",
+      "https://shustrik-maps.com/product/state-of-alaska-stl-model/",
+      "https://shustrik-maps.com/product/state-of-arizona-stl-model/",
+      "https://shustrik-maps.com/product/state-of-arkansas-stl-model/",
+      "https://shustrik-maps.com/product/state-of-california-stl-model/",
+      "https://shustrik-maps.com/product/state-of-colorado-stl-model/",
+      "https://shustrik-maps.com/product/state-of-connecticut-stl-model/",
+      "https://shustrik-maps.com/product/state-of-delaware-stl-model/",
+      "https://shustrik-maps.com/product/state-of-florida-stl-model/",
+      "https://shustrik-maps.com/product/state-of-georgia-stl-model/",
+      "https://shustrik-maps.com/product/state-of-hawaii-stl-model/",
+      "https://shustrik-maps.com/product/state-of-idaho-stl-model/",
+      "https://shustrik-maps.com/product/state-of-illinois-stl-model/",
+      "https://shustrik-maps.com/product/state-of-indiana-stl-model/",
+      "https://shustrik-maps.com/product/state-of-iowa-stl-model/",
+      "https://shustrik-maps.com/product/state-of-kansas-stl-model/",
+      "https://shustrik-maps.com/product/state-of-kentucky-stl-model/",
+      "https://shustrik-maps.com/product/state-of-louisiana-stl-model/",
+      "https://shustrik-maps.com/product/state-of-maine-stl-model/",
+      "https://shustrik-maps.com/product/state-of-maryland-stl-model/",
+      "https://shustrik-maps.com/product/state-of-massachusetts-stl-model/",
+      "https://shustrik-maps.com/product/state-of-michigan-stl-model/",
+      "https://shustrik-maps.com/product/state-of-minnesota-stl-model/",
+      "https://shustrik-maps.com/product/state-of-mississippi-stl-model/",
+      "https://shustrik-maps.com/product/state-of-missouri-stl-model/",
+      "https://shustrik-maps.com/product/state-of-montana-stl-model/",
+      "https://shustrik-maps.com/product/state-of-nebraska-stl-model/",
+      "https://shustrik-maps.com/product/state-of-nevada-stl-model/",
+      "https://shustrik-maps.com/product/state-of-new-hampshire-stl-model/",
+      "https://shustrik-maps.com/product/state-of-new-jersey-stl-model/",
+      "https://shustrik-maps.com/product/state-of-new-mexico-stl-model/",
+      "https://shustrik-maps.com/product/state-of-new-york-stl-model/",
+      "https://shustrik-maps.com/product/state-of-north-carolina-stl-model/",
+      "https://shustrik-maps.com/product/state-of-north-dakota-stl-model/",
+      "https://shustrik-maps.com/product/state-of-ohio-stl-model/",
+      "https://shustrik-maps.com/product/state-of-oklahoma-stl-model/",
+      "https://shustrik-maps.com/product/state-of-oregon-stl-model/",
+      "https://shustrik-maps.com/product/state-of-pennsylvania-stl-model/",
+      "https://shustrik-maps.com/product/state-of-rhode-island-stl-model/",
+      "https://shustrik-maps.com/product/state-of-south-carolina-stl-model/",
+      "https://shustrik-maps.com/product/state-of-south-dakota-stl-model/",
+      "https://shustrik-maps.com/product/state-of-tennessee-stl-model/",
+      "https://shustrik-maps.com/product/state-of-texas-stl-model/",
+      "https://shustrik-maps.com/product/state-of-utah-stl-model/",
+      "https://shustrik-maps.com/product/state-of-vermont-stl-model/",
+      "https://shustrik-maps.com/product/state-of-virginia-stl-model/",
+      "https://shustrik-maps.com/product/state-of-washington-stl-model/",
+      "https://shustrik-maps.com/product/state-of-west-virginia-stl-model/",
+      "https://shustrik-maps.com/product/state-of-wisconsin-stl-model/",
+      "https://shustrik-maps.com/product/state-of-wyoming-stl-model/",
+      "https://shustrik-maps.com/product/texas-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/texas-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/texas-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/utah-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/utah-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/utah-state-terrain-map-3d-model/",
+      "https://shustrik-maps.com/product/washington-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/washington-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/washington-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/wyoming-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/wyoming-3d-model-state-terrain-map/",
+      "https://shustrik-maps.com/product/wyoming-dakota-3d-model-state-terrain-map/"
+    ],
+    "retained_main_images": [
+      "https://shustrik-maps.com/wp-content/uploads/2022/11/California-_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2022/11/California-_1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/03/Indiana_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/03/Indiana_1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/03/Montana_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/03/Montana_1_3-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/05/Colorado-1_1-min-e1684569080701-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/05/Colorado-1_2-min-e1684569044330-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Alabama-1_1-min-e1687076408553-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Alabama-1_2-min-e1687076418172-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Arizona-1_1-min-e1687076372917-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Arizona-1_3-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Arkansas-1_1-min-e1687076329575-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Arkansas-1_2-min-e1687076348431-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/California-1_1-min-e1687076290798-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/California-1_3-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Idaho-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Idaho-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Kansas-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Kansas-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Montana-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Montana-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Nevada-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Nevada-1_3-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/New-Mexico-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/New-Mexico-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Oregon-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Oregon-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Texas-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Texas-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Utah-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Utah-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Washington-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Washington-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/09/Iowa_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/09/Iowa_1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/09/Nebraska_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/09/Nebraska_1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/09/North-Dakota-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/09/North-Dakota-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/09/South-Dakota_1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/09/South-Dakota_1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/09/US-States-min.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/09/Wyoming-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/09/Wyoming-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/02/50-United-States-of-America_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/02/50-United-States-of-America_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/08/Florida-1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/08/Florida-2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2025/04/0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2025/04/22-min-300x300.jpg"
+    ]
+  },
+  "provinces": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/3d-models/canadian-provinces-3d-models/",
+    "title": "3D Models of Canadian Provinces - Realistic Relief Maps",
+    "description": "Buy 3D models of Canadian provinces: Ontario, British Columbia, Quebec, and others. High quality and accuracy.",
+    "canonical": "https://shustrik-maps.com/product-category/3d-models/canadian-provinces-3d-models/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "CANADIAN PROVINCES"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/alberta-3d-model-terrain/",
+        "title": "Alberta 3D Model Terrain",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/british-columbia-3d-model-terrain/",
+        "title": "British Columbia 3D Model Terrain",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/manitoba-3d-model-terrain/",
+        "title": "Manitoba 3D Model Terrain",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/new-brunswik-terrain-3d-map-3d-model/",
+        "title": "New Brunswik Terrain 3D Map 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/newfoundland-and-labrador-terrain-3d-map-3d-model/",
+        "title": "Newfoundland and Labrador Terrain 3D Map 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/northwest-territories-terrain-3d-map-3d-model/",
+        "title": "Northwest Territories Terrain 3D Map 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/nova-scotia-terrain-3d-map-3d-model/",
+        "title": "Nova Scotia Terrain 3D Map 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/nunavut-terrain-3d-map-3d-model/",
+        "title": "Nunavut Terrain 3D Map 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/ontario-terrain-3d-map-3d-model/",
+        "title": "Ontario Terrain 3D Map 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/prince-edward-island-terrain-3d-map-3d-model/",
+        "title": "Prince Edward Island Terrain 3D Map 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/quebec-terrain-3d-map-3d-model/",
+        "title": "Quebec Terrain 3D Map 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/saskatchewan-terrain-3d-map-3d-model/",
+        "title": "Saskatchewan Terrain 3D Map 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/yukon-terrain-3d-map-3d-model/",
+        "title": "Yukon Terrain 3D Map 3D Model",
+        "price": "$35.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false,
+    "retained_h4": [],
+    "retained_main_links": [
+      "#",
+      "/product-category/3d-models/canadian-provinces-3d-models/?add-to-cart=12290",
+      "/product-category/3d-models/canadian-provinces-3d-models/?add-to-cart=12313",
+      "/product-category/3d-models/canadian-provinces-3d-models/?add-to-cart=12335",
+      "/product-category/3d-models/canadian-provinces-3d-models/?add-to-cart=16409",
+      "/product-category/3d-models/canadian-provinces-3d-models/?add-to-cart=16433",
+      "/product-category/3d-models/canadian-provinces-3d-models/?add-to-cart=16481",
+      "/product-category/3d-models/canadian-provinces-3d-models/?add-to-cart=16505",
+      "/product-category/3d-models/canadian-provinces-3d-models/?add-to-cart=16528",
+      "/product-category/3d-models/canadian-provinces-3d-models/?add-to-cart=16552",
+      "/product-category/3d-models/canadian-provinces-3d-models/?add-to-cart=16575",
+      "/product-category/3d-models/canadian-provinces-3d-models/?add-to-cart=16599",
+      "/product-category/3d-models/canadian-provinces-3d-models/?add-to-cart=16624",
+      "/product-category/3d-models/canadian-provinces-3d-models/?add-to-cart=16649",
+      "https://shustrik-maps.com",
+      "https://shustrik-maps.com/product-category/3d-models/",
+      "https://shustrik-maps.com/product/alberta-3d-model-terrain/",
+      "https://shustrik-maps.com/product/alberta-3d-model-terrain/",
+      "https://shustrik-maps.com/product/british-columbia-3d-model-terrain/",
+      "https://shustrik-maps.com/product/british-columbia-3d-model-terrain/",
+      "https://shustrik-maps.com/product/manitoba-3d-model-terrain/",
+      "https://shustrik-maps.com/product/manitoba-3d-model-terrain/",
+      "https://shustrik-maps.com/product/new-brunswik-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/new-brunswik-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/newfoundland-and-labrador-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/newfoundland-and-labrador-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/northwest-territories-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/northwest-territories-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/nova-scotia-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/nova-scotia-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/nunavut-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/nunavut-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/ontario-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/ontario-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/prince-edward-island-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/prince-edward-island-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/quebec-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/quebec-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/saskatchewan-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/saskatchewan-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/yukon-terrain-3d-map-3d-model/",
+      "https://shustrik-maps.com/product/yukon-terrain-3d-map-3d-model/"
+    ],
+    "retained_main_images": [
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Alberta-1_1-min-e1686132113301-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Alberta-1_2-min-e1686132159315-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/British-Columbia-1_1-min-e1686132079459-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/British-Columbia-1_2-min-e1686132101636-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Manitoba-1_1-min-e1686132776324-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2023/06/Manitoba-1_2-e1686132788800-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/04/Ontario-1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/04/Ontario-1_3-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/04/Saskatchewan-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/04/Saskatchewan-1_3-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/05/New-Brunswik-1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/05/New-Brunswik-1_1-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/05/Newfoundland-and-Labrador-1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/05/Newfoundland-and-Labrador-1_3-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/05/Northwest-Territories-1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/05/Northwest-Territories-1_3-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/05/Nova-Scotia-1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/05/Nova-Scotia-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/05/Nunavut-1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/05/Nunavut-1_3-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/05/Prince-Edward-Island-C4D-1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/05/Prince-Edward-Island-C4D-1_2-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/05/Quebec-1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/05/Quebec-1_4-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/05/Yukon-1_0-min-300x300.jpg",
+      "https://shustrik-maps.com/wp-content/uploads/2024/05/Yukon-1_3-min-300x300.jpg"
+    ]
+  }
+}
