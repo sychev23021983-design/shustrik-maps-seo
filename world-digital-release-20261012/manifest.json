@@ -1,0 +1,64 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/3d-models/world/",
+  "term_id": 66,
+  "block_id": 15975,
+  "operation": "Update dedicated bottom content only",
+  "before_sha256": "5ec8abe6c8d6fd5db0bb45a5e85a411f7525a01414c61b2dc62c3e121749e1fb",
+  "template_sha256": "cf865201ca131587b98ecc23745a60bc60cc9c7a18868e788a717d2eee8339e4",
+  "assets": [
+    {
+      "key": "world-banner",
+      "mode": "new",
+      "file": "world-digital-world-banner-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "cafcfff577de1ba20af1c98c159c5fba820fc770caead1e1893c09dcbe587156",
+      "alt": "AI-generated world earth map — website banner concept.",
+      "title": "World Earth Map — website banner concept",
+      "caption": "AI-generated digital application concept; scene styling and graphic elements are illustrative.",
+      "source": "https://shustrik-maps.com/product/world-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "north-pole-learning",
+      "mode": "new",
+      "file": "world-digital-north-pole-learning-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "76e548267ace741599a188dda8e97778cc2d80b32dc4cc18795312503c18e034",
+      "alt": "AI-generated north pole — polar geography learning graphic concept.",
+      "title": "North Pole — polar geography learning graphic concept",
+      "caption": "AI-generated digital application concept; scene styling and graphic elements are illustrative.",
+      "source": "https://shustrik-maps.com/product/north-pole-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "gravity-animation",
+      "mode": "new",
+      "file": "world-digital-gravity-animation-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "fc1bc5b195963bf6398a6daf0e59e581e5ea65653cf172782cf927d0594f7347",
+      "alt": "AI-generated earth’s gravity map — motion graphics still concept.",
+      "title": "Earth’s Gravity Map — motion graphics still concept",
+      "caption": "AI-generated digital application concept; scene styling and graphic elements are illustrative.",
+      "source": "https://shustrik-maps.com/product/earths-gravity-map-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "dymaxion-slide",
+      "mode": "new",
+      "file": "world-digital-dymaxion-slide-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "1b5363419854e8eec291e9b0e434ba523f476aa241cc54ba2749ec789e843d6b",
+      "alt": "AI-generated dymaxion — world projection presentation concept.",
+      "title": "Dymaxion — world projection presentation concept",
+      "caption": "AI-generated digital application concept; scene styling and graphic elements are illustrative.",
+      "source": "https://shustrik-maps.com/product/world-map-dymaxion-3d-model/",
+      "prompt": "image-prompts.json"
+    }
+  ],
+  "authorization": "Owner requested next category after Space objects; continuing authorised live category updates."
+}

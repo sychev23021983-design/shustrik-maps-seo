@@ -1,0 +1,38 @@
+[
+  {
+    "key": "world-banner",
+    "ref": "J:/1. My Vault/90 Migration/shustrik-maps-seo/world-digital-release-20261012/references/world-3d-model-view-2.jpg",
+    "source": "https://shustrik-maps.com/product/world-3d-model/",
+    "title": "World Earth Map — website banner concept",
+    "caption": "A textured world map composed with clear space for a geography website headline.",
+    "prompt": "Use case: ads-marketing. Generate a refined digital geography website banner, landscape1536x1024. Supplied reference is the exact rectangular World Earth Map model: North and South America on left, Africa at center, Eurasia across upper right, Australia lower right, Antarctica white across bottom, Greenland upper left-center, dark teal oceans with seabed relief. Preserve all this geography, coastline shapes, relative sizes and surface textures carefully, no remapping. Show this complete flat rectangular map across LOWER TWO THIRDS with very subtle perspective depth of terrain only; UPPER THIRD spacious midnight-teal gradient for future headline. Seamless digital graphic/render, no slab thickness, no desk, frame, physical screen or floating-object shadow. Natural green/brown land, white ice, deep blue ocean, subtle side light bringing out relief. No letters, labels, logos, dotted travel lines, pins or additional objects.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-68890896-21eb-46c9-8a87-0a14dcbbe331.png"
+  },
+  {
+    "key": "north-pole-learning",
+    "ref": "J:/1. My Vault/90 Migration/shustrik-maps-seo/world-digital-release-20261012/references/north-pole-3d-model-view-1.jpg",
+    "source": "https://shustrik-maps.com/product/north-pole-3d-model/",
+    "title": "North Pole — polar geography learning graphic concept",
+    "caption": "A polar terrain view with blank callout areas for an educational presentation.",
+    "prompt": "Use case: scientific-educational. Generate polished digital learning graphic1536x1024 from the supplied exact North Pole terrain model. Preserve square cropped top-down polar projection and shown orientation: Greenland ochre lower left, Canadian Arctic islands left, dark blue central Arctic Ocean basin with ridges, Eurasian coastal relief along top and right, green shallow shelves. Use same recognizable coastlines and terrain, do NOT turn it into a globe or circular map. Place the square detailed map on LEFT about55% of frame with no physical slab/base thickness, warm off-white and very pale lavender background. RIGHT has two slim muted teal unlabelled leader lines and spacious blank callout areas. Soft directional relief light, clean educational digital illustration. No text, numbers, scientific measurements, legends, logos, icons, frame, physical poster or device.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-9b427d70-da3a-4905-aed6-0a55dff506f6.png"
+  },
+  {
+    "key": "gravity-animation",
+    "ref": "J:/1. My Vault/90 Migration/shustrik-maps-seo/world-digital-release-20261012/references/earths-gravity-map-3d-model-view-2.jpg",
+    "source": "https://shustrik-maps.com/product/earths-gravity-map-3d-model/",
+    "title": "Earth’s Gravity Map — motion graphics still concept",
+    "caption": "A colourful globe composition for a science video or motion graphics sequence.",
+    "prompt": "Use case: stylized-concept. Generate digital science motion-graphics STILL1536x1024. Reproduce supplied Earth's gravity-map globe faithfully: subtly irregular round surface, Africa in center-left, Europe above, India upper right, distinct rainbow colour distribution red across northwest-Europe/top left, yellow across western Africa/Atlantic, orange south of Africa, cyan eastern Africa, deep blue Indian Ocean at right. Maintain continent boundaries, bumps and colour locations from reference. Place full globe on RIGHT60% with spacious left margin in deep plum/indigo gradient, a few abstract delicate curved lines behind it suggesting presentation motion but no scientific force diagram. Elegant soft light, matte detailed relief surface, no flattening to ordinary globe. No text, labels, scales, extra planets, physical screen, stand or product props. Creative scientific visual concept, not a new dataset.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-52a23e6c-2e96-48be-96bb-3e98e579de95.png"
+  },
+  {
+    "key": "dymaxion-slide",
+    "ref": "J:/1. My Vault/90 Migration/shustrik-maps-seo/world-digital-release-20261012/references/world-map-dymaxion-3d-model-view-1.jpg",
+    "source": "https://shustrik-maps.com/product/world-map-dymaxion-3d-model/",
+    "title": "Dymaxion — world projection presentation concept",
+    "caption": "The distinctive unfolded map layout used as the main graphic of a presentation slide.",
+    "prompt": "Use case: productivity-visual. Generate a sophisticated digital presentation background1536x1024 using supplied Dymaxion/Fuller projection 3D world map as the EXACT main shape. Preserve the entire distinctive connected triangular net boundary and geographical arrangement: large inverted triangle at upper-left-center with Africa, Americas along central-left, Eurasia centrally, Australia on upper-right triangle, white Antarctica on far-right rectangle, southwest point lower left, triangular flaps top and bottom. Preserve relative geometry and natural satellite surface with deep navy oceans. Complete net centered across LOWER two-thirds, ample clear upper margin for future title. Muted pale sage and warm ivory background with one faint diagonal geometric accent, subtle terrain relief shading only, no raised slab sides, physical frame or desk shadow. Clearly digital graphic. No text, numbers, labels, logos, changed projection, ordinary rectangular world map or globe. Reference fidelity is top priority.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-85d8e500-c480-4603-8fbe-fb85fc28a8ba.png"
+  }
+]

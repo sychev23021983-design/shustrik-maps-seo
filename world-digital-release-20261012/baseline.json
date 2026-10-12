@@ -1,0 +1,621 @@
+{
+  "utc": "2026-10-12T06:00:59+00:00",
+  "block": {
+    "id": 15975,
+    "title": "Category World",
+    "content": "[vc_row][vc_column][woodmart_title size=\"medium\" font_weight=\"600\" tag=\"h1\" woodmart_css_id=\"66f85e7c1730c\" title=\"WORLD\" responsive_spacing=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NmY4NWU3YzE3MzBjIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==\" after_color=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfY29sb3JwaWNrZXIiLCJjc3NfYXJncyI6eyJjb2xvciI6WyIgLnRpdGxlLWFmdGVyX3RpdGxlIl19LCJzZWxlY3Rvcl9pZCI6IjY2Zjg1ZTdjMTczMGMiLCJkYXRhIjp7ImRlc2t0b3AiOiIjZGQ5OTMzIn19\" subtitle=\"3D MODELS OF THE\" title_custom_color=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfY29sb3JwaWNrZXIiLCJjc3NfYXJncyI6eyJjb2xvciI6WyIgLndvb2RtYXJ0LXRpdGxlLWNvbnRhaW5lciJdfSwic2VsZWN0b3JfaWQiOiI2NmY4NWU3YzE3MzBjIiwiZGF0YSI6eyJkZXNrdG9wIjoiIzdhOWM1OSJ9fQ==\"][vc_separator style=\"shadow\" wd_hide_on_desktop=\"no\" wd_hide_on_tablet=\"no\" wd_hide_on_mobile=\"no\"][/vc_column][/vc_row][vc_row][vc_column][woodmart_text_block woodmart_css_id=\"666416c26d5e2\" woodmart_inline=\"no\" responsive_spacing=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NjY0MTZjMjZkNWUyIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGV4dF9ibG9jayIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19\" parallax_scroll=\"no\" wd_hide_on_desktop=\"no\" wd_hide_on_tablet=\"no\" wd_hide_on_mobile=\"no\"]<strong>Discover the World: Wide Range of 3D Models with and without Water Features.</strong>\r\n\r\nOur 3D model of Earth is a detailed world map with precise representation of all continents and oceans. The model is designed for professional use in graphic design, as well as for creating a physical replica of Earth using 3D printing or CNC machines. This model can be used for educational purposes, scientific projects, or as a unique interior decoration.[/woodmart_text_block][woodmart_image img_align=\"center\" rounding_size=\"\" woodmart_css_id=\"660ee32e46c86\" display_inline=\"no\" parallax_scroll=\"no\" responsive_spacing=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NjBlZTMyZTQ2Yzg2Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfaW1hZ2UiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==\" woodmart_box_shadow=\"no\" wd_hide_on_desktop=\"no\" wd_hide_on_tablet=\"no\" wd_hide_on_mobile=\"no\" img_id=\"15978\" img_size=\"full\"][/vc_column][/vc_row][vc_row][vc_column][vc_message color=\"success\" message_box_color=\"success\" icon_fontawesome=\"fas fa-check\"]Do you need a 3D model or map that isn't in the store yet? No problem, I can make one for you.[/vc_message][/vc_column][/vc_row]",
+    "content_sha256": "5ec8abe6c8d6fd5db0bb45a5e85a411f7525a01414c61b2dc62c3e121749e1fb",
+    "protected_hash": "2e5a121d3dad19f7f437b6a0898e3516f41b44449b760b24b2e7663b5047531e"
+  },
+  "term": {
+    "id": 66,
+    "slug": "world",
+    "name": "World",
+    "description": "",
+    "meta": {
+      "order": [
+        "10"
+      ],
+      "title_image": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_icon": [
+        "a:2:{s:3:\"url\";s:67:\"https://shustrik-maps.com/wp-content/uploads/2023/09/World_icon.png\";s:2:\"id\";s:5:\"14974\";}"
+      ],
+      "category_icon_alt": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "display_type": [
+        ""
+      ],
+      "thumbnail_id": [
+        "15072"
+      ],
+      "wpfoof-identifier_exists": [
+        "yes"
+      ],
+      "feed_google_category": [
+        "Software > Digital Goods & Currency > Digital Artwork"
+      ],
+      "wpfoof-adult": [
+        "no"
+      ],
+      "wpfoof-shipping-label": [
+        ""
+      ],
+      "wpfoof-tax-category": [
+        ""
+      ],
+      "category_extra_description_type": [
+        "html_block"
+      ],
+      "category_extra_description_html_block": [
+        "15975"
+      ],
+      "category_extra_description_text": [
+        ""
+      ]
+    },
+    "protected_hash": "8e1e93c7cd3c0921841a1efa73e323e26c429c87a4dce14d2c3108ba4e1a990f"
+  },
+  "usage": {
+    "terms": [
+      {
+        "term_id": "66",
+        "meta_key": "category_extra_description_html_block"
+      }
+    ],
+    "post_refs": [
+      {
+        "ID": "9386",
+        "post_type": "product",
+        "post_name": "minsk-city-3d-model"
+      }
+    ],
+    "post_meta_refs": []
+  },
+  "products": [
+    {
+      "id": 19439,
+      "slug": "authagraph-world-map-3d-model",
+      "url": "https://shustrik-maps.com/product/authagraph-world-map-3d-model/",
+      "state_hash": "f0a6a9f816dc0296f21d219e1a4cc20afc95c30590819083f99b7e3c6617cf00",
+      "images": [
+        {
+          "id": 19440,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/1-min-5.jpg"
+        },
+        {
+          "id": 19441,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/2-min-5.jpg"
+        },
+        {
+          "id": 19442,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/3-min-5.jpg"
+        },
+        {
+          "id": 19443,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/4-min-5.jpg"
+        },
+        {
+          "id": 19444,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/5-min-5.jpg"
+        },
+        {
+          "id": 19445,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/6-min-5.jpg"
+        },
+        {
+          "id": 19446,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/7-min-5.jpg"
+        },
+        {
+          "id": 19447,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/8-min-3.jpg"
+        },
+        {
+          "id": 19448,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/9-min-3.jpg"
+        },
+        {
+          "id": 19449,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/10-min-3.jpg"
+        },
+        {
+          "id": 19450,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/11-min-3.jpg"
+        },
+        {
+          "id": 19451,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/12-min-3.jpg"
+        },
+        {
+          "id": 19452,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/13-min-3.jpg"
+        },
+        {
+          "id": 19453,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/14-min-2.jpg"
+        },
+        {
+          "id": 19454,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/15-min-2.jpg"
+        },
+        {
+          "id": 19455,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/16-min-2.jpg"
+        },
+        {
+          "id": 19456,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/17-min-1.jpg"
+        },
+        {
+          "id": 19490,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/AuthaGraph-World-Map_C4D-min.jpg"
+        },
+        {
+          "id": 19491,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/AuthaGraph-World-Map_C4D_2-min.jpg"
+        },
+        {
+          "id": 19492,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/AuthaGraph-World-Map_C4D3-min.jpg"
+        },
+        {
+          "id": 19493,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/AuthaGraph-World-Map_C4D4-min.jpg"
+        }
+      ]
+    },
+    {
+      "id": 16784,
+      "slug": "earths-gravity-map-3d-model",
+      "url": "https://shustrik-maps.com/product/earths-gravity-map-3d-model/",
+      "state_hash": "3f65b112bee29325d4a5c298b41174346380655631bf1734269509afeb0600b8",
+      "images": [
+        {
+          "id": 16796,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Earths-gravity-map-1_1-min.jpg"
+        },
+        {
+          "id": 16795,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Earths-gravity-map-1_2-min.jpg"
+        },
+        {
+          "id": 16794,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Earths-gravity-map-1_3-min.jpg"
+        },
+        {
+          "id": 16793,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Earths-gravity-map-1_4-min.jpg"
+        },
+        {
+          "id": 16792,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Earths-gravity-map-1_5-min.jpg"
+        },
+        {
+          "id": 16791,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Earths-gravity-map-1_6-min.jpg"
+        },
+        {
+          "id": 16790,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Earths-gravity-map-1_7-min.jpg"
+        },
+        {
+          "id": 16789,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Earths-gravity-map-1_8-min.jpg"
+        },
+        {
+          "id": 16788,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Earths-gravity-map-1_9-min.jpg"
+        }
+      ]
+    },
+    {
+      "id": 16772,
+      "slug": "geoid-height-stl-model",
+      "url": "https://shustrik-maps.com/product/geoid-height-stl-model/",
+      "state_hash": "109415f9376c25ab433d6c1caae623426875e8d149eee41ffdd03caf7e6cdd48",
+      "images": [
+        {
+          "id": 16781,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Geoid_1_0-min.jpg"
+        },
+        {
+          "id": 16780,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Geoid_1_1-min.jpg"
+        },
+        {
+          "id": 16778,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Geoid_1_3-min.jpg"
+        },
+        {
+          "id": 16777,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Geoid_1_4-min.jpg"
+        },
+        {
+          "id": 16776,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Geoid_1_5-min.jpg"
+        },
+        {
+          "id": 16775,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Geoid_1_6-min.jpg"
+        },
+        {
+          "id": 16774,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Geoid_1_7-min.jpg"
+        },
+        {
+          "id": 16839,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Geoid_1_9-min.jpg"
+        },
+        {
+          "id": 16840,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Geoid_1_10-min.jpg"
+        },
+        {
+          "id": 16773,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Geoid_1_8-min.jpg"
+        }
+      ]
+    },
+    {
+      "id": 15954,
+      "slug": "world-3d-model",
+      "url": "https://shustrik-maps.com/product/world-3d-model/",
+      "state_hash": "0cfebb7c4e638870ab75226045511bf29b4d6cb8cc018e4693736698326d790f",
+      "images": [
+        {
+          "id": 18477,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-3d-model_1_0-min.jpg"
+        },
+        {
+          "id": 15968,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-3d-model_1_3-min.jpg"
+        },
+        {
+          "id": 15969,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-3d-model_1_2-min.jpg"
+        },
+        {
+          "id": 15967,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-3d-model_1_4-min.jpg"
+        },
+        {
+          "id": 15966,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-3d-model_1_5-min.jpg"
+        },
+        {
+          "id": 15965,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-3d-model_1_6-min.jpg"
+        },
+        {
+          "id": 15964,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-3d-model_1_7-min.jpg"
+        },
+        {
+          "id": 15963,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-3d-model_1_8-min.jpg"
+        },
+        {
+          "id": 15962,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-3d-model_1_9-min.jpg"
+        },
+        {
+          "id": 15961,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-3d-model_1_10-min.jpg"
+        },
+        {
+          "id": 15960,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-3d-model_1_11-min.jpg"
+        },
+        {
+          "id": 15959,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-3d-model_1_12-min.jpg"
+        },
+        {
+          "id": 15958,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-3d-model_1_13-min.jpg"
+        },
+        {
+          "id": 15957,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-3d-model_1_14-min.jpg"
+        },
+        {
+          "id": 15956,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-3d-model_1_15-min.jpg"
+        },
+        {
+          "id": 15955,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-3d-model_1_16-min.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10324,
+      "slug": "world-map-dymaxion-3d-model",
+      "url": "https://shustrik-maps.com/product/world-map-dymaxion-3d-model/",
+      "state_hash": "0241723b305649df3910f1100acaa0aefc707050ea67be3fb5dc5077edbaeaaf",
+      "images": [
+        {
+          "id": 10338,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World_Fuller_1_1-min.jpg"
+        },
+        {
+          "id": 10339,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World_Fuller_1_1_1-min.jpg"
+        },
+        {
+          "id": 10327,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World_Fuller_1_2-min.jpg"
+        },
+        {
+          "id": 10328,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World_Fuller_1_3-min.jpg"
+        },
+        {
+          "id": 10329,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World_Fuller_1_4-min.jpg"
+        },
+        {
+          "id": 10330,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World_Fuller_1_5-min.jpg"
+        },
+        {
+          "id": 10331,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World_Fuller_1_6-min.jpg"
+        },
+        {
+          "id": 10332,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World_Fuller_1_7-min.jpg"
+        },
+        {
+          "id": 10333,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World_Fuller_1_8-min.jpg"
+        },
+        {
+          "id": 10334,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World_Fuller_1_10-min.jpg"
+        },
+        {
+          "id": 10335,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World_Fuller_1_9-min.jpg"
+        },
+        {
+          "id": 10336,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World_Fuller_1_11-min.jpg"
+        },
+        {
+          "id": 10337,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World_Fuller_1_12-min.jpg"
+        },
+        {
+          "id": 10341,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World_Fuller_STL.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10258,
+      "slug": "north-pole-3d-model",
+      "url": "https://shustrik-maps.com/product/north-pole-3d-model/",
+      "state_hash": "37e8ddb8d5926dcfb3ccb4164136bfdb0cc64ac1b67f141ca90fe16ee35a6291",
+      "images": [
+        {
+          "id": 10260,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_1-min.jpg"
+        },
+        {
+          "id": 10261,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_2-min.jpg"
+        },
+        {
+          "id": 10262,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_3-min.jpg"
+        },
+        {
+          "id": 10263,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_4-min.jpg"
+        },
+        {
+          "id": 10264,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_5-min.jpg"
+        },
+        {
+          "id": 10265,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_6-min.jpg"
+        },
+        {
+          "id": 10266,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_7-min.jpg"
+        },
+        {
+          "id": 10267,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_8-min.jpg"
+        },
+        {
+          "id": 10268,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_9-min.jpg"
+        },
+        {
+          "id": 10269,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_10-min.jpg"
+        },
+        {
+          "id": 10270,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_11-min.jpg"
+        },
+        {
+          "id": 10271,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_12-min.jpg"
+        },
+        {
+          "id": 10272,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-Pole-1_13-min.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10238,
+      "slug": "world-map-3d-model",
+      "url": "https://shustrik-maps.com/product/world-map-3d-model/",
+      "state_hash": "1a83de71aa86fd8d472442c206222a9e60eb133c7f289eb322c715a965b2c66b",
+      "images": [
+        {
+          "id": 10239,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World-3D-model-1_1-min.jpg"
+        },
+        {
+          "id": 10240,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World-3D-model-1_2-min.jpg"
+        },
+        {
+          "id": 10241,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World-3D-model-1_3-min.jpg"
+        },
+        {
+          "id": 10242,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World-3D-model-1_4-min.jpg"
+        },
+        {
+          "id": 10243,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World-3D-model-1_5-min.jpg"
+        },
+        {
+          "id": 10244,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World-3D-model-1_6-min.jpg"
+        },
+        {
+          "id": 10245,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World-3D-model-1_7-min.jpg"
+        },
+        {
+          "id": 10246,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World-3D-model-1_8-min.jpg"
+        },
+        {
+          "id": 10247,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World-3D-model-1_9-min.jpg"
+        },
+        {
+          "id": 10248,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World-3D-model-1_10-min.jpg"
+        },
+        {
+          "id": 10249,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World-3D-model-1_11-min.jpg"
+        },
+        {
+          "id": 10250,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World-3D-model-1_12-min.jpg"
+        },
+        {
+          "id": 10251,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World-3D-model-1_13-min.jpg"
+        },
+        {
+          "id": 10252,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World-3D-model-1_14-min.jpg"
+        },
+        {
+          "id": 10253,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/World-3D-model-1_15-min.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10140,
+      "slug": "antarctica-with-ice-3d-model",
+      "url": "https://shustrik-maps.com/product/antarctica-with-ice-3d-model/",
+      "state_hash": "5ab831d840e4756a9e71fdd327e1f5326d5756eb0ac61e1cb8f1c3e25ef96423",
+      "images": [
+        {
+          "id": 10141,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_1-min-1.jpg"
+        },
+        {
+          "id": 10156,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_2_1-min.jpg"
+        },
+        {
+          "id": 10151,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_10-min.jpg"
+        },
+        {
+          "id": 10143,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_2-min-1.jpg"
+        },
+        {
+          "id": 10144,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_3-min-1.jpg"
+        },
+        {
+          "id": 10145,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_4-min-1.jpg"
+        },
+        {
+          "id": 10146,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_5-min-1.jpg"
+        },
+        {
+          "id": 10147,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_6-min-1.jpg"
+        },
+        {
+          "id": 10148,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_7-min-1.jpg"
+        },
+        {
+          "id": 10149,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_8-min.jpg"
+        },
+        {
+          "id": 10150,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_9-min.jpg"
+        },
+        {
+          "id": 10152,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_11-min.jpg"
+        },
+        {
+          "id": 10153,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_12-min.jpg"
+        },
+        {
+          "id": 10154,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_13-min.jpg"
+        },
+        {
+          "id": 10155,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_14-min.jpg"
+        },
+        {
+          "id": 10142,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_15-min.jpg"
+        },
+        {
+          "id": 10157,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_Aspire-min.jpg"
+        }
+      ]
+    }
+  ],
+  "previous_blocks": {
+    "14416": "6edba256e6089d2e27c9f5d230b20db60aa1cc2d8398322d381093b57c3c253a",
+    "14417": "7f6ec5d47e68b6110e336be1a937f6eb24c668f3f2b9607b6d99a6d4ac47bea0",
+    "21177": "23273f7c1f5381fae079c45aaa75533204ca605859aec955a57ec84d7a05c937",
+    "21176": "f01816955682802fffd9564408d26a4a609b6d616a8a122bed4ccb394e31ca9f",
+    "21175": "53f5219b487d1b14c3b127c5b990e0892f44736a91bab5dbfe7eeee586d3e2a9",
+    "21178": "46c2f5ce2ca774279b50102c5133ba9405717195af9975094d400e3fa9634012",
+    "21162": "c159f146aaa3f3ae4125b42e7b3e33e2a13add8a8ad74eed0ae6b6d134798367",
+    "22817": "f2b0f0eb8e1373911e88f83052c494a5ede06b4d801aab5d717eb8e697ad62ba",
+    "22822": "c439197d2007c5644042a1f2fa312a102fd8c1c10d35979224427675f8da018b",
+    "22827": "a98f920ca48a22cf879f863fcf514eef5dcf6307b67d44e47858afac0cab39fc",
+    "22832": "4bb72feff2345744d4171b4e0e886bf95122fb064c0ab1b6b3a6f7c89a38b0d8",
+    "16359": "77cf2f56a209237a92e4d9daa8efacee60a19cd293ffd883d7aeb2ef1324a8b4",
+    "17235": "8b01205a70cdda5137df13e489ec13d5b4a4958ee47ea59234018606b6504280",
+    "18122": "73f258ea58ae41f60245e8323fc41d4e27e8a6954b2bd27c85c5532d7c31bb62",
+    "22853": "a1319b9171901b4bc043bfd4d7b6fbd659371681f03a6c3d15332ac044df2827",
+    "22858": "c2e016f67047f32ebe18cd1a0751eb7f901e11024b7608c55f08584729ada63e"
+  }
+}
