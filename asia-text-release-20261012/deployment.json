@@ -1,0 +1,10 @@
+{
+  "commit": "55bb859a445613d4fc63514e90e7d26e4cb69d3f",
+  "archive_sha256": "4d33ad23d678a93d8eff428c00de7ac2b10284dbf22108c573e35951e532a88e",
+  "remote_archive_sha256": "4d33ad23d678a93d8eff428c00de7ac2b10284dbf22108c573e35951e532a88e",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/asia-text-55bb859a4456",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

@@ -1,0 +1,567 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "retained_country_headings_preserved": true,
+    "main_images_preserved": true,
+    "retained_links_preserved": true,
+    "h1": true,
+    "copy_exists": true,
+    "copy_matches": true,
+    "three_paragraphs": true,
+    "no_added_images": true,
+    "old_copy_removed": true,
+    "no_added_h1": true,
+    "links_http": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/asia/",
+    "title": "Asia 3D Model. Detailed 3D Models of Asia for Creative Design",
+    "description": "Discover our intricate 3D models of Asia, tailored for graphic design and creative projects. Immerse yourself in the continent's richness and unleash your artistic creativity.",
+    "canonical": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/asia/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "Asia 3D Model for Renders and Animation"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/asia-3d-model-terrain/",
+        "title": "Asia 3D Model Terrain",
+        "price": "$35.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false,
+    "main_images": [
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_1-min-300x300.jpg",
+        "alt": "Asia 3D model terrain",
+        "width": "300",
+        "height": "300"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_2-min-300x300.jpg",
+        "alt": "Asia 3D model",
+        "width": "300",
+        "height": "300"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Asia-3D-Models-min.jpg",
+        "alt": "Asia 3D Models",
+        "width": "750",
+        "height": "500"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Armenia.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Azerbaijan.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Bahrain-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Cyprus-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Georgia-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Iran-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Iraq-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Israel-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Jordan-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Kuwait-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Lebanon-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Oman-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Qatar-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Saudi-Arabia-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Palestine.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Syria-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Turkey-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/United-Arab-Emirates-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Yemen-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Afghanistan.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Bangladesh.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Bhutan.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/India.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Maldives.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Nepal.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Pakistan.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Sri-Lanka.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Brunei-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Cambodia-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/East-Timor.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Indonesia.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Laos.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Malaysia.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Burma.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Philippines.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Singapore.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Thailand.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Vietnam.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/China-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Hong-Kong-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Japan-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Macau-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Mongolia-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/North-Korea-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/South-Korea-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Taiwan-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Kazakhstan-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Kyrgyzstan-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Russia-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Tajikistan-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Turkmenistan-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/Uzbekistan-min.jpg",
+        "alt": "",
+        "width": "100",
+        "height": "75"
+      }
+    ],
+    "retained_links": [
+      "https://shustrik-maps.com",
+      "https://shustrik-maps.com/product-category/3d-models/",
+      "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/",
+      "#",
+      "https://shustrik-maps.com/product/asia-3d-model-terrain/",
+      "https://shustrik-maps.com/product/asia-3d-model-terrain/",
+      "/product-category/3d-models/continents-3d-models/asia/?add-to-cart=13338",
+      "https://shustrik-maps.com/product/armenia-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/armenia-stl-model/",
+      "https://shustrik-maps.com/product/armenia-satellite-map/",
+      "https://shustrik-maps.com/product/azerbaijan-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/azerbaijan-3d-model-terrain/",
+      "https://shustrik-maps.com/product/azerbaijan-stl-model/",
+      "https://shustrik-maps.com/product/azerbaijan-satellite-map/",
+      "https://shustrik-maps.com/product/cyprus-without-water-3d-model/",
+      "https://shustrik-maps.com/product/cyprus-island-stl-model/",
+      "https://shustrik-maps.com/product/georgia-satellite-map-2/",
+      "https://shustrik-maps.com/product/iran-3d-model-terrain-3d-map/",
+      "https://shustrik-maps.com/product/iran-stl-model/",
+      "https://shustrik-maps.com/product/iran-satellite-map/",
+      "https://shustrik-maps.com/product/iraq-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/iraq-stl-model/",
+      "https://shustrik-maps.com/product/iraq-satellite-map/",
+      "https://shustrik-maps.com/product/israel-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/israel-topographic-map-3d-model-for-3d-printing-cnc-carving/",
+      "https://shustrik-maps.com/product/israel-3d-topographic-map-stl/",
+      "https://shustrik-maps.com/product/israel-satellite-map/",
+      "https://shustrik-maps.com/product/jordan-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/jordan-stl-model/",
+      "https://shustrik-maps.com/product/kuwait-stl-model/",
+      "https://shustrik-maps.com/product/oman-stl-model/",
+      "https://shustrik-maps.com/product/saudi-arabia-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/saudi-arabia-stl-model/",
+      "https://shustrik-maps.com/product/saudi-arabia-satellite-map/",
+      "https://shustrik-maps.com/product/palestine-satellite-map/",
+      "https://shustrik-maps.com/product/syria-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/syria-satellite-map/",
+      "https://shustrik-maps.com/product/turkey-3d-model-terrain/",
+      "https://shustrik-maps.com/product/relief-map-of-turkey-3d-model/",
+      "https://shustrik-maps.com/product/turkey-stl-model/",
+      "https://shustrik-maps.com/product/turkey-satellite-map/",
+      "https://shustrik-maps.com/product/united-arab-emirates-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/uae-stl-model/",
+      "https://shustrik-maps.com/product/yemen-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/yemen-stl-model/",
+      "https://shustrik-maps.com/product/yemen-satellite-map/",
+      "https://shustrik-maps.com/product/afghanistan-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/afghanistan-terrain-3d-model/",
+      "https://shustrik-maps.com/product/afghanistan-stl-model/",
+      "https://shustrik-maps.com/product/afghanistan-satellite-map/",
+      "https://shustrik-maps.com/product/bangladesh-stl-model/",
+      "https://shustrik-maps.com/product/bhutan-stl-model/",
+      "https://shustrik-maps.com/product/india-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/india-stl-model/",
+      "https://shustrik-maps.com/product/india-satellite-image/",
+      "https://shustrik-maps.com/product/maldives-satellite-map/",
+      "https://shustrik-maps.com/product/nepal-stl-model/",
+      "https://shustrik-maps.com/product/nepal-satellite-map/",
+      "https://shustrik-maps.com/product/pakistan-stl-model/",
+      "https://shustrik-maps.com/product/pakistan-3d-map/",
+      "https://shustrik-maps.com/product/sri-lanka-satellite-map/",
+      "https://shustrik-maps.com/product/cambodia-stl-model/",
+      "https://shustrik-maps.com/product/indonesia-satellite-map/",
+      "https://shustrik-maps.com/product/laos-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/laos-stl-model/",
+      "https://shustrik-maps.com/product/myanmar-stl-model/",
+      "https://shustrik-maps.com/product/philippines-satellite-map/",
+      "https://shustrik-maps.com/product/thailand-stl-model/",
+      "https://shustrik-maps.com/product/vietnam-satellite-map/",
+      "https://shustrik-maps.com/product/vietnam-stl-model/",
+      "https://shustrik-maps.com/product/china-3d-model-terrain/",
+      "https://shustrik-maps.com/product/china-terrain-3d-model/",
+      "https://shustrik-maps.com/product/china-stl-model/",
+      "https://shustrik-maps.com/product/china-satellite-map/",
+      "https://shustrik-maps.com/product/japan-map-3d-model/",
+      "https://shustrik-maps.com/product/japan-3d-model-terrain/",
+      "https://shustrik-maps.com/product/japan-3d-relief-without-water/",
+      "https://shustrik-maps.com/product/japan-stl-model/",
+      "https://shustrik-maps.com/product/japan-satellite-map/",
+      "https://shustrik-maps.com/product/mongolia-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/mongolia-stl-model/",
+      "https://shustrik-maps.com/product/north-korea-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/north-korea-stl-model/",
+      "https://shustrik-maps.com/product/north-korea-satellite-map/",
+      "https://shustrik-maps.com/product/south-korea-satellite-map/",
+      "https://shustrik-maps.com/product/taiwan-terrain-3d-model/",
+      "https://shustrik-maps.com/product/taiwan-3d-relief-without-water/",
+      "https://shustrik-maps.com/product/taiwan-stl-model/",
+      "https://shustrik-maps.com/product/taiwan-satellite-map/",
+      "https://shustrik-maps.com/product/kazakhstan-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/kazakhstan-stl-model/",
+      "https://shustrik-maps.com/product/kyrgyzstan-stl-model/",
+      "https://shustrik-maps.com/product/russia-3d-model-terrain-map/",
+      "https://shustrik-maps.com/product/russia-stl-model/",
+      "https://shustrik-maps.com/product/tajikistan-stl-model/",
+      "https://shustrik-maps.com/product/turkmenistan-stl-model/",
+      "https://shustrik-maps.com/product/uzbekistan-stl-model/"
+    ],
+    "retained_country_headings": [
+      "WESTERN ASIA 3D MODELS",
+      "Armenia",
+      "Azerbaijan",
+      "Bahrain",
+      "Cyprus",
+      "Georgia",
+      "Iran",
+      "Iraq",
+      "Israel",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "Palestine State",
+      "Syria",
+      "Turkey",
+      "United Arab Emirates",
+      "Yemen",
+      "SOUTHERN ASIA 3D MODELS",
+      "Afghanistan",
+      "Bangladesh",
+      "Bhutan",
+      "India",
+      "Maldives",
+      "Nepal",
+      "Pakistan",
+      "Sri Lanka",
+      "SOUTHEAST ASIA 3D MODELS",
+      "Brunei",
+      "Cambodia",
+      "East Timor",
+      "Indonesia",
+      "Laos",
+      "Malaysia",
+      "Burma",
+      "Philippines",
+      "Singapore",
+      "Thailand",
+      "Vietnam",
+      "EASTERN ASIA 3D MODELS",
+      "China",
+      "Hong Kong",
+      "Japan",
+      "Macau",
+      "Mongolia",
+      "North Korea",
+      "South Korea",
+      "Taiwan",
+      "CENTRAL ASIA 3D MODELS",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ]
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/3d-models/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/": 200,
+    "https://shustrik-maps.com/product/asia-3d-model-terrain/": 200
+  },
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  },
+  "scope": "Text only; existing images and all country links preserved; no media imported."
+}

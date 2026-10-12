@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "mode": "--apply",
+  "utc": "2026-10-12T16:15:30+00:00",
+  "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/asia/",
+  "term_id": 162,
+  "block_id": 15264,
+  "protected_preserved": true,
+  "media": [],
+  "content_sha256": "e541c78c61f90735275608d5f7e2876519d27184578735b75f867aaaf065ac27",
+  "rollback_backup": "_shustrik_asia_text_backup_20261012"
+}
