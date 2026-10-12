@@ -1,0 +1,51 @@
+{
+  "desktop": {
+    "block": {
+      "height": 404.6750183105469,
+      "width": 1234.800048828125,
+      "x": 15,
+      "y": 596.75
+    },
+    "heading": "South Pole 3D Model for Antarctic Terrain Visualisation",
+    "images": 0,
+    "links": [
+      "https://shustrik-maps.com/product/antarctica-with-ice-3d-model/",
+      "https://shustrik-maps.com/product/north-pole-3d-model/",
+      "https://shustrik-maps.com/product-category/3d-models/world/",
+      "https://shustrik-maps.com/product-category/3d-models/"
+    ],
+    "overflow": false,
+    "paragraphs": 3,
+    "viewport": {
+      "height": 900,
+      "width": 1280
+    }
+  },
+  "mobile": {
+    "block": {
+      "height": 815,
+      "width": 345.20001220703125,
+      "x": 15,
+      "y": 540.4249877929688
+    },
+    "heading": "South Pole 3D Model for Antarctic Terrain Visualisation",
+    "images": 0,
+    "links": [
+      "https://shustrik-maps.com/product/antarctica-with-ice-3d-model/",
+      "https://shustrik-maps.com/product/north-pole-3d-model/",
+      "https://shustrik-maps.com/product-category/3d-models/world/",
+      "https://shustrik-maps.com/product-category/3d-models/"
+    ],
+    "overflow": false,
+    "paragraphs": 3,
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  "browser": "Chrome",
+  "screenshots": [
+    "published-desktop.png",
+    "published-mobile.png"
+  ]
+}

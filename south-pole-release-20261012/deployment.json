@@ -1,0 +1,10 @@
+{
+  "commit": "abdec3ff632a5986ba93b8b2b73fd7959c9d4c77",
+  "archive_sha256": "e39ea673e92f9f0c42062e825482569c5948e899f1e70880dfa0fefc6dca675a",
+  "remote_archive_sha256": "e39ea673e92f9f0c42062e825482569c5948e899f1e70880dfa0fefc6dca675a",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/south-pole-text-abdec3ff632a",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

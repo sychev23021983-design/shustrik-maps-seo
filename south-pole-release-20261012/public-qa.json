@@ -1,0 +1,72 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "h1": true,
+    "bottom_text_exists": true,
+    "three_paragraphs": true,
+    "no_added_images": true,
+    "four_links_http": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/3d-models/world/south-pole/",
+    "title": "South Pole Archives | 3D Models and 3D Maps",
+    "description": null,
+    "canonical": "https://shustrik-maps.com/product-category/3d-models/world/south-pole/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "South Pole 3D Model for Antarctic Terrain Visualisation"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/antarctica-with-ice-3d-model/",
+        "title": "Antarctica Elevation Map 3D Model",
+        "price": "$28.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/3d-models/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/world/": 200,
+    "https://shustrik-maps.com/product/antarctica-with-ice-3d-model/": 200,
+    "https://shustrik-maps.com/product/north-pole-3d-model/": 200
+  },
+  "media": {},
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}

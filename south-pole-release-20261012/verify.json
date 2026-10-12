@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "mode": "--verify",
+  "utc": "2026-10-12T06:53:42+00:00",
+  "url": "https://shustrik-maps.com/product-category/3d-models/world/south-pole/",
+  "term_id": 68,
+  "block_id": null,
+  "protected_preserved": true,
+  "inventory_counts_preserved": true,
+  "media": [],
+  "content_sha256": "40320166e0136401083fe6a6ed0b20438a54cd824741822771099be73b2a9801",
+  "rollback_backup": "_shustrik_south_pole_text_backup_20261012"
+}
