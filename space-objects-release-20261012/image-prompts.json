@@ -1,0 +1,38 @@
+[
+  {
+    "key": "copernicus-banner",
+    "ref": "J:/1. My Vault/90 Migration/shustrik-maps-seo/space-objects-release-20261012/references/copernicus-lunar-crater-3d-model-view-1.jpg",
+    "source": "https://shustrik-maps.com/product/copernicus-lunar-crater-3d-model/",
+    "title": "Copernicus — lunar terrain website banner concept",
+    "caption": "A crater landscape with open space for an astronomy website headline.",
+    "prompt": "Use case: stylized-concept. Generate 1536x1024 digital website hero. Supplied image is exact Copernicus lunar crater terrain reference, not a physical object to display. Reproduce the crater geometry as faithfully as possible: broad circular terraced rim, smooth floor, small clustered central peaks slightly below center, small crater against right inner wall; retain surrounding relief. Grey lunar terrain on RIGHT two thirds, gently oblique overhead camera, low sunlight from upper right; LEFT fades elegantly into midnight teal open negative space for headline. No white tile border, no visible block base, no physical frame or desk. Digital render visualisation, sophisticated understated space editorial style. No text, logos, spacecraft, Earth, invented large craters or mountains. Reference layout should remain clearly recognizable.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-3b5d0137-4f70-40ac-9f2a-99c116af7d17.png"
+  },
+  {
+    "key": "theophilus-flyby",
+    "ref": "J:/1. My Vault/90 Migration/shustrik-maps-seo/space-objects-release-20261012/references/theophilus-lunar-crater-3d-model-view-1.jpg",
+    "source": "https://shustrik-maps.com/product/theophilus-lunar-crater-3d-model/",
+    "title": "Theophilus — terrain flyby still concept",
+    "caption": "An angled crater view with directional shadows for a documentary or animation sequence.",
+    "prompt": "Use case: stylized-concept. Generate 1536x1024 digital lunar terrain flyby STILL. Follow exact supplied Theophilus crater reference: deeply terraced circular crater, pronounced multi-peaked central mountain cluster, small bright crater on upper-left rim, overlapping worn crater touching lower-left edge, partly cropped dark crater at far right. Preserve positions/proportions, do not substitute generic crater. Modestly oblique aerial camera showing entire principal crater and surrounding terrain, monochrome lunar grey with long directional shadows and faint cool highlights. Terrain fills landscape frame, no white tile border, slab sides, display platform or physical product. Cinematic digital rendering concept. No text, spacecraft, planets, horizon sky, laser beams or invented additional terrain features. Accurate visual resemblance to reference is top priority.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-6c83c755-a1bd-4d4e-8f39-fbed72377740.png"
+  },
+  {
+    "key": "moon-surface-graphic",
+    "ref": "J:/1. My Vault/90 Migration/shustrik-maps-seo/space-objects-release-20261012/references/moon-surface-3d-model-view-1.jpg",
+    "source": "https://shustrik-maps.com/product/moon-surface-3d-model/",
+    "title": "Moon Surface — editorial background concept",
+    "caption": "A wider field of lunar craters composed as a background for an article or video cover.",
+    "prompt": "Use case: ads-marketing. Generate 1536x1024 polished digital editorial lunar surface background. Precisely use supplied lunar terrain reference: very large shallow crater upper left with many smaller craters within its smooth floor; central-right distinct round basin, several overlapping basins lower-right, densely pitted terrain elsewhere. Keep recognizable crater placements, same overhead orientation. Lunar texture fills LEFT and central area then gently dissolves at right into pale blue-grey editorial whitespace for future headline. Natural silver-grey terrain, clear small details, soft low-angle illumination, elegant subdued restrained palette. No white square tile border or physical slab, no devices, text, logos, planets, astronauts or newly invented crater geography. Image should read as a finished digital graphic, not a physical relief product.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-1d8f5e45-8821-46e6-8fcf-25ca15283421.png"
+  },
+  {
+    "key": "copernicus-learning",
+    "ref": "J:/1. My Vault/90 Migration/shustrik-maps-seo/space-objects-release-20261012/references/copernicus-lunar-crater-3d-model-view-2.jpg",
+    "source": "https://shustrik-maps.com/product/copernicus-lunar-crater-3d-model/",
+    "title": "Copernicus — shaded relief learning graphic concept",
+    "caption": "A coloured relief view with blank callout areas for a learning slide; colours are illustrative.",
+    "prompt": "Use case: scientific-educational. Generate 1536x1024 digital learning-slide concept from EXACT supplied Copernicus shaded-relief terrain image. Preserve the reference's circular terraced rim, flat floor, central small peak cluster, small crater at inner right wall, square terrain layout and warm peach/ochre/pale green colouring. Place a top-down relief graphic on LEFT about 60% of canvas with its complete crater; warm ivory background, three slim ochre unlabelled leader lines on right leading to blank callout areas. A digital instructional graphic with lightly shaded texture, no physical base thickness, shadow suggesting wall plaque, frame, desk, device or poster mockup. No text, numbers, measurement scales, legends, logos or extra objects. Colours are artistic illustration, no scientific elevation measurements. Maximize geometric resemblance to original reference.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-3d4864b0-8be4-47ec-b432-36a43df188be.png"
+  }
+]

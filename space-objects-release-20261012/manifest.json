@@ -1,0 +1,63 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/3d-models/solar-system/space-objects/",
+  "term_id": 200,
+  "block_id": null,
+  "operation": "Create dedicated bottom block and set two placement metadata values",
+  "template_sha256": "af4bfef52f6a37f321ba2707cd5445ceca0b1169652029b74d0aea5c8dc87117",
+  "assets": [
+    {
+      "key": "copernicus-banner",
+      "mode": "new",
+      "file": "space-objects-copernicus-banner-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c21d894c2381432571b7200949dd7b25df8ebc1ac2d7320683e7ea32d62400fc",
+      "alt": "AI-generated copernicus — lunar terrain website banner concept.",
+      "title": "Copernicus — lunar terrain website banner concept",
+      "caption": "AI-generated digital application concept; scene styling and colours are illustrative.",
+      "source": "https://shustrik-maps.com/product/copernicus-lunar-crater-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "theophilus-flyby",
+      "mode": "new",
+      "file": "space-objects-theophilus-flyby-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e0fbab6874de3452c195f91ccd283d9fe9af3785c3bfb126b0d5d4bd00fd018f",
+      "alt": "AI-generated theophilus — terrain flyby still concept.",
+      "title": "Theophilus — terrain flyby still concept",
+      "caption": "AI-generated digital application concept; scene styling and colours are illustrative.",
+      "source": "https://shustrik-maps.com/product/theophilus-lunar-crater-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "moon-surface-graphic",
+      "mode": "new",
+      "file": "space-objects-moon-surface-graphic-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "db492625705e0df259926c61482bb8eb172765ab3023b2e79005c897840a0249",
+      "alt": "AI-generated moon surface — editorial background concept.",
+      "title": "Moon Surface — editorial background concept",
+      "caption": "AI-generated digital application concept; scene styling and colours are illustrative.",
+      "source": "https://shustrik-maps.com/product/moon-surface-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "copernicus-learning",
+      "mode": "new",
+      "file": "space-objects-copernicus-learning-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3d3853c2db93c542f4c5b278df94bed946f47d715f072a0791532fbf6c2734b0",
+      "alt": "AI-generated copernicus — shaded relief learning graphic concept.",
+      "title": "Copernicus — shaded relief learning graphic concept",
+      "caption": "AI-generated digital application concept; scene styling and colours are illustrative.",
+      "source": "https://shustrik-maps.com/product/copernicus-lunar-crater-3d-model/",
+      "prompt": "image-prompts.json"
+    }
+  ],
+  "authorization": "Owner requested next category after Natural Satellites and previously authorised live category publication."
+}

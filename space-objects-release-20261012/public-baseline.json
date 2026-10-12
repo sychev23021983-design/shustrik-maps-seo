@@ -1,0 +1,41 @@
+{
+  "http": 200,
+  "url": "https://shustrik-maps.com/product-category/3d-models/solar-system/space-objects/",
+  "title": "Space objects Archives | 3D Models and 3D Maps",
+  "description": null,
+  "canonical": "https://shustrik-maps.com/product-category/3d-models/solar-system/space-objects/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "h1": [],
+  "cards": [
+    {
+      "url": "https://shustrik-maps.com/product/copernicus-lunar-crater-3d-model/",
+      "title": "Copernicus Lunar Crater 3D Model",
+      "price": "$25.00 Original price was: $25.00.$15.00Current price is: $15.00."
+    },
+    {
+      "url": "https://shustrik-maps.com/product/moon-surface-3d-model/",
+      "title": "Moon Surface 3D Model",
+      "price": "$25.00 Original price was: $25.00.$15.00Current price is: $15.00."
+    },
+    {
+      "url": "https://shustrik-maps.com/product/theophilus-lunar-crater-3d-model/",
+      "title": "Theophilus Lunar Crater 3D Model",
+      "price": "$25.00 Original price was: $25.00.$15.00Current price is: $15.00."
+    }
+  ],
+  "schema_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    [
+      "Organization",
+      "Place",
+      "Store"
+    ],
+    "PostalAddress",
+    "ImageObject",
+    "BreadcrumbList"
+  ],
+  "pagination_present": false
+}

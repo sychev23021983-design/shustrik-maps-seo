@@ -1,0 +1,455 @@
+{
+  "utc": "2026-10-12T05:51:59+00:00",
+  "block": null,
+  "term": {
+    "id": 200,
+    "slug": "space-objects",
+    "name": "Space objects",
+    "description": "",
+    "meta": {
+      "order": [
+        "9"
+      ],
+      "title_image": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_icon": [
+        "a:2:{s:3:\"url\";s:70:\"https://shustrik-maps.com/wp-content/uploads/2024/05/Space-objects.png\";s:2:\"id\";s:5:\"16695\";}"
+      ],
+      "category_icon_alt": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_extra_description_type": [
+        "text"
+      ],
+      "category_extra_description_html_block": [
+        ""
+      ],
+      "category_extra_description_text": [
+        ""
+      ],
+      "display_type": [
+        ""
+      ],
+      "thumbnail_id": [
+        "18223"
+      ]
+    },
+    "protected_hash": "4c2753515695d36d6ebb537aff48d97bcdde541f7052c82169efe8996592dcae"
+  },
+  "previous_blocks": {
+    "14416": "6edba256e6089d2e27c9f5d230b20db60aa1cc2d8398322d381093b57c3c253a",
+    "14417": "7f6ec5d47e68b6110e336be1a937f6eb24c668f3f2b9607b6d99a6d4ac47bea0",
+    "21177": "23273f7c1f5381fae079c45aaa75533204ca605859aec955a57ec84d7a05c937",
+    "21176": "f01816955682802fffd9564408d26a4a609b6d616a8a122bed4ccb394e31ca9f",
+    "21175": "53f5219b487d1b14c3b127c5b990e0892f44736a91bab5dbfe7eeee586d3e2a9",
+    "21178": "46c2f5ce2ca774279b50102c5133ba9405717195af9975094d400e3fa9634012",
+    "21162": "c159f146aaa3f3ae4125b42e7b3e33e2a13add8a8ad74eed0ae6b6d134798367",
+    "22817": "f2b0f0eb8e1373911e88f83052c494a5ede06b4d801aab5d717eb8e697ad62ba",
+    "22822": "c439197d2007c5644042a1f2fa312a102fd8c1c10d35979224427675f8da018b",
+    "22827": "a98f920ca48a22cf879f863fcf514eef5dcf6307b67d44e47858afac0cab39fc",
+    "22832": "4bb72feff2345744d4171b4e0e886bf95122fb064c0ab1b6b3a6f7c89a38b0d8",
+    "16359": "77cf2f56a209237a92e4d9daa8efacee60a19cd293ffd883d7aeb2ef1324a8b4",
+    "17235": "8b01205a70cdda5137df13e489ec13d5b4a4958ee47ea59234018606b6504280",
+    "18122": "73f258ea58ae41f60245e8323fc41d4e27e8a6954b2bd27c85c5532d7c31bb62",
+    "22853": "a1319b9171901b4bc043bfd4d7b6fbd659371681f03a6c3d15332ac044df2827"
+  },
+  "products": [
+    {
+      "id": 16743,
+      "slug": "moon-surface-3d-model",
+      "url": "https://shustrik-maps.com/product/moon-surface-3d-model/",
+      "term_ids": [
+        200,
+        16
+      ],
+      "state_hash": "d258ce612f2879b159a6e332cc6704bffaeccf459213e75e4d297a1821c4871d",
+      "images": [
+        {
+          "id": 16754,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Moon_surface_1_1-min.jpg"
+        },
+        {
+          "id": 16752,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Moon_surface_1_3-min.jpg"
+        },
+        {
+          "id": 16753,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Moon_surface_1_2-min.jpg"
+        },
+        {
+          "id": 16751,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Moon_surface_1_4-min.jpg"
+        },
+        {
+          "id": 16750,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Moon_surface_1_5-min.jpg"
+        },
+        {
+          "id": 16749,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Moon_surface_1_6-min.jpg"
+        },
+        {
+          "id": 16748,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Moon_surface_1_7-min.jpg"
+        },
+        {
+          "id": 16747,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Moon_surface_1_8-min.jpg"
+        },
+        {
+          "id": 16746,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Moon_surface_1_9-min.jpg"
+        },
+        {
+          "id": 16745,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Moon_surface_1_10-min.jpg"
+        },
+        {
+          "id": 22795,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/moon-surface-desk-1500x1000-1.jpg",
+          "alt": "AI-generated concept of Moon Surface square lunar terrain relief lying with its entire underside supported on a continuous solid walnut backing board on a desk.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22796,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/moon-surface-wall-1500x1000-1.jpg",
+          "alt": "AI-generated concept of Moon Surface square lunar terrain relief mounted on solid sage backing in a small oak wall frame.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22797,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/moon-surface-gift-1500x1000-1.jpg",
+          "alt": "AI-generated concept of Moon Surface square lunar terrain relief fully supported in a kraft gift box with a fitted green insert.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22798,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/moon-surface-commercial-1500x1000-1.jpg",
+          "alt": "AI-generated concept of Moon Surface square lunar terrain relief enlarged in grey concrete on a continuous charcoal backing wall with adults for scale.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16719,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_10-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16716,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_7-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16710,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_1-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16711,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_2-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16712,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_3-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16713,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_4-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16714,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_5-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16715,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_6-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16717,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_8-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16718,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_9-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        }
+      ]
+    },
+    {
+      "id": 16728,
+      "slug": "theophilus-lunar-crater-3d-model",
+      "url": "https://shustrik-maps.com/product/theophilus-lunar-crater-3d-model/",
+      "term_ids": [
+        200,
+        16
+      ],
+      "state_hash": "7699cc4d0a184f91c25dc8af7fbb1a3eeb4e7712ad154cf1313ef9cbb538a3b2",
+      "images": [
+        {
+          "id": 16740,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Theophilus_1_1-min.jpg"
+        },
+        {
+          "id": 16738,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Theophilus_1_3-min.jpg"
+        },
+        {
+          "id": 16739,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Theophilus_1_2-min.jpg"
+        },
+        {
+          "id": 16737,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Theophilus_1_4-min.jpg"
+        },
+        {
+          "id": 16736,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Theophilus_1_5-min.jpg"
+        },
+        {
+          "id": 16735,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Theophilus_1_6-min.jpg"
+        },
+        {
+          "id": 16734,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Theophilus_1_7-min.jpg"
+        },
+        {
+          "id": 16733,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Theophilus_1_8-min.jpg"
+        },
+        {
+          "id": 16742,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Theophilus_1_12_1-min.jpg"
+        },
+        {
+          "id": 22791,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/theophilus-crater-desk-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory Theophilus Lunar Crater square lunar terrain relief fully supported across its closed bottom on a continuous solid desktop base.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22792,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/theophilus-crater-wall-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory Theophilus Lunar Crater square lunar terrain relief mounted on solid sage-green backing in a small oak wall frame.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22793,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/theophilus-crater-gift-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory Theophilus Lunar Crater square lunar terrain relief fully supported in a kraft gift box with a fitted green insert.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22794,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/theophilus-crater-commercial-1500x1000-1.jpg",
+          "alt": "AI-generated concept of a Theophilus Lunar Crater square lunar terrain relief enlarged in grey concrete on a charcoal backing wall with adults for scale.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16719,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_10-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16716,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_7-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16710,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_1-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16711,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_2-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16712,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_3-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16713,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_4-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16714,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_5-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16715,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_6-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16717,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_8-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16718,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_9-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        }
+      ]
+    },
+    {
+      "id": 16696,
+      "slug": "copernicus-lunar-crater-3d-model",
+      "url": "https://shustrik-maps.com/product/copernicus-lunar-crater-3d-model/",
+      "term_ids": [
+        200,
+        16
+      ],
+      "state_hash": "30ec2f0d26f5ed7cb1b87cad098d97f92c9851181cfeab2025954febdfd17c0f",
+      "images": [
+        {
+          "id": 16697,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Copernicus_1_1-min.jpg"
+        },
+        {
+          "id": 16699,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Copernicus_1_3-min.jpg"
+        },
+        {
+          "id": 16698,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Copernicus_1_2-min.jpg"
+        },
+        {
+          "id": 16700,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Copernicus_1_4-min.jpg"
+        },
+        {
+          "id": 16701,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Copernicus_1_5-min.jpg"
+        },
+        {
+          "id": 16702,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Copernicus_1_6-min.jpg"
+        },
+        {
+          "id": 16703,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Copernicus_1_7-min.jpg"
+        },
+        {
+          "id": 16704,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Copernicus_1_8-min.jpg"
+        },
+        {
+          "id": 22787,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/copernicus-crater-desk-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory Copernicus Lunar Crater square lunar terrain relief fully supported across its closed bottom on a continuous solid desktop base.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22788,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/copernicus-crater-wall-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory Copernicus Lunar Crater square lunar terrain relief mounted on solid sage-green backing in a small oak wall frame.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22789,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/copernicus-crater-gift-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory Copernicus Lunar Crater square lunar terrain relief fully supported in a kraft gift box with a fitted green insert.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22790,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/copernicus-crater-commercial-1500x1000-1.jpg",
+          "alt": "AI-generated concept of a Copernicus Lunar Crater square lunar terrain relief enlarged in grey concrete on a charcoal backing wall with adults for scale.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16719,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_10-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16716,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_7-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16710,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_1-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16711,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_2-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16712,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_3-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16713,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_4-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16714,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_5-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16715,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_6-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16717,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_8-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 16718,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/05/Idea_1_9-min.jpg",
+          "alt": "",
+          "kind": "body-gallery"
+        }
+      ]
+    }
+  ]
+}
