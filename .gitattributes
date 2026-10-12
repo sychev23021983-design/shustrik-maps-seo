@@ -114,3 +114,9 @@ north-pole-release-20261012/*.php text eol=lf
 north-pole-release-20261012/*.json text eol=lf
 north-pole-release-20261012/*.py text eol=lf
 north-pole-release-20261012/*.md text eol=lf
+
+south-pole-release-20261012/*.html text eol=lf
+south-pole-release-20261012/*.php text eol=lf
+south-pole-release-20261012/*.json text eol=lf
+south-pole-release-20261012/*.py text eol=lf
+south-pole-release-20261012/*.md text eol=lf

@@ -1,0 +1,31 @@
+{
+  "http": 200,
+  "url": "https://shustrik-maps.com/product-category/3d-models/world/south-pole/",
+  "title": "South Pole Archives | 3D Models and 3D Maps",
+  "description": null,
+  "canonical": "https://shustrik-maps.com/product-category/3d-models/world/south-pole/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "h1": [],
+  "cards": [
+    {
+      "url": "https://shustrik-maps.com/product/antarctica-with-ice-3d-model/",
+      "title": "Antarctica Elevation Map 3D Model",
+      "price": "$28.00"
+    }
+  ],
+  "schema_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    [
+      "Organization",
+      "Place",
+      "Store"
+    ],
+    "PostalAddress",
+    "ImageObject",
+    "BreadcrumbList"
+  ],
+  "pagination_present": false
+}

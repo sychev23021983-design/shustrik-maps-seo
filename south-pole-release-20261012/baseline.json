@@ -1,0 +1,240 @@
+{
+  "utc": "2026-10-12T06:51:30+00:00",
+  "block": null,
+  "term": {
+    "id": 68,
+    "slug": "south-pole",
+    "name": "South Pole",
+    "description": "",
+    "meta": {
+      "order": [
+        "12"
+      ],
+      "title_image": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_icon": [
+        "a:2:{s:3:\"url\";s:67:\"https://shustrik-maps.com/wp-content/uploads/2024/04/SOUTH-POLE.png\";s:2:\"id\";s:5:\"16330\";}"
+      ],
+      "category_icon_alt": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "display_type": [
+        ""
+      ],
+      "thumbnail_id": [
+        "15075"
+      ],
+      "wpfoof-identifier_exists": [
+        "yes"
+      ],
+      "feed_google_category": [
+        "Software > Digital Goods & Currency > Digital Artwork"
+      ],
+      "wpfoof-adult": [
+        "no"
+      ],
+      "wpfoof-shipping-label": [
+        ""
+      ],
+      "wpfoof-tax-category": [
+        ""
+      ],
+      "category_extra_description_type": [
+        "text"
+      ],
+      "category_extra_description_html_block": [
+        ""
+      ],
+      "category_extra_description_text": [
+        ""
+      ]
+    },
+    "protected_hash": "7ad32ec12d8ea72e0b208ffcf6151b1269555572328bbac8e25ac4d269a2d9dc"
+  },
+  "previous_terms": {
+    "67": "75870e5f49b16ad8c2c6db84c6b1e32617ce0878ec277746f430ddc8701560ad"
+  },
+  "previous_blocks": {
+    "14416": "6edba256e6089d2e27c9f5d230b20db60aa1cc2d8398322d381093b57c3c253a",
+    "14417": "7f6ec5d47e68b6110e336be1a937f6eb24c668f3f2b9607b6d99a6d4ac47bea0",
+    "21177": "23273f7c1f5381fae079c45aaa75533204ca605859aec955a57ec84d7a05c937",
+    "21176": "f01816955682802fffd9564408d26a4a609b6d616a8a122bed4ccb394e31ca9f",
+    "21175": "53f5219b487d1b14c3b127c5b990e0892f44736a91bab5dbfe7eeee586d3e2a9",
+    "21178": "46c2f5ce2ca774279b50102c5133ba9405717195af9975094d400e3fa9634012",
+    "21162": "c159f146aaa3f3ae4125b42e7b3e33e2a13add8a8ad74eed0ae6b6d134798367",
+    "22817": "f2b0f0eb8e1373911e88f83052c494a5ede06b4d801aab5d717eb8e697ad62ba",
+    "22822": "c439197d2007c5644042a1f2fa312a102fd8c1c10d35979224427675f8da018b",
+    "22827": "a98f920ca48a22cf879f863fcf514eef5dcf6307b67d44e47858afac0cab39fc",
+    "22832": "4bb72feff2345744d4171b4e0e886bf95122fb064c0ab1b6b3a6f7c89a38b0d8",
+    "16359": "77cf2f56a209237a92e4d9daa8efacee60a19cd293ffd883d7aeb2ef1324a8b4",
+    "17235": "8b01205a70cdda5137df13e489ec13d5b4a4958ee47ea59234018606b6504280",
+    "18122": "73f258ea58ae41f60245e8323fc41d4e27e8a6954b2bd27c85c5532d7c31bb62",
+    "22853": "a1319b9171901b4bc043bfd4d7b6fbd659371681f03a6c3d15332ac044df2827",
+    "22858": "c2e016f67047f32ebe18cd1a0751eb7f901e11024b7608c55f08584729ada63e",
+    "15975": "505f09a591611f2b98b30dedb6f631abe6702ad693399fa2e5e6c8037a197f8e"
+  },
+  "products": [
+    {
+      "id": 10140,
+      "slug": "antarctica-with-ice-3d-model",
+      "url": "https://shustrik-maps.com/product/antarctica-with-ice-3d-model/",
+      "term_ids": [
+        68,
+        63,
+        165
+      ],
+      "state_hash": "5ab831d840e4756a9e71fdd327e1f5326d5756eb0ac61e1cb8f1c3e25ef96423",
+      "images": [
+        {
+          "id": 10141,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_1-min-1.jpg"
+        },
+        {
+          "id": 10156,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_2_1-min.jpg"
+        },
+        {
+          "id": 10151,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_10-min.jpg"
+        },
+        {
+          "id": 10143,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_2-min-1.jpg"
+        },
+        {
+          "id": 10144,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_3-min-1.jpg"
+        },
+        {
+          "id": 10145,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_4-min-1.jpg"
+        },
+        {
+          "id": 10146,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_5-min-1.jpg"
+        },
+        {
+          "id": 10147,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_6-min-1.jpg"
+        },
+        {
+          "id": 10148,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_7-min-1.jpg"
+        },
+        {
+          "id": 10149,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_8-min.jpg"
+        },
+        {
+          "id": 10150,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_9-min.jpg"
+        },
+        {
+          "id": 10152,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_11-min.jpg"
+        },
+        {
+          "id": 10153,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_12-min.jpg"
+        },
+        {
+          "id": 10154,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_13-min.jpg"
+        },
+        {
+          "id": 10155,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_14-min.jpg"
+        },
+        {
+          "id": 10142,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_1_15-min.jpg"
+        },
+        {
+          "id": 10157,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Antarctica_Aspire-min.jpg"
+        },
+        {
+          "id": 22746,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/antarctica-ice-desk-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory plastic circular Antarctica ice-and-ocean-floor terrain disc fully supported on a continuous solid walnut desktop backing panel.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22747,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/antarctica-ice-wall-1500x1000-1.jpg",
+          "alt": "AI-generated concept of a small ivory circular Antarctica ice-and-ocean-floor terrain disc mounted on solid sage-green backing in an oak wall frame above a home console.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22748,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/antarctica-ice-gift-1500x1000-1.jpg",
+          "alt": "AI-generated concept of an ivory circular Antarctica ice-and-ocean-floor terrain disc fully supported in a kraft gift box with forest-green tissue.",
+          "kind": "body-gallery"
+        },
+        {
+          "id": 22749,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/antarctica-ice-commercial-1500x1000-1.jpg",
+          "alt": "AI-generated concept of a large grey concrete circular Antarctica ice-and-ocean-floor terrain disc fixed to a charcoal backing wall in a museum lobby with visitors for scale.",
+          "kind": "body-gallery"
+        }
+      ]
+    }
+  ],
+  "inventory_counts": {
+    "attachments": {
+      "publish": 0,
+      "future": 0,
+      "draft": 0,
+      "pending": 0,
+      "private": "1",
+      "trash": 0,
+      "auto-draft": 0,
+      "inherit": "7048",
+      "request-pending": 0,
+      "request-confirmed": 0,
+      "request-failed": 0,
+      "request-completed": 0,
+      "wc-pending": 0,
+      "wc-processing": 0,
+      "wc-on-hold": 0,
+      "wc-completed": 0,
+      "wc-cancelled": 0,
+      "wc-refunded": 0,
+      "wc-failed": 0,
+      "wc-checkout-draft": 0,
+      "wc-transporting": 0,
+      "wc-ready-for-pickup": 0,
+      "email_sent": 0,
+      "email_failed": 0,
+      "email_scheduled": 0
+    },
+    "blocks": {
+      "publish": "417",
+      "future": 0,
+      "draft": 0,
+      "pending": 0,
+      "private": 0,
+      "trash": 0,
+      "auto-draft": 0,
+      "inherit": 0,
+      "request-pending": 0,
+      "request-confirmed": 0,
+      "request-failed": 0,
+      "request-completed": 0,
+      "wc-pending": 0,
+      "wc-processing": 0,
+      "wc-on-hold": 0,
+      "wc-completed": 0,
+      "wc-cancelled": 0,
+      "wc-refunded": 0,
+      "wc-failed": 0,
+      "wc-checkout-draft": 0,
+      "wc-transporting": 0,
+      "wc-ready-for-pickup": 0,
+      "email_sent": 0,
+      "email_failed": 0,
+      "email_scheduled": 0
+    }
+  }
+}
