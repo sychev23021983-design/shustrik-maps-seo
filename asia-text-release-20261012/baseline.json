@@ -1,0 +1,199 @@
+{
+  "utc": "2026-10-12T16:09:08+00:00",
+  "block": {
+    "id": 15264,
+    "title": "Asia Category",
+    "content": "[vc_row][vc_column][woodmart_title size=\"medium\" font_weight=\"600\" tag=\"h1\" woodmart_css_id=\"66f85e97489eb\" title=\"ASIA\" responsive_spacing=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NmY4NWU5NzQ4OWViIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==\" after_color=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfY29sb3JwaWNrZXIiLCJjc3NfYXJncyI6eyJjb2xvciI6WyIgLnRpdGxlLWFmdGVyX3RpdGxlIl19LCJzZWxlY3Rvcl9pZCI6IjY2Zjg1ZTk3NDg5ZWIiLCJkYXRhIjp7ImRlc2t0b3AiOiIjZGQ5OTMzIn19\" subtitle=\"3D MODELS OF THE\" title_custom_color=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfY29sb3JwaWNrZXIiLCJjc3NfYXJncyI6eyJjb2xvciI6WyIgLndvb2RtYXJ0LXRpdGxlLWNvbnRhaW5lciJdfSwic2VsZWN0b3JfaWQiOiI2NmY4NWU5NzQ4OWViIiwiZGF0YSI6eyJkZXNrdG9wIjoiIzdhOWM1OSJ9fQ==\"][vc_separator style=\"shadow\" wd_hide_on_desktop=\"no\" wd_hide_on_tablet=\"no\" wd_hide_on_mobile=\"no\"][/vc_column][/vc_row][vc_row][vc_column width=\"1/2\"][woodmart_text_block woodmart_css_id=\"65181f1b5a4c8\" woodmart_inline=\"no\" responsive_spacing=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NTE4MWYxYjVhNGM4Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGV4dF9ibG9jayIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19\" parallax_scroll=\"no\" wd_hide_on_desktop=\"no\" wd_hide_on_tablet=\"no\" wd_hide_on_mobile=\"no\"]Welcome to our page featuring 3D models of Asia for sale! Here, you'll find a diverse range of highly detailed 3D models of Asia, suitable for various purposes:\r\n<ol>\r\n \t<li><strong>Education and Research:</strong> Explore the rich cultures, architecture, history, and natural wonders of Asia for educational and research purposes.</li>\r\n \t<li><strong>Tourism and Travel:</strong> Plan your trips, study routes, and virtually travel to famous places and landmarks across Asia.</li>\r\n \t<li><strong>Architectural and Geographic Design:</strong> Integrate these 3D models into your architectural projects to create realistic models of buildings, urban environments, and Asian landscapes.</li>\r\n \t<li><strong>Geospatial Analysis:</strong> Utilize data from these 3D models for geospatial analysis, geographical research, and infrastructure planning.</li>\r\n \t<li><strong>Educational Resources:</strong> Create interactive educational applications, visualizations, and educational materials for in-depth exploration of Asian culture and history.</li>\r\n</ol>\r\nWhether for educational projects, professional tasks, or simply out of curiosity, our 3D models of Asia offer high detail and realism, helping you bring your ideas and projects to life.[/woodmart_text_block][/vc_column][vc_column width=\"1/2\"][woodmart_image img_align=\"center\" rounding_size=\"\" woodmart_css_id=\"65181d7c07100\" display_inline=\"no\" parallax_scroll=\"no\" responsive_spacing=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NTE4MWQ3YzA3MTAwIiwic2hvcnRjb2RlIjoid29vZG1hcnRfaW1hZ2UiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==\" woodmart_box_shadow=\"no\" wd_hide_on_desktop=\"no\" wd_hide_on_tablet=\"no\" wd_hide_on_mobile=\"no\" img_id=\"15418\" img_size=\"full\"][/vc_column][/vc_row][vc_row][vc_column][vc_message color=\"success\" message_box_color=\"success\" icon_fontawesome=\"fas fa-check\"]Do you need a 3D model or map that isn't in the store yet? No problem, I can make one for you.[/vc_message][html_block id=\"15244\"][html_block id=\"15238\"][html_block id=\"15221\"][html_block id=\"15218\"][html_block id=\"15200\"][/vc_column][/vc_row]",
+    "content_sha256": "bcf1b63fef2c6d4619b3137f36fad6af9f8645cce59686dda5119177a7233ba3",
+    "protected_hash": "15710321e8a6aa42398fdf119f468dc27978ec4102c419acca57f263093004c1"
+  },
+  "term": {
+    "id": 162,
+    "slug": "asia",
+    "name": "Asia",
+    "description": "[html_block id=\"15264\"]",
+    "meta": {
+      "order": [
+        "17"
+      ],
+      "title_image": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_icon": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_icon_alt": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_extra_description_type": [
+        "html_block"
+      ],
+      "category_extra_description_html_block": [
+        ""
+      ],
+      "category_extra_description_text": [
+        ""
+      ],
+      "display_type": [
+        ""
+      ],
+      "thumbnail_id": [
+        "15051"
+      ]
+    },
+    "protected_hash": "287611c53e0f43f72c17223b1f6ec9fc5042387580b99702e942faf3005614ad"
+  },
+  "usage": {
+    "description_terms": [
+      {
+        "term_id": "162",
+        "description": "[html_block id=\"15264\"]"
+      }
+    ],
+    "terms": [],
+    "post_refs": [],
+    "post_meta_refs": []
+  },
+  "products": [
+    {
+      "id": 13338,
+      "slug": "asia-3d-model-terrain",
+      "url": "https://shustrik-maps.com/product/asia-3d-model-terrain/",
+      "state_hash": "922f8b8b0d22ad4b68e73c8e52220bbcab11c3f6b2ece32aa594aa49eb71419c",
+      "images": [
+        {
+          "id": 13339,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_1-min.jpg"
+        },
+        {
+          "id": 13340,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_2-min.jpg"
+        },
+        {
+          "id": 13341,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_3-min.jpg"
+        },
+        {
+          "id": 13342,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_4-min.jpg"
+        },
+        {
+          "id": 13343,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_5-min.jpg"
+        },
+        {
+          "id": 13344,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_6-min.jpg"
+        },
+        {
+          "id": 13345,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_7-min.jpg"
+        },
+        {
+          "id": 13346,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_8-min.jpg"
+        },
+        {
+          "id": 13347,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_9-min.jpg"
+        },
+        {
+          "id": 13348,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_10-min.jpg"
+        },
+        {
+          "id": 13349,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_11-min.jpg"
+        },
+        {
+          "id": 13350,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_12-min.jpg"
+        },
+        {
+          "id": 13351,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_13-min.jpg"
+        },
+        {
+          "id": 13352,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_14-min.jpg"
+        },
+        {
+          "id": 13353,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_15-min.jpg"
+        },
+        {
+          "id": 13354,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_16-min.jpg"
+        },
+        {
+          "id": 13355,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-1_17-min.jpg"
+        },
+        {
+          "id": 13356,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/07/Asia-Textures-min.jpg"
+        }
+      ]
+    }
+  ],
+  "previous_terms": {
+    "63": "7185eb3eb55f4eaf6a34af2ce02c73991d34137fee0eb8a472d58a0f821606dc",
+    "67": "75870e5f49b16ad8c2c6db84c6b1e32617ce0878ec277746f430ddc8701560ad",
+    "68": "3bee7a6884658b96ba4c1edd5cd615cb2645ce557519d214ade850d9c58e1dfe",
+    "159": "8592495c6e9351041c6be9f0ab5d112d0770d85fd8c6d9fa75bb7b9833c6babf",
+    "160": "63dea58161d53ffa2ed935f67183199aea68663739936f035164e547eb7493b2",
+    "161": "3cface424fded4704f8c3e79f78a3033ddd0131f96729f906f5d455892cbca9a"
+  },
+  "previous_blocks": {
+    "14416": "6edba256e6089d2e27c9f5d230b20db60aa1cc2d8398322d381093b57c3c253a",
+    "14417": "7f6ec5d47e68b6110e336be1a937f6eb24c668f3f2b9607b6d99a6d4ac47bea0",
+    "21177": "23273f7c1f5381fae079c45aaa75533204ca605859aec955a57ec84d7a05c937",
+    "21176": "f01816955682802fffd9564408d26a4a609b6d616a8a122bed4ccb394e31ca9f",
+    "21175": "53f5219b487d1b14c3b127c5b990e0892f44736a91bab5dbfe7eeee586d3e2a9",
+    "21178": "46c2f5ce2ca774279b50102c5133ba9405717195af9975094d400e3fa9634012",
+    "21162": "c159f146aaa3f3ae4125b42e7b3e33e2a13add8a8ad74eed0ae6b6d134798367",
+    "22817": "f2b0f0eb8e1373911e88f83052c494a5ede06b4d801aab5d717eb8e697ad62ba",
+    "22822": "c439197d2007c5644042a1f2fa312a102fd8c1c10d35979224427675f8da018b",
+    "22827": "a98f920ca48a22cf879f863fcf514eef5dcf6307b67d44e47858afac0cab39fc",
+    "22832": "4bb72feff2345744d4171b4e0e886bf95122fb064c0ab1b6b3a6f7c89a38b0d8",
+    "16359": "77cf2f56a209237a92e4d9daa8efacee60a19cd293ffd883d7aeb2ef1324a8b4",
+    "17235": "8b01205a70cdda5137df13e489ec13d5b4a4958ee47ea59234018606b6504280",
+    "18122": "73f258ea58ae41f60245e8323fc41d4e27e8a6954b2bd27c85c5532d7c31bb62",
+    "22853": "a1319b9171901b4bc043bfd4d7b6fbd659371681f03a6c3d15332ac044df2827",
+    "22858": "c2e016f67047f32ebe18cd1a0751eb7f901e11024b7608c55f08584729ada63e",
+    "15975": "505f09a591611f2b98b30dedb6f631abe6702ad693399fa2e5e6c8037a197f8e",
+    "14991": "9dbbadbb630610cd6f3bb918ca096e1cece46aa8bf7ca067dc51c032f4e18d98",
+    "18211": "0fc46dc9872dc5c7dfbe021211215f71ea4e1fdb03e1f85d006f3929471b6aba",
+    "20008": "eee153a041e9120dc47f1c7ccd778926c3da0f3d7855f29a7dc1a184df1b8fab",
+    "20525": "357a45ccf9fc3dc8664aace1b2ffb52e416ce30e0f66b62fede54025fb8ba505",
+    "22867": "1ce3483a3fb5fc51ae0cbe1c80dcdfc78dd6dd09058fadb863e9e260ab1a36c0",
+    "15267": "7a77776a85b638c3f9dc1734e110924dd8087079f27d7630e420902f2313120e",
+    "15269": "0dc60f99eeb694cd3cd4657745779e34a65cc47b8b33762d1ec6a4646fab59f5",
+    "15271": "9c6eee646ca773895cef46ea734c2fdd0c77d7bcde88a5d0bd00dced77f41785",
+    "15364": "31211b3533a8a7c4fcda1af1cc9be181e1f133822a2f3650f20482705eb5a3c1",
+    "15346": "443c17012d1d988493c40cb0fbcae559ef843961c6d7c14f7ce72b8831cd4c48",
+    "15361": "dd587981eaf876f985c7942355d7446afdee38accb80c21aef7a5a73995d6ab1",
+    "14996": "a7bc3a19ef3288c2695d4abdf2a13b3dce50c5d0e4af7b8dc7d7ea9b14efcb07",
+    "15273": "b1a9fc391038665e50f61dbeede9369ed1d00b9a566724993807e210fc6ea266",
+    "15031": "85bb8d9a59140fd759449d48efbdbe7c6de4f92cac65023ba106a4166aa0b1ea",
+    "15195": "42533a6603592f0842005b4971b6e80d043f5a01ee2d89a964efd236a42578b6",
+    "15193": "1b0404749c0145b509d9197205c7b53be5f9c4906e6965a1e02d975350610a67",
+    "15191": "982af620b545b9832d38778692f3a2b2781a0ce2e6c884bf7ea5ee9351f8807b",
+    "15189": "2d5c9a9b41145431d636976f8cc29e7b1617aaafe73216610cc8c3cc66065bf0",
+    "15197": "ad79a382b7b299872c085bf1801fb8fbce85b7eb829b94066a760b629b93c0ec",
+    "15244": "461bc1ac4ade859fda495d49b3a7bace749039caa6a73e3a459b063c25e4b181",
+    "15238": "576c5fd433e19752efed823f670cba23cc26dfb809622977c26040835ed3c3b7",
+    "15221": "a837583c3a646aa4320ec791381563196e9c47d765bb7598f84b726bb8b9334c",
+    "15218": "54586f56cea2941f3dfa3ab17bcde14e6f7e881908d794e454ed205d1bf95f07",
+    "15200": "f3014f721e895d814f3169e17728b3deab5f6dffd4151b8a4285a0a37efc51c9",
+    "15418": "98e1509fc65e09a1c10bf06ea0a8fac2d84574a567cfff288535b2a2b04101b8"
+  },
+  "retained_country_ids": [
+    15244,
+    15238,
+    15221,
+    15218,
+    15200
+  ],
+  "retained_image_id": 15418
+}
