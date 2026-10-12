@@ -1,0 +1,111 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "bottom_heading": true,
+    "old_copy_removed": true,
+    "pagination_absent": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/north-america/",
+    "title": "North America 3D model. High-Quality Models for Creative Design",
+    "description": "Explore detailed 3D models of North America. Perfect for graphic design and creative projects. Dive into the continent's beauty and unleash your creativity.",
+    "canonical": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/north-america/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "North America 3D Models for Renders and Animation"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/north-america-3d-model/",
+        "title": "North America 3D model",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/north-america-3d-model-terrain/",
+        "title": "North America Map 3D Model",
+        "price": "$35.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/3d-models/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/": 200,
+    "https://shustrik-maps.com/product/north-america-3d-model-terrain/": 200,
+    "https://shustrik-maps.com/product/north-america-3d-model/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2023/09/north-america-digital-website-hero-20261012.webp": {
+      "http": 200,
+      "bytes": 158894,
+      "alt": "AI-generated north america — website hero concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2023/09/north-america-digital-relief-learning-20261012.webp": {
+      "http": 200,
+      "bytes": 177406,
+      "alt": "AI-generated north america — relief learning graphic concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2023/09/north-america-digital-animation-still-20261012.webp": {
+      "http": 200,
+      "bytes": 196802,
+      "alt": "AI-generated north america — animation scene still concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2023/09/north-america-digital-presentation-graphic-20261012.webp": {
+      "http": 200,
+      "bytes": 123018,
+      "alt": "AI-generated north america — presentation graphic concept.",
+      "width": "1536",
+      "height": "1024"
+    }
+  },
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}

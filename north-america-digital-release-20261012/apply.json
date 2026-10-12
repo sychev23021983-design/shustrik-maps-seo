@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "mode": "--apply",
+  "utc": "2026-10-12T08:11:38+00:00",
+  "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/north-america/",
+  "term_id": 159,
+  "block_id": 14996,
+  "protected_preserved": true,
+  "media": [
+    {
+      "key": "website-hero",
+      "id": 22872,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/north-america-digital-website-hero-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "relief-learning",
+      "id": 22873,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/north-america-digital-relief-learning-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "animation-still",
+      "id": 22874,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/north-america-digital-animation-still-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "presentation-graphic",
+      "id": 22875,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/north-america-digital-presentation-graphic-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": "bcb640fb746195d30d24b455cefb173829ef3855ee536e2f2a39ace624f3b80f",
+  "rollback_backup": "_shustrik_north_america_digital_backup_20261012"
+}

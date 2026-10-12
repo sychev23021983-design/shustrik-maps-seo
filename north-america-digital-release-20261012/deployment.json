@@ -1,0 +1,10 @@
+{
+  "commit": "a3f1e17ab10c513701082eb613eeb686be1f09fd",
+  "archive_sha256": "84429e09f91750979fcaeb71bfd27dcf3899e423c76e3a0fe15e19fee638320c",
+  "remote_archive_sha256": "84429e09f91750979fcaeb71bfd27dcf3899e423c76e3a0fe15e19fee638320c",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/north-america-digital-a3f1e17ab10c",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

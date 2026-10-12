@@ -1,0 +1,88 @@
+{
+  "desktop": {
+    "columns": "605.4px 605.4px",
+    "images": [
+      {
+        "alt": "AI-generated north america — website hero concept.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/north-america-digital-website-hero-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated north america — relief learning graphic concept.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/north-america-digital-relief-learning-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated north america — animation scene still concept.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/north-america-digital-animation-still-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated north america — presentation graphic concept.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/north-america-digital-presentation-graphic-20261012-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "retainedRegionHeadings": [
+      "NORTHERN AMERICA 3D MODELS",
+      "CENTRAL AMERICA 3D MODELS",
+      "CARIBBEAN 3D MODELS",
+      "UNITED STATES 3D MODELS",
+      "CANADIAN PROVINCES 3D MODELS",
+      "CANADIAN TERRITORIES 3D MODELS"
+    ],
+    "viewport": {
+      "height": 900,
+      "width": 1280
+    }
+  },
+  "mobile": {
+    "columns": "345.2px",
+    "images": [
+      {
+        "alt": "AI-generated north america — website hero concept.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/north-america-digital-website-hero-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated north america — relief learning graphic concept.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/north-america-digital-relief-learning-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated north america — animation scene still concept.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/north-america-digital-animation-still-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated north america — presentation graphic concept.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/north-america-digital-presentation-graphic-20261012-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "retainedRegionHeadings": [
+      "NORTHERN AMERICA 3D MODELS",
+      "CENTRAL AMERICA 3D MODELS",
+      "CARIBBEAN 3D MODELS",
+      "UNITED STATES 3D MODELS",
+      "CANADIAN PROVINCES 3D MODELS",
+      "CANADIAN TERRITORIES 3D MODELS"
+    ],
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  "browser": "Chrome",
+  "method": "Native viewport screenshots after keyboard scrolling; all images loaded and six retained regional headings confirmed."
+}
