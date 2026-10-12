@@ -1,0 +1,127 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "retained_country_headings_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "bottom_heading": true,
+    "old_copy_removed": true,
+    "pagination_absent": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/south-america/",
+    "title": "South America 3D model. Realistic 3D Models for Creative Design",
+    "description": "Discover intricate 3D models of South America, tailored for graphic design and creative projects. Dive into the continent's allure & ignite your artistic imagination.",
+    "canonical": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/south-america/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "South America 3D Models for Renders and Animation"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/3d-map-of-south-america-c4d-model/",
+        "title": "3D Model of South America",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/south-america-3d-model-terrain/",
+        "title": "South America 3D Model Terrain",
+        "price": "$35.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false,
+    "retained_country_headings": [
+      "SOUTH AMERICA 3D MODELS",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/3d-models/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/": 200,
+    "https://shustrik-maps.com/product/3d-map-of-south-america-c4d-model/": 200,
+    "https://shustrik-maps.com/product/south-america-3d-model-terrain/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2023/09/south-america-digital-website-banner-20261012.webp": {
+      "http": 200,
+      "bytes": 99146,
+      "alt": "AI-generated south america — website banner concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2023/09/south-america-digital-relief-illustration-20261012.webp": {
+      "http": 200,
+      "bytes": 108474,
+      "alt": "AI-generated south america — relief illustration concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2023/09/south-america-digital-animation-frame-20261012.webp": {
+      "http": 200,
+      "bytes": 117332,
+      "alt": "AI-generated south america — animation frame concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2023/09/south-america-digital-editorial-layout-20261012.webp": {
+      "http": 200,
+      "bytes": 104670,
+      "alt": "AI-generated south america — editorial graphic concept.",
+      "width": "1536",
+      "height": "1024"
+    }
+  },
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}

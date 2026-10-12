@@ -1,0 +1,105 @@
+{
+  "desktop": {
+    "columns": "605.4px 605.4px",
+    "height": 900,
+    "images": [
+      {
+        "alt": "AI-generated south america — website banner concept.",
+        "loaded": true,
+        "naturalWidth": 605,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2023/09/south-america-digital-website-banner-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated south america — relief illustration concept.",
+        "loaded": true,
+        "naturalWidth": 605,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2023/09/south-america-digital-relief-illustration-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated south america — animation frame concept.",
+        "loaded": true,
+        "naturalWidth": 605,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2023/09/south-america-digital-animation-frame-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated south america — editorial graphic concept.",
+        "loaded": true,
+        "naturalWidth": 605,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2023/09/south-america-digital-editorial-layout-20261012-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "retainedCountryHeadings": [
+      "SOUTH AMERICA 3D MODELS",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "width": 1280
+  },
+  "mobile": {
+    "columns": "345.2px",
+    "height": 844,
+    "images": [
+      {
+        "alt": "AI-generated south america — website banner concept.",
+        "loaded": true,
+        "naturalWidth": 344,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2023/09/south-america-digital-website-banner-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated south america — relief illustration concept.",
+        "loaded": true,
+        "naturalWidth": 344,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2023/09/south-america-digital-relief-illustration-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated south america — animation frame concept.",
+        "loaded": true,
+        "naturalWidth": 344,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2023/09/south-america-digital-animation-frame-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated south america — editorial graphic concept.",
+        "loaded": true,
+        "naturalWidth": 344,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2023/09/south-america-digital-editorial-layout-20261012-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "retainedCountryHeadings": [
+      "SOUTH AMERICA 3D MODELS",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "width": 390
+  },
+  "method": "Native viewport screenshots and focusable-link keyboard scrolling"
+}

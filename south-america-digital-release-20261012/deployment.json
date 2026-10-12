@@ -1,0 +1,10 @@
+{
+  "commit": "69a146a203d9856fa495b08cd03b8ce90091d929",
+  "archive_sha256": "60bb70b2ca290cd8639e3af7a0b459d735c5972a3908b8379de7bcc41c94427a",
+  "remote_archive_sha256": "60bb70b2ca290cd8639e3af7a0b459d735c5972a3908b8379de7bcc41c94427a",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/south-america-digital-69a146a203d9",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

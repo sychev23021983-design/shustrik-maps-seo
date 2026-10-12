@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "mode": "--verify",
+  "utc": "2026-10-12T08:37:03+00:00",
+  "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/south-america/",
+  "term_id": 160,
+  "block_id": 15031,
+  "protected_preserved": true,
+  "media": [
+    {
+      "key": "website-banner",
+      "id": 22876,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/south-america-digital-website-banner-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "relief-illustration",
+      "id": 22877,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/south-america-digital-relief-illustration-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "animation-frame",
+      "id": 22878,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/south-america-digital-animation-frame-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "editorial-layout",
+      "id": 22879,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/south-america-digital-editorial-layout-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": "bf09a43ab043340b328f31cd6e88fb6fd43ddad847d243d93221244665a95e51",
+  "rollback_backup": "_shustrik_south_america_digital_backup_20261012"
+}
