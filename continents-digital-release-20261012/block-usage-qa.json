@@ -1,0 +1,11 @@
+{
+  "original_block": 14991,
+  "description_term": 63,
+  "actual_post_refs": [
+    18211,
+    20008,
+    20525
+  ],
+  "ref_post_type": "nav_menu_item",
+  "decision": "Preserve shared block and three menu items; remove category-only description reference and connect a new dedicated bottom block. Other numerical matches are CSS timestamps."
+}

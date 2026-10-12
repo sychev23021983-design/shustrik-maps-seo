@@ -1,0 +1,63 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/",
+  "term_id": 63,
+  "block_id": null,
+  "operation": "Create dedicated bottom block and replace category-only shared description reference",
+  "template_sha256": "a97ec30e7cc5ac8cb7aab1c7670c16470dcd03492aa490a29b270e0f86ceb875",
+  "assets": [
+    {
+      "key": "europe-banner",
+      "mode": "new",
+      "file": "continents-digital-europe-banner-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e0c7e4239c5199c8d93313ea95244c32bc7c0b37d077b3e446c1af1ea372e295",
+      "alt": "AI-generated europe — website banner concept.",
+      "title": "Europe — website banner",
+      "caption": "AI-generated digital application concept; scene styling and graphic elements are illustrative.",
+      "source": "https://shustrik-maps.com/product/europe-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "south-america-learning",
+      "mode": "new",
+      "file": "continents-digital-south-america-learning-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "fad7ed4ae80b84146a3905176f37f1307e6e88a46fd17a27bb4ba38d20fbc6cf",
+      "alt": "AI-generated south america — learning illustration concept.",
+      "title": "South America — learning illustration",
+      "caption": "AI-generated digital application concept; scene styling and graphic elements are illustrative.",
+      "source": "https://shustrik-maps.com/product/3d-map-of-south-america-c4d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "africa-animation",
+      "mode": "new",
+      "file": "continents-digital-africa-animation-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "6c3c40402b763d3a97df96371691f21483ebcbd963af402b7d18d83aea3b8857",
+      "alt": "AI-generated africa — animation scene still concept.",
+      "title": "Africa — animation scene still",
+      "caption": "AI-generated digital application concept; scene styling and graphic elements are illustrative.",
+      "source": "https://shustrik-maps.com/product/3d-model-of-africa-relief/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "north-america-editorial",
+      "mode": "new",
+      "file": "continents-digital-north-america-editorial-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "54cfa86d4e71cdd2be8c4cf81c509e42cb59daa337d0338afa760944573457fc",
+      "alt": "AI-generated north america — editorial graphic concept.",
+      "title": "North America — editorial graphic",
+      "caption": "AI-generated digital application concept; scene styling and graphic elements are illustrative.",
+      "source": "https://shustrik-maps.com/product/north-america-3d-model/",
+      "prompt": "image-prompts.json"
+    }
+  ],
+  "authorization": "Owner requested next category and continued authorised live updates; multiple-model category receives varied digital examples."
+}

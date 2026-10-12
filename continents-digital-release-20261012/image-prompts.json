@@ -1,0 +1,42 @@
+[
+  {
+    "key": "europe-banner",
+    "title": "Europe — website banner",
+    "source": "https://shustrik-maps.com/product/europe-3d-model/",
+    "reference": "europe-3d-model-view-1.jpg",
+    "caption": "A continent relief render framed for a website hero, with space for a headline.",
+    "prompt": "Create a 1536x1024 landscape digital website banner concept based on this reference Europe 3D terrain model. Reference is authoritative geometry/texture/silhouette, not an edit target. Retain recognisable full Europe projection, coastline, Iceland, British Isles, Scandinavia, Italy/Greece, green-brown land and white mountain relief. Place complete reference-like map on right two-thirds against sophisticated deep forest-green digital background; left third calm negative space and small white text EUROPE only. Slight oblique overhead view, soft rim lighting and delicate digital shadow. Geographic CGI, not physical manufactured object or wall panel; no furniture, people, devices, globe, invented land, oversized mountains, extra islands, city lights, logos or watermarks. Match reference maximally.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-e56a1016-a6ef-4c8f-be56-0bf5b18bc069.png",
+    "visual_qa": "Reviewed against original product reference: recognisable silhouettes, terrain colours and regional features; varied digital layouts; illustrative scene styling disclosed."
+  },
+  {
+    "key": "south-america-learning",
+    "title": "South America — learning illustration",
+    "source": "https://shustrik-maps.com/product/3d-map-of-south-america-c4d-model/",
+    "reference": "3d-map-of-south-america-c4d-model-view-1.jpg",
+    "caption": "An educational composition using terrain shading to distinguish mountain and lowland regions.",
+    "prompt": "Create a 1536x1024 landscape educational geography illustration based on this South America 3D model reference. Preserve authoritative full silhouette, projection, satellite texture and terrain placement: Colombia/Venezuela north, Brazil east, narrow Patagonia south, Andes western edge, green Amazon centre, brown southern relief and original islands. Complete continent slightly left in overhead view against warm ivory very faint graph-paper grid. Right small title SOUTH AMERICA and restrained text-only notes ANDES / AMAZON BASIN; no arrows or statistics. Realistic geographic CGI, gentle shading and rich satellite texture. Pure digital composition, no screens, furniture or printed object. No invented borders/landmarks, watermarks/logos or inflated mountain peaks. Match reference maximally.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-8ec8468e-cc23-487a-9e2a-81bba870b79d.png",
+    "visual_qa": "Reviewed against original product reference: recognisable silhouettes, terrain colours and regional features; varied digital layouts; illustrative scene styling disclosed."
+  },
+  {
+    "key": "africa-animation",
+    "title": "Africa — animation scene still",
+    "source": "https://shustrik-maps.com/product/3d-model-of-africa-relief/",
+    "reference": "3d-model-of-africa-relief-view-1.jpg",
+    "caption": "A still-frame concept for a camera move over Africa’s textured relief.",
+    "prompt": "Create a 1536x1024 landscape cinematic digital motion-graphics still from this Africa terrain reference. Match authoritative full silhouette, projection, terrain and satellite colours. Preserve Horn of Africa and separate Madagascar, sandy Sahara north, green equatorial zone and southern continent. Oblique overhead view without warping geography, complete continent with wide margins. Deep midnight-navy digital background, warm copper grazing light on original small-scale relief, subtle teal background contour-like lines outside map, two restrained abstract sweeping light trails suggesting camera motion; no text/data. High-end CGI animation still concept. Not physical tabletop/plaque/fabricated object/exhibition, no furniture/devices/globe, exaggerated mountains, new land, logos or watermark. Vary only camera, lighting and digital background.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-e37f6d47-2463-48af-b2c4-9adaf1c523e4.png",
+    "visual_qa": "Reviewed against original product reference: recognisable silhouettes, terrain colours and regional features; varied digital layouts; illustrative scene styling disclosed."
+  },
+  {
+    "key": "north-america-editorial",
+    "title": "North America — editorial graphic",
+    "source": "https://shustrik-maps.com/product/north-america-3d-model/",
+    "reference": "north-america-3d-model-view-1.jpg",
+    "caption": "A magazine or article graphic combining a continental overview with a clean title area.",
+    "prompt": "Create a 1536x1024 landscape digital magazine geography graphic using this North America 3D terrain reference as authoritative shape/projection/texture. Preserve Greenland upper right, Alaska upper left, Canadian Arctic islands, Canada/USA, Great Lakes, Mexico/Central America and original Caribbean islands; white Greenland/Rockies and green-brown land. Complete continent nearly overhead, northern-up, left 70 percent, no crop of Greenland or Central America. Pale powder-blue digital background and narrow clean warm-white editorial title column on right with only NORTH AMERICA in dark navy typography. Soft CGI light shows relief without inflated peaks; subtle editorial rules, no city dots, country labels/data. No printed paper/magazines/computers/physicalmaps, logos or watermark. Match reference maximally.",
+    "generated_original": "C:\\Users\\syche\\.codex\\generated_images\\01a12a80-9723-73e1-b90c-1df721cd1000\\exec-7654256b-7e42-486d-bbc5-47710e10936c.png",
+    "visual_qa": "Reviewed against original product reference: recognisable silhouettes, terrain colours and regional features; varied digital layouts; illustrative scene styling disclosed."
+  }
+]

@@ -1,0 +1,91 @@
+{
+  "http": 200,
+  "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/",
+  "title": "3D Models of Continents - Accurate Relief Maps",
+  "description": "Buy 3D models of all continents: Europe, Asia, Africa, America, Australia, and Antarctica. Perfect for graphic design and 3D printing.",
+  "canonical": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "h1": [],
+  "cards": [
+    {
+      "url": "https://shustrik-maps.com/product/europe-3d-model/",
+      "title": "3D Model of Europe (C4D, OBJ) with High-Res Relief & Textures",
+      "price": "$28.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/3d-map-of-south-america-c4d-model/",
+      "title": "3D Model of South America",
+      "price": "$28.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/africa-3d-model-terrain/",
+      "title": "Africa C4D Terrain Model with Texture Maps",
+      "price": "$35.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/3d-model-of-africa-relief/",
+      "title": "Africa C4D Terrain Model with TIF Textures",
+      "price": "$28.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/antarctica-with-ice-3d-model/",
+      "title": "Antarctica Elevation Map 3D Model",
+      "price": "$28.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/asia-3d-model-terrain/",
+      "title": "Asia 3D Model Terrain",
+      "price": "$35.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/australia-3d-model-terrain/",
+      "title": "Australia C4D Terrain Model with Texture Maps",
+      "price": "$35.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/relief-map-of-australia-3d-model/",
+      "title": "Australia Relief Map 3D model",
+      "price": "$28.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/australia-terrain-3d-model/",
+      "title": "Australia terrain 3D model",
+      "price": "$28.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/europe-3d-model-terrain/",
+      "title": "Europe Terrain Map 3D Model",
+      "price": "$35.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/north-america-3d-model/",
+      "title": "North America 3D model",
+      "price": "$28.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/north-america-3d-model-terrain/",
+      "title": "North America Map 3D Model",
+      "price": "$35.00"
+    },
+    {
+      "url": "https://shustrik-maps.com/product/south-america-3d-model-terrain/",
+      "title": "South America 3D Model Terrain",
+      "price": "$35.00"
+    }
+  ],
+  "schema_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    [
+      "Organization",
+      "Place",
+      "Store"
+    ],
+    "PostalAddress",
+    "ImageObject",
+    "BreadcrumbList"
+  ],
+  "pagination_present": false
+}
