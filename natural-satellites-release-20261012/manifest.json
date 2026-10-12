@@ -1,0 +1,63 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/3d-models/solar-system/satellites/natural-satellites/",
+  "term_id": 176,
+  "block_id": null,
+  "operation": "Create dedicated bottom block and set two placement metadata values",
+  "template_sha256": "74d439261b2de3c7035b17550845ba02402ecb46b1bea7f89d74fa2117d23b6b",
+  "assets": [
+    {
+      "key": "night-banner",
+      "mode": "new",
+      "file": "natural-satellites-night-banner-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "8e7c60b1aae692f1577aa7e54abb28daf158d673330d40b9fd98102a1047cf45",
+      "alt": "AI-generated moon — night landscape banner concept.",
+      "title": "Moon — night landscape banner concept",
+      "caption": "AI-generated digital application concept; lighting and scene styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/moon-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "orbital-frame",
+      "mode": "new",
+      "file": "natural-satellites-orbital-frame-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "ec526e031fd978d506995327450c1ae0cde078f33c45cf3f2154df21735c5d6e",
+      "alt": "AI-generated moon — orbital flyby still concept.",
+      "title": "Moon — orbital flyby still concept",
+      "caption": "AI-generated digital application concept; lighting and scene styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/moon-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "learning-graphic",
+      "mode": "new",
+      "file": "natural-satellites-learning-graphic-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "4a1165cceb64d693ba21aee2a52379840c203849b4c61fab54e90de06801c586",
+      "alt": "AI-generated moon — educational illustration concept.",
+      "title": "Moon — educational illustration concept",
+      "caption": "AI-generated digital application concept; lighting and scene styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/moon-3d-model/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "presentation-slide",
+      "mode": "new",
+      "file": "natural-satellites-presentation-slide-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9c61eff31cbdacb21baa81486cf36b2052544ac851aadcc3d37e8cf624bb05fa",
+      "alt": "AI-generated moon — presentation slide concept.",
+      "title": "Moon — presentation slide concept",
+      "caption": "AI-generated digital application concept; lighting and scene styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/moon-3d-model/",
+      "prompt": "image-prompts.json"
+    }
+  ],
+  "authorization": "Owner requested next category and previously authorised category publication on this site."
+}

@@ -1,0 +1,109 @@
+{
+  "utc": "2026-10-12T05:31:47+00:00",
+  "block": null,
+  "term": {
+    "id": 176,
+    "slug": "natural-satellites",
+    "name": "Natural Satellites",
+    "description": "",
+    "meta": {
+      "order": [
+        "8"
+      ],
+      "title_image": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_icon": [
+        "a:2:{s:3:\"url\";s:75:\"https://shustrik-maps.com/wp-content/uploads/2024/04/NATURAL-SATELLITES.png\";s:2:\"id\";s:5:\"16288\";}"
+      ],
+      "category_icon_alt": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_extra_description_type": [
+        "text"
+      ],
+      "category_extra_description_html_block": [
+        ""
+      ],
+      "category_extra_description_text": [
+        ""
+      ],
+      "display_type": [
+        ""
+      ],
+      "thumbnail_id": [
+        "16288"
+      ]
+    },
+    "protected_hash": "027b7fc8f3e2506e92eca886ef3b771da5b7c5cd72feeda305ed0298d920332f"
+  },
+  "previous_blocks": {
+    "14416": "6edba256e6089d2e27c9f5d230b20db60aa1cc2d8398322d381093b57c3c253a",
+    "14417": "7f6ec5d47e68b6110e336be1a937f6eb24c668f3f2b9607b6d99a6d4ac47bea0",
+    "21177": "23273f7c1f5381fae079c45aaa75533204ca605859aec955a57ec84d7a05c937",
+    "21176": "f01816955682802fffd9564408d26a4a609b6d616a8a122bed4ccb394e31ca9f",
+    "21175": "53f5219b487d1b14c3b127c5b990e0892f44736a91bab5dbfe7eeee586d3e2a9",
+    "21178": "46c2f5ce2ca774279b50102c5133ba9405717195af9975094d400e3fa9634012",
+    "21162": "c159f146aaa3f3ae4125b42e7b3e33e2a13add8a8ad74eed0ae6b6d134798367",
+    "22817": "f2b0f0eb8e1373911e88f83052c494a5ede06b4d801aab5d717eb8e697ad62ba",
+    "22822": "c439197d2007c5644042a1f2fa312a102fd8c1c10d35979224427675f8da018b",
+    "22827": "a98f920ca48a22cf879f863fcf514eef5dcf6307b67d44e47858afac0cab39fc",
+    "22832": "4bb72feff2345744d4171b4e0e886bf95122fb064c0ab1b6b3a6f7c89a38b0d8",
+    "16359": "77cf2f56a209237a92e4d9daa8efacee60a19cd293ffd883d7aeb2ef1324a8b4",
+    "17235": "8b01205a70cdda5137df13e489ec13d5b4a4958ee47ea59234018606b6504280",
+    "18122": "73f258ea58ae41f60245e8323fc41d4e27e8a6954b2bd27c85c5532d7c31bb62"
+  },
+  "products": [
+    {
+      "id": 16110,
+      "slug": "moon-3d-model",
+      "url": "https://shustrik-maps.com/product/moon-3d-model/",
+      "term_ids": [
+        176
+      ],
+      "state_hash": "836e7a31d6b3f38ea009529acc0c9706beedee0eab7997406a03e9ff63717a08",
+      "images": [
+        {
+          "id": 16111,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_1-min.jpg"
+        },
+        {
+          "id": 16112,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_2-min.jpg"
+        },
+        {
+          "id": 16113,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_3-min.jpg"
+        },
+        {
+          "id": 16114,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_4-min.jpg"
+        },
+        {
+          "id": 16115,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_5-min.jpg"
+        },
+        {
+          "id": 16116,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_6-min.jpg"
+        },
+        {
+          "id": 16117,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_7-min.jpg"
+        },
+        {
+          "id": 16118,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_8-min.jpg"
+        },
+        {
+          "id": 16119,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_9-min.jpg"
+        },
+        {
+          "id": 16120,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/Moon_1_10-min.jpg"
+        }
+      ]
+    }
+  ]
+}
