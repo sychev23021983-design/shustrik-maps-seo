@@ -1,0 +1,74 @@
+{
+  "desktop": {
+    "blockHeight": 1497.5625,
+    "blockTop": 921.324951171875,
+    "columns": "605.4px 605.4px",
+    "h1": [
+      "World 3D Models for Geographic Renders and Animation"
+    ],
+    "height": 900,
+    "images": [
+      {
+        "alt": "AI-generated world earth map — website banner concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-digital-world-banner-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated north pole — polar geography learning graphic concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-digital-north-pole-learning-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated earth’s gravity map — motion graphics still concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-digital-gravity-animation-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated dymaxion — world projection presentation concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-digital-dymaxion-slide-20261012-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 1280
+  },
+  "mobile": {
+    "columns": "345.2px",
+    "h1": [
+      "World 3D Models for Geographic Renders and Animation"
+    ],
+    "height": 844,
+    "images": [
+      {
+        "alt": "AI-generated world earth map — website banner concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-digital-world-banner-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated north pole — polar geography learning graphic concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-digital-north-pole-learning-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated earth’s gravity map — motion graphics still concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-digital-gravity-animation-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated dymaxion — world projection presentation concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-digital-dymaxion-slide-20261012-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  }
+}

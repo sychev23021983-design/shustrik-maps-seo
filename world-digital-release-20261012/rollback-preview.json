@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "mode": "--rollback-preview",
+  "utc": "2026-10-12T06:08:53+00:00",
+  "url": "https://shustrik-maps.com/product-category/3d-models/world/",
+  "term_id": 66,
+  "block_id": 15975,
+  "protected_preserved": true,
+  "media": [
+    {
+      "key": "world-banner",
+      "id": 22863,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-digital-world-banner-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "north-pole-learning",
+      "id": 22864,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-digital-north-pole-learning-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "gravity-animation",
+      "id": 22865,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-digital-gravity-animation-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "dymaxion-slide",
+      "id": 22866,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/04/world-digital-dymaxion-slide-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": "26987eac4d16edf701776b3d59dcdcbfe0649053c1d2d00df83d48e738dcce33",
+  "rollback_backup": "_shustrik_world_digital_backup_20261012"
+}

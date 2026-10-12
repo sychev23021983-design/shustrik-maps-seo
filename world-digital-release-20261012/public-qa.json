@@ -1,0 +1,144 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "bottom_heading": true,
+    "old_copy_removed": true,
+    "pagination_absent": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/3d-models/world/",
+    "title": "3D Model of Earth - Detailed World Map",
+    "description": "Get a detailed 3D model of Earth with highly accurate terrain representation. Ideal for 3D printing and graphic design.",
+    "canonical": "https://shustrik-maps.com/product-category/3d-models/world/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "World 3D Models for Geographic Renders and Animation"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/antarctica-with-ice-3d-model/",
+        "title": "Antarctica Elevation Map 3D Model",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/authagraph-world-map-3d-model/",
+        "title": "Authagraph World Map – 3D Model",
+        "price": "$150.00 Original price was: $150.00.$75.00Current price is: $75.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/earths-gravity-map-3d-model/",
+        "title": "Earth’s Gravity Map 3D Model – Global Gravity Anomalies with Color & Height Maps",
+        "price": "$35.00 Original price was: $35.00.$25.00Current price is: $25.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/geoid-height-stl-model/",
+        "title": "Geoid Height STL Model – Artistic Earth Gravity Surface for 3D Printing",
+        "price": "$21.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/north-pole-3d-model/",
+        "title": "North Pole 3D model",
+        "price": "$30.00 Original price was: $30.00.$20.00Current price is: $20.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/world-3d-model/",
+        "title": "World Earth Map 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/world-map-3d-model/",
+        "title": "World Map 3D Model",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/world-map-dymaxion-3d-model/",
+        "title": "World Map Dymaxion 3D Model",
+        "price": "$28.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/3d-models/": 200,
+    "https://shustrik-maps.com/product/antarctica-with-ice-3d-model/": 200,
+    "https://shustrik-maps.com/product/authagraph-world-map-3d-model/": 200,
+    "https://shustrik-maps.com/product/earths-gravity-map-3d-model/": 200,
+    "https://shustrik-maps.com/product/north-pole-3d-model/": 200,
+    "https://shustrik-maps.com/product/world-3d-model/": 200,
+    "https://shustrik-maps.com/product/world-map-dymaxion-3d-model/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2024/04/world-digital-world-banner-20261012.webp": {
+      "http": 200,
+      "bytes": 374404,
+      "alt": "AI-generated world earth map — website banner concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2024/04/world-digital-north-pole-learning-20261012.webp": {
+      "http": 200,
+      "bytes": 288512,
+      "alt": "AI-generated north pole — polar geography learning graphic concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2024/04/world-digital-gravity-animation-20261012.webp": {
+      "http": 200,
+      "bytes": 150050,
+      "alt": "AI-generated earth’s gravity map — motion graphics still concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2024/04/world-digital-dymaxion-slide-20261012.webp": {
+      "http": 200,
+      "bytes": 142360,
+      "alt": "AI-generated dymaxion — world projection presentation concept.",
+      "width": "1536",
+      "height": "1024"
+    }
+  },
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}
