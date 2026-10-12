@@ -1,0 +1,74 @@
+{
+  "desktop": {
+    "blockHeight": 1584.2625732421875,
+    "blockTop": 1206.4749145507812,
+    "bottomHeading": "H1",
+    "columns": "605.4px 605.4px",
+    "h1": [
+      "Planet 3D Models for Renders, Animation and Web Graphics"
+    ],
+    "images": [
+      {
+        "alt": "AI-generated Mercury colour-texture illustration concept with blue and gold terrain on a dark editorial background.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/planets-digital-mercury-education-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Venus animation scene still concept with soft cloud textures and warm light.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/planets-digital-venus-animation-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Neptune astronomy website banner concept with a pale globe and a blue space background.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/planets-digital-neptune-banner-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Uranus presentation illustration concept with a cyan globe and ring arcs on a lavender background.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/planets-digital-uranus-presentation-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 1280
+  },
+  "mobile": {
+    "bottomHeading": "H1",
+    "columns": "345.2px",
+    "h1": [
+      "Planet 3D Models for Renders, Animation and Web Graphics"
+    ],
+    "images": [
+      {
+        "alt": "AI-generated Mercury colour-texture illustration concept with blue and gold terrain on a dark editorial background.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/planets-digital-mercury-education-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Venus animation scene still concept with soft cloud textures and warm light.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/planets-digital-venus-animation-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Neptune astronomy website banner concept with a pale globe and a blue space background.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/planets-digital-neptune-banner-20261011-766x511.webp"
+      },
+      {
+        "alt": "AI-generated Uranus presentation illustration concept with a cyan globe and ring arcs on a lavender background.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/planets-digital-uranus-presentation-20261011-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  }
+}

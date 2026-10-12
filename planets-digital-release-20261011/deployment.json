@@ -1,0 +1,10 @@
+{
+  "commit": "a2a6d62ac7f0ef92b1abca6bd8a8ecfb227eb48e",
+  "archive_sha256": "952af09ec12533cdabb7bee51ea1fadfb1f84f4cc55c1036cc040a0fbb832218",
+  "remote_archive_sha256": "952af09ec12533cdabb7bee51ea1fadfb1f84f4cc55c1036cc040a0fbb832218",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/planets-digital-a2a6d62ac7f0",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

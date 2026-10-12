@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "mode": "--verify",
+  "utc": "2026-10-11T18:08:49+00:00",
+  "url": "https://shustrik-maps.com/product-category/3d-models/solar-system/planets-3d-models/",
+  "term_id": 86,
+  "block_id": 17235,
+  "protected_preserved": true,
+  "media": [
+    {
+      "key": "mercury-education",
+      "id": 22845,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/07/planets-digital-mercury-education-20261011.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "venus-animation",
+      "id": 22846,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/07/planets-digital-venus-animation-20261011.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "neptune-banner",
+      "id": 22847,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/07/planets-digital-neptune-banner-20261011.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "uranus-presentation",
+      "id": 22848,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/07/planets-digital-uranus-presentation-20261011.webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": "6cc5a09c60ec729266b88e7ff067d7574c041ab1944f13c4ed0264bae06011b2",
+  "rollback_backup": "_shustrik_planets_digital_backup_20261011"
+}

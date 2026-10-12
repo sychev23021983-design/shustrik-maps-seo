@@ -1,0 +1,160 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "bottom_heading": true,
+    "old_copy_removed": true,
+    "pagination_absent": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/3d-models/solar-system/planets-3d-models/",
+    "title": "3D Models of the Planets | Realistic Planet Models for Creativity",
+    "description": "3D models of the planets, ideal for science, education, and creative projects. Download realistic planet models for quick integration into your designs.",
+    "canonical": "https://shustrik-maps.com/product-category/3d-models/solar-system/planets-3d-models/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "Planet 3D Models for Renders, Animation and Web Graphics"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/3d-model-of-saturn/",
+        "title": "3D Model of Saturn",
+        "price": "$25.00 Original price was: $25.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/earth-3d-model-terrain-without-water/",
+        "title": "Earth 3D model Terrain Without Water",
+        "price": "$40.00 Original price was: $40.00.$32.00Current price is: $32.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/earth-3d-model/",
+        "title": "Earth 3D Model with High-Resolution Satellite Maps and DEM Data",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/earths-gravity-map-3d-model/",
+        "title": "Earth’s Gravity Map 3D Model – Global Gravity Anomalies with Color & Height Maps",
+        "price": "$35.00 Original price was: $35.00.$25.00Current price is: $25.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/jupiter-planet-3d-model/",
+        "title": "Jupiter Planet 3D Model",
+        "price": "$20.00 Original price was: $20.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/mars-planet-3d-model/",
+        "title": "Mars Planet 3D Model",
+        "price": "$20.00 Original price was: $20.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/mercury-planet-3d-model/",
+        "title": "Mercury Planet 3D Model",
+        "price": "$20.00 Original price was: $20.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/neptune-planet-3d-model/",
+        "title": "Neptune Planet 3D Model",
+        "price": "$25.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/pluto-dwarf-planet-3d-model/",
+        "title": "Pluto Dwarf Planet 3D Model",
+        "price": "$20.00 Original price was: $20.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/uranus-3d-model/",
+        "title": "Uranus 3D Model",
+        "price": "$25.00 Original price was: $25.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/venus-planet-3d-model/",
+        "title": "Venus Planet 3D Model",
+        "price": "$20.00 Original price was: $20.00.$15.00Current price is: $15.00."
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/3d-models/solar-system/": 200,
+    "https://shustrik-maps.com/product/earth-3d-model-terrain-without-water/": 200,
+    "https://shustrik-maps.com/product/earth-3d-model/": 200,
+    "https://shustrik-maps.com/product/earths-gravity-map-3d-model/": 200,
+    "https://shustrik-maps.com/product/mercury-planet-3d-model/": 200,
+    "https://shustrik-maps.com/product/neptune-planet-3d-model/": 200,
+    "https://shustrik-maps.com/product/uranus-3d-model/": 200,
+    "https://shustrik-maps.com/product/venus-planet-3d-model/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2024/07/planets-digital-mercury-education-20261011.webp": {
+      "http": 200,
+      "bytes": 202524,
+      "alt": "AI-generated Mercury colour-texture illustration concept with blue and gold terrain on a dark editorial background.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2024/07/planets-digital-venus-animation-20261011.webp": {
+      "http": 200,
+      "bytes": 67956,
+      "alt": "AI-generated Venus animation scene still concept with soft cloud textures and warm light.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2024/07/planets-digital-neptune-banner-20261011.webp": {
+      "http": 200,
+      "bytes": 51744,
+      "alt": "AI-generated Neptune astronomy website banner concept with a pale globe and a blue space background.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2024/07/planets-digital-uranus-presentation-20261011.webp": {
+      "http": 200,
+      "bytes": 35192,
+      "alt": "AI-generated Uranus presentation illustration concept with a cyan globe and ring arcs on a lavender background.",
+      "width": "1536",
+      "height": "1024"
+    }
+  },
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}
