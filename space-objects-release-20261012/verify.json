@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "mode": "--verify",
+  "utc": "2026-10-12T05:54:03+00:00",
+  "url": "https://shustrik-maps.com/product-category/3d-models/solar-system/space-objects/",
+  "term_id": 200,
+  "block_id": 22858,
+  "protected_preserved": true,
+  "media": [
+    {
+      "key": "copernicus-banner",
+      "id": 22859,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/space-objects-copernicus-banner-20261012.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "theophilus-flyby",
+      "id": 22860,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/space-objects-theophilus-flyby-20261012.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "moon-surface-graphic",
+      "id": 22861,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/space-objects-moon-surface-graphic-20261012.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "copernicus-learning",
+      "id": 22862,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/space-objects-copernicus-learning-20261012.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": "59b283783c355902863104a62c10cceb81c8be25a2f0f216e3b35c2a476b7a48",
+  "rollback_backup": "_shustrik_space_objects_backup_20261012"
+}

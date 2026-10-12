@@ -1,0 +1,74 @@
+{
+  "desktop": {
+    "blockHeight": 1562.2625732421875,
+    "blockTop": 567.7999877929688,
+    "columns": "613px 613px",
+    "h1": [
+      "Space Object 3D Models for Lunar Terrain Renders"
+    ],
+    "height": 900,
+    "images": [
+      {
+        "alt": "AI-generated copernicus — lunar terrain website banner concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/space-objects-copernicus-banner-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated theophilus — terrain flyby still concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/space-objects-theophilus-flyby-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated moon surface — editorial background concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/space-objects-moon-surface-graphic-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated copernicus — shaded relief learning graphic concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/space-objects-copernicus-learning-20261012-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 1280
+  },
+  "mobile": {
+    "columns": "345.2px",
+    "h1": [
+      "Space Object 3D Models for Lunar Terrain Renders"
+    ],
+    "height": 844,
+    "images": [
+      {
+        "alt": "AI-generated copernicus — lunar terrain website banner concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/space-objects-copernicus-banner-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated theophilus — terrain flyby still concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/space-objects-theophilus-flyby-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated moon surface — editorial background concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/space-objects-moon-surface-graphic-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated copernicus — shaded relief learning graphic concept.",
+        "loaded": true,
+        "opacity": "1",
+        "src": "https://shustrik-maps.com/wp-content/uploads/2026/10/space-objects-copernicus-learning-20261012-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  }
+}

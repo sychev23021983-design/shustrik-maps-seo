@@ -1,0 +1,117 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "bottom_heading": true,
+    "old_copy_removed": true,
+    "pagination_absent": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/3d-models/solar-system/space-objects/",
+    "title": "Space objects Archives | 3D Models and 3D Maps",
+    "description": null,
+    "canonical": "https://shustrik-maps.com/product-category/3d-models/solar-system/space-objects/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "Space Object 3D Models for Lunar Terrain Renders"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/copernicus-lunar-crater-3d-model/",
+        "title": "Copernicus Lunar Crater 3D Model",
+        "price": "$25.00 Original price was: $25.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/moon-surface-3d-model/",
+        "title": "Moon Surface 3D Model",
+        "price": "$25.00 Original price was: $25.00.$15.00Current price is: $15.00."
+      },
+      {
+        "url": "https://shustrik-maps.com/product/theophilus-lunar-crater-3d-model/",
+        "title": "Theophilus Lunar Crater 3D Model",
+        "price": "$25.00 Original price was: $25.00.$15.00Current price is: $15.00."
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/3d-models/solar-system/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/solar-system/satellites/natural-satellites/": 200,
+    "https://shustrik-maps.com/product/copernicus-lunar-crater-3d-model/": 200,
+    "https://shustrik-maps.com/product/moon-surface-3d-model/": 200,
+    "https://shustrik-maps.com/product/theophilus-lunar-crater-3d-model/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/space-objects-copernicus-banner-20261012.webp": {
+      "http": 200,
+      "bytes": 370130,
+      "alt": "AI-generated copernicus — lunar terrain website banner concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/space-objects-theophilus-flyby-20261012.webp": {
+      "http": 200,
+      "bytes": 463890,
+      "alt": "AI-generated theophilus — terrain flyby still concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/space-objects-moon-surface-graphic-20261012.webp": {
+      "http": 200,
+      "bytes": 412358,
+      "alt": "AI-generated moon surface — editorial background concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/space-objects-copernicus-learning-20261012.webp": {
+      "http": 200,
+      "bytes": 264960,
+      "alt": "AI-generated copernicus — shaded relief learning graphic concept.",
+      "width": "1536",
+      "height": "1024"
+    }
+  },
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}
