@@ -1,0 +1,327 @@
+{
+  "utc": "2026-10-12T16:26:20+00:00",
+  "block": {
+    "id": 15343,
+    "title": "Africa Category",
+    "content": "[vc_row][vc_column][woodmart_title size=\"medium\" font_weight=\"600\" tag=\"h1\" woodmart_css_id=\"66f85ea183485\" title=\"AFRICA\" responsive_spacing=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NmY4NWVhMTgzNDg1Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==\" after_color=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfY29sb3JwaWNrZXIiLCJjc3NfYXJncyI6eyJjb2xvciI6WyIgLnRpdGxlLWFmdGVyX3RpdGxlIl19LCJzZWxlY3Rvcl9pZCI6IjY2Zjg1ZWExODM0ODUiLCJkYXRhIjp7ImRlc2t0b3AiOiIjZGQ5OTMzIn19\" subtitle=\"3D MODELS OF THE\" title_custom_color=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfY29sb3JwaWNrZXIiLCJjc3NfYXJncyI6eyJjb2xvciI6WyIgLndvb2RtYXJ0LXRpdGxlLWNvbnRhaW5lciJdfSwic2VsZWN0b3JfaWQiOiI2NmY4NWVhMTgzNDg1IiwiZGF0YSI6eyJkZXNrdG9wIjoiIzdhOWM1OSJ9fQ==\"][vc_separator style=\"shadow\" wd_hide_on_desktop=\"no\" wd_hide_on_tablet=\"no\" wd_hide_on_mobile=\"no\"][/vc_column][/vc_row][vc_row][vc_column width=\"1/2\"][woodmart_text_block woodmart_css_id=\"6516f636c700b\" woodmart_inline=\"no\" responsive_spacing=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NTE2ZjYzNmM3MDBiIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGV4dF9ibG9jayIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19\" parallax_scroll=\"no\" wd_hide_on_desktop=\"no\" wd_hide_on_tablet=\"no\" wd_hide_on_mobile=\"no\"]Welcome to our page featuring 3D models of Africa for sale! Here, you'll find a diverse range of highly detailed 3D models of Africa, suitable for various purposes:\r\n<ol>\r\n \t<li><strong>Education and Research:</strong> Explore the geography, history, culture, and natural wonders of Africa for educational and academic purposes.</li>\r\n \t<li><strong>Tourism and Travel:</strong> Plan your trips, study routes, and explore the diverse landscapes and historical landmarks of Africa to enhance your travel experience.</li>\r\n \t<li><strong>Architectural and Geographic Design:</strong> Utilize these 3D models to create realistic scenes and layouts in architectural projects or geographic studies.</li>\r\n \t<li><strong>Geospatial Analysis:</strong> Use the data from these 3D models for geospatial analysis, infrastructure planning, and studying the geographical features of the region.</li>\r\n \t<li><strong>Educational Resources:</strong> Create educational materials, interactive learning applications, and visualizations to help students better understand and appreciate the culture and nature of Africa.</li>\r\n</ol>\r\nWhether for educational purposes, professional projects, or personal interest, our 3D models of Africa offer high levels of detail and realism to help you achieve your goals and bring your ideas to life.[/woodmart_text_block][/vc_column][vc_column width=\"1/2\"][woodmart_image img_align=\"center\" rounding_size=\"\" woodmart_css_id=\"65181d58e38cb\" display_inline=\"no\" parallax_scroll=\"no\" responsive_spacing=\"eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NTE4MWQ1OGUzOGNiIiwic2hvcnRjb2RlIjoid29vZG1hcnRfaW1hZ2UiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==\" woodmart_box_shadow=\"no\" wd_hide_on_desktop=\"no\" wd_hide_on_tablet=\"no\" wd_hide_on_mobile=\"no\" img_id=\"15417\" img_size=\"full\"][/vc_column][/vc_row][vc_row][vc_column][vc_message color=\"success\" message_box_color=\"success\" icon_fontawesome=\"fas fa-check\"]Do you need a 3D model or map that isn't in the store yet? No problem, I can make one for you.[/vc_message][/vc_column][/vc_row][vc_row][vc_column][html_block id=\"15306\"][html_block id=\"15321\"][html_block id=\"15314\"][html_block id=\"15296\"][html_block id=\"15276\"][/vc_column][/vc_row]",
+    "content_sha256": "875cf159fead28da78a4303a293143fbf9291a55d5100ad2a11b55b038af73a5",
+    "protected_hash": "4049d599de2b5258807ebfee1e346b89a09e21730ea4530fd1ec3147817e0a9c"
+  },
+  "term": {
+    "id": 163,
+    "slug": "africa",
+    "name": "Africa",
+    "description": "[html_block id=\"15343\"]",
+    "meta": {
+      "order": [
+        "18"
+      ],
+      "title_image": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_icon": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_icon_alt": [
+        "a:2:{s:3:\"url\";s:0:\"\";s:2:\"id\";s:0:\"\";}"
+      ],
+      "category_extra_description_type": [
+        "html_block"
+      ],
+      "category_extra_description_html_block": [
+        ""
+      ],
+      "category_extra_description_text": [
+        ""
+      ],
+      "display_type": [
+        ""
+      ],
+      "thumbnail_id": [
+        "15053"
+      ]
+    },
+    "protected_hash": "1e24044c69dd67021118af8c522814201fdcf73097e319286689e480e53f694c"
+  },
+  "usage": {
+    "description_terms": [
+      {
+        "term_id": "163",
+        "description": "[html_block id=\"15343\"]"
+      }
+    ],
+    "terms": [],
+    "post_refs": [],
+    "post_meta_refs": []
+  },
+  "products": [
+    {
+      "id": 11845,
+      "slug": "africa-3d-model-terrain",
+      "url": "https://shustrik-maps.com/product/africa-3d-model-terrain/",
+      "state_hash": "90b13f71a78eee872764590abd205ae9e0d231dca8c8aee52c4753294a6e9cc9",
+      "images": [
+        {
+          "id": 11846,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_1-min-e1684569013187.jpg"
+        },
+        {
+          "id": 11858,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_2-min-e1684569029969.jpg"
+        },
+        {
+          "id": 11857,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_3-min.jpg"
+        },
+        {
+          "id": 11856,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_4-min.jpg"
+        },
+        {
+          "id": 11855,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_5-min.jpg"
+        },
+        {
+          "id": 11854,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_6-min.jpg"
+        },
+        {
+          "id": 11853,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_7-min.jpg"
+        },
+        {
+          "id": 11852,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_8-min.jpg"
+        },
+        {
+          "id": 11848,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_12-min.jpg"
+        },
+        {
+          "id": 11849,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_11-min.jpg"
+        },
+        {
+          "id": 11850,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_10-min.jpg"
+        },
+        {
+          "id": 11851,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_9-min.jpg"
+        },
+        {
+          "id": 11859,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_13-min.jpg"
+        },
+        {
+          "id": 11860,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_14-min.jpg"
+        },
+        {
+          "id": 11861,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_15-min.jpg"
+        },
+        {
+          "id": 11862,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_16-min.jpg"
+        },
+        {
+          "id": 11863,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_17-min.jpg"
+        },
+        {
+          "id": 11864,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_18-min.jpg"
+        },
+        {
+          "id": 11865,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_19-min.jpg"
+        },
+        {
+          "id": 11866,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_20-min.jpg"
+        },
+        {
+          "id": 11867,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_21-min.jpg"
+        },
+        {
+          "id": 11868,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_22-min.jpg"
+        },
+        {
+          "id": 11869,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_23-min.jpg"
+        },
+        {
+          "id": 11870,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_24-min.jpg"
+        },
+        {
+          "id": 11871,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_25-min.jpg"
+        },
+        {
+          "id": 11872,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_26-min.jpg"
+        },
+        {
+          "id": 11873,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_27-min.jpg"
+        },
+        {
+          "id": 11874,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_28-min.jpg"
+        },
+        {
+          "id": 11875,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_29-min.jpg"
+        },
+        {
+          "id": 11847,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-Textures-min.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10043,
+      "slug": "3d-model-of-africa-relief",
+      "url": "https://shustrik-maps.com/product/3d-model-of-africa-relief/",
+      "state_hash": "b414878ca30b198ae004c0e91f6c8556c54a93d5f4791d337ef70ae9a99656d2",
+      "images": [
+        {
+          "id": 10044,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_1-min.jpg"
+        },
+        {
+          "id": 10045,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_2-min.jpg"
+        },
+        {
+          "id": 10046,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_3-min.jpg"
+        },
+        {
+          "id": 10047,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_4-min.jpg"
+        },
+        {
+          "id": 10048,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_5-min.jpg"
+        },
+        {
+          "id": 10049,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_6-min.jpg"
+        },
+        {
+          "id": 10050,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_7-min.jpg"
+        },
+        {
+          "id": 10051,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_8-min.jpg"
+        },
+        {
+          "id": 10052,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_9-min.jpg"
+        },
+        {
+          "id": 10053,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_10-min.jpg"
+        },
+        {
+          "id": 10054,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_11-min.jpg"
+        },
+        {
+          "id": 10055,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_12-min.jpg"
+        },
+        {
+          "id": 10056,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_13-min.jpg"
+        },
+        {
+          "id": 10057,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_14-min.jpg"
+        },
+        {
+          "id": 10058,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_15-min.jpg"
+        },
+        {
+          "id": 10059,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_16-min.jpg"
+        },
+        {
+          "id": 10060,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_17-min.jpg"
+        },
+        {
+          "id": 10061,
+          "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/Africa-3D-relief_1_18-min.jpg"
+        }
+      ]
+    }
+  ],
+  "previous_terms": {
+    "63": "7185eb3eb55f4eaf6a34af2ce02c73991d34137fee0eb8a472d58a0f821606dc",
+    "67": "75870e5f49b16ad8c2c6db84c6b1e32617ce0878ec277746f430ddc8701560ad",
+    "68": "3bee7a6884658b96ba4c1edd5cd615cb2645ce557519d214ade850d9c58e1dfe",
+    "159": "8592495c6e9351041c6be9f0ab5d112d0770d85fd8c6d9fa75bb7b9833c6babf",
+    "160": "63dea58161d53ffa2ed935f67183199aea68663739936f035164e547eb7493b2",
+    "161": "3cface424fded4704f8c3e79f78a3033ddd0131f96729f906f5d455892cbca9a",
+    "162": "9409695a2a3d72d82f829faa3d6b0021b67a1290eacbe4695ea24d0657f15fb5"
+  },
+  "previous_blocks": {
+    "14416": "6edba256e6089d2e27c9f5d230b20db60aa1cc2d8398322d381093b57c3c253a",
+    "14417": "7f6ec5d47e68b6110e336be1a937f6eb24c668f3f2b9607b6d99a6d4ac47bea0",
+    "21177": "23273f7c1f5381fae079c45aaa75533204ca605859aec955a57ec84d7a05c937",
+    "21176": "f01816955682802fffd9564408d26a4a609b6d616a8a122bed4ccb394e31ca9f",
+    "21175": "53f5219b487d1b14c3b127c5b990e0892f44736a91bab5dbfe7eeee586d3e2a9",
+    "21178": "46c2f5ce2ca774279b50102c5133ba9405717195af9975094d400e3fa9634012",
+    "21162": "c159f146aaa3f3ae4125b42e7b3e33e2a13add8a8ad74eed0ae6b6d134798367",
+    "22817": "f2b0f0eb8e1373911e88f83052c494a5ede06b4d801aab5d717eb8e697ad62ba",
+    "22822": "c439197d2007c5644042a1f2fa312a102fd8c1c10d35979224427675f8da018b",
+    "22827": "a98f920ca48a22cf879f863fcf514eef5dcf6307b67d44e47858afac0cab39fc",
+    "22832": "4bb72feff2345744d4171b4e0e886bf95122fb064c0ab1b6b3a6f7c89a38b0d8",
+    "16359": "77cf2f56a209237a92e4d9daa8efacee60a19cd293ffd883d7aeb2ef1324a8b4",
+    "17235": "8b01205a70cdda5137df13e489ec13d5b4a4958ee47ea59234018606b6504280",
+    "18122": "73f258ea58ae41f60245e8323fc41d4e27e8a6954b2bd27c85c5532d7c31bb62",
+    "22853": "a1319b9171901b4bc043bfd4d7b6fbd659371681f03a6c3d15332ac044df2827",
+    "22858": "c2e016f67047f32ebe18cd1a0751eb7f901e11024b7608c55f08584729ada63e",
+    "15975": "505f09a591611f2b98b30dedb6f631abe6702ad693399fa2e5e6c8037a197f8e",
+    "14991": "9dbbadbb630610cd6f3bb918ca096e1cece46aa8bf7ca067dc51c032f4e18d98",
+    "18211": "0fc46dc9872dc5c7dfbe021211215f71ea4e1fdb03e1f85d006f3929471b6aba",
+    "20008": "eee153a041e9120dc47f1c7ccd778926c3da0f3d7855f29a7dc1a184df1b8fab",
+    "20525": "357a45ccf9fc3dc8664aace1b2ffb52e416ce30e0f66b62fede54025fb8ba505",
+    "22867": "1ce3483a3fb5fc51ae0cbe1c80dcdfc78dd6dd09058fadb863e9e260ab1a36c0",
+    "15267": "7a77776a85b638c3f9dc1734e110924dd8087079f27d7630e420902f2313120e",
+    "15269": "0dc60f99eeb694cd3cd4657745779e34a65cc47b8b33762d1ec6a4646fab59f5",
+    "15271": "9c6eee646ca773895cef46ea734c2fdd0c77d7bcde88a5d0bd00dced77f41785",
+    "15364": "31211b3533a8a7c4fcda1af1cc9be181e1f133822a2f3650f20482705eb5a3c1",
+    "15346": "443c17012d1d988493c40cb0fbcae559ef843961c6d7c14f7ce72b8831cd4c48",
+    "15361": "dd587981eaf876f985c7942355d7446afdee38accb80c21aef7a5a73995d6ab1",
+    "14996": "a7bc3a19ef3288c2695d4abdf2a13b3dce50c5d0e4af7b8dc7d7ea9b14efcb07",
+    "15273": "b1a9fc391038665e50f61dbeede9369ed1d00b9a566724993807e210fc6ea266",
+    "15031": "85bb8d9a59140fd759449d48efbdbe7c6de4f92cac65023ba106a4166aa0b1ea",
+    "15195": "42533a6603592f0842005b4971b6e80d043f5a01ee2d89a964efd236a42578b6",
+    "15193": "1b0404749c0145b509d9197205c7b53be5f9c4906e6965a1e02d975350610a67",
+    "15191": "982af620b545b9832d38778692f3a2b2781a0ce2e6c884bf7ea5ee9351f8807b",
+    "15189": "2d5c9a9b41145431d636976f8cc29e7b1617aaafe73216610cc8c3cc66065bf0",
+    "15197": "ad79a382b7b299872c085bf1801fb8fbce85b7eb829b94066a760b629b93c0ec",
+    "15244": "461bc1ac4ade859fda495d49b3a7bace749039caa6a73e3a459b063c25e4b181",
+    "15238": "576c5fd433e19752efed823f670cba23cc26dfb809622977c26040835ed3c3b7",
+    "15221": "a837583c3a646aa4320ec791381563196e9c47d765bb7598f84b726bb8b9334c",
+    "15218": "54586f56cea2941f3dfa3ab17bcde14e6f7e881908d794e454ed205d1bf95f07",
+    "15200": "f3014f721e895d814f3169e17728b3deab5f6dffd4151b8a4285a0a37efc51c9",
+    "15418": "98e1509fc65e09a1c10bf06ea0a8fac2d84574a567cfff288535b2a2b04101b8",
+    "15264": "fb005af8e9862c86505714f5c5e7670c855a6eb91ee3b8a3c0c87081d3b65802",
+    "15306": "5fec4ec0d3b350892ac97926b2d029a30ffa778ba69215bf3202cb85e3fbc906",
+    "15321": "ceb2c9bc58946226e371b5e4c4a10f55c8d5315cf39f67595f8b4b873e1b8a8a",
+    "15314": "7efcdf7c8fa991dac0ef3307e7e0d4d797a32de6df245bd050c14a67fb5f155f",
+    "15296": "b26e2142096b53db367dc6cb6edbfb3c6b85d4087cdc44a1da7d6be16a54b12e",
+    "15276": "b33e922727e6f30b355644d47147aeaae7a54b63b8a4389ff2357ac6aaecafd3"
+  },
+  "retained_shortcode_tail": "[vc_row][vc_column][html_block id=\"15306\"][html_block id=\"15321\"][html_block id=\"15314\"][html_block id=\"15296\"][html_block id=\"15276\"][/vc_column][/vc_row]"
+}

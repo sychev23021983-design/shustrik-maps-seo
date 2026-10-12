@@ -1,0 +1,64 @@
+{
+  "site": "https://shustrik-maps.com",
+  "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/africa/",
+  "term_id": 163,
+  "block_id": 15343,
+  "operation": "Update dedicated existing category content; retain existing country collection",
+  "before_sha256": "875cf159fead28da78a4303a293143fbf9291a55d5100ad2a11b55b038af73a5",
+  "template_sha256": "f68204edfa5e5cd94c857696c83836811b148e6dd1aadd0029cfa8407c58cc21",
+  "assets": [
+    {
+      "key": "website-banner",
+      "mode": "new",
+      "file": "africa-digital-website-banner-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a98d377f4727884043a91ad1f44f0c9f972dbb5ab94a265646de83025a61a754",
+      "alt": "AI-generated Africa — website banner concept.",
+      "title": "Africa — website banner",
+      "caption": "AI-generated digital application concept; lighting and graphic styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/3d-model-of-africa-relief/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "relief-illustration",
+      "mode": "new",
+      "file": "africa-digital-relief-illustration-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7bb54335b5054fc8ae55a5048155636cd3459299873acedfdae10df70c53293e",
+      "alt": "AI-generated Africa — relief illustration concept.",
+      "title": "Africa — relief illustration",
+      "caption": "AI-generated digital application concept; lighting and graphic styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/africa-3d-model-terrain/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "animation-frame",
+      "mode": "new",
+      "file": "africa-digital-animation-frame-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "44b112ef9f22467863d6a690024049bbd18286d481dd46e3bed898fdfed68269",
+      "alt": "AI-generated Africa — animation frame concept.",
+      "title": "Africa — animation frame",
+      "caption": "AI-generated digital application concept; lighting and graphic styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/africa-3d-model-terrain/",
+      "prompt": "image-prompts.json"
+    },
+    {
+      "key": "presentation-graphic",
+      "mode": "new",
+      "file": "africa-digital-presentation-graphic-20261012.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "2bc6732b86daa69146b68f9a94221af09e7a2381ac1f649386fcdf2eaf0935e6",
+      "alt": "AI-generated Africa — presentation graphic concept.",
+      "title": "Africa — presentation graphic",
+      "caption": "AI-generated digital application concept; lighting and graphic styling are illustrative.",
+      "source": "https://shustrik-maps.com/product/3d-model-of-africa-relief/",
+      "prompt": "image-prompts.json"
+    }
+  ],
+  "authorization": "Owner requested next category and continued authorised live updates; two-product category receives text and varied digital examples."
+}
