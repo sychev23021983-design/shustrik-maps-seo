@@ -1,0 +1,174 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "bottom_heading": true,
+    "old_copy_removed": true,
+    "pagination_absent": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/",
+    "title": "3D Models of Continents - Accurate Relief Maps",
+    "description": "Buy 3D models of all continents: Europe, Asia, Africa, America, Australia, and Antarctica. Perfect for graphic design and 3D printing.",
+    "canonical": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "Continent 3D Models for Renders, Animation and Web Graphics"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/europe-3d-model/",
+        "title": "3D Model of Europe (C4D, OBJ) with High-Res Relief & Textures",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/3d-map-of-south-america-c4d-model/",
+        "title": "3D Model of South America",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/africa-3d-model-terrain/",
+        "title": "Africa C4D Terrain Model with Texture Maps",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/3d-model-of-africa-relief/",
+        "title": "Africa C4D Terrain Model with TIF Textures",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/antarctica-with-ice-3d-model/",
+        "title": "Antarctica Elevation Map 3D Model",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/asia-3d-model-terrain/",
+        "title": "Asia 3D Model Terrain",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/australia-3d-model-terrain/",
+        "title": "Australia C4D Terrain Model with Texture Maps",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/relief-map-of-australia-3d-model/",
+        "title": "Australia Relief Map 3D model",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/australia-terrain-3d-model/",
+        "title": "Australia terrain 3D model",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/europe-3d-model-terrain/",
+        "title": "Europe Terrain Map 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/north-america-3d-model/",
+        "title": "North America 3D model",
+        "price": "$28.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/north-america-3d-model-terrain/",
+        "title": "North America Map 3D Model",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/south-america-3d-model-terrain/",
+        "title": "South America 3D Model Terrain",
+        "price": "$35.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/3d-models/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/africa/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/antarctica/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/asia/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/europe/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/north-america/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/oceania/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/south-america/": 200,
+    "https://shustrik-maps.com/product/3d-map-of-south-america-c4d-model/": 200,
+    "https://shustrik-maps.com/product/3d-model-of-africa-relief/": 200,
+    "https://shustrik-maps.com/product/europe-3d-model/": 200,
+    "https://shustrik-maps.com/product/north-america-3d-model/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/continents-digital-europe-banner-20261012.webp": {
+      "http": 200,
+      "bytes": 191742,
+      "alt": "AI-generated europe — website banner concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/continents-digital-south-america-learning-20261012.webp": {
+      "http": 200,
+      "bytes": 123380,
+      "alt": "AI-generated south america — learning illustration concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/continents-digital-africa-animation-20261012.webp": {
+      "http": 200,
+      "bytes": 202860,
+      "alt": "AI-generated africa — animation scene still concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2026/10/continents-digital-north-america-editorial-20261012.webp": {
+      "http": 200,
+      "bytes": 179006,
+      "alt": "AI-generated north america — editorial graphic concept.",
+      "width": "1536",
+      "height": "1024"
+    }
+  },
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}

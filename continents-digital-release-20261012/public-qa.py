@@ -30,7 +30,7 @@ else:
  assert mode=='verify';baseline=json.loads((ROOT/'public-baseline.json').read_text());checks={}
  for field in ['title','description','canonical','robots','cards','schema_types','pagination_present']:checks[field+'_preserved']=state[field]==baseline[field]
  checks['h1']=state['h1']==['Continent 3D Models for Renders, Animation and Web Graphics'];block=first(tree.xpath('//*['+has_class('shustrik-continents-digital-category')+']'));checks['block_exists']=block is not None;checks['bottom_heading']=block is not None and block.xpath('.//h1[@id="continents-digital-category-title"]/text()')==['Continent 3D Models for Renders, Animation and Web Graphics']
- checks['old_copy_removed']='These models are meticulously crafted' not in text(block) and not tree.xpath('//h2[normalize-space(.)="CONTINENTS"]')
+ checks['old_copy_removed']=block is not None and 'These models are meticulously crafted' not in text(block) and not tree.xpath('//h2[normalize-space(.)="CONTINENTS"]')
  checks['pagination_absent']=not state['pagination_present']
  checks['images']=block is not None and len(block.xpath('.//img'))==4
  checks['product_examples']=block is not None and len(block.xpath('.//article//a'))==8

@@ -1,0 +1,72 @@
+{
+  "desktop": {
+    "columns": "605.4px 605.4px",
+    "images": [
+      {
+        "alt": "AI-generated europe — website banner concept.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/continents-digital-europe-banner-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated south america — learning illustration concept.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/continents-digital-south-america-learning-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated africa — animation scene still concept.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/continents-digital-africa-animation-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated north america — editorial graphic concept.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/continents-digital-north-america-editorial-20261012-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1280
+    }
+  },
+  "mobile": {
+    "columns": "345.2px",
+    "images": [
+      {
+        "alt": "AI-generated europe — website banner concept.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/continents-digital-europe-banner-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated south america — learning illustration concept.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/continents-digital-south-america-learning-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated africa — animation scene still concept.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/continents-digital-africa-animation-20261012-766x511.webp"
+      },
+      {
+        "alt": "AI-generated north america — editorial graphic concept.",
+        "loaded": true,
+        "opacity": "1",
+        "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/continents-digital-north-america-editorial-20261012-766x511.webp"
+      }
+    ],
+    "overflow": false,
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  "browser": "Chrome",
+  "method": "Native viewport screenshots after keyboard scrolling; all images loaded. An initial full-page capture was unsuitable and replaced."
+}

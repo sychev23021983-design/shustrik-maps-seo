@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "mode": "--apply",
+  "utc": "2026-10-12T07:09:28+00:00",
+  "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/",
+  "term_id": 63,
+  "block_id": 22867,
+  "protected_preserved": true,
+  "media": [
+    {
+      "key": "europe-banner",
+      "id": 22868,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/continents-digital-europe-banner-20261012.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "south-america-learning",
+      "id": 22869,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/continents-digital-south-america-learning-20261012.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "africa-animation",
+      "id": 22870,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/continents-digital-africa-animation-20261012.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "north-america-editorial",
+      "id": 22871,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/continents-digital-north-america-editorial-20261012.webp",
+      "mode": "new",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": "4680d510bef4445628950e1c33bc85e9f1c0f9162bb4b45d27001155fe54f53d",
+  "rollback_backup": "_shustrik_continents_digital_backup_20261012"
+}

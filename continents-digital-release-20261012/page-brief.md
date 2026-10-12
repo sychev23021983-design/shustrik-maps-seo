@@ -1,5 +1,5 @@
 ---
-status: approved
+status: published-check-passed
 site_profile: shustrik-maps
 category: Continents
 term_id: 63

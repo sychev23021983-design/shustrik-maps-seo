@@ -1,0 +1,10 @@
+{
+  "commit": "a2c82cded07cb0df916feaf24d0f476d63749ced",
+  "archive_sha256": "c1e5d1843db574a74b66effbcecdd0f054c86031f248b8a9a63b8b6d99d0defb",
+  "remote_archive_sha256": "c1e5d1843db574a74b66effbcecdd0f054c86031f248b8a9a63b8b6d99d0defb",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/continents-digital-a2c82cded07c",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}
