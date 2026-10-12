@@ -1,0 +1,132 @@
+{
+  "ok": true,
+  "mode": "--verify",
+  "utc": "2026-10-12T17:25:33+00:00",
+  "published_at": "2026-10-12T17:24:55+00:00",
+  "categories": 4,
+  "new_block_id": 22888,
+  "protected_preserved": true,
+  "protected_products": 126,
+  "protected_prior_posts": 53,
+  "media": [
+    {
+      "key": "iceland-titles",
+      "id": 22889,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/06/film-iceland-titles-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "japan-transition",
+      "id": 22890,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/06/film-japan-transition-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "iceland-flyover",
+      "id": 22891,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/06/film-iceland-flyover-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "japan-locator",
+      "id": 22892,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/06/film-japan-locator-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "italy-titles",
+      "id": 22893,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/06/film-italy-titles-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "china-transition",
+      "id": 22894,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/06/film-china-transition-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "italy-chapter",
+      "id": 22895,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/06/film-italy-chapter-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "china-flyover",
+      "id": 22896,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/06/film-china-flyover-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "california-titles",
+      "id": 22897,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/film-california-titles-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "colorado-flyover",
+      "id": 22898,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/film-colorado-flyover-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "california-locator",
+      "id": 22899,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/film-california-locator-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "colorado-chapter",
+      "id": 22900,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2026/10/film-colorado-chapter-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "bc-titles",
+      "id": 22901,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/06/film-bc-titles-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "quebec-locator",
+      "id": 22902,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/06/film-quebec-locator-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "bc-flyover",
+      "id": 22903,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/06/film-bc-flyover-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "quebec-transition",
+      "id": 22904,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2024/06/film-quebec-transition-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": {
+    "17106": "2a626ad90f8f7203a065a4ada827cfe2cd424f8d3d07b1defb83a880c387ee99",
+    "17109": "9bb4db6b0e9df492cb5ff4a4368d38ca78cf517eb242b2b8b23cbcc6d1743f52",
+    "17112": "ca27c35c0ad4bfc5d4a6394c478709d1e8b2a884336cc9ab62628bb1b2c8fbde",
+    "22888": "10ed7d40ef69217f5c24380bb394644ca061682b7685e7f0af77754e55b0b639"
+  },
+  "rollback_backup": "_shustrik_film_categories_backup_20261012"
+}

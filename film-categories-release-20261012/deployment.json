@@ -1,0 +1,10 @@
+{
+  "commit": "3040454daa115a522f64cdf7f3c0ccdb040b1590",
+  "archive_sha256": "bd4ba4eceefd4c76e20eeceb7b13f46c612a2711bfa4271290afa35033b01fe9",
+  "remote_archive_sha256": "bd4ba4eceefd4c76e20eeceb7b13f46c612a2711bfa4271290afa35033b01fe9",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/film-categories-3040454daa11",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

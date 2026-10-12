@@ -1,0 +1,38 @@
+{
+  "checked_at": "2026-10-12T20:27:14.719490+03:00",
+  "source_commit": "3040454daa115a522f64cdf7f3c0ccdb040b1590",
+  "ssh": "available",
+  "sudo_docker": "available",
+  "containers": [
+    {
+      "name": "/shustrik-maps-wordpress-1",
+      "status": "running",
+      "started_at": "2026-08-28T05:54:09.048858196Z",
+      "restart_count": 0
+    },
+    {
+      "name": "/shustrik-maps-db-1",
+      "status": "running",
+      "started_at": "2026-08-28T05:54:08.884034687Z",
+      "restart_count": 0
+    }
+  ],
+  "health": {
+    "https://shustrik-maps.com/": {
+      "http": 200,
+      "url": "https://shustrik-maps.com/",
+      "bytes": 260038
+    },
+    "https://shustrik-maps.com/cart/": {
+      "http": 200,
+      "url": "https://shustrik-maps.com/cart/",
+      "bytes": 221983
+    },
+    "https://shustrik-maps.com/checkout/": {
+      "http": 200,
+      "url": "https://shustrik-maps.com/cart/",
+      "bytes": 224095
+    }
+  },
+  "build_restart": false
+}
