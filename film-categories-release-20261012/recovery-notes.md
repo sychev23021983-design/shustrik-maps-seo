@@ -1,0 +1,5 @@
+# Prepared release recovery
+
+Initial apply imported16 assets once (22889–22904) and created dedicated block22888, then its conditional content/placement transaction failed a placement guard. The transaction rolled back: three original content hashes match baseline, block22888 remains empty, States description remains original14986 reference. Backup status ready and journal importing with16 IDs. No second import is authorised or performed by the recovery path.
+
+Cause: direct SQL termmeta change was read through the stale WordPress term_meta cache; clean_term_cache invalidates term objects, not that metadata cache. Add explicit wp_cache_delete(81,term_meta) after direct placement writes and rollback. Guarded publish-ready accepts only the complete existing prepared backup/journal, re-verifies all16 hashes/metadata/alt, reconstructs all four shortcode templates exactly, protects original scope and publishes through the conditional transaction. Corrected source is pushed and exact-archive verified before this recovery write.
