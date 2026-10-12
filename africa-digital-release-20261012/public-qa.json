@@ -1,0 +1,176 @@
+{
+  "ok": true,
+  "checks": {
+    "title_preserved": true,
+    "description_preserved": true,
+    "canonical_preserved": true,
+    "robots_preserved": true,
+    "cards_preserved": true,
+    "schema_types_preserved": true,
+    "pagination_present_preserved": true,
+    "retained_country_headings_preserved": true,
+    "h1": true,
+    "block_exists": true,
+    "bottom_heading": true,
+    "old_copy_removed": true,
+    "pagination_absent": true,
+    "images": true,
+    "product_examples": true,
+    "disclosure": true,
+    "links_http": true,
+    "media_http_alt": true,
+    "health": true
+  },
+  "state": {
+    "http": 200,
+    "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/africa/",
+    "title": "Africa 3D model. Captivating 3D Models for Creative Design",
+    "description": "Explore our captivating 3D models of Africa, perfect for graphic design and creative projects. Immerse yourself in Africa's wonders and infuse your designs with the continent's rich heritage.",
+    "canonical": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/africa/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "h1": [
+      "Africa 3D Models for Renders and Animation"
+    ],
+    "cards": [
+      {
+        "url": "https://shustrik-maps.com/product/africa-3d-model-terrain/",
+        "title": "Africa C4D Terrain Model with Texture Maps",
+        "price": "$35.00"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/3d-model-of-africa-relief/",
+        "title": "Africa C4D Terrain Model with TIF Textures",
+        "price": "$28.00"
+      }
+    ],
+    "schema_types": [
+      "CollectionPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebSite",
+      [
+        "Organization",
+        "Place",
+        "Store"
+      ],
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList"
+    ],
+    "pagination_present": false,
+    "retained_country_headings": [
+      "NORTHERN AFRICA 3D MODELS",
+      "Algeria",
+      "Egypt",
+      "Libya",
+      "Morocco",
+      "Sudan",
+      "Tunisia",
+      "Western Sahara",
+      "WESTERN AFRICA 3D MODELS",
+      "Benin",
+      "Burkina Faso",
+      "Cape Verde",
+      "Gambia",
+      "Ghana",
+      "Guinea",
+      "Guinea-Bissau",
+      "Ivory Coast",
+      "Liberia",
+      "Mali",
+      "Mauritania",
+      "Niger",
+      "Nigeria",
+      "Saint Helena",
+      "Sao Tome & Principe",
+      "Senegal",
+      "Sierra Leone",
+      "Togo",
+      "SOUTHERN AFRICA 3D MODELS",
+      "Botswana",
+      "Eswatini",
+      "Lesotho",
+      "Namibia",
+      "South Africa",
+      "MIDDLE AFRICA 3D MODELS",
+      "Angola",
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Congo",
+      "Democratic Republic of Congo",
+      "Equatorial Guinea",
+      "Gabon",
+      "Sao Tome & Principe",
+      "EASTERN AFRICA 3D MODELS",
+      "Burundi",
+      "Comoros",
+      "Djibouti",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Madagascar",
+      "Malawi",
+      "Mauritius",
+      "Seychelles",
+      "Somalia",
+      "South Sudan",
+      "Tanzania",
+      "Mozambique",
+      "Rwanda",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ]
+  },
+  "links": {
+    "https://shustrik-maps.com/product-category/3d-models/": 200,
+    "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/": 200,
+    "https://shustrik-maps.com/product/3d-model-of-africa-relief/": 200,
+    "https://shustrik-maps.com/product/africa-3d-model-terrain/": 200
+  },
+  "media": {
+    "https://shustrik-maps.com/wp-content/uploads/2023/09/africa-digital-website-banner-20261012.webp": {
+      "http": 200,
+      "bytes": 142884,
+      "alt": "AI-generated Africa — website banner concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2023/09/africa-digital-relief-illustration-20261012.webp": {
+      "http": 200,
+      "bytes": 140796,
+      "alt": "AI-generated Africa — relief illustration concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2023/09/africa-digital-animation-frame-20261012.webp": {
+      "http": 200,
+      "bytes": 220902,
+      "alt": "AI-generated Africa — animation frame concept.",
+      "width": "1536",
+      "height": "1024"
+    },
+    "https://shustrik-maps.com/wp-content/uploads/2023/09/africa-digital-presentation-graphic-20261012.webp": {
+      "http": 200,
+      "bytes": 120822,
+      "alt": "AI-generated Africa — presentation graphic concept.",
+      "width": "1536",
+      "height": "1024"
+    }
+  },
+  "health": {
+    "home": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/"
+    },
+    "cart/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    },
+    "checkout/": {
+      "http": 200,
+      "final_url": "https://shustrik-maps.com/cart/"
+    }
+  }
+}

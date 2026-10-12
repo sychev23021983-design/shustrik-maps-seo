@@ -1,0 +1,8 @@
+{
+  "static_css_checks": true,
+  "desktop_columns": 2,
+  "mobile_columns": 1,
+  "breakpoint_px": 600,
+  "native_visual_qa": "not completed",
+  "reason": "Native browser QA not performed in this release; previous browser inspection stopped because current URL could not be determined."
+}

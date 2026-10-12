@@ -1,0 +1,10 @@
+{
+  "commit": "75f60bcafd6fb25bc4cdfeb1ed861b556f7e6ad2",
+  "archive_sha256": "333f0ca90b5b0f515533edff0dee6ac6e82354619ba9e357326159acba0f0f38",
+  "remote_archive_sha256": "333f0ca90b5b0f515533edff0dee6ac6e82354619ba9e357326159acba0f0f38",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/africa-digital-75f60bcafd6f",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

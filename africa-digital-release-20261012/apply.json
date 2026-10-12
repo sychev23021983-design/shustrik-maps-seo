@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "mode": "--apply",
+  "utc": "2026-10-12T16:33:44+00:00",
+  "url": "https://shustrik-maps.com/product-category/3d-models/continents-3d-models/africa/",
+  "term_id": 163,
+  "block_id": 15343,
+  "protected_preserved": true,
+  "media": [
+    {
+      "key": "website-banner",
+      "id": 22884,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/africa-digital-website-banner-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "relief-illustration",
+      "id": 22885,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/africa-digital-relief-illustration-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "animation-frame",
+      "id": 22886,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/africa-digital-animation-frame-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "presentation-graphic",
+      "id": 22887,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2023/09/africa-digital-presentation-graphic-20261012.webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "content_sha256": "69120b2ed9302836ef8712185706b072608b8173a0eae72a818ef2bbcf7b4e54",
+  "rollback_backup": "_shustrik_africa_digital_backup_20261012"
+}
