@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "mode": "--apply",
+  "utc": "2026-10-17T17:42:57+00:00",
+  "id": 14596,
+  "content_sha256": "f924459a80e6f37059d963265f4fcbabc4a935341b5b745b6f2364eeae8d5fab",
+  "fields": {
+    "_yoast_wpseo_title": "FBX File Format: What It Stores, Uses & Limitations",
+    "_yoast_wpseo_metadesc": "Learn what an FBX file stores, how it is used for 3D models and animation, and what to check when transferring assets between applications."
+  },
+  "protected_preserved": true,
+  "prior_preserved": true,
+  "indexable_match": true,
+  "backup_key": "_shustrik_fbx_intro_meta_backup_20261017",
+  "backup_status": "published"
+}
