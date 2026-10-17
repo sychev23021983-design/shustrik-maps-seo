@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "mode": "--apply",
+  "utc": "2026-10-17T17:52:48+00:00",
+  "posts": [
+    {
+      "id": 14596,
+      "url": "https://shustrik-maps.com/understanding-the-fbx-file-format-a-simple-explanation/",
+      "content_sha256": "e92c8c32bbd670f92cf4109d31076ca093d74a8c84b804e9df02ec4cd9ccc325",
+      "protected_preserved": true,
+      "links_added": 0
+    }
+  ],
+  "backup_key": "_shustrik_fbx_technical_backup_20261017",
+  "backup_status": "published"
+}

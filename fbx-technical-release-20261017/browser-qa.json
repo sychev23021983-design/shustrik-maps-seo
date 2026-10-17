@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "date": "2026-10-17",
+  "url": "https://shustrik-maps.com/understanding-the-fbx-file-format-a-simple-explanation/",
+  "head": {
+    "description": "Learn what an FBX file stores, how it is used for 3D models and animation, and what to check when transferring assets between applications.",
+    "h1": [
+      "Understanding the FBX File Format: A Simple Explanation"
+    ],
+    "title": "FBX File Format: What It Stores, Uses & Limitations"
+  },
+  "desktop": "1434x940",
+  "mobile": "390x844",
+  "five_approved_blocks_observed": true,
+  "visual_desktop_mobile": true,
+  "mobile_horizontal_overflow": false,
+  "viewport_reset": true,
+  "screenshots": [
+    "fbx-technical-desktop.jpg",
+    "fbx-technical-printing.jpg",
+    "fbx-technical-mobile.jpg",
+    "fbx-technical-mobile-printing.jpg"
+  ],
+  "google_serp_checked": false
+}
