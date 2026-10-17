@@ -1,10 +1,10 @@
 {
-  "commit": "a42d10da2478156d38d8e315c4770fcd209c44f6",
-  "archive_sha256": "996c0b256da14538cc2db565ac34fb51157fdb16def9d3b6f88d9a1e6c1f18e0",
-  "remote_archive_sha256": "996c0b256da14538cc2db565ac34fb51157fdb16def9d3b6f88d9a1e6c1f18e0",
+  "commit": "30ca8abc4865da8c22261482a5264a38424d2aae",
+  "archive_sha256": "a3e0ba2a2bde4baf167041bdf711249655b5cf7a01152ccde509db74d449e7cf",
+  "remote_archive_sha256": "a3e0ba2a2bde4baf167041bdf711249655b5cf7a01152ccde509db74d449e7cf",
   "mode": "external",
   "target": "https://shustrik-maps.com",
-  "wp_source": "/tmp/earth-description-a42d10da2478",
+  "wp_source": "/tmp/earth-description-30ca8abc4865",
   "container": "shustrik-maps-wordpress-1",
   "php_lint": true
 }

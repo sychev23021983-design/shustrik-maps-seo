@@ -1,0 +1,20 @@
+{
+  "checked_at_moscow": "2026-10-17 18:31:42 +03:00",
+  "ssh": "available",
+  "sudo_docker": "available",
+  "wordpress": {
+    "status": "running",
+    "started_at": "2026-08-28T05:54:09.048858196Z",
+    "restart_count": 0,
+    "binding": "127.0.0.1:8083 -> 80/tcp"
+  },
+  "database": {
+    "status": "running",
+    "started_at": "2026-08-28T05:54:08.884034687Z",
+    "restart_count": 0,
+    "bindings": {}
+  },
+  "build_restart": false,
+  "global_project_runtime_status": "degraded",
+  "unrelated_runtime_checked": false
+}

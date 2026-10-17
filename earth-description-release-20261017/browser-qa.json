@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "date": "2026-10-17",
+  "url": "https://shustrik-maps.com/product/earth-3d-model-terrain-without-water/",
+  "desktop": "1434x912",
+  "mobile": "390x844",
+  "approved_copy_seen": true,
+  "all_three_paragraphs_verified": true,
+  "mobile_horizontal_overflow": false,
+  "desktop_mobile_visual_passed": true,
+  "viewport_reset": true,
+  "screenshots": [
+    "earth-desktop.jpg",
+    "earth-mobile.jpg",
+    "earth-mobile-lower.jpg"
+  ],
+  "scope": "Visual check only; no cart/checkout/payment interactions"
+}
