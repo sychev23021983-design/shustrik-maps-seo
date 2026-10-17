@@ -1,0 +1,51 @@
+{
+  "utc": "2026-10-17T17:19:15+00:00",
+  "posts": [
+    {
+      "id": 16110,
+      "slug": "moon-3d-model",
+      "url": "https://shustrik-maps.com/product/moon-3d-model/",
+      "before": {
+        "_yoast_wpseo_title": "Moon 3D Model – Realistic Planetary Surface for 3D Printing",
+        "_yoast_wpseo_metadesc": "3D model of Moon built from real elevation/imagery data, ready for 3D printing and visualization."
+      },
+      "invariant": "b8af31569c6588e96c6582b5468f565ee5f4af7005bd158abdd93f9bbf39b9f1"
+    },
+    {
+      "id": 18062,
+      "slug": "sydney-opera-house-3d-model",
+      "url": "https://shustrik-maps.com/product/sydney-opera-house-3d-model/",
+      "before": {
+        "_yoast_wpseo_title": "Sydney Opera House 3D Model – High-Quality Rendering Asset",
+        "_yoast_wpseo_metadesc": "Download a highly detailed 3D model of the Sydney Opera House. Ideal for architectural renders, virtual tours, and animations."
+      },
+      "invariant": "45c88940533a66efae903dc2e3e1724355ba4680a4b8dfbde68ef697c79515f0"
+    }
+  ],
+  "prior": {
+    "14594": "5aa52a20d629f552af40e8e19020beef4249a8e856b25fc45ad6144eaae71103",
+    "14581": "1baacd5d149c9349b542040a1768a41a955d1a65b9e20013cca9a2e1cabc3b8f",
+    "15849": "065990db58e351f65af52745342c5abba0546af17c4ece6dc08a2cb893d85823",
+    "14596": "0074b7c468378c84dffdcc8a9a1f4640f205f63ed4d3d2c48ee3e90d800aad17",
+    "15631": "8c9ea7f1931deb7faa985c8da4b3be1340eaa983388a9aa5371fca8a5df87a84",
+    "20707": "1a3f5ab2b93c2f60e929ce0fba70baf3a0f71e4e98f02c7f5a570d33104cee89",
+    "11517": "4b1206ebfb31298c9ff81504bb56536d0e578748fe971d9c72d5645a3d5da46a"
+  },
+  "tables": {
+    "exjwz_options": "InnoDB",
+    "exjwz_postmeta": "InnoDB"
+  },
+  "yoast_indexable_builder": true,
+  "indexables": [
+    {
+      "object_id": "16110",
+      "title": "Moon 3D Model – Realistic Planetary Surface for 3D Printing",
+      "description": "3D model of Moon built from real elevation/imagery data, ready for 3D printing and visualization."
+    },
+    {
+      "object_id": "18062",
+      "title": "Sydney Opera House 3D Model – High-Quality Rendering Asset",
+      "description": "Download a highly detailed 3D model of the Sydney Opera House. Ideal for architectural renders, virtual tours, and animations."
+    }
+  ]
+}
