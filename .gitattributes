@@ -171,3 +171,7 @@ article-links-release-20261017/content.diff -text
 remaining-links-release-20261017/* text eol=lf
 remaining-links-release-20261017/*-after.txt -text
 remaining-links-release-20261017/content.diff -text
+
+earth-description-release-20261017/* text eol=lf
+earth-description-release-20261017/*-after.txt -text
+earth-description-release-20261017/content.diff -text
