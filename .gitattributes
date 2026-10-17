@@ -163,3 +163,7 @@ film-categories-release-20261012/*.php text eol=lf
 film-categories-release-20261012/*.json text eol=lf
 film-categories-release-20261012/*.py text eol=lf
 film-categories-release-20261012/*.md text eol=lf
+
+article-links-release-20261017/* text eol=lf
+article-links-release-20261017/*-after.txt -text
+article-links-release-20261017/content.diff -text

@@ -1,0 +1,69 @@
+{
+  "site": "https://shustrik-maps.com",
+  "approved_date": "2026-10-17",
+  "backup_key": "_shustrik_article_links_backup_20261017",
+  "posts": [
+    {
+      "id": 14594,
+      "slug": "what-is-an-stl-file-explaining-the-stl-format",
+      "url": "https://shustrik-maps.com/what-is-an-stl-file-explaining-the-stl-format/",
+      "before_sha256": "94a42376c54522c4f47839fd094039410d9695d8eaf368b4e5ca15d2c1838451",
+      "protected_hash": "426da9e08d1be8b38633209e60f1f36ff72a104efb4ce756f95b5a9a0778387f",
+      "file": "14594-after.txt",
+      "after_sha256": "e0a565e54e7659bc775c84fb63f21fbaaff7d6ec79290002c13de4fb1b97c85d",
+      "edits": [
+        {
+          "operation": "insert",
+          "at": 5061,
+          "text": "\n\n<p>Terrain relief is one application of STL geometry. The <a href=\"https://shustrik-maps.com/product-category/cnc-models/\">terrain STL collection</a> includes regional maps, globes and planetary surfaces for 3D printing and CNC projects.</p>",
+          "at_bytes": 5065
+        }
+      ],
+      "links_added": 1
+    },
+    {
+      "id": 14581,
+      "slug": "understanding-the-obj-file-format-a-simple-explanation",
+      "url": "https://shustrik-maps.com/understanding-the-obj-file-format-a-simple-explanation/",
+      "before_sha256": "3ebd47a653566fae64ee7bedcb105f2ce51bc74463b24075f8d0d89bbee2dff6",
+      "protected_hash": "060d27ba5622bb319583e69ddd17107461c71cf2aa584a617e6683dca581385a",
+      "file": "14581-after.txt",
+      "after_sha256": "eeadb9d24e5f008c06689aad1c51e272f0b575087e4dc35a85f3ad34c733da14",
+      "edits": [
+        {
+          "operation": "insert",
+          "at": 5819,
+          "text": "\n\n<p>For a geographic example, the <a href=\"https://shustrik-maps.com/product/usa-map-3d-model/\">USA terrain model</a> is supplied with C4D geometry, OBJ versions at three levels of detail and TIF textures. The illustrated <a href=\"https://shustrik-maps.com/how-to-convert-a-model-from-c4d-to-obj/\">C4D-to-OBJ terrain workflow</a> covers mesh export and texture handling.</p>",
+          "at_bytes": 5821
+        },
+        {
+          "operation": "replace",
+          "at": 7406,
+          "old": "In addition to compatibility, OBJ files are much lighter than FBX or COLLADA files for the same 3D model. This is due to the comparative simplicity of the OBJ file format and its own binary encoding.\r\n<blockquote>If you don't require the entire scene or animation and prioritize support and consistent interpretation by CAD software, OBJ is a fitting file format.",
+          "text": "Wavefront OBJ is a text-based geometry format. Material definitions are commonly stored in an associated MTL file, with texture images supplied separately.\n<blockquote>",
+          "at_bytes": 7408
+        }
+      ],
+      "links_added": 2
+    },
+    {
+      "id": 15849,
+      "slug": "how-to-convert-a-model-from-c4d-to-obj",
+      "url": "https://shustrik-maps.com/how-to-convert-a-model-from-c4d-to-obj/",
+      "before_sha256": "4afa4da764ef01751b0390ffd706acfe453a86276d0b4d4eb93d72a0337dd1c0",
+      "protected_hash": "f49859c6d5b946b6f5549b26062e507ee548e322736b86c9bb61dcbb943817e1",
+      "file": "15849-after.txt",
+      "after_sha256": "c47d4ffb9f5675a64adc9b6f0ef478a216b20458596aa9d6a3544b8f2903a95c",
+      "edits": [
+        {
+          "operation": "insert",
+          "at": 1276,
+          "text": "\n\n<p>A downloadable example is the <a href=\"https://shustrik-maps.com/product/usa-map-3d-model/\">USA terrain model with OBJ LOD variants</a>, supplied with C4D, three OBJ detail levels and TIF textures.</p>",
+          "at_bytes": 1276
+        }
+      ],
+      "links_added": 1
+    }
+  ],
+  "scope": "Four approved links and exact OBJ correction; other copy, shortcodes, metadata and media retained"
+}
