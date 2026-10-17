@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "date": "2026-10-17",
+  "url": "https://shustrik-maps.com/product/sydney-opera-house-3d-model/",
+  "desktop": "1434x940",
+  "mobile": "390x844",
+  "approved_copy_seen": true,
+  "all_three_paragraphs_verified": true,
+  "duplicate_description_h2_removed": true,
+  "mobile_horizontal_overflow": false,
+  "desktop_mobile_visual_passed": true,
+  "viewport_reset": true,
+  "screenshots": [
+    "sydney-desktop.jpg",
+    "sydney-mobile.jpg",
+    "sydney-mobile-lower.jpg"
+  ],
+  "scope": "Visual QA only; no cart/checkout/payment actions"
+}

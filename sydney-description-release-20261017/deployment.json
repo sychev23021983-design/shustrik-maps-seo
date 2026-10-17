@@ -1,0 +1,10 @@
+{
+  "commit": "52cc04657c42c3573457e6d952e3f1a80e165553",
+  "archive_sha256": "dff90b900985c0a0cf7c88be9e6dbd820d606ccf680d7ebfc2add669b79719b3",
+  "remote_archive_sha256": "dff90b900985c0a0cf7c88be9e6dbd820d606ccf680d7ebfc2add669b79719b3",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/sydney-description-52cc04657c42",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}
