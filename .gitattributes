@@ -205,3 +205,7 @@ stl-article-release-20261017/content.diff -text
 us-night-release-20261017/* text eol=lf
 us-night-release-20261017/*-after.txt -text
 us-night-release-20261017/content.diff -text
+
+iowa-release-20261017/* text eol=lf
+iowa-release-20261017/*-after.txt -text
+iowa-release-20261017/content.diff -text
