@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "mode": "--rollback-preview",
+  "utc": "2026-10-17T18:09:31+00:00",
+  "id": 14581,
+  "content_sha256": "fe02384b6d23c7f652594a02301d8cd43deff35fc7a4ac4987146d1231b59d36",
+  "fields": {
+    "_yoast_wpseo_title": "OBJ File Format: Geometry, Materials & 3D Printing",
+    "_yoast_wpseo_metadesc": "Learn what OBJ files store, how MTL files and textures work, and what to check when using OBJ models for rendering or 3D printing."
+  },
+  "protected_preserved": true,
+  "prior_preserved": true,
+  "indexable_match": true,
+  "backup_key": "_shustrik_obj_article_backup_20261017",
+  "backup_status": "published"
+}

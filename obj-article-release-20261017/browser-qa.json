@@ -1,0 +1,32 @@
+{
+  "ok": true,
+  "utc": "2026-10-17T18:12:07.712Z",
+  "desktop": "1434x940",
+  "mobile": "390x844",
+  "desktopDOM": {
+    "bodyText": "COMMON\nUnderstanding the OBJ File Format – A Simple Explanation\nPosted by\nsychev23021983\nOn August 26, 2022\n\nOBJ is a text-based 3D file format used to exchange surface geometry between applications. An .obj file can describe vertices, polygon faces, texture coordinates and normals.\n\nThe format is commonly used for static models in visualization, scanning and 3D-printing workflows. Appearance data may depend on accompanying material and texture files. OBJ does not preserve skeletal animation, cameras or lights as a complete scene.\n\nOBJ FILE FORMAT: UTILIZATION IN 3D PRINTING\n\nOBJ can supply geometry for 3D printing, but importing an OBJ file does not guarantee that the slicer will retain its materials or textures. For example, PrusaSlicer imports OBJ geometry while ignoring material and texture information.\n\nThe format’s support for free-form curves and surfaces does not guarantee smaller files or greater printing precision. Check which geometry representations your software accepts, and ensure the printable mesh defines a solid with adequate wall thickness.\n\nSTL, OBJ and 3MF serve different exchange and project needs. PrusaSlicer supports all three and recommends 3MF for saving projects; the choice should follow the target workflow.\n\nOBJ FILE FORMAT: USAGE IN 3D GRAPHICS APPLICATIONS\n\nOBJ is suitable for transferring static assets into a rendering or modeling scene. The receiving application provides the scene’s cameras, lights and animation setup.\n\nWhen a transfer must retain animation or broader scene data, consider an exchange format such as FBX. Native project formats may be more appropriate when preserving application-specific features is essential.\n\nFor a geographic example, the USA terrain model is supplied with C4D geometry, OBJ versions at three levels of detail and TIF textures. The illustrated C4D-to-OBJ terrain workflow covers mesh export and texture handling.\n\nADVANTAGES OF THE OBJ FILE FORMAT\n\nOBJ is widely supported for static mesh exchange, but import behavior varies between applications. Materials may need adjustment, and support for free-form geometry or extended material properties should be checked in the target software.\n\nWavefront OBJ is a text-based geometry format. Material definitions are commonly stored in an associated MTL file, with texture images supplied separately.\n\nOBJ\nNewer\nElevation Modeling – which to choose DTM, DSM or DEM?\nBack to list\nOlder\nWhat is an STL File? Explaining the STL Format\nCategories\nCommon\nRecent Posts\nHow to convert a model from C4D to OBJ?\nElevation Modeling – which to choose DTM, DSM or DEM?\nUnderstanding the OBJ File Format – A Simple Explanation\nWhat is an STL File? Explaining the STL Format\nUnderstanding the FBX File Format: A Simple Explanation\nArchives\nMarch 2024\nJanuary 2023\nAugust 2022\nApril 2022\nJanuary 2022\nOctober 2021\nJuly 2021",
+    "h1": [
+      "Understanding the OBJ File Format – A Simple Explanation"
+    ],
+    "height": 940,
+    "meta": "Learn what OBJ files store, how MTL files and textures work, and what to check when using OBJ models for rendering or 3D printing.",
+    "scrollWidth": 1419,
+    "title": "OBJ File Format: Geometry, Materials & 3D Printing",
+    "width": 1434
+  },
+  "mobileDOM": {
+    "bodyText": "COMMON\nUnderstanding the OBJ File Format – A Simple Explanation\nsychev23021983\nOn August 26, 2022\n\nOBJ is a text-based 3D file format used to exchange surface geometry between applications. An .obj file can describe vertices, polygon faces, texture coordinates and normals.\n\nThe format is commonly used for static models in visualization, scanning and 3D-printing workflows. Appearance data may depend on accompanying material and texture files. OBJ does not preserve skeletal animation, cameras or lights as a complete scene.\n\nOBJ FILE FORMAT: UTILIZATION IN 3D PRINTING\n\nOBJ can supply geometry for 3D printing, but importing an OBJ file does not guarantee that the slicer will retain its materials or textures. For example, PrusaSlicer imports OBJ geometry while ignoring material and texture information.\n\nThe format’s support for free-form curves and surfaces does not guarantee smaller files or greater printing precision. Check which geometry representations your software accepts, and ensure the printable mesh defines a solid with adequate wall thickness.\n\nSTL, OBJ and 3MF serve different exchange and project needs. PrusaSlicer supports all three and recommends 3MF for saving projects; the choice should follow the target workflow.\n\nOBJ FILE FORMAT: USAGE IN 3D GRAPHICS APPLICATIONS\n\nOBJ is suitable for transferring static assets into a rendering or modeling scene. The receiving application provides the scene’s cameras, lights and animation setup.\n\nWhen a transfer must retain animation or broader scene data, consider an exchange format such as FBX. Native project formats may be more appropriate when preserving application-specific features is essential.\n\nFor a geographic example, the USA terrain model is supplied with C4D geometry, OBJ versions at three levels of detail and TIF textures. The illustrated C4D-to-OBJ terrain workflow covers mesh export and texture handling.\n\nADVANTAGES OF THE OBJ FILE FORMAT\n\nOBJ is widely supported for static mesh exchange, but import behavior varies between applications. Materials may need adjustment, and support for free-form geometry or extended material properties should be checked in the target software.\n\nWavefront OBJ is a text-based geometry format. Material definitions are commonly stored in an associated MTL file, with texture images supplied separately.\n\nOBJ\nNewer\nBack to list\nOlder",
+    "h1": [
+      "Understanding the OBJ File Format – A Simple Explanation"
+    ],
+    "height": 844,
+    "meta": "Learn what OBJ files store, how MTL files and textures work, and what to check when using OBJ models for rendering or 3D printing.",
+    "scrollWidth": 375,
+    "title": "OBJ File Format: Geometry, Materials & 3D Printing",
+    "width": 390
+  },
+  "visual_review": true,
+  "horizontal_overflow": false,
+  "existing_mobile_sidebar_overlay": true,
+  "viewport_reset": true
+}

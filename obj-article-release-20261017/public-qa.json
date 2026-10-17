@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "urls_checked": 4,
+  "approved_paragraphs_exact": true,
+  "metadata_exact": true,
+  "h1_headings_links_media_preserved": true,
+  "previous_releases_public_preserved": true,
+  "schema_type_presence_preserved": true
+}
