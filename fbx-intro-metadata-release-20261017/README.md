@@ -1,0 +1,7 @@
+# FBX intro/title/meta — owner-approved 2026-10-17
+
+Post14596 only. Exact approved SEO title, meta description and three paragraphs replacing only the first woodmart_text_block body. H1/post_title untouched; every shortcode/image and full suffix after intro preserved, including earlier terrain link and existing technical sections. Eight prior released records protected. Only content/modified dates/two new Yoast metadata values and title/description on existing indexable5642 change; no broad index builder.
+
+GitHub-first commit/push, exactarchive SHA256 verification, PHP lint, preview, apply once, verify and rollback-preview. Posts/postmeta/options/indexable tables must be InnoDB. Conditional content write/metadata/indexable row update under transaction and row locks. Backup option _shustrik_fbx_intro_meta_backup_20261017. Before SEO keys absent; rollback deletes newly added keys and restores null indexable title/description plus original intro. Rollback command: python fbx-intro-metadata-release-20261017/deliver.py rollback. Do not repeat apply after uncertain outcome; inspect backup first.
+
+External WordPress target via existing WireGuard SSH/sudoDocker. No settings/order/payment/indexing requests/build/restart. Public HTTP/DOM checks plus desktop/mobile visual review. Cache may need normal refresh. Google SERP display and SEO effects are not confirmed by publication. Broader technical corrections were not authorized in this package.

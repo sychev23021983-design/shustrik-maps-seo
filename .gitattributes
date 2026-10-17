@@ -185,3 +185,7 @@ sydney-description-release-20261017/*-after.txt -text
 sydney-description-release-20261017/content.diff -text
 
 moon-sydney-metadata-release-20261017/* text eol=lf
+
+fbx-intro-metadata-release-20261017/* text eol=lf
+fbx-intro-metadata-release-20261017/*-after.txt -text
+fbx-intro-metadata-release-20261017/content.diff -text
