@@ -1,0 +1,10 @@
+United States at night imagery for presentations, editorial graphics and print design.
+<ul>
+ 	<li>Format: TIF</li>
+ 	<li>Resolution: 6000*3240 px</li>
+ 	<li>Depth: 48 bit</li>
+ 	<li>Size: 149 MB</li>
+ 	<li>Color scheme: RGB</li>
+ 	<li>Projection: Lambert Conformal Conic</li>
+</ul>
+[html_block id="11218"]

@@ -201,3 +201,7 @@ obj-article-release-20261017/content.diff -text
 stl-article-release-20261017/* text eol=lf
 stl-article-release-20261017/*-after.txt -text
 stl-article-release-20261017/content.diff -text
+
+us-night-release-20261017/* text eol=lf
+us-night-release-20261017/*-after.txt -text
+us-night-release-20261017/content.diff -text
