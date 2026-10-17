@@ -1,0 +1,10 @@
+{
+  "commit": "3bf09dac1b4f05812dce1ca62b0c7e342fa0412a",
+  "archive_sha256": "779f6680745f0b016f7c7949c3bacdf9fccff6bc833f0460079c8ff112fa10af",
+  "remote_archive_sha256": "779f6680745f0b016f7c7949c3bacdf9fccff6bc833f0460079c8ff112fa10af",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/moon-sydney-metadata-3bf09dac1b4f",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

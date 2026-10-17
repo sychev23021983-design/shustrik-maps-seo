@@ -12,7 +12,7 @@ function check_all($manifest,$after){
 }
 function indexables_match($manifest,$after){
  global $wpdb;$table=$wpdb->prefix.'yoast_indexable';
- foreach($manifest['posts'] as $item){$fields=$after?$item['after']:$item['before'];$row=$wpdb->get_row($wpdb->prepare("SELECT title,description FROM $table WHERE object_type='post' AND object_id=%d",$item['id']),ARRAY_A);
+ foreach($manifest['posts'] as $item){$fields=$after?$item['after']:$item['before'];$rows=$wpdb->get_results($wpdb->prepare("SELECT title,description FROM $table WHERE object_type='post' AND object_id=%d",$item['id']),ARRAY_A);guard(count($rows)===1,'Duplicate/missing Yoast indexable');$row=$rows[0];
   guard($row&&$row['title']===$fields['_yoast_wpseo_title']&&$row['description']===$fields['_yoast_wpseo_metadesc'],'Yoast indexable mismatch');}
 }
 try{
@@ -30,8 +30,11 @@ try{
   try{
    $wpdb->get_results("SELECT meta_id FROM {$wpdb->postmeta} WHERE post_id IN (16110,18062) ORDER BY meta_id FOR UPDATE");
    check_all($manifest,$rollback);
-   foreach($manifest['posts'] as $item){$fields=$rollback?$item['before']:$item['after'];foreach($fields as $field=>$value)guard(update_post_meta($item['id'],$field,$value)!==false,'Metadata update failed');
-    clean_post_cache($item['id']);YoastSEO()->classes->get('Yoast\\WP\\SEO\\Builders\\Indexable_Builder')->build_for_id_and_type($item['id'],'post');
+   foreach($manifest['posts'] as $item){$fields=$rollback?$item['before']:$item['after'];$expected=$rollback?$item['after']:$item['before'];foreach($fields as $field=>$value)guard(update_post_meta($item['id'],$field,$value)!==false,'Metadata update failed');
+    // Keep the existing derived row and every other column unchanged.
+    // A builder without an existing model creates an additional row instead.
+    $changed=$wpdb->query($wpdb->prepare("UPDATE $table SET title=%s,description=%s WHERE object_type='post' AND object_id=%d AND BINARY title=BINARY %s AND BINARY description=BINARY %s",$fields['_yoast_wpseo_title'],$fields['_yoast_wpseo_metadesc'],$item['id'],$expected['_yoast_wpseo_title'],$expected['_yoast_wpseo_metadesc']));
+    guard($changed===1,'Conditional Yoast indexable update failed');clean_post_cache($item['id']);
    }
    check_all($manifest,!$rollback);indexables_match($manifest,!$rollback);$wpdb->query('COMMIT');
   }catch(Throwable $e){$wpdb->query('ROLLBACK');foreach($manifest['posts'] as $item)clean_post_cache($item['id']);throw $e;}
