@@ -1,0 +1,86 @@
+{
+  "site": "https://shustrik-maps.com",
+  "approved_date": "2026-10-17",
+  "backup_key": "_shustrik_remaining_links_backup_20261017",
+  "posts": [
+    {
+      "id": 14596,
+      "slug": "understanding-the-fbx-file-format-a-simple-explanation",
+      "post_type": "post",
+      "url": "https://shustrik-maps.com/understanding-the-fbx-file-format-a-simple-explanation/",
+      "before_sha256": "b9a64d67b8b39fb7eb4c7d6e165290d0472809e0a36d73a54ae374bdf081d5c1",
+      "protected_hash": "caf318a593c532d04bf475097a4b2fa01955a3ab8dba7d4d1c889ed13fc2cabd",
+      "file": "14596-after.txt",
+      "after_sha256": "9903675f8f4bc0031c425b962976d6cbf889a1540670d106b0ac124a7391a9b4",
+      "edits": [
+        {
+          "operation": "insert",
+          "at": 7704,
+          "text": "<p>For landscape visualization, the <a href=\"https://shustrik-maps.com/product-category/3d-models/\">3D terrain model catalog</a> brings together geographic assets organized by region.</p>\n\n",
+          "at_bytes": 7704
+        }
+      ],
+      "links_added": 1
+    },
+    {
+      "id": 15631,
+      "slug": "the-difference-between-c4d-and-stl-models",
+      "post_type": "post",
+      "url": "https://shustrik-maps.com/the-difference-between-c4d-and-stl-models/",
+      "before_sha256": "85b32f6dfcbca7b85b04b741b4f3a944fd698c30fc474fe88c3447af532fe226",
+      "protected_hash": "dcfb60f462d8cb13c981af54c08f09ceae9558de9a18ce74569989ace8170546",
+      "file": "15631-after.txt",
+      "after_sha256": "3bd00eed31c170173587e400849e72fd0efe37e1472d47e6d27a3d6ec923a893",
+      "edits": [
+        {
+          "operation": "insert",
+          "at": 709,
+          "text": "<p>The catalog includes <a href=\"https://shustrik-maps.com/product-category/3d-models/\">3D terrain models</a> for visualization and a separate <a href=\"https://shustrik-maps.com/product-category/cnc-models/\">terrain STL collection</a> for 3D printing and CNC projects.</p>\n\n",
+          "at_bytes": 709
+        }
+      ],
+      "links_added": 2
+    },
+    {
+      "id": 20707,
+      "slug": "3d-models-and-maps-in-various-map-projections",
+      "post_type": "page",
+      "url": "https://shustrik-maps.com/3d-models-and-maps-in-various-map-projections/",
+      "before_sha256": "855ea9b1ea4d61adb8b15bbcdc45ae89abcb3b7420232c8a05c2b25a96d76f9f",
+      "protected_hash": "2d4cc710d6daa76aaf74a80f013d9fbcbbdcc7a981d777edb70e6144a7d62d5c",
+      "file": "20707-after.txt",
+      "after_sha256": "18ccc360b2cf2e92c5e9219d2356781948dd6cdfcc5a967629f9f986155b9fae",
+      "edits": [
+        {
+          "operation": "replace",
+          "at": 7189,
+          "old": "<a href=\"https://shustrik-maps.com/product/authagraph-world-map/\">Map</a>",
+          "text": "<a href=\"https://shustrik-maps.com/product/authagraph-world-map/\">AuthaGraph world map image files (TIF/PSD)</a>",
+          "at_bytes": 7201
+        }
+      ],
+      "links_added": 0
+    },
+    {
+      "id": 16110,
+      "slug": "moon-3d-model",
+      "post_type": "product",
+      "url": "https://shustrik-maps.com/product/moon-3d-model/",
+      "before_sha256": "35125c135bfb42e5d7ed87e055928fdeaa4b3559b94bbcb47668d2c668e00f1b",
+      "protected_hash": "8b91a35e30c058c9bc18458663a04465d5ce27c18b6b88c7457d4b2e79c8744e",
+      "file": "16110-after.txt",
+      "after_sha256": "8672e820429b6700f423c336138b9b0dfd90bf92f3b559b225617ad7ea29c801",
+      "edits": [
+        {
+          "operation": "replace",
+          "at": 7048,
+          "old": "title=\"Earth 3D model\"",
+          "text": "title=\"Earth terrain model without water\"",
+          "at_bytes": 7050
+        }
+      ],
+      "links_added": 0
+    }
+  ],
+  "scope": "L02/L06/L07: three contextual links; L08/L09: two anchor-only changes; other content/metadata/commerce/layout preserved"
+}

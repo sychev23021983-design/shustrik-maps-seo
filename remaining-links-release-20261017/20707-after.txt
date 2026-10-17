@@ -1,0 +1,105 @@
+[vc_row][vc_column][woodmart_text_block woodmart_css_id="688fa3aaaf529" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2ODhmYTNhYWFmNTI5Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGV4dF9ibG9jayIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19"]
+<p data-start="473" data-end="709">This page showcases a variety of <strong data-start="506" data-end="525">map projections</strong>, each offering a unique way to represent our planet. From the classical Mercator to the futuristic AuthaGraph, each projection has its own characteristics, distortions, and use cases.</p>
+<p data-start="711" data-end="958">Map projections are used in education, science, design, wall maps, and 3D models. Some are ideal for global representation, while others are tailored for specific purposes such as preserving area, minimizing distortion, or enhancing visual appeal.</p>
+[/woodmart_text_block][woodmart_title align="left" style="underlined" color="primary" size="small" font_weight="600" tag="h2" title="🛠 Custom Orders" woodmart_css_id="688fa3a2ab245" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2ODhmYTNhMmFiMjQ1Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==" wd_hide_on_desktop="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"][woodmart_text_block woodmart_css_id="688fabe394bee" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2ODhmYWJlMzk0YmVlIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGV4dF9ibG9jayIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19"]
+<p data-start="990" data-end="1004">You can order:</p>
+
+<ul data-start="1006" data-end="1196">
+ 	<li data-start="1006" data-end="1058">
+<p data-start="1008" data-end="1058"><strong data-start="1008" data-end="1034">3D models of the Earth</strong> in any map projection</p>
+</li>
+ 	<li data-start="1059" data-end="1137">
+<p data-start="1061" data-end="1137"><strong data-start="1061" data-end="1088">Topographic relief maps</strong> for 3D printing, CNC carving, or visualization</p>
+</li>
+ 	<li data-start="1138" data-end="1196">
+<p data-start="1140" data-end="1196"><strong data-start="1140" data-end="1161">Satellite imagery</strong>, adapted to your chosen projection</p>
+</li>
+ 	<li data-start="1138" data-end="1196"><strong>Origami template</strong></li>
+</ul>
+<p data-start="1198" data-end="1338">Available formats: <strong data-start="1217" data-end="1253">STL, OBJ, PNG, GeoTIFF, PSD</strong><br data-start="1253" data-end="1256" />All models are optimized for <strong data-start="1285" data-end="1337">FDM/SLA printing, laser cutting, and CNC milling</strong>.</p>
+<p data-start="1340" data-end="1430">Get in touch and we’ll create a custom map in your preferred projection, scale, and style.</p>
+[/woodmart_text_block][woodmart_title align="left" style="underlined" color="primary" size="small" font_weight="600" tag="h2" title="🌐 Projection Examples" woodmart_css_id="688fa3927f8b4" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2ODhmYTM5MjdmOGI0Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==" wd_hide_on_desktop="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"][woodmart_gallery images="20710,20711,20712,20713,20714,20716,20717" rounding_size="" view="carousel" spacing="0" on_click="none" sync_parent_id="wd_6891af56e9c0d" woodmart_css_id="6891aff9295fe" img_size="full" lazy_loading="yes" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2ODkxYWZmOTI5NWZlIiwic2hvcnRjb2RlIjoid29vZG1hcnRfZ2FsbGVyeSIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" slides_per_view="2" slides_per_view_mobile="0" center_mode="no" wrap="no" autoheight="no" autoplay="no" scroll_carousel_init="no" disable_overflow_carousel="no" hide_prev_next_buttons="no" hide_pagination_control="no" hide_pagination_control_tablet="yes" hide_pagination_control_mobile="yes" dynamic_pagination_control="no" hide_scrollbar="yes" hide_scrollbar_tablet="yes" hide_scrollbar_mobile="yes"][woodmart_text_block woodmart_css_id="688fac35245cd" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2ODhmYWMzNTI0NWNkIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGV4dF9ibG9jayIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19"]
+<table>
+<thead data-start="1539" data-end="1567">
+<tr data-start="1539" data-end="1567">
+<th style="text-align: left;" data-start="1539" data-end="1552" data-col-size="sm">Projection</th>
+<th style="text-align: left;" data-start="1552" data-end="1567" data-col-size="md">Description</th>
+</tr>
+</thead>
+</table>
+<div style="text-align: left;">
+<table>
+<tbody>
+<tr data-start="1596" data-end="1681">
+<td data-start="1596" data-end="1611" data-col-size="sm"><strong data-start="1598" data-end="1610">Mercator</strong></td>
+<td data-start="1611" data-end="1681" data-col-size="md">A classic navigational projection that severely distorts the poles</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="text-align: left;">
+<table>
+<tbody>
+<tr data-start="1682" data-end="1760">
+<td data-start="1682" data-end="1698" data-col-size="sm"><strong data-start="1684" data-end="1697">Mollweide</strong></td>
+<td data-start="1698" data-end="1760" data-col-size="md">Equal-area projection, popular for global and climate data</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="text-align: left;">
+<table>
+<tbody>
+<tr data-start="1761" data-end="1850">
+<td data-start="1761" data-end="1781" data-col-size="sm"><strong data-start="1763" data-end="1780">Winkel Tripel</strong></td>
+<td data-start="1781" data-end="1850" data-col-size="md">Balances area, direction, and shape – used by National Geographic</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="text-align: left;">
+<table>
+<tbody>
+<tr data-start="1851" data-end="1944">
+<td data-start="1851" data-end="1875" data-col-size="sm"><strong data-start="1853" data-end="1874"><a href="https://shustrik-maps.com/product/world-map-dymaxion-3d-model/">Dymaxion</a> (Fuller)</strong></td>
+<td data-start="1875" data-end="1944" data-col-size="md">The globe unfolded into 20 triangles – distortion-free and unique</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="text-align: left;">
+<table>
+<tbody>
+<tr data-start="1945" data-end="2031">
+<td data-start="1945" data-end="1962" data-col-size="sm"><strong data-start="1947" data-end="1961">AuthaGraph</strong></td>
+<td data-start="1962" data-end="2031" data-col-size="md">One of the most accurate projections, preserving shapes and areas (<a href="https://shustrik-maps.com/product/authagraph-world-map-3d-model/">3D model</a> | <a href="https://shustrik-maps.com/product/authagraph-world-map/">AuthaGraph world map image files (TIF/PSD)</a>)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="text-align: left;">
+<table>
+<tbody>
+<tr data-start="2032" data-end="2120">
+<td data-start="2032" data-end="2057" data-col-size="sm"><strong data-start="2034" data-end="2056">Peirce Quincuncial</strong></td>
+<td data-start="2057" data-end="2120" data-col-size="md">Geometric projection in a cross shape, centered on the pole</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="text-align: left;">
+<table>
+<tbody>
+<tr data-start="2121" data-end="2206">
+<td data-start="2121" data-end="2149" data-col-size="sm"><strong data-start="2123" data-end="2148">Triangular Projection</strong></td>
+<td data-start="2149" data-end="2206" data-col-size="md">Experimental, great for geometric or stylized designs</td>
+</tr>
+</tbody>
+</table>
+Hundreds of different projections are available...
+
+</div>
+[/woodmart_text_block][woodmart_gallery images="20720,20719,20715" rounding_size="" view="carousel" spacing="0" on_click="none" sync_parent_id="wd_6891af56e9c0d" woodmart_css_id="6891b029e1bc7" img_size="full" lazy_loading="yes" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2ODkxYjAyOWUxYmM3Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfZ2FsbGVyeSIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" slides_per_view="3" slides_per_view_mobile="0" center_mode="no" wrap="no" autoheight="no" autoplay="no" scroll_carousel_init="no" disable_overflow_carousel="no" hide_prev_next_buttons="no" hide_pagination_control="no" hide_pagination_control_tablet="yes" hide_pagination_control_mobile="yes" dynamic_pagination_control="no" hide_scrollbar="yes" hide_scrollbar_tablet="yes" hide_scrollbar_mobile="yes"][/vc_column][/vc_row][vc_row][vc_column][vc_message message_box_color="alert-success" icon_fontawesome="" css=""]
+<h2 data-start="2213" data-end="2230">📬 <strong data-start="2219" data-end="2230">Contact</strong></h2>
+<p data-start="2232" data-end="2383">If you want a map or 3D model in a non-standard projection, contact us.<br data-start="2303" data-end="2306" />We’ll help you choose the right format, projection, and style for your needs.</p>
+[/vc_message][/vc_column][/vc_row]
