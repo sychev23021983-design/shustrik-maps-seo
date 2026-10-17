@@ -9,6 +9,13 @@ function protected_hash($id) {
     unset($post['post_content'], $post['post_modified'], $post['post_modified_gmt']);
     $meta = get_post_meta($id); unset($meta['wd_page_css_files']);
     $terms = wp_get_object_terms($id, get_object_taxonomies(get_post($id)->post_type), ['fields' => 'all']);
+    // WordPress sorts by name; the tag and category named Planets can swap
+    // positions between identical queries. Preserve every term field while
+    // resolving equal-name ties in the baseline's ascending term-ID order.
+    usort($terms, function($a, $b) {
+        $name = strcasecmp($a->name, $b->name);
+        return $name !== 0 ? $name : ($a->term_id <=> $b->term_id);
+    });
     return hash('sha256', serialize([$post, $meta, $terms]));
 }
 function assert_previous_release($baseline) {
