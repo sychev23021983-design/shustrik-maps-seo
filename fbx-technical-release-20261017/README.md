@@ -1,0 +1,5 @@
+# FBX technical corrections — owner-approved 2026-10-17
+
+Post14596. Five exact replacements: Capabilities, Compatibility, Limitations, Computer Graphics (before retained catalog paragraph), 3D Printing. Intro remains byte-identical; all shortcode tokens/headings/images/links and SEO metadata preserved. Eight other published records protected. Stable metadata-key and term ordering. No new product/format/printing guarantees.
+
+GitHub-first commit/push, exactarchive SHA256, PHP lint, preview, apply once, verify and rollback-preview sequentially via deliver.py. Backup option _shustrik_fbx_technical_backup_20261017. Conditional content update in InnoDB transaction; restores original content only on guarded rollback: python fbx-technical-release-20261017/deliver.py rollback. Does not revert previous intro/title/meta release. No orders/payments/settings/indexing requests/build/restart. External WordPress over existing WireGuardSSH/sudoDocker. Public HTTP/DOM checks and desktop/mobile visual review follow normal cache refresh.
