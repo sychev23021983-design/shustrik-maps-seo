@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "mode": "--rollback-preview",
+  "utc": "2026-10-17T18:39:00+00:00",
+  "id": 17364,
+  "content_sha256": "2916cc10f26f9f97aeec62b473528ea4fa34b96ca07a2d002c7f5ca718b60a77",
+  "excerpt_sha256": "d645342bc9d2dd9a6b11d42060d335f80df1a4b99a68e8c5b292eba43472c3b1",
+  "fields": {
+    "_yoast_wpseo_title": "United States at Night Satellite Map \u2014 TIF Image",
+    "_yoast_wpseo_metadesc": "Download a United States at night satellite map as a TIF image for design, presentations and print layouts. Supplied without georeferencing."
+  },
+  "protected_preserved": true,
+  "prior_preserved": true,
+  "indexable_match": true,
+  "backup_key": "_shustrik_us_night_backup_20261017",
+  "backup_status": "published"
+}

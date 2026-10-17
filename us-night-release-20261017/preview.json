@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "mode": "--preview",
+  "utc": "2026-10-17T18:38:44+00:00",
+  "id": 17364,
+  "content_sha256": "64b949b854fcbeeca820c2bceae2724de8d3a3e74918363342763ac6ab81dcbf",
+  "excerpt_sha256": "e8bcf0b660777ad44152b0eaacdf3c1bc25e39b04c2c10f44bb88103e0394d29",
+  "fields": {
+    "_yoast_wpseo_title": "United States at Night Satellite Map \u2013 High-Resolution Earth Lights Image",
+    "_yoast_wpseo_metadesc": "Satellite image of United States Night at night showing city lights, in high-resolution GeoTIFF format for design and visualization projects."
+  },
+  "protected_preserved": true,
+  "prior_preserved": true,
+  "indexable_match": true,
+  "backup_key": "_shustrik_us_night_backup_20261017",
+  "backup_status": null
+}
