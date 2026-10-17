@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "checks": [
+    {
+      "source": "OBJ",
+      "anchor": "USA terrain model",
+      "target": "https://shustrik-maps.com/product/usa-map-3d-model/",
+      "ok": true
+    },
+    {
+      "source": "OBJ",
+      "anchor": "C4D-to-OBJ terrain workflow",
+      "target": "https://shustrik-maps.com/how-to-convert-a-model-from-c4d-to-obj/",
+      "ok": true
+    },
+    {
+      "source": "C4D to OBJ",
+      "anchor": "USA terrain model with OBJ LOD variants",
+      "target": "https://shustrik-maps.com/product/usa-map-3d-model/",
+      "ok": true
+    },
+    {
+      "source": "STL",
+      "anchor": "terrain STL collection",
+      "target": "https://shustrik-maps.com/product-category/cnc-models/",
+      "ok": true
+    }
+  ],
+  "desktop_visual": true,
+  "mobile_visual": false
+}

@@ -1,0 +1,30 @@
+{
+  "ok": true,
+  "mode": "--preview",
+  "utc": "2026-10-17T14:46:38+00:00",
+  "posts": [
+    {
+      "id": 14594,
+      "url": "https://shustrik-maps.com/what-is-an-stl-file-explaining-the-stl-format/",
+      "content_sha256": "94a42376c54522c4f47839fd094039410d9695d8eaf368b4e5ca15d2c1838451",
+      "protected_preserved": true,
+      "links_added": 1
+    },
+    {
+      "id": 14581,
+      "url": "https://shustrik-maps.com/understanding-the-obj-file-format-a-simple-explanation/",
+      "content_sha256": "3ebd47a653566fae64ee7bedcb105f2ce51bc74463b24075f8d0d89bbee2dff6",
+      "protected_preserved": true,
+      "links_added": 2
+    },
+    {
+      "id": 15849,
+      "url": "https://shustrik-maps.com/how-to-convert-a-model-from-c4d-to-obj/",
+      "content_sha256": "4afa4da764ef01751b0390ffd706acfe453a86276d0b4d4eb93d72a0337dd1c0",
+      "protected_preserved": true,
+      "links_added": 1
+    }
+  ],
+  "backup_key": "_shustrik_article_links_backup_20261017",
+  "backup_status": null
+}

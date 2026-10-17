@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "urls_checked": 5,
+  "approved_links_checked": 4,
+  "posts": [
+    {
+      "id": 14594,
+      "url": "https://shustrik-maps.com/what-is-an-stl-file-explaining-the-stl-format/",
+      "http": 200,
+      "canonical_preserved": true,
+      "one_h1": true,
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "approved_links": [
+        {
+          "url": "https://shustrik-maps.com/product-category/cnc-models/",
+          "text": "terrain STL collection"
+        }
+      ],
+      "old_binary_claim_absent": null,
+      "approved_correction_present": null
+    },
+    {
+      "id": 14581,
+      "url": "https://shustrik-maps.com/understanding-the-obj-file-format-a-simple-explanation/",
+      "http": 200,
+      "canonical_preserved": true,
+      "one_h1": true,
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "approved_links": [
+        {
+          "url": "https://shustrik-maps.com/product/usa-map-3d-model/",
+          "text": "USA terrain model"
+        },
+        {
+          "url": "https://shustrik-maps.com/how-to-convert-a-model-from-c4d-to-obj/",
+          "text": "C4D-to-OBJ terrain workflow"
+        }
+      ],
+      "old_binary_claim_absent": true,
+      "approved_correction_present": true
+    },
+    {
+      "id": 15849,
+      "url": "https://shustrik-maps.com/how-to-convert-a-model-from-c4d-to-obj/",
+      "http": 200,
+      "canonical_preserved": true,
+      "one_h1": true,
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "approved_links": [
+        {
+          "url": "https://shustrik-maps.com/product/usa-map-3d-model/",
+          "text": "USA terrain model with OBJ LOD variants"
+        }
+      ],
+      "old_binary_claim_absent": null,
+      "approved_correction_present": null
+    }
+  ],
+  "targets_http_200": true,
+  "original_public_title_meta_h1_robots_canonical_images_preserved": true
+}
