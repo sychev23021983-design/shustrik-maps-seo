@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "date": "2026-10-17",
+  "headings_preserved": true,
+  "dom_head_verified": 2,
+  "rows": [
+    {
+      "description": "Download a Moon 3D model in C4D format for lunar renders, astronomy illustrations and space visualization. Includes TIF textures.",
+      "h1": [
+        "Moon 3D Model"
+      ],
+      "title": "Moon 3D Model – C4D for Space Visualization",
+      "url": "https://shustrik-maps.com/product/moon-3d-model/"
+    },
+    {
+      "description": "Download a Sydney Opera House 3D model in C4D and OBJ formats for architectural renders and city scenes, with day, night, normal and mask textures.",
+      "h1": [
+        "Sydney Opera House 3D Model"
+      ],
+      "title": "Sydney Opera House 3D Model – C4D & OBJ",
+      "url": "https://shustrik-maps.com/product/sydney-opera-house-3d-model/"
+    }
+  ],
+  "screenshots": [
+    "moon-page.jpg",
+    "sydney-page.jpg"
+  ],
+  "note": "SEO metadata verified in DOM head; screenshots show unchanged product headings/content; Google SERP not checked"
+}

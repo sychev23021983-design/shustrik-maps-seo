@@ -1,10 +1,10 @@
 {
-  "commit": "3bf09dac1b4f05812dce1ca62b0c7e342fa0412a",
-  "archive_sha256": "779f6680745f0b016f7c7949c3bacdf9fccff6bc833f0460079c8ff112fa10af",
-  "remote_archive_sha256": "779f6680745f0b016f7c7949c3bacdf9fccff6bc833f0460079c8ff112fa10af",
+  "commit": "25f76a79797abc7c245c9f356600b58689a2e9de",
+  "archive_sha256": "1aeb96bfdfd01a2a243b8bf1fec0e24744bc09b1adcac74393f84a605ea94927",
+  "remote_archive_sha256": "1aeb96bfdfd01a2a243b8bf1fec0e24744bc09b1adcac74393f84a605ea94927",
   "mode": "external",
   "target": "https://shustrik-maps.com",
-  "wp_source": "/tmp/moon-sydney-metadata-3bf09dac1b4f",
+  "wp_source": "/tmp/moon-sydney-metadata-25f76a79797a",
   "container": "shustrik-maps-wordpress-1",
   "php_lint": true
 }
