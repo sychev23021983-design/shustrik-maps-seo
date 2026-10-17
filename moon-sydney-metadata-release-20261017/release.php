@@ -21,17 +21,17 @@ try{
  $key='_shustrik_moon_sydney_metadata_backup_20261017';guard($manifest['backup_key']===$key,'Wrong backup key');$backup=get_option($key,null);
  global $wpdb;$table=$wpdb->prefix.'yoast_indexable';$engines=$wpdb->get_results("SHOW TABLE STATUS WHERE Name IN ('{$wpdb->postmeta}','{$wpdb->options}','$table')",ARRAY_A);guard(count($engines)===3,'Missing transactional tables');foreach($engines as $e)guard($e['Engine']==='InnoDB','Non-transactional table');
  $is_before=in_array($mode,['--preview','--apply'],true);check_all($manifest,!$is_before);indexables_match($manifest,!$is_before);
- if($is_before)guard($backup===null,'Existing release; inspect first');
+ if($is_before)guard($backup===null||($backup['status']==='prepared'&&$backup['manifest_sha256']===hash_file('sha256',__DIR__.'/manifest.json')&&$backup['posts']===$manifest['posts']),'Existing release mismatch; inspect first');
  else guard($backup&&$backup['status']==='published'&&$backup['manifest_sha256']===hash_file('sha256',__DIR__.'/manifest.json'),'Backup mismatch');
  if(in_array($mode,['--apply','--rollback'],true)){
   $rollback=$mode==='--rollback';
-  if(!$rollback){$backup=['status'=>'prepared','utc'=>gmdate('c'),'manifest_sha256'=>hash_file('sha256',__DIR__.'/manifest.json'),'posts'=>$manifest['posts']];guard(add_option($key,$backup,'',false),'Backup collision');}
+  if(!$rollback&&$backup===null){$backup=['status'=>'prepared','utc'=>gmdate('c'),'manifest_sha256'=>hash_file('sha256',__DIR__.'/manifest.json'),'posts'=>$manifest['posts']];guard(add_option($key,$backup,'',false),'Backup collision');}
   $wpdb->query('START TRANSACTION');
   try{
    $wpdb->get_results("SELECT meta_id FROM {$wpdb->postmeta} WHERE post_id IN (16110,18062) ORDER BY meta_id FOR UPDATE");
    check_all($manifest,$rollback);
    foreach($manifest['posts'] as $item){$fields=$rollback?$item['before']:$item['after'];foreach($fields as $field=>$value)guard(update_post_meta($item['id'],$field,$value)!==false,'Metadata update failed');
-    clean_post_cache($item['id']);YoastSEO()->classes->get('Yoast\\WP\\SEO\\Builders\\Indexable_Builder')->build_for_id($item['id'],'post');
+    clean_post_cache($item['id']);YoastSEO()->classes->get('Yoast\\WP\\SEO\\Builders\\Indexable_Builder')->build_for_id_and_type($item['id'],'post');
    }
    check_all($manifest,!$rollback);indexables_match($manifest,!$rollback);$wpdb->query('COMMIT');
   }catch(Throwable $e){$wpdb->query('ROLLBACK');foreach($manifest['posts'] as $item)clean_post_cache($item['id']);throw $e;}

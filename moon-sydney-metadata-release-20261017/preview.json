@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "mode": "--preview",
+  "utc": "2026-10-17T17:20:56+00:00",
+  "posts": [
+    {
+      "id": 16110,
+      "url": "https://shustrik-maps.com/product/moon-3d-model/",
+      "fields": {
+        "_yoast_wpseo_title": "Moon 3D Model \u2013 Realistic Planetary Surface for 3D Printing",
+        "_yoast_wpseo_metadesc": "3D model of Moon built from real elevation/imagery data, ready for 3D printing and visualization."
+      },
+      "protected_preserved": true
+    },
+    {
+      "id": 18062,
+      "url": "https://shustrik-maps.com/product/sydney-opera-house-3d-model/",
+      "fields": {
+        "_yoast_wpseo_title": "Sydney Opera House 3D Model \u2013 High-Quality Rendering Asset",
+        "_yoast_wpseo_metadesc": "Download a highly detailed 3D model of the Sydney Opera House. Ideal for architectural renders, virtual tours, and animations."
+      },
+      "protected_preserved": true
+    }
+  ],
+  "prior_preserved": true,
+  "yoast_indexables_match": true,
+  "backup_key": "_shustrik_moon_sydney_metadata_backup_20261017",
+  "backup_status": null
+}

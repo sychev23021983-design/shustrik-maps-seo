@@ -1,0 +1,7 @@
+{
+  "ok": false,
+  "result": "transaction rolled back; original metadata and invariants verified",
+  "cause": "Yoast Indexable_Builder has build_for_id_and_type, not build_for_id",
+  "backup_status": "prepared",
+  "recovery": "resume only with identical manifest, backup, original SEO values and invariants"
+}
