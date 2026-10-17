@@ -1,0 +1,1959 @@
+[
+  {
+    "url": "https://shustrik-maps.com/understanding-the-obj-file-format-a-simple-explanation/",
+    "http": 200,
+    "final_url": "https://shustrik-maps.com/understanding-the-obj-file-format-a-simple-explanation/",
+    "title": "Understanding the OBJ File Format - A Simple Explanation | 3D Models and 3D Maps",
+    "meta_description": null,
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "canonical": "https://shustrik-maps.com/understanding-the-obj-file-format-a-simple-explanation/",
+    "h1": [
+      "Understanding the OBJ File Format – A Simple Explanation"
+    ],
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "Categories"
+      },
+      {
+        "tag": "h2",
+        "text": "Recent Posts"
+      },
+      {
+        "tag": "h2",
+        "text": "Archives"
+      }
+    ],
+    "main_text": "Common Understanding the OBJ File Format – A Simple Explanation Posted by sychev23021983 October 17, 2026 On August 26, 2022 The OBJ file format stands as one of the most crucial file formats in 3D printing and 3D graphics applications. It serves as a preferred format for multi-color 3D printing and finds extensive use as a neutral exchange format for non-animated 3D models. The OBJ file format stores information about 3D models. It was designed to encapsulate geometric objects comprised of lines, polygons, curves, and surfaces of arbitrary shapes. Consequently, OBJ files can encode the surface geometry of a 3D model and also retain data about color and texture. However, this format does not store scene information (e.g., light source positioning) or animations. OBJ files are typically generated using Computer-Aided Design (CAD) software as the final output of the 3D modeling process. The corresponding file extension for the OBJ format is ‘.OBJ’. This file format is open and neutral. It is frequently employed for exchanging 3D models in graphics applications due to its comprehensive import and export support from nearly all Computer-Aided Design programs. In recent years, it has gained popularity as a file format for multi-color 3D printing since the standard STL 3D printing format does not include information about color and texture. OBJ FILE FORMAT: UTILIZATION IN 3D PRINTING The most dominant file format in the world of 3D printing is STL. However, STL is an old file format that, though very popular, hasn’t kept up with the times. The rise of multi-color printing in recent years, which STL does not support, has posed challenges. Additionally, the increasing precision of printers has highlighted STL’s shortcomings. High-resolution designs in STL lead to significantly larger file sizes. On the other hand, OBJ files can approximate surface geometry with the required precision without inflating the file size. This is achievable through the utilization of Bezier curves and the Non-Uniform Rational B-Spline (NURBS) method. Furthermore, the OBJ file format inherently supports multiple colors and textures within a single model. Hence, the OBJ file format offers a substantial advantage over STL if precise multi-color models are required. Nonetheless, OBJ is not as universal as STL. Almost all 3D printers support STL, a claim that cannot be made for OBJ, even though it enjoys reasonable distribution and support. Therefore, if you are printing a single-color model on a standard 3D printer, the STL format remains preferable. Both OBJ and STL formats have mature ecosystems with extensive user bases and numerous third-party tools. Other contenders in the 3D printing file format landscape, such as VRML, AMF, and 3MF, lack comparable support and currently do not present serious alternatives to the STL and OBJ file formats. OBJ FILE FORMAT: USAGE IN 3D GRAPHICS APPLICATIONS A key distinction of the OBJ file format from others lies in its lack of support for scene information (such as light sources) and animation. OBJ does not support scene information or animation. Thus, if animation is needed for gaming or film, or if conveying light source and camera positions is necessary, alternative formats like FBX , C4D, MAX, or BLEND are better suited. For a geographic example, the USA terrain model is supplied with C4D geometry, OBJ versions at three levels of detail and TIF textures. The illustrated C4D-to-OBJ terrain workflow covers mesh export and texture handling. ADVANTAGES OF THE OBJ FILE FORMAT The OBJ file format is a straightforward and open format with broad support for export and import in Computer-Aided Design software. This means that sharing your 3D model in OBJ format is likely to be correctly and consistently interpreted by other CAD software. This isn’t always the case with formats like FBX or COLLADA. While COLLADA is also open-source, its complexity leads to varying interpretations across different CAD programs, causing inconsistencies. The FBX format is closed and proprietary, offering a Software Development Kit (SDK) for converting existing formats to FBX (export). However, converting an FBX file to another format (import) is not as straightforward. CAD developers outside of AutoDesk often struggle to implement robust FBX imports, leading to inconsistencies. Wavefront OBJ is a text-based geometry format. Material definitions are commonly stored in an associated MTL file, with texture images supplied separately. In practically all other cases, FBX remains the optimal format for 3D graphics applications. OBJ Newer Elevation Modeling – which to choose DTM, DSM or DEM? Back to list Older What is an STL File? Explaining the STL Format Close Categories Common Recent Posts How to convert a model from C4D to OBJ? Elevation Modeling – which to choose DTM, DSM or DEM? Understanding the OBJ File Format – A Simple Explanation What is an STL File? Explaining the STL Format Understanding the FBX File Format: A Simple Explanation Archives March 2024 January 2023 August 2022 April 2022 January 2022 October 2021 July 2021",
+    "description_text": "",
+    "summary_text": "",
+    "main_links": [
+      {
+        "url": "https://shustrik-maps.com/category/common/",
+        "text": "Common",
+        "rel": "category tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/author/sychev23021983/",
+        "text": "sychev23021983",
+        "rel": "author"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/08/OBJ-file-format-simple-explanation-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/understanding-the-fbx-file-format-a-simple-explanation/",
+        "text": "FBX",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/usa-map-3d-model/",
+        "text": "USA terrain model",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/how-to-convert-a-model-from-c4d-to-obj/",
+        "text": "C4D-to-OBJ terrain workflow",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/tag/obj/",
+        "text": "OBJ",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/elevation-modeling-which-to-choose-dtm-dsm-or-dem/",
+        "text": "Newer Elevation Modeling – which to choose DTM, DSM or DEM?",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/blog/",
+        "text": "Back to list",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/what-is-an-stl-file-explaining-the-stl-format/",
+        "text": "Older What is an STL File? Explaining the STL Format",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/understanding-the-obj-file-format-a-simple-explanation/#",
+        "text": "Close",
+        "rel": "nofollow noopener"
+      },
+      {
+        "url": "https://shustrik-maps.com/category/common/",
+        "text": "Common",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/how-to-convert-a-model-from-c4d-to-obj/",
+        "text": "How to convert a model from C4D to OBJ?",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/elevation-modeling-which-to-choose-dtm-dsm-or-dem/",
+        "text": "Elevation Modeling – which to choose DTM, DSM or DEM?",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/understanding-the-obj-file-format-a-simple-explanation/",
+        "text": "Understanding the OBJ File Format – A Simple Explanation",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/what-is-an-stl-file-explaining-the-stl-format/",
+        "text": "What is an STL File? Explaining the STL Format",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/understanding-the-fbx-file-format-a-simple-explanation/",
+        "text": "Understanding the FBX File Format: A Simple Explanation",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2024/03/",
+        "text": "March 2024",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2023/01/",
+        "text": "January 2023",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2022/08/",
+        "text": "August 2022",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2022/04/",
+        "text": "April 2022",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2022/01/",
+        "text": "January 2022",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2021/10/",
+        "text": "October 2021",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2021/07/",
+        "text": "July 2021",
+        "rel": ""
+      }
+    ],
+    "description_links": [],
+    "images": [
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2023/08/OBJ-file-format-min.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2023/08/OBJ-file-format-min.jpg 750w, https://shustrik-maps.com/wp-content/uploads/2023/08/OBJ-file-format-min-189x126.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2023/08/OBJ-file-format-min-64x43.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2023/08/OBJ-file-format-min-300x200.jpg 300w",
+        "alt": "OBJ file format",
+        "html_title": null,
+        "width": "750",
+        "height": "500",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-post-thumbnail size-post-thumbnail wp-post-image",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-14581 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2023/08/OBJ-file-format-simple-explanation-min.jpg",
+        "srcset": "",
+        "alt": "OBJ file format simple explanation",
+        "html_title": null,
+        "width": "1920",
+        "height": "500",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-full size-full",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-14581 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      }
+    ],
+    "schema_types": [
+      "Article",
+      "WebPage",
+      "ReadAction",
+      "ImageObject",
+      "WebSite",
+      "SearchAction",
+      "EntryPoint",
+      "PropertyValueSpecification",
+      "Person",
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList",
+      "ListItem",
+      "ListItem",
+      "ListItem"
+    ],
+    "archive_description_nodes": 0,
+    "pagination": []
+  },
+  {
+    "url": "https://shustrik-maps.com/understanding-the-fbx-file-format-a-simple-explanation/",
+    "http": 200,
+    "final_url": "https://shustrik-maps.com/understanding-the-fbx-file-format-a-simple-explanation/",
+    "title": "FBX File Format: What It Stores, Uses & Limitations",
+    "meta_description": "Learn what an FBX file stores, how it is used for 3D models and animation, and what to check when transferring assets between applications.",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "canonical": "https://shustrik-maps.com/understanding-the-fbx-file-format-a-simple-explanation/",
+    "h1": [
+      "Understanding the FBX File Format: A Simple Explanation"
+    ],
+    "headings": [
+      {
+        "tag": "h3",
+        "text": "Computer Graphics"
+      },
+      {
+        "tag": "h3",
+        "text": "3D Printing"
+      },
+      {
+        "tag": "h2",
+        "text": "Categories"
+      },
+      {
+        "tag": "h2",
+        "text": "Recent Posts"
+      },
+      {
+        "tag": "h2",
+        "text": "Archives"
+      }
+    ],
+    "main_text": "Common Understanding the FBX File Format: A Simple Explanation Posted by sychev23021983 October 17, 2026 On January 26, 2022 FBX is a 3D file format used to exchange models and scene data between applications. An .fbx file can contain geometry, materials, animation, cameras and lights, making it useful for rendering, animation and game development. The result of an FBX transfer depends on the exporting and importing applications, the file version and the selected settings. Geometry may transfer successfully while materials, texture connections or animation require adjustment in the destination software. This guide explains what FBX files can store, where the format is useful, and its main compatibility limits. It also covers considerations when converting a model for 3D printing. CAPABILITIES AND FEATURES FBX can store mesh geometry, object transforms, scene hierarchy, animation, cameras and lights. Material and texture information can also be included, subject to the capabilities of the exporting and importing applications. OBJ is primarily used to exchange static geometry. Its specification also supports free-form curves and surfaces, so curved geometry is not exclusive to FBX. A practical distinction is FBX’s support for scene organization and animation. FBX can represent NURBS surfaces and curves, but the geometry retained during a transfer depends on the applications and export settings. COMPATIBILITY FBX compatibility depends on the file version and the import/export implementation in each application. Support for geometry does not guarantee an identical transfer of materials, animation or other scene elements. After importing, check the model’s scale, axis orientation, surface normals, texture paths and animation playback. Renderer-specific shaders and procedural effects may require conversion or reconstruction in the destination application. LIMITATIONS FBX files can use binary or ASCII encoding; both use the .fbx extension. Binary is the usual export choice, while ASCII provides a text representation that can be inspected in a text editor. An application may support only a subset of FBX versions or encoding options. File size and import time depend on the exported content, including geometry density, animation data and embedded media. The file extension alone does not indicate how lightweight or efficient an asset will be. APPLICATIONS Computer Graphics FBX is used to exchange assets for animation, rendering and game development. Applications such as Maya, 3ds Max and MotionBuilder use it to transfer supported model and scene data between stages of production. For static assets, the transfer may focus on geometry and surface appearance. Animated assets can also carry motion data, although the result depends on the destination application’s support. For landscape visualization, the 3D terrain model catalog brings together geographic assets organized by region. 3D Printing Preparing an FBX model for 3D printing requires suitable geometry and a format accepted by the slicer. Exporting to STL may be appropriate, but format conversion alone does not repair an unsuitable mesh. The printable mesh should define a closed volume with consistent surface orientation and sufficient wall thickness for the intended process. Check the dimensions and inspect the sliced result before printing. STL preserves a triangulated surface, not the FBX scene’s animation, cameras or material setup. Keep the original FBX and export a separate mesh for fabrication. FBX Newer What is an STL File? Explaining the STL Format Back to list Older The Difference Between C4D and STL Models Close Categories Common Recent Posts How to convert a model from C4D to OBJ? Elevation Modeling – which to choose DTM, DSM or DEM? Understanding the OBJ File Format – A Simple Explanation What is an STL File? Explaining the STL Format Understanding the FBX File Format: A Simple Explanation Archives March 2024 January 2023 August 2022 April 2022 January 2022 October 2021 July 2021",
+    "description_text": "",
+    "summary_text": "",
+    "main_links": [
+      {
+        "url": "https://shustrik-maps.com/category/common/",
+        "text": "Common",
+        "rel": "category tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/author/sychev23021983/",
+        "text": "sychev23021983",
+        "rel": "author"
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2023/08/FBX-file-format-simple-explanation-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/understanding-the-obj-file-format-a-simple-explanation/",
+        "text": "OBJ",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product-category/3d-models/",
+        "text": "3D terrain model catalog",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/what-is-an-stl-file-explaining-the-stl-format/",
+        "text": "STL",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/tag/fbx/",
+        "text": "FBX",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/what-is-an-stl-file-explaining-the-stl-format/",
+        "text": "Newer What is an STL File? Explaining the STL Format",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/blog/",
+        "text": "Back to list",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/the-difference-between-c4d-and-stl-models/",
+        "text": "Older The Difference Between C4D and STL Models",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/understanding-the-fbx-file-format-a-simple-explanation/#",
+        "text": "Close",
+        "rel": "nofollow noopener"
+      },
+      {
+        "url": "https://shustrik-maps.com/category/common/",
+        "text": "Common",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/how-to-convert-a-model-from-c4d-to-obj/",
+        "text": "How to convert a model from C4D to OBJ?",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/elevation-modeling-which-to-choose-dtm-dsm-or-dem/",
+        "text": "Elevation Modeling – which to choose DTM, DSM or DEM?",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/understanding-the-obj-file-format-a-simple-explanation/",
+        "text": "Understanding the OBJ File Format – A Simple Explanation",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/what-is-an-stl-file-explaining-the-stl-format/",
+        "text": "What is an STL File? Explaining the STL Format",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/understanding-the-fbx-file-format-a-simple-explanation/",
+        "text": "Understanding the FBX File Format: A Simple Explanation",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2024/03/",
+        "text": "March 2024",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2023/01/",
+        "text": "January 2023",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2022/08/",
+        "text": "August 2022",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2022/04/",
+        "text": "April 2022",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2022/01/",
+        "text": "January 2022",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2021/10/",
+        "text": "October 2021",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2021/07/",
+        "text": "July 2021",
+        "rel": ""
+      }
+    ],
+    "description_links": [],
+    "images": [
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2023/08/FBX-file-format-min.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2023/08/FBX-file-format-min.jpg 750w, https://shustrik-maps.com/wp-content/uploads/2023/08/FBX-file-format-min-189x126.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2023/08/FBX-file-format-min-64x43.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2023/08/FBX-file-format-min-300x200.jpg 300w",
+        "alt": "FBX file format",
+        "html_title": null,
+        "width": "750",
+        "height": "500",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-post-thumbnail size-post-thumbnail wp-post-image",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-14596 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2023/08/FBX-file-format-simple-explanation-min.jpg",
+        "srcset": "",
+        "alt": "FBX file format simple explanation",
+        "html_title": null,
+        "width": "1920",
+        "height": "500",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-full size-full",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-14596 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      }
+    ],
+    "schema_types": [
+      "Article",
+      "WebPage",
+      "ReadAction",
+      "ImageObject",
+      "WebSite",
+      "SearchAction",
+      "EntryPoint",
+      "PropertyValueSpecification",
+      "Person",
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList",
+      "ListItem",
+      "ListItem",
+      "ListItem"
+    ],
+    "archive_description_nodes": 0,
+    "pagination": []
+  },
+  {
+    "url": "https://shustrik-maps.com/product/usa-map-3d-model/",
+    "http": 200,
+    "final_url": "https://shustrik-maps.com/product/usa-map-3d-model/",
+    "title": "USA Terrain 3D Model — C4D & OBJ with Textures",
+    "meta_description": "Explore a USA terrain model in C4D and OBJ formats, including OBJ levels of detail and TIF textures. View the mesh and file specifications.",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "canonical": "https://shustrik-maps.com/product/usa-map-3d-model/",
+    "h1": [
+      "USA map 3D model"
+    ],
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "Included C4D and OBJ files"
+      },
+      {
+        "tag": "h2",
+        "text": "OBJ levels of detail"
+      },
+      {
+        "tag": "h2",
+        "text": "Texture files"
+      },
+      {
+        "tag": "h2",
+        "text": "Listed mesh specifications"
+      },
+      {
+        "tag": "h2",
+        "text": "Choosing a USA model"
+      },
+      {
+        "tag": "h2",
+        "text": "USA DEM"
+      },
+      {
+        "tag": "h2",
+        "text": "Shapefile of USA"
+      },
+      {
+        "tag": "h2",
+        "text": "Satellite image of USA"
+      },
+      {
+        "tag": "h2",
+        "text": "Questions before purchase"
+      },
+      {
+        "tag": "h3",
+        "text": "Do I need to request the OBJ version separately?"
+      },
+      {
+        "tag": "h3",
+        "text": "Are STL and FBX files included?"
+      },
+      {
+        "tag": "h3",
+        "text": "Which textures accompany the models?"
+      },
+      {
+        "tag": "h2",
+        "text": "Related products"
+      },
+      {
+        "tag": "h3",
+        "text": "3D Model of Europe (C4D, OBJ) with High-Res Relief & Textures"
+      },
+      {
+        "tag": "h3",
+        "text": "Minsk City 3D model"
+      },
+      {
+        "tag": "h3",
+        "text": "North America 3D model"
+      },
+      {
+        "tag": "h3",
+        "text": "Sicily 3D relief without water"
+      },
+      {
+        "tag": "h3",
+        "text": "Ukraine map 3D model"
+      }
+    ],
+    "main_text": "Click to enlarge Home 3D MODELS Countries USA map 3D model Ukraine map 3D model $ 28.00 Back to products New Zealand Elevation 3D Model $ 28.00 USA map 3D model $ 28.00 3D Model Format: C4D File size: 1.07 GB Polygons: 19 272 828 Vertices: 9 663 688 Geometry: Polygonal Tris only UV map: yes, frontal Model size: 453.199 mm x 283.477 mm x 8.903 mm Projection: Albers Conic Base: Open Added OBJ files with different Levels Of Detail (LOD) OBJ: LOD100/LOD50/LOD25 Files size: 1.48 GB/1.09 GB/558 MB Texture • Format: TIF • File size: 284 MB • Resolution: 6000*6000*48b We accept VISA, Mastercard, ApplePay, GooglePay and PayPal USA map 3D model quantity Add to cart Buy now You can also purchase this product using MasterCard/Visa on RenderHub → and 3Dexport → . Description Description Explore a digital USA terrain model supplied in C4D and OBJ formats. The package includes OBJ versions in folders labelled LOD100, LOD50 and LOD25, together with material and texture files. Included C4D and OBJ files Version Model file Accompanying files C4D United_States_C4D.c4d Mat_0.tif , Mat_1.tif , plan.png in the C4D texture folder OBJ — LOD100 United_States_OBJ.obj United_States_OBJ.mtl and a texture folder containing Mat_0.tif and Mat_1.tif OBJ — LOD50 USA_50.obj USA_50.mtl OBJ — LOD25 USA_25.obj USA_25.mtl OBJ files are included in this package. Keep each model with its accompanying material and texture files when preparing an import. OBJ levels of detail Choose from the supplied LOD100, LOD50 and LOD25 folders. Compare the versions in your software and select the mesh that suits your project. Check the imported geometry, units and material paths before building a scene. Texture files The archive contains TIF files named Mat_0.tif and Mat_1.tif in the LOD100 and C4D texture folders. The C4D folder also contains plan.png . Review the textures in your software to select the appearance you need. Listed mesh specifications The product listing describes an Albers Conic model with triangular polygon geometry, an open base and a frontal UV map. The listed C4D dimensions are 453.199 × 283.477 × 8.903 mm. These are listing specifications. Check the selected file’s dimensions, geometry and texture setup when preparing your project. Choosing a USA model Compare the file format, mesh and preview of each USA product before purchasing. A terrain-model package and a set of individual state models are separate product choices. If you need a particular geographic area, check the product preview and confirm the required coverage before ordering. You can browse state terrain models to compare other modelling assets. USA DEM Shapefile of USA Satellite image of USA Questions before purchase Do I need to request the OBJ version separately? No. The package includes OBJ files in the LOD100, LOD50 and LOD25 folders. Are STL and FBX files included? The supplied model formats are C4D and OBJ. If you need a different format, confirm the requirements before purchasing. Which textures accompany the models? The LOD100 and C4D folders contain Mat_0.tif and Mat_1.tif . The C4D folder also contains plan.png . Review the included model versions and texture files, then use Add to cart to purchase the digital terrain model. United States 3D Model Terrain 50 United States of America 3D Model Contiguous 48 USA States 3D Model SKU: SH_1283 Category: Countries Tags: Albers Conic , C4D , Northern America , OBJ , U , USA , USA 3D map , USA Blender 3D map , USA C4D terrain , USA DEM 3D , USA digital elevation model , USA elevation model , USA geospatial model , USA GIS 3D model , USA OBJ terrain , USA polygonal 3D model , USA relief 3D map , USA terrain 3D model , USA topographic 3D , USA Unity terrain , USA Unreal Engine terrain Share: Related products 3D Model of Europe (C4D, OBJ) with High-Res Relief & Textures $ 28.00 Add to cart -27% Minsk City 3D model $ 10.00 Original price was: $10.00. $ 7.30 Current price is: $7.30. Add to cart North America 3D model $ 28.00 Add to cart -33% Sicily 3D relief without water $ 30.00 Original price was: $30.00. $ 20.00 Current price is: $20.00. Add to cart Ukraine map 3D model $ 28.00 Add to cart",
+    "description_text": "Explore a digital USA terrain model supplied in C4D and OBJ formats. The package includes OBJ versions in folders labelled LOD100, LOD50 and LOD25, together with material and texture files. Included C4D and OBJ files Version Model file Accompanying files C4D United_States_C4D.c4d Mat_0.tif , Mat_1.tif , plan.png in the C4D texture folder OBJ — LOD100 United_States_OBJ.obj United_States_OBJ.mtl and a texture folder containing Mat_0.tif and Mat_1.tif OBJ — LOD50 USA_50.obj USA_50.mtl OBJ — LOD25 USA_25.obj USA_25.mtl OBJ files are included in this package. Keep each model with its accompanying material and texture files when preparing an import. OBJ levels of detail Choose from the supplied LOD100, LOD50 and LOD25 folders. Compare the versions in your software and select the mesh that suits your project. Check the imported geometry, units and material paths before building a scene. Texture files The archive contains TIF files named Mat_0.tif and Mat_1.tif in the LOD100 and C4D texture folders. The C4D folder also contains plan.png . Review the textures in your software to select the appearance you need. Listed mesh specifications The product listing describes an Albers Conic model with triangular polygon geometry, an open base and a frontal UV map. The listed C4D dimensions are 453.199 × 283.477 × 8.903 mm. These are listing specifications. Check the selected file’s dimensions, geometry and texture setup when preparing your project. Choosing a USA model Compare the file format, mesh and preview of each USA product before purchasing. A terrain-model package and a set of individual state models are separate product choices. If you need a particular geographic area, check the product preview and confirm the required coverage before ordering. You can browse state terrain models to compare other modelling assets. USA DEM Shapefile of USA Satellite image of USA Questions before purchase Do I need to request the OBJ version separately? No. The package includes OBJ files in the LOD100, LOD50 and LOD25 folders. Are STL and FBX files included? The supplied model formats are C4D and OBJ. If you need a different format, confirm the requirements before purchasing. Which textures accompany the models? The LOD100 and C4D folders contain Mat_0.tif and Mat_1.tif . The C4D folder also contains plan.png . Review the included model versions and texture files, then use Add to cart to purchase the digital terrain model. United States 3D Model Terrain 50 United States of America 3D Model Contiguous 48 USA States 3D Model",
+    "summary_text": "Home 3D MODELS Countries USA map 3D model Ukraine map 3D model $ 28.00 Back to products New Zealand Elevation 3D Model $ 28.00 USA map 3D model $ 28.00 3D Model Format: C4D File size: 1.07 GB Polygons: 19 272 828 Vertices: 9 663 688 Geometry: Polygonal Tris only UV map: yes, frontal Model size: 453.199 mm x 283.477 mm x 8.903 mm Projection: Albers Conic Base: Open Added OBJ files with different Levels Of Detail (LOD) OBJ: LOD100/LOD50/LOD25 Files size: 1.48 GB/1.09 GB/558 MB Texture • Format: TIF • File size: 284 MB • Resolution: 6000*6000*48b We accept VISA, Mastercard, ApplePay, GooglePay and PayPal USA map 3D model quantity Add to cart Buy now You can also purchase this product using MasterCard/Visa on RenderHub → and 3Dexport → .",
+    "main_links": [
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_1-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_2-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_3-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_4-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_5-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_6-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_7-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_8-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_9-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_10-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_11-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_12-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_13-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_14-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_15-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_16-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_17-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_18-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/usa-map-3d-model/#",
+        "text": "Click to enlarge",
+        "rel": "nofollow"
+      },
+      {
+        "url": "https://shustrik-maps.com",
+        "text": "Home",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product-category/3d-models/",
+        "text": "3D MODELS",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product-category/3d-models/countries-3d-models/",
+        "text": "Countries",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/ukraine-map-3d-model/",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/ukraine-map-3d-model/",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/ukraine-map-3d-model/",
+        "text": "Ukraine map 3D model",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/home_new/",
+        "text": "Back to products",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/3d-map-new-zealand/",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/3d-map-new-zealand/",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/3d-map-new-zealand/",
+        "text": "New Zealand Elevation 3D Model",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/usa-map-3d-model/#tab-description",
+        "text": "Description",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_Cinema-4D.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product-category/3d-models/states-of-america-3d-models/",
+        "text": "browse state terrain models",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/united-states-3d-model-terrain/",
+        "text": "United States 3D Model Terrain",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/50-united-states-of-america-3d-model/",
+        "text": "50 United States of America 3D Model",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/contiguous-48-usa-states/",
+        "text": "Contiguous 48 USA States 3D Model",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product-category/3d-models/countries-3d-models/",
+        "text": "Countries",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/albers-conic/",
+        "text": "Albers Conic",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/c4d/",
+        "text": "C4D",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/northern-america/",
+        "text": "Northern America",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/obj/",
+        "text": "OBJ",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/u/",
+        "text": "U",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/usa/",
+        "text": "USA",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/usa-3d-map/",
+        "text": "USA 3D map",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/usa-blender-3d-map/",
+        "text": "USA Blender 3D map",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/usa-c4d-terrain/",
+        "text": "USA C4D terrain",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/usa-dem-3d/",
+        "text": "USA DEM 3D",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/usa-digital-elevation-model/",
+        "text": "USA digital elevation model",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/usa-elevation-model/",
+        "text": "USA elevation model",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/usa-geospatial-model/",
+        "text": "USA geospatial model",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/usa-gis-3d-model/",
+        "text": "USA GIS 3D model",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/usa-obj-terrain/",
+        "text": "USA OBJ terrain",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/usa-polygonal-3d-model/",
+        "text": "USA polygonal 3D model",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/usa-relief-3d-map/",
+        "text": "USA relief 3D map",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/usa-terrain-3d-model/",
+        "text": "USA terrain 3D model",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/usa-topographic-3d/",
+        "text": "USA topographic 3D",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/usa-unity-terrain/",
+        "text": "USA Unity terrain",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-tag/usa-unreal-engine-terrain/",
+        "text": "USA Unreal Engine terrain",
+        "rel": "tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/europe-3d-model/",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/europe-3d-model/",
+        "text": "3D Model of Europe (C4D, OBJ) with High-Res Relief & Textures",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/usa-map-3d-model/?add-to-cart=10216",
+        "text": "Add to cart",
+        "rel": "nofollow"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/minsk-city-3d-model/",
+        "text": "-27%",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/minsk-city-3d-model/",
+        "text": "Minsk City 3D model",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/usa-map-3d-model/?add-to-cart=9386",
+        "text": "Add to cart",
+        "rel": "nofollow"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/north-america-3d-model/",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/north-america-3d-model/",
+        "text": "North America 3D model",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/usa-map-3d-model/?add-to-cart=10342",
+        "text": "Add to cart",
+        "rel": "nofollow"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/sicily-3d-relief-without-water/",
+        "text": "-33%",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/sicily-3d-relief-without-water/",
+        "text": "Sicily 3D relief without water",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/usa-map-3d-model/?add-to-cart=10632",
+        "text": "Add to cart",
+        "rel": "nofollow"
+      },
+      {
+        "url": "https://shustrik-maps.com/product/ukraine-map-3d-model/",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/ukraine-map-3d-model/",
+        "text": "Ukraine map 3D model",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/usa-map-3d-model/?add-to-cart=10078",
+        "text": "Add to cart",
+        "rel": "nofollow"
+      }
+    ],
+    "description_links": [
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_Cinema-4D.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product-category/3d-models/states-of-america-3d-models/",
+        "text": "browse state terrain models",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/united-states-3d-model-terrain/",
+        "text": "United States 3D Model Terrain",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/50-united-states-of-america-3d-model/",
+        "text": "50 United States of America 3D Model",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/contiguous-48-usa-states/",
+        "text": "Contiguous 48 USA States 3D Model",
+        "rel": ""
+      }
+    ],
+    "images": [
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_1-min.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_1-min-766x766.jpg 766w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_1-min-300x300.jpg 300w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_1-min-189x189.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_1-min-64x64.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_1-min-1080x1080.jpg 1080w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_1-min-768x768.jpg 768w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_1-min-1536x1536.jpg 1536w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_1-min-600x600.jpg 600w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_1-min.jpg 2000w",
+        "alt": "USA 3D map model showcasing elevation and topographic details.",
+        "html_title": "High-Resolution 3D Elevation Map of the USA",
+        "width": "766",
+        "height": "766",
+        "loading": null,
+        "region": "gallery",
+        "classes": "wp-post-image wp-post-image",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_2-min-766x414.jpg",
+        "srcset": "",
+        "alt": "USA map in 3D with elevation, normal maps, and satellite textures.",
+        "html_title": "Detailed USA Map with DEM and Satellite Textures",
+        "width": "766",
+        "height": "414",
+        "loading": null,
+        "region": "gallery",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_3-min-766x414.jpg",
+        "srcset": "",
+        "alt": "3D relief map of USA showing high-polygon modeling for design projects.",
+        "html_title": "3D Relief Map of the United States for Design Projects",
+        "width": "766",
+        "height": "414",
+        "loading": null,
+        "region": "gallery",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_4-min-766x414.jpg",
+        "srcset": "",
+        "alt": "High-resolution 3D topographic map of the USA with detailed textures.",
+        "html_title": "USA Topographic Map in 3D",
+        "width": "766",
+        "height": "414",
+        "loading": null,
+        "region": "gallery",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_5-min-766x414.jpg",
+        "srcset": "",
+        "alt": "3D model of the United States showing terrain elevation and relief.",
+        "html_title": "3D US Terrain and Elevation Map Model",
+        "width": "766",
+        "height": "414",
+        "loading": null,
+        "region": "gallery",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_6-min-766x414.jpg",
+        "srcset": "",
+        "alt": "USA 3D elevation model",
+        "html_title": "USA 3D elevation model",
+        "width": "766",
+        "height": "414",
+        "loading": null,
+        "region": "gallery",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_7-min-766x414.jpg",
+        "srcset": "",
+        "alt": "Map of USA",
+        "html_title": "Map of USA",
+        "width": "766",
+        "height": "414",
+        "loading": null,
+        "region": "gallery",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_8-min-766x414.jpg",
+        "srcset": "",
+        "alt": "United States 3D Print model",
+        "html_title": "United States 3D Print model",
+        "width": "766",
+        "height": "414",
+        "loading": null,
+        "region": "gallery",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_9-min-766x414.jpg",
+        "srcset": "",
+        "alt": "United States model C4D OBJ STL",
+        "html_title": "United States model C4D OBJ STL",
+        "width": "766",
+        "height": "414",
+        "loading": null,
+        "region": "gallery",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_10-min-766x414.jpg",
+        "srcset": "",
+        "alt": "United States terrain",
+        "html_title": "United States terrain",
+        "width": "766",
+        "height": "414",
+        "loading": null,
+        "region": "gallery",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_11-min-766x414.jpg",
+        "srcset": "",
+        "alt": "Topographic map United States",
+        "html_title": "Topographic map United States",
+        "width": "766",
+        "height": "414",
+        "loading": null,
+        "region": "gallery",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_12-min-766x414.jpg",
+        "srcset": "",
+        "alt": "Map of United States",
+        "html_title": "Map of United States",
+        "width": "766",
+        "height": "414",
+        "loading": null,
+        "region": "gallery",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_13-min-766x414.jpg",
+        "srcset": "",
+        "alt": "United States 3D elevation model",
+        "html_title": "United States  3D elevation model",
+        "width": "766",
+        "height": "414",
+        "loading": null,
+        "region": "gallery",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_14-min-766x414.jpg",
+        "srcset": "",
+        "alt": "United States relief map",
+        "html_title": "United States  relief map",
+        "width": "766",
+        "height": "414",
+        "loading": null,
+        "region": "gallery",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_15-min-766x414.jpg",
+        "srcset": "",
+        "alt": "United States 3D map",
+        "html_title": "United States  3D map",
+        "width": "766",
+        "height": "414",
+        "loading": null,
+        "region": "gallery",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_16-min-766x414.jpg",
+        "srcset": "",
+        "alt": "United States buy 3d models",
+        "html_title": "United States  buy 3d models",
+        "width": "766",
+        "height": "414",
+        "loading": null,
+        "region": "gallery",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_17-min-766x414.jpg",
+        "srcset": "",
+        "alt": "United States 3D model",
+        "html_title": "United States  3D model",
+        "width": "766",
+        "height": "414",
+        "loading": null,
+        "region": "gallery",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_18-min-766x414.jpg",
+        "srcset": "",
+        "alt": "United States terrain 3D model",
+        "html_title": "United States  terrain 3D model",
+        "width": "766",
+        "height": "414",
+        "loading": null,
+        "region": "gallery",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_1-min-189x189.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_1-min-189x189.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_1-min-300x300.jpg 300w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_1-min-64x64.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_1-min-600x600.jpg 600w",
+        "alt": "USA 3D map model showcasing elevation and topographic details.",
+        "html_title": null,
+        "width": "189",
+        "height": "189",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_2-min-189x102.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_2-min-189x102.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_2-min-64x35.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_2-min-300x162.jpg 300w",
+        "alt": "USA map in 3D with elevation, normal maps, and satellite textures.",
+        "html_title": null,
+        "width": "189",
+        "height": "102",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_3-min-189x102.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_3-min-189x102.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_3-min-64x35.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_3-min-300x162.jpg 300w",
+        "alt": "3D relief map of USA showing high-polygon modeling for design projects.",
+        "html_title": null,
+        "width": "189",
+        "height": "102",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_4-min-189x102.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_4-min-189x102.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_4-min-64x35.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_4-min-300x162.jpg 300w",
+        "alt": "High-resolution 3D topographic map of the USA with detailed textures.",
+        "html_title": null,
+        "width": "189",
+        "height": "102",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_5-min-189x102.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_5-min-189x102.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_5-min-64x35.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_5-min-300x162.jpg 300w",
+        "alt": "3D model of the United States showing terrain elevation and relief.",
+        "html_title": null,
+        "width": "189",
+        "height": "102",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_6-min-189x102.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_6-min-189x102.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_6-min-64x35.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_6-min-300x162.jpg 300w",
+        "alt": "USA 3D elevation model",
+        "html_title": null,
+        "width": "189",
+        "height": "102",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_7-min-189x102.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_7-min-189x102.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_7-min-64x35.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_7-min-300x162.jpg 300w",
+        "alt": "Map of USA",
+        "html_title": null,
+        "width": "189",
+        "height": "102",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_8-min-189x102.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_8-min-189x102.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_8-min-64x35.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_8-min-300x162.jpg 300w",
+        "alt": "United States 3D Print model",
+        "html_title": null,
+        "width": "189",
+        "height": "102",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_9-min-189x102.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_9-min-189x102.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_9-min-64x35.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_9-min-300x162.jpg 300w",
+        "alt": "United States model C4D OBJ STL",
+        "html_title": null,
+        "width": "189",
+        "height": "102",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_10-min-189x102.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_10-min-189x102.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_10-min-64x35.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_10-min-300x162.jpg 300w",
+        "alt": "United States terrain",
+        "html_title": null,
+        "width": "189",
+        "height": "102",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_11-min-189x102.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_11-min-189x102.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_11-min-64x35.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_11-min-300x162.jpg 300w",
+        "alt": "Topographic map United States",
+        "html_title": null,
+        "width": "189",
+        "height": "102",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_12-min-189x102.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_12-min-189x102.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_12-min-64x35.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_12-min-300x162.jpg 300w",
+        "alt": "Map of United States",
+        "html_title": null,
+        "width": "189",
+        "height": "102",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_13-min-189x102.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_13-min-189x102.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_13-min-64x35.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_13-min-300x162.jpg 300w",
+        "alt": "United States 3D elevation model",
+        "html_title": null,
+        "width": "189",
+        "height": "102",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_14-min-189x102.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_14-min-189x102.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_14-min-64x35.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_14-min-300x162.jpg 300w",
+        "alt": "United States relief map",
+        "html_title": null,
+        "width": "189",
+        "height": "102",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_15-min-189x102.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_15-min-189x102.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_15-min-64x35.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_15-min-300x162.jpg 300w",
+        "alt": "United States 3D map",
+        "html_title": null,
+        "width": "189",
+        "height": "102",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_16-min-189x102.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_16-min-189x102.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_16-min-64x35.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_16-min-300x162.jpg 300w",
+        "alt": "United States buy 3d models",
+        "html_title": null,
+        "width": "189",
+        "height": "102",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_17-min-189x102.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_17-min-189x102.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_17-min-64x35.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_17-min-300x162.jpg 300w",
+        "alt": "United States 3D model",
+        "html_title": null,
+        "width": "189",
+        "height": "102",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_18-min-189x102.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_18-min-189x102.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_18-min-64x35.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_1_18-min-300x162.jpg 300w",
+        "alt": "United States terrain 3D model",
+        "html_title": null,
+        "width": "189",
+        "height": "102",
+        "loading": "lazy",
+        "region": "gallery",
+        "classes": "attachment-189x0 size-189x0",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/Ukraine_1_0-min-189x189.jpg",
+        "srcset": "",
+        "alt": "Ukraine 3D model",
+        "html_title": null,
+        "width": "189",
+        "height": "189",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-thumbnail size-thumbnail",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/New_Zealand_1_0-min-189x189.jpg",
+        "srcset": "",
+        "alt": "New Zealand terrain 3D model",
+        "html_title": null,
+        "width": "189",
+        "height": "189",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-thumbnail size-thumbnail",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/C4D-min.png",
+        "srcset": "",
+        "alt": "",
+        "html_title": null,
+        "width": "45",
+        "height": "55",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/OBJ-min.png",
+        "srcset": "",
+        "alt": "",
+        "html_title": null,
+        "width": "45",
+        "height": "55",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_Cinema-4D.jpg",
+        "srcset": "",
+        "alt": "United States Cinema 4D",
+        "html_title": null,
+        "width": "1920",
+        "height": "1032",
+        "loading": null,
+        "region": "description",
+        "classes": "attachment-full size-full",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_DEM-min.jpg",
+        "srcset": "",
+        "alt": "United States DEM",
+        "html_title": "United States DEM",
+        "width": "600",
+        "height": "600",
+        "loading": null,
+        "region": "description",
+        "classes": "vc_single_image-img attachment-full",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_Shapefile-min.jpg",
+        "srcset": "",
+        "alt": "United States Shapefile",
+        "html_title": "United States Shapefile",
+        "width": "600",
+        "height": "600",
+        "loading": null,
+        "region": "description",
+        "classes": "vc_single_image-img attachment-full",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/United_States_Texture-min.jpg",
+        "srcset": "",
+        "alt": "United States Texture",
+        "html_title": "United States Texture",
+        "width": "600",
+        "height": "600",
+        "loading": null,
+        "region": "description",
+        "classes": "vc_single_image-img attachment-full",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/europe-3d-model-c4d-obj-front-300x300.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/europe-3d-model-c4d-obj-front-300x300.jpg 300w, https://shustrik-maps.com/wp-content/uploads/2022/10/europe-3d-model-c4d-obj-front-298x298.jpg 298w, https://shustrik-maps.com/wp-content/uploads/2022/10/europe-3d-model-c4d-obj-front-189x189.jpg 189w",
+        "alt": "Detailed 3D relief map of Europe showing the Alps and Scandinavian Mountains",
+        "html_title": null,
+        "width": "300",
+        "height": "300",
+        "loading": "lazy",
+        "region": "listing_or_related",
+        "classes": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/europe-3d-map-relief-300x300.jpg",
+        "srcset": "",
+        "alt": "Close-up 3D render of the European Alps showing realistic peak and valley detail",
+        "html_title": null,
+        "width": "300",
+        "height": "300",
+        "loading": "lazy",
+        "region": "listing_or_related",
+        "classes": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/Minsk_City_1_8-min-300x300.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/Minsk_City_1_8-min-300x300.jpg 300w, https://shustrik-maps.com/wp-content/uploads/2022/10/Minsk_City_1_8-min-189x189.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/Minsk_City_1_8-min-64x64.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/Minsk_City_1_8-min-600x600.jpg 600w",
+        "alt": "Minsk City 3D model",
+        "html_title": null,
+        "width": "300",
+        "height": "300",
+        "loading": "lazy",
+        "region": "listing_or_related",
+        "classes": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/Minsk_City_1_1-min-300x300.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/Minsk_City_1_1-min-300x300.jpg 300w, https://shustrik-maps.com/wp-content/uploads/2022/10/Minsk_City_1_1-min-189x189.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/Minsk_City_1_1-min-64x64.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/Minsk_City_1_1-min-600x600.jpg 600w",
+        "alt": "",
+        "html_title": null,
+        "width": "300",
+        "height": "300",
+        "loading": "lazy",
+        "region": "listing_or_related",
+        "classes": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-America_Lambiert-Comfort-Conic_1_1-min-300x300.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-America_Lambiert-Comfort-Conic_1_1-min-300x300.jpg 300w, https://shustrik-maps.com/wp-content/uploads/2022/10/North-America_Lambiert-Comfort-Conic_1_1-min-189x189.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/North-America_Lambiert-Comfort-Conic_1_1-min-64x64.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/North-America_Lambiert-Comfort-Conic_1_1-min-600x600.jpg 600w",
+        "alt": "North America terrain 3D model",
+        "html_title": null,
+        "width": "300",
+        "height": "300",
+        "loading": "lazy",
+        "region": "listing_or_related",
+        "classes": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-America_Lambiert-Comfort-Conic_1_2-min-300x300.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/North-America_Lambiert-Comfort-Conic_1_2-min-300x300.jpg 300w, https://shustrik-maps.com/wp-content/uploads/2022/10/North-America_Lambiert-Comfort-Conic_1_2-min-189x189.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/North-America_Lambiert-Comfort-Conic_1_2-min-64x64.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/North-America_Lambiert-Comfort-Conic_1_2-min-600x600.jpg 600w",
+        "alt": "North America 3D model",
+        "html_title": null,
+        "width": "300",
+        "height": "300",
+        "loading": "lazy",
+        "region": "listing_or_related",
+        "classes": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/11/Sicily_1_0-min-300x300.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/11/Sicily_1_0-min-300x300.jpg 300w, https://shustrik-maps.com/wp-content/uploads/2022/11/Sicily_1_0-min-189x189.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/11/Sicily_1_0-min-64x64.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/11/Sicily_1_0-min-600x600.jpg 600w",
+        "alt": "Sicily terrain 3D model",
+        "html_title": null,
+        "width": "300",
+        "height": "300",
+        "loading": "lazy",
+        "region": "listing_or_related",
+        "classes": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/11/Sicily_1_1-min-300x300.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/11/Sicily_1_1-min-300x300.jpg 300w, https://shustrik-maps.com/wp-content/uploads/2022/11/Sicily_1_1-min-189x189.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/11/Sicily_1_1-min-600x600.jpg 600w",
+        "alt": "Sicily 3D model",
+        "html_title": null,
+        "width": "300",
+        "height": "300",
+        "loading": "lazy",
+        "region": "listing_or_related",
+        "classes": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/Ukraine_1_0-min-300x300.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/Ukraine_1_0-min-300x300.jpg 300w, https://shustrik-maps.com/wp-content/uploads/2022/10/Ukraine_1_0-min-189x189.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/Ukraine_1_0-min-64x64.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/Ukraine_1_0-min-600x600.jpg 600w",
+        "alt": "Ukraine 3D model",
+        "html_title": null,
+        "width": "300",
+        "height": "300",
+        "loading": "lazy",
+        "region": "listing_or_related",
+        "classes": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2022/10/Ukraine_1_2-min-2-300x300.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2022/10/Ukraine_1_2-min-2-300x300.jpg 300w, https://shustrik-maps.com/wp-content/uploads/2022/10/Ukraine_1_2-min-2-189x189.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2022/10/Ukraine_1_2-min-2-64x64.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2022/10/Ukraine_1_2-min-2-600x600.jpg 600w",
+        "alt": "Ukraine 3D model",
+        "html_title": null,
+        "width": "300",
+        "height": "300",
+        "loading": "lazy",
+        "region": "listing_or_related",
+        "classes": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+        "context": "-wrapper wp-singular product-template-default single single-product postid-10102 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      }
+    ],
+    "schema_types": [
+      "WebPage",
+      "ReadAction",
+      "ImageObject",
+      "BreadcrumbList",
+      "ListItem",
+      "ListItem",
+      "WebSite",
+      "SearchAction",
+      "EntryPoint",
+      "PropertyValueSpecification",
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList",
+      "ListItem",
+      "ListItem",
+      "ListItem",
+      "ListItem",
+      "Product",
+      "Offer",
+      "UnitPriceSpecification",
+      "Organization"
+    ],
+    "archive_description_nodes": 0,
+    "pagination": []
+  },
+  {
+    "url": "https://shustrik-maps.com/how-to-convert-a-model-from-c4d-to-obj/",
+    "http": 200,
+    "final_url": "https://shustrik-maps.com/how-to-convert-a-model-from-c4d-to-obj/",
+    "title": "How to convert a model from C4D to OBJ? | 3D Models and 3D Maps",
+    "meta_description": "In this article, we will look at the process of converting models from C4D to OBJ format.",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "canonical": "https://shustrik-maps.com/how-to-convert-a-model-from-c4d-to-obj/",
+    "h1": [
+      "How to convert a model from C4D to OBJ?"
+    ],
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "PREPARING THE MODEL FOR EXPORT"
+      },
+      {
+        "tag": "h2",
+        "text": "EXPORT TO OBJ FORMAT"
+      },
+      {
+        "tag": "h2",
+        "text": "IMPORT OBJ INTO CINEMA 4D"
+      },
+      {
+        "tag": "h2",
+        "text": "IMPORT OBJ INTO BLENDER"
+      },
+      {
+        "tag": "h2",
+        "text": "Categories"
+      },
+      {
+        "tag": "h2",
+        "text": "Recent Posts"
+      },
+      {
+        "tag": "h2",
+        "text": "Archives"
+      }
+    ],
+    "main_text": "Common How to convert a model from C4D to OBJ? Posted by sychev23021983 October 17, 2026 On March 29, 2024 When working with 3D models, it’s essential to convert them between different formats to ensure compatibility across various programs and platforms. One prevalent format for 3D graphics work is Cinema 4D (C4D), renowned for its robust tools for crafting high-quality models and animations. Personally, I predominantly utilize Cinema 4D for most of my modeling tasks. However, despite the capabilities of C4D as a modeling tool, there are instances where other formats, such as Wavefront OBJ (Object) and Autodesk FBX (Filmbox), become necessary, particularly when collaborating with different applications or platforms. In this article, we will delve into the process of converting models from C4D to OBJ format using the example of my terrain models . A downloadable example is the USA terrain model with OBJ LOD variants , supplied with C4D, three OBJ detail levels and TIF textures. PREPARING THE MODEL FOR EXPORT Open the model in Cinema 4D: Begin by launching the Cinema 4D program and opening the desired model for conversion. Clean up the scene: Within C4D files, aside from the mesh, there may exist additional objects such as cameras, sky elements, lighting setups, and auxiliary planes. To streamline the export process and eliminate superfluous details from the final OBJ file, it is advisable to remove unnecessary objects from the scene, retaining solely the polygonal mesh and associated materials applied to the model. EXPORT TO OBJ FORMAT Exporting a model from Cinema 4D to OBJ (Wavefront OBJ) format facilitates the preservation of the object’s geometry, textures, and materials, enabling their utilization in diverse applications or platforms. Select the export format: Once you’ve opened the model in Cinema 4D and refined it by removing unnecessary elements, navigate to the File menu and opt for the Export function. Customize export settings: Within the ensuing window, designate the “Wavefront OBJ (*.obj)” format and tailor the export settings to your specifications. This includes configuring units of measurement, choosing options for texture and material preservation, and adjusting other parameters to align with the requirements of your project. Ensure to select the “Consolidate Textures” option. Specify path and file name: Define the destination path for saving the OBJ file and assign a suitable file name. Initiate the export process: Click on the “Export” or “OK” button to commence exporting the model. Cinema 4D will then proceed to export the model in OBJ format, adhering to the specified parameters. 5. Checking OBJ files : Upon completion of the export process, you will encounter two files: an .obj file containing mesh information and an associated .mtl file containing texture details. You can inspect the .mtl file using a text editor to identify the textures utilized in the export and their respective paths. Additionally, you’ll find a “tex” folder where all textures are stored. If the “ tex ” folder is not visible, it’s necessary to create it manually. Subsequently, you should transfer textures from the archive of the purchased C4D model into this folder. Additionally, verify the accuracy of the paths to these textures within the .mtl file. Verify the result: To ensure the accuracy of the conversion and preservation process, open the resulting OBJ file in a suitable program or viewer. This step allows you to confirm that the model has been accurately converted and saved, with textures correctly applied. IMPORT OBJ INTO CINEMA 4D When converting a model from C4D format to OBJ or FBX formats, several common issues may arise. Below are some of them, along with methods to address them: Loss of materials or textures: Occasionally, during the export process to OBJ or FBX formats, materials and textures may either be lost or improperly saved. For instance, let’s consider importing the previously obtained OBJ file into Cinema 4D. Upon importing the OBJ file, ensure that all materials are correctly assigned to the Terrain object. Typically, only one material is automatically assigned. Simply drag the missing materials onto the mesh. Double-click on each material to access its properties. If you encounter the message: “Cause: Open connection not implemented: ///tex/…”, click on the folder icon and re-specify the paths to the textures in each channel: Color, Normal, Alpha. Disable the Reflectance channel, as earth surfaces typically do not exhibit light reflection. These steps need to be repeated for each material to ensure proper assignment and texture mapping. After redefining the path to the texture, a colored thumbnail will be displayed. Similarly, after updating the path for the Normal Map, a blue thumbnail will appear. Upon redefining the path for the mask, a black-and-white thumbnail will be visible. If the primary texture still fails to appear, consider inverting the mask. Now, you can proceed to select the desired relief angle, incorporate the physical sky or other light sources into the scene, and adjust their parameters according to your preferences. In the render settings, opt for the Physical (or any other available) rendering engine. Integrate a Global Illumination effect and fine-tune the settings accordingly. Finally, initiate the rendering process. Utilizing a mask simplifies background adjustment. Simply introduce a material with the desired color (e.g., white) and position it in front of the primary materials. This approach yields relief images with a white background. Alternatively, you can create a plane with the appropriate material and position it beneath the relief. Exporting to OBJ format streamlines the transfer of models across various programs and platforms, safeguarding the integrity of object geometry and appearance. IMPORT OBJ INTO BLENDER Import the OBJ file into Blender software. Switch to Material Preview mode and open the Shader Editor. You’ll notice that only one Fake texture and a Border mask are connected initially. Additionally, connect the SAT texture or replace the Fake file as needed. If you observe an empty space in the center, you’ll need to invert (or disable) the mask. To accomplish this, add an Inverter node. Integrate a Normal Map. Ensure to specify the property as “Non-Color” for the normal map. Now, you can proceed to select the desired relief angle, incorporate the physical sky or other light sources into the scene, and adjust their parameters to your liking. Configure the render engine according to your requirements and initiate the rendering process. We aim to ensure that you have all the necessary resources for your project. Therefore, if you have previously purchased a model in C4D format from us, we are pleased to offer you the same models in FBX and OBJ formats at no additional cost! Please feel free to reach out to us to receive these additional formats for your convenience. Back to list Older Elevation Modeling – which to choose DTM, DSM or DEM? Close Categories Common Recent Posts How to convert a model from C4D to OBJ? Elevation Modeling – which to choose DTM, DSM or DEM? Understanding the OBJ File Format – A Simple Explanation What is an STL File? Explaining the STL Format Understanding the FBX File Format: A Simple Explanation Archives March 2024 January 2023 August 2022 April 2022 January 2022 October 2021 July 2021",
+    "description_text": "",
+    "summary_text": "",
+    "main_links": [
+      {
+        "url": "https://shustrik-maps.com/category/common/",
+        "text": "Common",
+        "rel": "category tag"
+      },
+      {
+        "url": "https://shustrik-maps.com/author/sychev23021983/",
+        "text": "sychev23021983",
+        "rel": "author"
+      },
+      {
+        "url": "https://shustrik-maps.com/product-category/3d-models/",
+        "text": "terrain models",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/product/usa-map-3d-model/",
+        "text": "USA terrain model with OBJ LOD variants",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2024/03/Remove-unnecessary-elements-from-C4D-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2024/03/Export-from-C4D-to-OBJ-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2024/03/OBJ-files.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2024/03/textures-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2024/03/Check-SAT-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2024/03/Check-Normal-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2024/03/Check-Alpha-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2024/03/Render-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2024/03/Render2-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2024/03/Import-to-blender-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2024/03/Import-to-blender1-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2024/03/Connect-textures-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/wp-content/uploads/2024/03/Render-Blender-min.jpg",
+        "text": "",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/blog/",
+        "text": "Back to list",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/elevation-modeling-which-to-choose-dtm-dsm-or-dem/",
+        "text": "Older Elevation Modeling – which to choose DTM, DSM or DEM?",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/how-to-convert-a-model-from-c4d-to-obj/#",
+        "text": "Close",
+        "rel": "nofollow noopener"
+      },
+      {
+        "url": "https://shustrik-maps.com/category/common/",
+        "text": "Common",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/how-to-convert-a-model-from-c4d-to-obj/",
+        "text": "How to convert a model from C4D to OBJ?",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/elevation-modeling-which-to-choose-dtm-dsm-or-dem/",
+        "text": "Elevation Modeling – which to choose DTM, DSM or DEM?",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/understanding-the-obj-file-format-a-simple-explanation/",
+        "text": "Understanding the OBJ File Format – A Simple Explanation",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/what-is-an-stl-file-explaining-the-stl-format/",
+        "text": "What is an STL File? Explaining the STL Format",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/understanding-the-fbx-file-format-a-simple-explanation/",
+        "text": "Understanding the FBX File Format: A Simple Explanation",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2024/03/",
+        "text": "March 2024",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2023/01/",
+        "text": "January 2023",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2022/08/",
+        "text": "August 2022",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2022/04/",
+        "text": "April 2022",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2022/01/",
+        "text": "January 2022",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2021/10/",
+        "text": "October 2021",
+        "rel": ""
+      },
+      {
+        "url": "https://shustrik-maps.com/2021/07/",
+        "text": "July 2021",
+        "rel": ""
+      }
+    ],
+    "description_links": [],
+    "images": [
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/03/convert-C4D-to-OBJ-min.jpg",
+        "srcset": "https://shustrik-maps.com/wp-content/uploads/2024/03/convert-C4D-to-OBJ-min.jpg 750w, https://shustrik-maps.com/wp-content/uploads/2024/03/convert-C4D-to-OBJ-min-189x126.jpg 189w, https://shustrik-maps.com/wp-content/uploads/2024/03/convert-C4D-to-OBJ-min-64x43.jpg 64w, https://shustrik-maps.com/wp-content/uploads/2024/03/convert-C4D-to-OBJ-min-300x200.jpg 300w",
+        "alt": "Convert C4D to OBJ",
+        "html_title": null,
+        "width": "750",
+        "height": "500",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-post-thumbnail size-post-thumbnail wp-post-image",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-15849 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/03/Remove-unnecessary-elements-from-C4D-min.jpg",
+        "srcset": "",
+        "alt": "",
+        "html_title": null,
+        "width": "2386",
+        "height": "1343",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-full size-full",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-15849 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/03/Export-from-C4D-to-OBJ-min.jpg",
+        "srcset": "",
+        "alt": "",
+        "html_title": null,
+        "width": "2386",
+        "height": "1343",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-full size-full",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-15849 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/03/OBJ-files.jpg",
+        "srcset": "",
+        "alt": "",
+        "html_title": null,
+        "width": "361",
+        "height": "135",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-full size-full",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-15849 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/03/textures-min.jpg",
+        "srcset": "",
+        "alt": "",
+        "html_title": null,
+        "width": "743",
+        "height": "585",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-full size-full",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-15849 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/03/Check-SAT-min.jpg",
+        "srcset": "",
+        "alt": "",
+        "html_title": null,
+        "width": "843",
+        "height": "709",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-full size-full",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-15849 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/03/Check-Normal-min.jpg",
+        "srcset": "",
+        "alt": "",
+        "html_title": null,
+        "width": "843",
+        "height": "709",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-full size-full",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-15849 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/03/Check-Alpha-min.jpg",
+        "srcset": "",
+        "alt": "",
+        "html_title": null,
+        "width": "843",
+        "height": "709",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-full size-full",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-15849 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/03/Render-min.jpg",
+        "srcset": "",
+        "alt": "",
+        "html_title": null,
+        "width": "2384",
+        "height": "1347",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-full size-full",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-15849 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/03/Render2-min.jpg",
+        "srcset": "",
+        "alt": "",
+        "html_title": null,
+        "width": "2384",
+        "height": "1347",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-full size-full",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-15849 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/03/Import-to-blender-min.jpg",
+        "srcset": "",
+        "alt": "",
+        "html_title": null,
+        "width": "2384",
+        "height": "1347",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-full size-full",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-15849 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/03/Import-to-blender1-min.jpg",
+        "srcset": "",
+        "alt": "",
+        "html_title": null,
+        "width": "2384",
+        "height": "1347",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-full size-full",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-15849 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/03/Connect-textures-min.jpg",
+        "srcset": "",
+        "alt": "",
+        "html_title": null,
+        "width": "2384",
+        "height": "1347",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-full size-full",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-15849 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      },
+      {
+        "src": "https://shustrik-maps.com/wp-content/uploads/2024/03/Render-Blender-min.jpg",
+        "srcset": "",
+        "alt": "",
+        "html_title": null,
+        "width": "2384",
+        "height": "1347",
+        "loading": null,
+        "region": "listing_or_related",
+        "classes": "attachment-full size-full",
+        "context": "pper website-wrapper wp-singular post-template-default single single-post postid-15849 single-format-standard wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce-no-js wrapper-wide  categories-accordion-on woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.4.1 vc_responsive  "
+      }
+    ],
+    "schema_types": [
+      "Article",
+      "WebPage",
+      "ReadAction",
+      "ImageObject",
+      "WebSite",
+      "SearchAction",
+      "EntryPoint",
+      "PropertyValueSpecification",
+      "Person",
+      "PostalAddress",
+      "ImageObject",
+      "BreadcrumbList",
+      "ListItem",
+      "ListItem",
+      "ListItem"
+    ],
+    "archive_description_nodes": 0,
+    "pagination": []
+  }
+]
