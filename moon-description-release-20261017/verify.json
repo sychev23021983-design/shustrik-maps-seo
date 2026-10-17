@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "mode": "--verify",
+  "utc": "2026-10-17T17:07:19+00:00",
+  "posts": [
+    {
+      "id": 16110,
+      "url": "https://shustrik-maps.com/product/moon-3d-model/",
+      "content_sha256": "0de9bc4c5cc09fc718a75fd877cff5896c6e690f03aa892dc28479e3896b6e36",
+      "protected_preserved": true,
+      "links_added": 0
+    }
+  ],
+  "backup_key": "_shustrik_moon_description_backup_20261017",
+  "backup_status": "published"
+}

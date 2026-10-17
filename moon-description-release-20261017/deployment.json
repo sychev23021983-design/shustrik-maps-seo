@@ -1,0 +1,10 @@
+{
+  "commit": "bbff1c595731e928570079fc380d7580208195d9",
+  "archive_sha256": "69f58227b0af7b1f93c064a4b381b093fbd508faa3c1dbee131679178d92f606",
+  "remote_archive_sha256": "69f58227b0af7b1f93c064a4b381b093fbd508faa3c1dbee131679178d92f606",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/moon-description-bbff1c595731",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}
