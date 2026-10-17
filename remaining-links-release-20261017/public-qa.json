@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "urls_checked": 11,
+  "links_checked": 5,
+  "source_metadata_media_preserved": true,
+  "schema_types_preserved": true,
+  "previous_release_public_preserved": true,
+  "checks": [
+    {
+      "id": 14596,
+      "anchor": "3D terrain model catalog",
+      "target": "https://shustrik-maps.com/product-category/3d-models/"
+    },
+    {
+      "id": 15631,
+      "anchor": "3D terrain models",
+      "target": "https://shustrik-maps.com/product-category/3d-models/"
+    },
+    {
+      "id": 15631,
+      "anchor": "terrain STL collection",
+      "target": "https://shustrik-maps.com/product-category/cnc-models/"
+    },
+    {
+      "id": 20707,
+      "anchor": "AuthaGraph world map image files (TIF/PSD)",
+      "target": "https://shustrik-maps.com/product/authagraph-world-map/"
+    },
+    {
+      "id": 16110,
+      "anchor": "Earth terrain model without water",
+      "target": "https://shustrik-maps.com/product/earth-3d-model-terrain-without-water/"
+    }
+  ]
+}

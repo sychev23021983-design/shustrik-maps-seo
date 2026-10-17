@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "checks": [
+    {
+      "id": "L09",
+      "target": "https://shustrik-maps.com/product/earth-3d-model-terrain-without-water/",
+      "ok": true
+    },
+    {
+      "id": "L08",
+      "target": "https://shustrik-maps.com/product/authagraph-world-map/",
+      "ok": true
+    },
+    {
+      "id": "L06",
+      "target": "https://shustrik-maps.com/product-category/3d-models/",
+      "ok": true
+    },
+    {
+      "id": "L07",
+      "target": "https://shustrik-maps.com/product-category/cnc-models/",
+      "ok": true
+    },
+    {
+      "id": "L02",
+      "target": "https://shustrik-maps.com/product-category/3d-models/",
+      "ok": true
+    }
+  ],
+  "desktop_visual": true,
+  "mobile_checked": [
+    "Moon button",
+    "AuthaGraph anchor"
+  ],
+  "mobile_viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "viewport_reset": true
+}
