@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "mode": "--verify",
+  "utc": "2026-10-17T18:18:30+00:00",
+  "id": 14594,
+  "content_sha256": "2f1c55637332edb65d9e53a0522732ce56dced7b170ec95400f26646e91a230a",
+  "fields": {
+    "_yoast_wpseo_title": "What Is an STL File? Format, Uses & 3D Printing",
+    "_yoast_wpseo_metadesc": "Learn what an STL file stores, how mesh resolution affects detail, the difference between binary and ASCII, and what makes a model suitable for 3D printing."
+  },
+  "protected_preserved": true,
+  "prior_preserved": true,
+  "indexable_match": true,
+  "backup_key": "_shustrik_stl_article_backup_20261017",
+  "backup_status": "published"
+}
