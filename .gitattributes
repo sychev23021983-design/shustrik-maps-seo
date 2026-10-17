@@ -197,3 +197,7 @@ fbx-technical-release-20261017/content.diff -text
 obj-article-release-20261017/* text eol=lf
 obj-article-release-20261017/*-after.txt -text
 obj-article-release-20261017/content.diff -text
+
+stl-article-release-20261017/* text eol=lf
+stl-article-release-20261017/*-after.txt -text
+stl-article-release-20261017/content.diff -text
