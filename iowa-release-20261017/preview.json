@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "mode": "--preview",
+  "utc": "2026-10-17T18:44:26+00:00",
+  "id": 17495,
+  "content_sha256": "052d43466149a6989fa03f126f97eb46948cc5c94fbcedca02d53e74ede420d7",
+  "excerpt_sha256": "0cc703ee7140a8daf033a54daff1a19a90a7177c9ef3994766511d9ce575c24b",
+  "fields": {
+    "_yoast_wpseo_title": "High-Resolution Satellite Map of Iowa (GeoTIFF/PSD)",
+    "_yoast_wpseo_metadesc": "High-resolution satellite map of Iowa in GeoTIFF/PSD format. Suitable for GIS software, design projects and print production."
+  },
+  "protected_preserved": true,
+  "prior_preserved": true,
+  "indexable_match": true,
+  "backup_key": "_shustrik_iowa_backup_20261017",
+  "backup_status": null
+}

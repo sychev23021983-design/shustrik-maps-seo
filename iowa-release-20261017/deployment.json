@@ -1,0 +1,10 @@
+{
+  "commit": "4b1885cea7c70549ea69950134b7e7d3060a8ea8",
+  "archive_sha256": "f0ee752b2333c122cb5ff1b4be5765c769b6be555dfaad030f117fd7914a66ca",
+  "remote_archive_sha256": "f0ee752b2333c122cb5ff1b4be5765c769b6be555dfaad030f117fd7914a66ca",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/iowa-4b1885cea7c7",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

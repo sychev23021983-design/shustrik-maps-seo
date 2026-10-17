@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "mode": "--rollback-preview",
+  "utc": "2026-10-17T18:44:47+00:00",
+  "id": 17495,
+  "content_sha256": "342f69945f2aed84b1792e3959e609f00f362b370e5ff5b0086aa15b878a545b",
+  "excerpt_sha256": "2c4ec25f50dcc20299c928d07338337ae7ac79136c927e6e094f78e4f05af686",
+  "fields": {
+    "_yoast_wpseo_title": "Iowa Satellite Map \u2014 TIF Image Download",
+    "_yoast_wpseo_metadesc": "Download an Iowa satellite map as a TIF image for design, presentations and print layouts. Supplied as a digital image without georeferencing."
+  },
+  "protected_preserved": true,
+  "prior_preserved": true,
+  "indexable_match": true,
+  "backup_key": "_shustrik_iowa_backup_20261017",
+  "backup_status": "published"
+}
