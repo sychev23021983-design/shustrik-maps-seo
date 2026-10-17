@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "mode": "--apply",
+  "utc": "2026-10-17T15:24:58+00:00",
+  "posts": [
+    {
+      "id": 11517,
+      "url": "https://shustrik-maps.com/product/earth-3d-model-terrain-without-water/",
+      "content_sha256": "8ee16fd7fed9f5983fceaa9d50f18306663e56622e817f1866038a7922658557",
+      "protected_preserved": true,
+      "links_added": 0
+    }
+  ],
+  "backup_key": "_shustrik_earth_description_backup_20261017",
+  "backup_status": "published"
+}

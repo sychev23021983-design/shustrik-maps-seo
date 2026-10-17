@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "urls_checked": 4,
+  "approved_paragraphs_exact": true,
+  "summary_specs_price_buttons_preserved": true,
+  "metadata_canonical_h1_robots_schema_types_preserved": true,
+  "authored_media_preserved": true,
+  "description_links_preserved": true,
+  "lower_sections_preserved": true,
+  "related_products_preserved": true
+}
