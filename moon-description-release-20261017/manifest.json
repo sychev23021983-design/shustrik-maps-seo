@@ -1,0 +1,40 @@
+{
+  "site": "https://shustrik-maps.com",
+  "approved_date": "2026-10-17",
+  "backup_key": "_shustrik_moon_description_backup_20261017",
+  "posts": [
+    {
+      "id": 16110,
+      "slug": "moon-3d-model",
+      "post_type": "product",
+      "url": "https://shustrik-maps.com/product/moon-3d-model/",
+      "before_sha256": "8672e820429b6700f423c336138b9b0dfd90bf92f3b559b225617ad7ea29c801",
+      "protected_hash": "8b91a35e30c058c9bc18458663a04465d5ce27c18b6b88c7457d4b2e79c8744e",
+      "file": "16110-after.txt",
+      "after_sha256": "0de9bc4c5cc09fc718a75fd877cff5896c6e690f03aa892dc28479e3896b6e36",
+      "edits": [
+        {
+          "operation": "replace",
+          "at": 80,
+          "at_bytes": 80,
+          "old": "Our <strong>3D model of the Moon</strong> is crafted using advanced <strong>visualization technologies</strong>, providing a highly detailed and accurate representation of this captivating <strong>celestial object</strong>. Perfect for <strong>space exploration</strong>, this model offers precise detailing of the <strong>lunar surface</strong>, making it ideal for <strong>scientific research</strong>, <strong>3D rendering</strong>, and educational purposes.",
+          "text": "<p>The Moon 3D Model presents Earth’s natural satellite as a complete globe, with dark lunar maria contrasting against brighter, cratered highlands. These recognizable surface features give the Moon its distinctive appearance in astronomy illustrations, rendered imagery and space-themed compositions.</p>"
+        },
+        {
+          "operation": "replace",
+          "at": 1145,
+          "at_bytes": 1145,
+          "old": "\r\n<h2><strong>Immersive Moon in 3D for Astronomy and Planetary Science</strong></h2>\r\nThe <strong>Moon 3D model</strong> reproduces the lunar landscape with incredible accuracy, allowing users to explore the <strong>moon’s surface</strong> in unprecedented detail. Whether you are developing an <strong>astronomy graphics</strong> project, conducting <strong>planetary science</strong> research, or creating captivating visuals for <strong>virtual reality moon</strong> experiences, this model provides an engaging tool for any application.\r\n<h3><strong>Advanced 3D Rendering with High-Resolution Moon Textures</strong></h3>\r\nOur model uses high-resolution <strong>moon textures</strong> applied to a spherical form using UV mapping. Each of the six texture segments boasts a resolution of 4096x4096 px, providing clarity and reducing distortions at the poles, unlike traditional rectangular textures. This makes it perfect for projects requiring precise <strong>3D rendering</strong> and <strong>space visualization</strong>.\r\n<h3><strong>Perfect for Virtual Reality and Space Exploration Projects</strong></h3>\r\nThis <strong>3D model of the Moon</strong> is ideal for use in <strong>virtual reality moon</strong> simulations, giving users an immersive experience of <strong>space exploration</strong>. The model's realistic detail and texture mapping make it perfect for showcasing the <strong>lunar surface</strong> in both scientific and educational applications.",
+          "text": "<p>Use the model as the central subject of a lunar render, alongside Earth in an orbital scene, or within a broader Solar System composition. Different camera positions and lighting setups allow you to frame the familiar lunar disk, emphasize the boundary between light and shadow, or explore views beyond the perspective seen from Earth.</p>\n<p>For motion graphics and educational visuals, the globe provides a consistent subject across changing viewpoints. Compose sequences around lunar phases, the Earth–Moon relationship, or the changing appearance of the surface under directional light.</p>"
+        }
+      ],
+      "links_added": 0
+    }
+  ],
+  "scope": "Owner-approved three paragraphs only; first in existing intro, second/third in existing column beside image. All shortcodes, media, specifications, commerce, metadata and related buttons retained.",
+  "approved_paragraphs": [
+    "The Moon 3D Model presents Earth’s natural satellite as a complete globe, with dark lunar maria contrasting against brighter, cratered highlands. These recognizable surface features give the Moon its distinctive appearance in astronomy illustrations, rendered imagery and space-themed compositions.",
+    "Use the model as the central subject of a lunar render, alongside Earth in an orbital scene, or within a broader Solar System composition. Different camera positions and lighting setups allow you to frame the familiar lunar disk, emphasize the boundary between light and shadow, or explore views beyond the perspective seen from Earth.",
+    "For motion graphics and educational visuals, the globe provides a consistent subject across changing viewpoints. Compose sequences around lunar phases, the Earth–Moon relationship, or the changing appearance of the surface under directional light."
+  ]
+}
