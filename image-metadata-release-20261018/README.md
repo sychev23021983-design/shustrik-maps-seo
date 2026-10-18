@@ -1,0 +1,9 @@
+# Satellite and Night image metadata release, 2026-10-18
+
+Owner authorized Japan, Georgia, missing alt and all Night Satellite Map images.46 individually reviewed attachments:Japan5,Georgia USA5,Georgia country5,seven missing-alt images,24 Night images. Scope: media post_title and _wp_attachment_image_alt, plus attachment modification timestamps. Seven missing alt records get human-readable titles as shown in Change List and Copy.md. No product content/excerpt/SEO writes; no file URL, binary, gallery order, caption, taxonomy, settings or indexable changes.
+
+473 unique media in the audit;427 non-target attachments and92 complete product records guarded by invariant hashes.46 target attachments retain all other post fields/metadata/taxonomy. Existing alt-row multiplicity protected;39 rows updated,7 absent rows inserted. WordPress caches cleaned; page purge hooks limited to92 product URLs, no global purge. InnoDB/row locks/conditional writes/one-time backup _shustrik_image_metadata_backup_20261018. Full snapshot includes only public copy and protection hashes, no credentials or private order data.
+
+GitHub-first source commit pushed; exact Git archive SHA256 checked and PHP lint before preview/apply once/verify/rollback-preview. Public checks92 products, all945 own img occurrences, metadata and description preserved. Browser representative rendered desktop/mobile and actual updated alt/title. All46 raw image previews captured in Chrome, reviewed in8 analytical contact sheets in Obsidian Image Metadata Release2026-10-18/Previews.
+
+Rollback after checking later changes: python image-metadata-release-20261018/deliver.py rollback . Restores previous media titles/alt rows (removes only the7 rows inserted by this release), updates attachment modification timestamps. Guards abort on drift. Does not restore old modification dates. No new checkout/order/payment/indexing actions, build or restart.
