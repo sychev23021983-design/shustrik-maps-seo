@@ -1,0 +1,10 @@
+{
+  "commit": "b627b50243d81eb42bb8c650b47242e8ce13874b",
+  "archive_sha256": "3eb9768586f4c6cc0cc0de9a422f7ce7d952a0350d46e32813417cc02d299341",
+  "remote_archive_sha256": "3eb9768586f4c6cc0cc0de9a422f7ce7d952a0350d46e32813417cc02d299341",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/china-b627b50243d8",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

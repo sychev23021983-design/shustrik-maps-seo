@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "mode": "--apply",
+  "utc": "2026-10-18T05:06:24+00:00",
+  "id": 17615,
+  "content_sha256": "c77184e4755ba5eb048bd497721c5874a70e55eeb710e3db032dbc3ac97efcba",
+  "excerpt_sha256": "5943a7642b5113664424525e524dfc6eac1eb858c4865cf13508f51095d4e5fd",
+  "fields": {
+    "_yoast_wpseo_title": "China Satellite Map \u2014 TIF Image Download",
+    "_yoast_wpseo_metadesc": "Download a China satellite map as a TIF image for design, presentations and print layouts. A static digital image supplied without georeferencing."
+  },
+  "protected_preserved": true,
+  "prior_preserved": true,
+  "indexable_match": true,
+  "backup_key": "_shustrik_china_backup_20261018",
+  "backup_status": "published"
+}

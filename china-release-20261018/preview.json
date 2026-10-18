@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "mode": "--preview",
+  "utc": "2026-10-18T05:06:18+00:00",
+  "id": 17615,
+  "content_sha256": "c2f8f72df6715ef8be7d7810f45327b51eddbeb84f60841f6c96b80b6012c123",
+  "excerpt_sha256": "2f717229a586b43a9e70d80fe4f85422129f9fe8ab1e87d4a6350ad1d595b4ad",
+  "fields": {
+    "_yoast_wpseo_title": "High-Resolution Satellite Map of China (GeoTIFF/PSD)",
+    "_yoast_wpseo_metadesc": "High-resolution satellite map of China in GeoTIFF/PSD format. Suitable for GIS software, design projects and print production."
+  },
+  "protected_preserved": true,
+  "prior_preserved": true,
+  "indexable_match": true,
+  "backup_key": "_shustrik_china_backup_20261018",
+  "backup_status": null
+}
