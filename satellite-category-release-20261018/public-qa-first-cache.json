@@ -1,0 +1,414 @@
+{
+  "ok": false,
+  "urls_checked": 87,
+  "edited_checked": 0,
+  "preserved_checked": 3,
+  "deferred_redirects": 3,
+  "failures": [
+    {
+      "id": 17288,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17310,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17316,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17322,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17328,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17334,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17340,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17346,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17352,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17408,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17422,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17429,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17435,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17441,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17447,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17454,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17459,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17471,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17477,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17483,
+      "ok": false,
+      "reason": "Summary/specifications changed beyond lead"
+    },
+    {
+      "id": 17489,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17501,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17507,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17513,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17519,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17525,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17530,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17544,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17550,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17556,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17562,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17568,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17574,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17580,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17597,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17603,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17609,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17622,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17628,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17635,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17641,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17647,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17653,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17659,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17669,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17675,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17687,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17693,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17699,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17705,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17711,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17723,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17729,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17736,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17742,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17748,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17754,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17760,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17766,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17772,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17778,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17784,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17790,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17796,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17803,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17808,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17814,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17819,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17824,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17830,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17836,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17842,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17847,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17852,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17858,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17864,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17870,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17882,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17888,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 18013,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 19462,
+      "ok": false,
+      "reason": "Summary/specifications changed beyond lead"
+    }
+  ]
+}

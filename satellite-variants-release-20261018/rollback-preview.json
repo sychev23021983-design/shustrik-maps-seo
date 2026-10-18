@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "mode": "--rollback-preview",
+  "utc": "2026-10-18T05:34:13+00:00",
+  "products": 3,
+  "seo_pairs_changed": 3,
+  "preserved_records": 94,
+  "protected_fields_preserved": true,
+  "indexables_match": true,
+  "backup_key": "_shustrik_satellite_variants_backup_20261018",
+  "backup_status": "published"
+}

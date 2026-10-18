@@ -1,0 +1,10 @@
+{
+  "commit": "8339d54844be6ec49613d3ee223080ccd5b41f20",
+  "archive_sha256": "e9a348a93f9d8c719127fccddfbcb9ff35ab37fcabc324820d460f2120937c30",
+  "remote_archive_sha256": "e9a348a93f9d8c719127fccddfbcb9ff35ab37fcabc324820d460f2120937c30",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/satellite-variants-8339d54844be",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

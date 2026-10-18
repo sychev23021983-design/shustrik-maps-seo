@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "mode": "--verify",
+  "utc": "2026-10-18T05:32:27+00:00",
+  "file": "/var/www/html/.htaccess",
+  "sha256": "d1feae04b3c2763e0fa4a2a10c291f95d71db1767fec11367a9cbf25c4ec1058",
+  "rules_removed": 3,
+  "greece_rule_preserved": true,
+  "wordpress_block_preserved": true,
+  "backup": "/tmp/shustrik-satellite-variants-htaccess-backup-20261018",
+  "restart": false
+}
