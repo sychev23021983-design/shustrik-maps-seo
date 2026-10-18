@@ -10577,7 +10577,13 @@
         "title": "AuthaGraph — Tilted Rectangular Map Frame",
         "alt": "Tilted rectangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid."
       },
-      "products": []
+      "products": [
+        {
+          "id": 19462,
+          "name": "Authagraph World Map",
+          "url": "https://shustrik-maps.com/product/authagraph-world-map/"
+        }
+      ]
     },
     {
       "id": 19465,
@@ -10597,7 +10603,13 @@
         "title": "AuthaGraph — Vertical Rectangular Map Frame",
         "alt": "Vertical rectangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid."
       },
-      "products": []
+      "products": [
+        {
+          "id": 19462,
+          "name": "Authagraph World Map",
+          "url": "https://shustrik-maps.com/product/authagraph-world-map/"
+        }
+      ]
     },
     {
       "id": 19466,
@@ -10617,7 +10629,13 @@
         "title": "AuthaGraph — Horizontal Rectangular Map Frame",
         "alt": "Horizontal rectangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid."
       },
-      "products": []
+      "products": [
+        {
+          "id": 19462,
+          "name": "Authagraph World Map",
+          "url": "https://shustrik-maps.com/product/authagraph-world-map/"
+        }
+      ]
     },
     {
       "id": 19467,
@@ -10637,7 +10655,13 @@
         "title": "AuthaGraph — Inverted Triangular Map Frame",
         "alt": "Inverted triangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid."
       },
-      "products": []
+      "products": [
+        {
+          "id": 19462,
+          "name": "Authagraph World Map",
+          "url": "https://shustrik-maps.com/product/authagraph-world-map/"
+        }
+      ]
     },
     {
       "id": 19468,
@@ -10657,7 +10681,13 @@
         "title": "AuthaGraph — Repeated Map Layout and Coloured Frames",
         "alt": "Diagram of repeated AuthaGraph satellite maps with coloured rectangular outlines and arrows showing different frame positions and orientations."
       },
-      "products": []
+      "products": [
+        {
+          "id": 19462,
+          "name": "Authagraph World Map",
+          "url": "https://shustrik-maps.com/product/authagraph-world-map/"
+        }
+      ]
     },
     {
       "id": 19469,

@@ -3664,7 +3664,7 @@ next_action: "Publish owner-authorized image metadata and verify live output"
 | title медиа | Decorative Rocky Mountain Park Map for Home or Office | Rocky Mountain National Park — Stepped Eastern Boundary |
 | alt | Decorative map of Rocky Mountain National Park perfect for framing and display in home or office. | Satellite detail of Rocky Mountain National Park showing its stepped eastern outline beside green valleys, winding roads and pale mountain slopes. |
 
-## 19464 — 
+## 19464 — Authagraph World Map
 
 Файл: https://shustrik-maps.com/wp-content/uploads/2025/04/1-min-6.jpg
 
@@ -3673,7 +3673,7 @@ next_action: "Publish owner-authorized image metadata and verify live output"
 | title медиа | Seamless Tiled AuthaGraph Mosaic | AuthaGraph — Tilted Rectangular Map Frame |
 | alt | Seamless Tiled AuthaGraph Mosaic | Tilted rectangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid. |
 
-## 19465 — 
+## 19465 — Authagraph World Map
 
 Файл: https://shustrik-maps.com/wp-content/uploads/2025/04/2-min-6.jpg
 
@@ -3682,7 +3682,7 @@ next_action: "Publish owner-authorized image metadata and verify live output"
 | title медиа | AuthaGraph Map in Graphic Design | AuthaGraph — Vertical Rectangular Map Frame |
 | alt | AuthaGraph Map in Graphic Design | Vertical rectangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid. |
 
-## 19466 — 
+## 19466 — Authagraph World Map
 
 Файл: https://shustrik-maps.com/wp-content/uploads/2025/04/3-min-6.jpg
 
@@ -3691,7 +3691,7 @@ next_action: "Publish owner-authorized image metadata and verify live output"
 | title медиа | Rectangular Centered AuthaGraph Variation | AuthaGraph — Horizontal Rectangular Map Frame |
 | alt | Modified rectangular layout of the AuthaGraph world map | Horizontal rectangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid. |
 
-## 19467 — 
+## 19467 — Authagraph World Map
 
 Файл: https://shustrik-maps.com/wp-content/uploads/2025/04/4-min-6.jpg
 
@@ -3700,7 +3700,7 @@ next_action: "Publish owner-authorized image metadata and verify live output"
 | title медиа | Triangular Mosaic of AuthaGraph Map | AuthaGraph — Inverted Triangular Map Frame |
 | alt | Creative triangular layout using seamless AuthaGraph tiles | Inverted triangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid. |
 
-## 19468 — 
+## 19468 — Authagraph World Map
 
 Файл: https://shustrik-maps.com/wp-content/uploads/2025/04/Mosaic_2000-min.jpg
 
@@ -3852,4 +3852,3 @@ next_action: "Publish owner-authorized image metadata and verify live output"
 |---|---|---|
 | title медиа | High-Resolution-AuthaGraph-World-Map-Country-min | AuthaGraph — Africa and Western Asia Country Detail |
 | alt | High-Resolution-AuthaGraph-World-Map-Country-min | Detail of the AuthaGraph country map showing coloured African and western Asian countries with country names and fine boundary lines. |
-
