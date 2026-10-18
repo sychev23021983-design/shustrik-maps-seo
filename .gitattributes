@@ -213,3 +213,7 @@ iowa-release-20261017/content.diff -text
 china-release-20261018/* text eol=lf
 china-release-20261018/*-after.txt -text
 china-release-20261018/content.diff -text
+
+florida-release-20261018/* text eol=lf
+florida-release-20261018/*-after.txt -text
+florida-release-20261018/content.diff -text
