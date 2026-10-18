@@ -209,3 +209,7 @@ us-night-release-20261017/content.diff -text
 iowa-release-20261017/* text eol=lf
 iowa-release-20261017/*-after.txt -text
 iowa-release-20261017/content.diff -text
+
+china-release-20261018/* text eol=lf
+china-release-20261018/*-after.txt -text
+china-release-20261018/content.diff -text
