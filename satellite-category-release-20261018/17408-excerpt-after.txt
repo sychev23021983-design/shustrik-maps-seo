@@ -1,0 +1,10 @@
+Spain satellite imagery for editorial maps, presentations and print design.
+<ul>
+ 	<li>Format: TIF</li>
+ 	<li>Resolution: 10544*7780 px</li>
+ 	<li>Depth: 48 bit</li>
+ 	<li>Size: 427 MB</li>
+ 	<li>Color scheme: RGB</li>
+ 	<li>Projection: Mercator</li>
+</ul>
+[html_block id="11218"]

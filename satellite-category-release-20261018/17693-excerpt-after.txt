@@ -1,0 +1,10 @@
+Iraq satellite imagery for editorial maps, presentations and print design.
+<ul>
+ 	<li>Format: TIF</li>
+ 	<li>Resolution: 7153*6652px</li>
+ 	<li>Depth: 24 bit</li>
+ 	<li>Size: 62.2 MB</li>
+ 	<li>Color scheme: RGB</li>
+ 	<li>Projection: Mercator</li>
+</ul>
+[html_block id="11218"]

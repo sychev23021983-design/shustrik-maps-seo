@@ -1,0 +1,10 @@
+Israel satellite imagery for editorial maps, presentations and print design.
+<ul>
+ 	<li>Format: TIF</li>
+ 	<li>Resolution: 8674*15517 px</li>
+ 	<li>Depth: 24 bit</li>
+ 	<li>Size: 138.4 MB</li>
+ 	<li>Color scheme: RGB</li>
+ 	<li>Projection: Mercator</li>
+</ul>
+[html_block id="11218"]
