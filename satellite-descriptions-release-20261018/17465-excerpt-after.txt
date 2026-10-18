@@ -1,0 +1,10 @@
+Florida satellite imagery for coastal map layouts, presentations and print design.
+<ul>
+ 	<li>Format: TIF</li>
+ 	<li>Resolution: 18991*18053 px</li>
+ 	<li>Depth: 24 bit</li>
+ 	<li>Size: 230.7 MB</li>
+ 	<li>Color scheme: RGB</li>
+ 	<li>Projection: Mercator</li>
+</ul>
+[html_block id="11218"]

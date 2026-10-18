@@ -1,0 +1,10 @@
+Europe satellite imagery for editorial maps, presentations and print design.
+<ul>
+ 	<li>Format: TIF</li>
+ 	<li>Resolution: 10000*10900 px</li>
+ 	<li>Depth: 48 bit</li>
+ 	<li>Size: 195 MB</li>
+ 	<li>Color scheme: RGB</li>
+ 	<li>Projection: Equidistan Conic</li>
+</ul>
+[html_block id="11218"]

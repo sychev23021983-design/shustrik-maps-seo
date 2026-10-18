@@ -1,0 +1,10 @@
+Honduras satellite imagery for editorial maps, presentations and print design.
+<ul>
+ 	<li>Format: TIF</li>
+ 	<li>Resolution: 23895*16402 px</li>
+ 	<li>Depth: 24 bit</li>
+ 	<li>Size: 355 MB</li>
+ 	<li>Color scheme: RGB</li>
+ 	<li>Projection: Mercator</li>
+</ul>
+[html_block id="11218"]

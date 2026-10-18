@@ -1,0 +1,10 @@
+Andorra satellite imagery for editorial maps, presentations and print design.
+<ul>
+ 	<li>Format: TIF</li>
+ 	<li>Resolution: 8892*7399 px</li>
+ 	<li>Depth: 24 bit</li>
+ 	<li>Size: 73.2 MB</li>
+ 	<li>Color scheme: RGB</li>
+ 	<li>Projection: Mercator</li>
+</ul>
+[html_block id="11218"]

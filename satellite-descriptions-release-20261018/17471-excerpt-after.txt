@@ -1,0 +1,10 @@
+Georgia US state satellite imagery for regional maps, presentations and print design.
+<ul>
+ 	<li>Format: TIF</li>
+ 	<li>Resolution: 12747*13815 px</li>
+ 	<li>Depth: 24 bit</li>
+ 	<li>Size: 304 MB</li>
+ 	<li>Color scheme: RGB</li>
+ 	<li>Projection: Mercator</li>
+</ul>
+[html_block id="11218"]

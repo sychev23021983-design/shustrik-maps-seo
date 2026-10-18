@@ -1,0 +1,9 @@
+United States satellite imagery for national overview graphics, presentations and print design.
+<ul>
+ 	<li>Format: TIF</li>
+ 	<li>Resolution: 9202*6101 px</li>
+ 	<li>Depth: 24 bit</li>
+ 	<li>Size: 81.3 MB</li>
+ 	<li>Color scheme: RGB</li>
+</ul>
+[html_block id="11218"]

@@ -1,0 +1,10 @@
+Eritrea satellite imagery for editorial maps, presentations and print design.
+<ul>
+ 	<li>Format: TIF</li>
+ 	<li>Resolution: 8706*7527 px</li>
+ 	<li>Depth: 24 bit</li>
+ 	<li>Size: 74.8 MB</li>
+ 	<li>Color scheme: RGB</li>
+ 	<li>Projection: Mercator</li>
+</ul>
+[html_block id="11218"]

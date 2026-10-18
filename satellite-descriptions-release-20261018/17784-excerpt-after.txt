@@ -1,0 +1,10 @@
+Nigeria satellite imagery for editorial maps, presentations and print design.
+<ul>
+ 	<li>Format: TIF</li>
+ 	<li>Resolution: 12000*15404 px</li>
+ 	<li>Depth: 24 bit</li>
+ 	<li>Size: 75 MB</li>
+ 	<li>Color scheme: RGB</li>
+ 	<li>Projection: Mercator</li>
+</ul>
+[html_block id="11218"]

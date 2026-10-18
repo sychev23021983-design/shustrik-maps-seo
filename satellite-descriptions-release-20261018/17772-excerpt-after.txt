@@ -1,0 +1,10 @@
+Nepal satellite imagery for editorial maps, presentations and print design.
+<ul>
+ 	<li>Format: TIF</li>
+ 	<li>Resolution: 11078*7338 px</li>
+ 	<li>Depth: 24 bit</li>
+ 	<li>Size: 139 MB</li>
+ 	<li>Color scheme: RGB</li>
+ 	<li>Projection: Mercator</li>
+</ul>
+[html_block id="11218"]

@@ -227,3 +227,6 @@ satellite-variants-release-20261018/htaccess-before.txt -text
 
 night-category-release-20261018/* text eol=lf
 night-category-release-20261018/*-after.txt -text
+
+satellite-descriptions-release-20261018/* text eol=lf
+satellite-descriptions-release-20261018/*-after.txt -text

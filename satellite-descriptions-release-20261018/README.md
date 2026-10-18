@@ -1,0 +1,10 @@
+# Satellite Maps — detailed Description only, 2026-10-18
+
+site_profile: shustrik-maps. Owner requested richer main descriptions for the entire Satellite Maps category in the style of the completed Night cards. All87 target products included, including earlier Iowa/Florida/China and restored variants. Exact list/before-after copy in Change List and Copy.md. Three main paragraphs each, based on inspected public previews of all87 products. UI screenshot evidence in Obsidian Satellite Descriptions2026-10-18/Previews. Country/state and cutout/regional-image distinctions retained. No scientific, freshness, exact-boundary or paid-archive validation promise.
+
+Strict post_content-only write. Protected invariant retains post_excerpt and every metadata field (except ephemeral wd_page_css_files cache), all other post fields and taxonomy; only post_content/modified dates excluded. H1, SEOtitle/meta, short phrases, specs, FAQ, media, related buttons/link markup, product files/prices/commerce settings, indexables and routing preserved. All shortcode tokens identical. AuthaGraph: one paragraph in each of its first3 text blocks, original H2s/source anchor and six illustrated example captions remain. Fourteen prior records guarded, including all5 Night products and previous articles. .htaccess unchanged.
+
+GitHub-first committed archive; compare SHA256, PHP lint, preview/apply once/verify/rollback-preview. InnoDB transaction and conditional post_content update under row locks. Metadata and excerpt candidate fields are explicitly identical to baseline; no metadata writes. Backup option _shustrik_satellite_descriptions_backup_20261018. Public QA92 URLs:87 edited and5 Night controls; JSON-LD Product identity/offers and CTA, unchanged metadata/summary, descriptions and author media/links, browser representative desktop/mobile. No cart/checkout/order/payment/indexing/setting actions, build or restart.
+
+Rollback after checking subsequent edits: python satellite-descriptions-release-20261018/deliver.py rollback . Restores only main descriptions and updates modification timestamps; earlier SEO fields and other copy are preserved.
+

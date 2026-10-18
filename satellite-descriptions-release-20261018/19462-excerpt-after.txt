@@ -1,0 +1,11 @@
+<p>AuthaGraph world imagery for global layouts, print design and mosaic compositions.</p>
+<div class="nm-divider-line"></div>
+<p class="my_icons_product"><img class="" src="https://shustrik-maps.com/wp-content/uploads/2022/10/TIF-min.png" alt="" width="45" height="55" /> <img class="" src="https://shustrik-maps.com/wp-content/uploads/2022/10/PSD_-min.png" alt="" width="45" height="55" /></p>
+
+<ul>
+ 	<li>Format: TIF/ PSD (to create the mosaic)</li>
+ 	<li>Files size (unzipped): 1.25 GB (4 textures)</li>
+ 	<li>Resolution: 24000*10392*32b</li>
+ 	<li>Projection: AuthaGraph</li>
+</ul>
+<div>[html_block id="11218"]</div>
