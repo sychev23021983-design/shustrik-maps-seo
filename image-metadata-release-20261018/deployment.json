@@ -1,0 +1,10 @@
+{
+  "commit": "7865d016a407a5c34c94650b2cf8d27aebb9b806",
+  "archive_sha256": "0896ade4c35aacfaa1887a155df13df751544ef7caa43b40e1482a2396acbedb",
+  "remote_archive_sha256": "0896ade4c35aacfaa1887a155df13df751544ef7caa43b40e1482a2396acbedb",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/image-metadata-7865d016a407",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

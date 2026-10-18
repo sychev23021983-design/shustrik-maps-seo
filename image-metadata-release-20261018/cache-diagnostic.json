@@ -1,0 +1,41 @@
+[
+  {
+    "request": {
+      "User-Agent": "ShustrikPortfolioQA/1.0"
+    },
+    "http": 200,
+    "headers": {
+      "Server": "nginx/1.24.0 (Ubuntu)",
+      "Date": "Sun, 18 Oct 2026 06:55:23 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "close",
+      "X-Powered-By": "PHP/8.3.33",
+      "Link": "<https://shustrik-maps.com/wp-json/>; rel=\"https://api.w.org/\"",
+      "Vary": "Accept-Encoding",
+      "X-Page-Cache": "HIT"
+    },
+    "new_alt": true,
+    "old_alt": true
+  },
+  {
+    "request": {
+      "User-Agent": "ShustrikPortfolioQA/1.0",
+      "Cache-Control": "no-cache"
+    },
+    "http": 200,
+    "headers": {
+      "Server": "nginx/1.24.0 (Ubuntu)",
+      "Date": "Sun, 18 Oct 2026 06:55:24 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "close",
+      "X-Powered-By": "PHP/8.3.33",
+      "Link": "<https://shustrik-maps.com/wp-json/>; rel=\"https://api.w.org/\"",
+      "Vary": "Accept-Encoding",
+      "X-Page-Cache": "HIT"
+    },
+    "new_alt": true,
+    "old_alt": true
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "mode": "--apply",
+  "utc": "2026-10-18T06:54:35+00:00",
+  "attachments": 46,
+  "title_fields_changed": 46,
+  "alt_fields_changed": 46,
+  "preserved_posts": 519,
+  "product_content_metadata_preserved": true,
+  "attachment_files_metadata_preserved": true,
+  "indexables_preserved": true,
+  "backup_key": "_shustrik_image_metadata_backup_20261018",
+  "backup_status": "published"
+}

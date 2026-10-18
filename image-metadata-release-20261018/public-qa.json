@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "urls_checked": 94,
+  "product_urls_checked": 92,
+  "archive_urls_checked": 2,
+  "attachments_seen": 46,
+  "own_img_elements": 945,
+  "alt_occurrences_changed": 93,
+  "title_occurrences_changed": 46,
+  "archive_image_checks": 11,
+  "failures": []
+}

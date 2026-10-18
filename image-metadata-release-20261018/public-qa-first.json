@@ -1,0 +1,228 @@
+{
+  "ok": false,
+  "urls_checked": 94,
+  "product_urls_checked": 92,
+  "archive_urls_checked": 2,
+  "attachments_seen": 46,
+  "own_img_elements": 945,
+  "alt_occurrences_changed": 0,
+  "title_occurrences_changed": 0,
+  "archive_image_checks": 11,
+  "failures": [
+    {
+      "url": "https://shustrik-maps.com/product/north-korea-night-satellite-map/",
+      "errors": [
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/night-satellite-map-north-korea-1_1-min-189x201.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/night-satellite-map-north-korea-1_1-min.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/night-satellite-map-north-korea-1_2-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/night-satellite-map-north-korea-1_2-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/night-satellite-map-north-korea-1_3-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/night-satellite-map-north-korea-1_3-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/night-satellite-map-north-korea-1_4-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/night-satellite-map-north-korea-1_4-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/night-satellite-map-north-korea-1_1-min.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/night-satellite-map-north-korea-1_2-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/night-satellite-map-north-korea-1_3-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/night-satellite-map-north-korea-1_4-min-766x431.jpg"
+      ]
+    },
+    {
+      "url": "https://shustrik-maps.com/product/united-states-night-satellite-map/",
+      "errors": [
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-map-of-united-states-at-night-1_1-min-189x189.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-map-of-united-states-at-night-1_1-min.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-map-of-united-states-at-night-1_2-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-map-of-united-states-at-night-1_2-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-map-of-united-states-at-night-1_3-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-map-of-united-states-at-night-1_3-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-map-of-united-states-at-night-1_4-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-map-of-united-states-at-night-1_4-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-map-of-united-states-at-night-1_5-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-map-of-united-states-at-night-1_5-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-map-of-united-states-at-night-1_1-min.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-map-of-united-states-at-night-1_2-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-map-of-united-states-at-night-1_3-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-map-of-united-states-at-night-1_4-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-map-of-united-states-at-night-1_5-min-766x431.jpg"
+      ]
+    },
+    {
+      "url": "https://shustrik-maps.com/product/satellite-image-of-america-at-night/",
+      "errors": [
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-image-of-america-at-night-1_1-min-189x189.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-image-of-america-at-night-1_1-min.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-image-of-america-at-night-1_2-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-image-of-america-at-night-1_2-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-image-of-america-at-night-1_3-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-image-of-america-at-night-1_3-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-image-of-america-at-night-1_4-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-image-of-america-at-night-1_4-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-image-of-america-at-night-1_5-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-image-of-america-at-night-1_5-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-image-of-america-at-night-1_1-min.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-image-of-america-at-night-1_2-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-image-of-america-at-night-1_3-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-image-of-america-at-night-1_4-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-image-of-america-at-night-1_5-min-766x431.jpg"
+      ]
+    },
+    {
+      "url": "https://shustrik-maps.com/product/satellite-picture-of-korea-at-night/",
+      "errors": [
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-picture-of-korea-at-night-1_1-min-189x189.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-picture-of-korea-at-night-1_1-min.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-picture-of-korea-at-night-1_2-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-picture-of-korea-at-night-1_2-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-picture-of-korea-at-night-1_3-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-picture-of-korea-at-night-1_3-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-picture-of-korea-at-night-1_4-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-picture-of-korea-at-night-1_4-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-picture-of-korea-at-night-1_5-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-picture-of-korea-at-night-1_5-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-picture-of-korea-at-night-1_1-min.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-picture-of-korea-at-night-1_2-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-picture-of-korea-at-night-1_3-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-picture-of-korea-at-night-1_4-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/satellite-picture-of-korea-at-night-1_5-min-766x431.jpg"
+      ]
+    },
+    {
+      "url": "https://shustrik-maps.com/product/spain-satellite-map/",
+      "errors": [
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Spain-Satellite-Map-1_7-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Spain-Satellite-Map-1_7-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/Spain-Satellite-Map-1_7-min-766x431.jpg"
+      ]
+    },
+    {
+      "url": "https://shustrik-maps.com/product/spain-night-satellite-map/",
+      "errors": [
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/spain-night-1_1-min-189x189.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/spain-night-1_1-min.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/spain-night-1_2-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/spain-night-1_2-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/spain-night-1_3-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/spain-night-1_3-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/spain-night-1_4-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/spain-night-1_4-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/spain-night-1_5-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/spain-night-1_5-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/spain-night-1_1-min.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/spain-night-1_2-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/spain-night-1_3-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/spain-night-1_4-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/spain-night-1_5-min-766x431.jpg"
+      ]
+    },
+    {
+      "url": "https://shustrik-maps.com/product/georgia-satellite-map/",
+      "errors": [
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_1-min-189x189.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_1-min.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_2-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_2-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_3-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_3-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_4-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_4-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_5-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_5-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_1-min.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_2-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_3-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_4-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_5-min-766x431.jpg"
+      ]
+    },
+    {
+      "url": "https://shustrik-maps.com/product/australia-satellite-map-2/",
+      "errors": [
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Australia-Satellite-Map-1_4-min-1-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Australia-Satellite-Map-1_4-min-1-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/Australia-Satellite-Map-1_4-min-1-766x431.jpg"
+      ]
+    },
+    {
+      "url": "https://shustrik-maps.com/product/georgia-satellite-map-2/",
+      "errors": [
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_1-min-1-189x189.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_1-min-1.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_2-min-1-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_2-min-1-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_3-min-1-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_3-min-1-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_4-min-1-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_4-min-1-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_5-min-1-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_5-min-1-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_1-min-1.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_2-min-1-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_3-min-1-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_4-min-1-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/Georgia-Satellite-Map-1_5-min-1-766x431.jpg"
+      ]
+    },
+    {
+      "url": "https://shustrik-maps.com/product/japan-satellite-map/",
+      "errors": [
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Japan-Satellite-Map-1_1-min-189x189.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Japan-Satellite-Map-1_1-min.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Japan-Satellite-Map-1_2-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Japan-Satellite-Map-1_2-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Japan-Satellite-Map-1_3-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Japan-Satellite-Map-1_3-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Japan-Satellite-Map-1_4-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Japan-Satellite-Map-1_4-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Japan-Satellite-Map-1_5-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2024/07/Japan-Satellite-Map-1_5-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/Japan-Satellite-Map-1_1-min.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/Japan-Satellite-Map-1_2-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/Japan-Satellite-Map-1_3-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/Japan-Satellite-Map-1_4-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2024/07/Japan-Satellite-Map-1_5-min-766x431.jpg"
+      ]
+    },
+    {
+      "url": "https://shustrik-maps.com/product/authagraph-world-map/",
+      "errors": [
+        "Alt https://shustrik-maps.com/wp-content/uploads/2025/04/B_C1-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2025/04/B_C1-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2025/04/B_C2-min-189x106.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2025/04/B_C2-min-766x431.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2025/04/Color_Border_Grid_A-min-189x82.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2025/04/Color_Border_Grid_A-min-766x332.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2025/04/Color_Border_Grid_B-min-189x82.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2025/04/Color_Border_Grid_B-min-766x332.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2025/04/Color_Border_Grid_B-min.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2025/04/Color_Border_Grid_C-189x82.jpg",
+        "Alt https://shustrik-maps.com/wp-content/uploads/2025/04/Color_Border_Grid_C-766x332.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2025/04/B_C1-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2025/04/B_C2-min-766x431.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2025/04/Color_Border_Grid_A-min-766x332.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2025/04/Color_Border_Grid_B-min-766x332.jpg",
+        "Image title https://shustrik-maps.com/wp-content/uploads/2025/04/Color_Border_Grid_C-766x332.jpg"
+      ]
+    },
+    {
+      "url": "https://shustrik-maps.com/product-category/3d-renders/satellite-maps/",
+      "errors": [
+        "Archive alt 19509"
+      ]
+    },
+    {
+      "url": "https://shustrik-maps.com/product-category/3d-renders/night-satellite-map/",
+      "errors": [
+        "Archive alt 17360",
+        "Archive alt 17361",
+        "Archive alt 17365",
+        "Archive alt 17366",
+        "Archive alt 17371",
+        "Archive alt 17372",
+        "Archive alt 17386",
+        "Archive alt 17387",
+        "Archive alt 17417",
+        "Archive alt 17418"
+      ]
+    }
+  ]
+}
