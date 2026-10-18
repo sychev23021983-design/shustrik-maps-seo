@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "mode": "--apply",
+  "utc": "2026-10-18T05:58:35+00:00",
+  "products": 4,
+  "seo_pairs_changed": 4,
+  "preserved_records": 97,
+  "protected_fields_preserved": true,
+  "indexables_match": true,
+  "backup_key": "_shustrik_night_category_backup_20261018",
+  "backup_status": "published"
+}

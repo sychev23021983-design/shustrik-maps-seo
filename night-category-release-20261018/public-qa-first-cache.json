@@ -1,0 +1,29 @@
+{
+  "ok": false,
+  "urls_checked": 8,
+  "edited_checked": 0,
+  "preserved_checked": 4,
+  "deferred_redirects": 0,
+  "failures": [
+    {
+      "id": 17359,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17370,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17385,
+      "ok": false,
+      "reason": "Metadata not current"
+    },
+    {
+      "id": 17416,
+      "ok": false,
+      "reason": "Metadata not current"
+    }
+  ]
+}

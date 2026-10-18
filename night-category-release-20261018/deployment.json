@@ -1,0 +1,10 @@
+{
+  "commit": "7a8d9f343556f8d41ac78b63eacbf6cb4b342a12",
+  "archive_sha256": "5859965344247942bcaf0db8183d72fcc8a7554cc1fa0b724d700b511efc2d50",
+  "remote_archive_sha256": "5859965344247942bcaf0db8183d72fcc8a7554cc1fa0b724d700b511efc2d50",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/night-category-7a8d9f343556",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}
