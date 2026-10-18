@@ -1,0 +1,1563 @@
+{
+  "ok": true,
+  "products": 11,
+  "viewport_cases": 22,
+  "utc": "2026-10-18T07:27:48.928Z",
+  "cases": [
+    {
+      "product_id": 17288,
+      "size": {
+        "width": 1434,
+        "height": 940
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 5,
+      "bad": [],
+      "bodyWidth": 1419,
+      "h1": [
+        "Austria Satellite Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map highlighting Austria, with the Alps across the west and centre and greener northeastern lowlands.",
+          "complete": true,
+          "naturalWidth": 766,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Austria-Satellite-Map-2_1-min.jpg",
+          "title": "Austria — Alpine Country Overview"
+        },
+        {
+          "alt": "Satellite detail of western Austria showing a large dark lake, pale settled areas and the highlighted country outline.",
+          "complete": true,
+          "naturalWidth": 766,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Austria-Satellite-Map-2_5-min-766x431.jpg",
+          "title": "Austria — Lake and Western Boundary"
+        },
+        {
+          "alt": "Satellite detail of Austria showing snowy mountain ridges, green valleys and a broad river near the northern boundary.",
+          "complete": true,
+          "naturalWidth": 766,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Austria-Satellite-Map-2_4-min-766x431.jpg",
+          "title": "Austria — Northern Ridges and River Valley"
+        },
+        {
+          "alt": "Satellite close-up of the Austrian Alps showing white peaks, brown ridges and deeply cut green valleys.",
+          "complete": true,
+          "naturalWidth": 766,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Austria-Satellite-Map-2_3-min-766x431.jpg",
+          "title": "Austria — Snowy Alpine Ridges"
+        },
+        {
+          "alt": "Satellite detail of eastern Austria showing a broad river, dense pale settlements and narrow agricultural fields.",
+          "complete": true,
+          "naturalWidth": 766,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Austria-Satellite-Map-2_2-min-766x431.jpg",
+          "title": "Austria — Eastern River and Fields"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/austria-satellite-map/",
+      "viewportWidth": 1419
+    },
+    {
+      "product_id": 17288,
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 5,
+      "bad": [],
+      "bodyWidth": 375,
+      "h1": [
+        "Austria Satellite Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map highlighting Austria, with the Alps across the west and centre and greener northeastern lowlands.",
+          "complete": false,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Austria-Satellite-Map-2_1-min.jpg",
+          "title": "Austria — Alpine Country Overview"
+        },
+        {
+          "alt": "Satellite detail of western Austria showing a large dark lake, pale settled areas and the highlighted country outline.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Austria-Satellite-Map-2_5-min-766x431.jpg",
+          "title": "Austria — Lake and Western Boundary"
+        },
+        {
+          "alt": "Satellite detail of Austria showing snowy mountain ridges, green valleys and a broad river near the northern boundary.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Austria-Satellite-Map-2_4-min-766x431.jpg",
+          "title": "Austria — Northern Ridges and River Valley"
+        },
+        {
+          "alt": "Satellite close-up of the Austrian Alps showing white peaks, brown ridges and deeply cut green valleys.",
+          "complete": false,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Austria-Satellite-Map-2_3-min-766x431.jpg",
+          "title": "Austria — Snowy Alpine Ridges"
+        },
+        {
+          "alt": "Satellite detail of eastern Austria showing a broad river, dense pale settlements and narrow agricultural fields.",
+          "complete": false,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Austria-Satellite-Map-2_2-min-766x431.jpg",
+          "title": "Austria — Eastern River and Fields"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/austria-satellite-map/",
+      "viewportWidth": 375
+    },
+    {
+      "product_id": 17340,
+      "size": {
+        "width": 1434,
+        "height": 940
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 1,
+      "bad": [],
+      "bodyWidth": 1419,
+      "h1": [
+        "Europe Satellite Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map of Europe on white, with the Mediterranean peninsulas, Scandinavia, Atlantic islands and eastern plains.",
+          "complete": true,
+          "naturalWidth": 766,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Europe-Satellite-Map-1_1-min.jpg",
+          "title": "Europe — Continental Cutout"
+        },
+        {
+          "alt": "Satellite detail of the Iberian Peninsula showing pale interior plateaus, mountain belts and greener northern terrain.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Europe — Iberian Peninsula Terrain"
+        },
+        {
+          "alt": "Satellite detail of southern Europe showing southern Italy, Sicily and the peninsulas and islands of Greece on white.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Europe — Southern Italy and Greece"
+        },
+        {
+          "alt": "Satellite detail of Scandinavia showing Norway's snowy mountain spine, green Swedish lowlands and dark lakes.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Europe — Scandinavian Snow and Lakes"
+        },
+        {
+          "alt": "Satellite detail of eastern Europe showing winding rivers, pale plains and the blue Caspian margin above a mountain belt.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Europe — Eastern Plains and Caspian Margin"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/europe-satellite-map/",
+      "viewportWidth": 1419
+    },
+    {
+      "product_id": 17340,
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 5,
+      "bad": [],
+      "bodyWidth": 375,
+      "h1": [
+        "Europe Satellite Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map of Europe on white, with the Mediterranean peninsulas, Scandinavia, Atlantic islands and eastern plains.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Europe-Satellite-Map-1_1-min.jpg",
+          "title": "Europe — Continental Cutout"
+        },
+        {
+          "alt": "Satellite detail of the Iberian Peninsula showing pale interior plateaus, mountain belts and greener northern terrain.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Europe-Satellite-Map-1_2-min-766x431.jpg",
+          "title": "Europe — Iberian Peninsula Terrain"
+        },
+        {
+          "alt": "Satellite detail of southern Europe showing southern Italy, Sicily and the peninsulas and islands of Greece on white.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Europe-Satellite-Map-1_3-min-766x431.jpg",
+          "title": "Europe — Southern Italy and Greece"
+        },
+        {
+          "alt": "Satellite detail of Scandinavia showing Norway's snowy mountain spine, green Swedish lowlands and dark lakes.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Europe-Satellite-Map-1_4-min-766x431.jpg",
+          "title": "Europe — Scandinavian Snow and Lakes"
+        },
+        {
+          "alt": "Satellite detail of eastern Europe showing winding rivers, pale plains and the blue Caspian margin above a mountain belt.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Europe-Satellite-Map-1_5-min-766x431.jpg",
+          "title": "Europe — Eastern Plains and Caspian Margin"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/europe-satellite-map/",
+      "viewportWidth": 375
+    },
+    {
+      "product_id": 17495,
+      "size": {
+        "width": 1434,
+        "height": 940
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 1,
+      "bad": [],
+      "bodyWidth": 1419,
+      "h1": [
+        "Iowa Satellite Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map highlighting Iowa, with a green agricultural interior and the broad river boundary along its eastern edge.",
+          "complete": true,
+          "naturalWidth": 766,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Iowa-Satellite-Map-1_1-min.jpg",
+          "title": "Iowa — Agricultural State Overview"
+        },
+        {
+          "alt": "Satellite detail of northwestern Iowa showing a dense rectangular field mosaic and the highlighted state boundary.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Iowa — Northwestern Field Grid"
+        },
+        {
+          "alt": "Satellite detail of northeastern Iowa showing a broad river boundary, branching wooded valleys and patchwork farmland.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Iowa — Northeastern River and Wooded Valleys"
+        },
+        {
+          "alt": "Satellite detail of eastern Iowa showing a curved riverbank, pale riverside settlements and irregular agricultural plots.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Iowa — Eastern Riverbank and Farm Plots"
+        },
+        {
+          "alt": "Satellite detail of Iowa showing Des Moines, branching river corridors and a regular grid of surrounding farmland.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Iowa — Des Moines and River Junctions"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/iowa-satellite-map/",
+      "viewportWidth": 1419
+    },
+    {
+      "product_id": 17495,
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 5,
+      "bad": [],
+      "bodyWidth": 375,
+      "h1": [
+        "Iowa Satellite Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map highlighting Iowa, with a green agricultural interior and the broad river boundary along its eastern edge.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Iowa-Satellite-Map-1_1-min.jpg",
+          "title": "Iowa — Agricultural State Overview"
+        },
+        {
+          "alt": "Satellite detail of northwestern Iowa showing a dense rectangular field mosaic and the highlighted state boundary.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Iowa-Satellite-Map-1_2-min-766x431.jpg",
+          "title": "Iowa — Northwestern Field Grid"
+        },
+        {
+          "alt": "Satellite detail of northeastern Iowa showing a broad river boundary, branching wooded valleys and patchwork farmland.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Iowa-Satellite-Map-1_3-min-766x431.jpg",
+          "title": "Iowa — Northeastern River and Wooded Valleys"
+        },
+        {
+          "alt": "Satellite detail of eastern Iowa showing a curved riverbank, pale riverside settlements and irregular agricultural plots.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Iowa-Satellite-Map-1_4-min-766x431.jpg",
+          "title": "Iowa — Eastern Riverbank and Farm Plots"
+        },
+        {
+          "alt": "Satellite detail of Iowa showing Des Moines, branching river corridors and a regular grid of surrounding farmland.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Iowa-Satellite-Map-1_5-min-766x431.jpg",
+          "title": "Iowa — Des Moines and River Junctions"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/iowa-satellite-map/",
+      "viewportWidth": 375
+    },
+    {
+      "product_id": 17585,
+      "size": {
+        "width": 1434,
+        "height": 940
+      },
+      "diagnostic_query": true,
+      "ok": true,
+      "target_images_checked": 1,
+      "bad": [],
+      "bodyWidth": 1419,
+      "h1": [
+        "Australia Satellite Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map of Australia and Tasmania surrounded by blue ocean, with northern islands and turquoise coastal shallows.",
+          "complete": true,
+          "naturalWidth": 766,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Australia-Satellite-Map-1_1-min-2.jpg",
+          "title": "Australia — Ocean-Framed Continental Overview"
+        },
+        {
+          "alt": "Satellite detail of Australia's interior showing orange-red desert surfaces, dark ridges and pale branching channels.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Australia — Red Interior Ridges and Desert"
+        },
+        {
+          "alt": "Satellite detail of northwestern Australia showing dark blue ocean, turquoise coastal shallows and folded red-brown inland terrain.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Australia — Northwestern Coast and Red Terrain"
+        },
+        {
+          "alt": "Satellite detail of southeastern Australia showing the mainland coast, Bass Strait islands and northern Tasmania.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Australia — Bass Strait and Tasmania"
+        },
+        {
+          "alt": "Satellite detail of northeastern Australia showing Cape York Peninsula, turquoise coastal water and long offshore reef patterns.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Australia — Cape York and Offshore Reefs"
+        },
+        {
+          "alt": "Satellite detail of Australia showing reddish inland terrain, pale lake shapes and a section of coastline.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Australia Satellite Map — Inland Terrain and Coast Detail"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/australia-satellite-map-2/?release-check=20261018-rest-media",
+      "viewportWidth": 1419
+    },
+    {
+      "product_id": 17585,
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "diagnostic_query": true,
+      "ok": true,
+      "target_images_checked": 1,
+      "bad": [],
+      "bodyWidth": 375,
+      "h1": [
+        "Australia Satellite Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map of Australia and Tasmania surrounded by blue ocean, with northern islands and turquoise coastal shallows.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Australia-Satellite-Map-1_1-min-2.jpg",
+          "title": "Australia — Ocean-Framed Continental Overview"
+        },
+        {
+          "alt": "Satellite detail of Australia's interior showing orange-red desert surfaces, dark ridges and pale branching channels.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Australia — Red Interior Ridges and Desert"
+        },
+        {
+          "alt": "Satellite detail of northwestern Australia showing dark blue ocean, turquoise coastal shallows and folded red-brown inland terrain.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Australia — Northwestern Coast and Red Terrain"
+        },
+        {
+          "alt": "Satellite detail of southeastern Australia showing the mainland coast, Bass Strait islands and northern Tasmania.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Australia — Bass Strait and Tasmania"
+        },
+        {
+          "alt": "Satellite detail of northeastern Australia showing Cape York Peninsula, turquoise coastal water and long offshore reef patterns.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Australia — Cape York and Offshore Reefs"
+        },
+        {
+          "alt": "Satellite detail of Australia showing reddish inland terrain, pale lake shapes and a section of coastline.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Australia Satellite Map — Inland Terrain and Coast Detail"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/australia-satellite-map-2/?release-check=20261018-rest-media",
+      "viewportWidth": 375
+    },
+    {
+      "product_id": 17609,
+      "size": {
+        "width": 1434,
+        "height": 940
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 1,
+      "bad": [],
+      "bodyWidth": 1419,
+      "h1": [
+        "Brazil Satellite Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map highlighting Brazil, with a dark green Amazon interior, lighter eastern landscapes and a long Atlantic coast.",
+          "complete": true,
+          "naturalWidth": 766,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Brazil-Satellite-Map-1_1-min.jpg",
+          "title": "Brazil — Country and Amazon Overview"
+        },
+        {
+          "alt": "Satellite detail of southern Brazil showing large turquoise coastal lagoons, a narrow ocean barrier and patchwork inland terrain.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Brazil — Southern Coastal Lagoons"
+        },
+        {
+          "alt": "Satellite detail of southern Brazil showing a broad blue river, branching tributaries and dense agricultural and settled patterns.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Brazil — Southern River and Farmland"
+        },
+        {
+          "alt": "Satellite detail of inland Brazil showing elongated green ridges, paler clearings and scattered dark water bodies.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Brazil — Inland Ridges and Varied Land Cover"
+        },
+        {
+          "alt": "Satellite detail of northern Brazil showing the Amazon's branching river mouth, large islands and broad green lowlands.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Brazil — Amazon River Mouth"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/brazil-satellite-map/",
+      "viewportWidth": 1419
+    },
+    {
+      "product_id": 17609,
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 5,
+      "bad": [],
+      "bodyWidth": 375,
+      "h1": [
+        "Brazil Satellite Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map highlighting Brazil, with a dark green Amazon interior, lighter eastern landscapes and a long Atlantic coast.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Brazil-Satellite-Map-1_1-min.jpg",
+          "title": "Brazil — Country and Amazon Overview"
+        },
+        {
+          "alt": "Satellite detail of southern Brazil showing large turquoise coastal lagoons, a narrow ocean barrier and patchwork inland terrain.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Brazil-Satellite-Map-1_5-min-766x431.jpg",
+          "title": "Brazil — Southern Coastal Lagoons"
+        },
+        {
+          "alt": "Satellite detail of southern Brazil showing a broad blue river, branching tributaries and dense agricultural and settled patterns.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Brazil-Satellite-Map-1_4-min-766x431.jpg",
+          "title": "Brazil — Southern River and Farmland"
+        },
+        {
+          "alt": "Satellite detail of inland Brazil showing elongated green ridges, paler clearings and scattered dark water bodies.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Brazil-Satellite-Map-1_3-min-766x431.jpg",
+          "title": "Brazil — Inland Ridges and Varied Land Cover"
+        },
+        {
+          "alt": "Satellite detail of northern Brazil showing the Amazon's branching river mouth, large islands and broad green lowlands.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Brazil-Satellite-Map-1_2-min-766x431.jpg",
+          "title": "Brazil — Amazon River Mouth"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/brazil-satellite-map/",
+      "viewportWidth": 375
+    },
+    {
+      "product_id": 17705,
+      "size": {
+        "width": 1434,
+        "height": 940
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 1,
+      "bad": [],
+      "bodyWidth": 1419,
+      "h1": [
+        "Israel Satellite Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map highlighting Israel's depicted outline, with the Mediterranean coast, northern greener terrain and a pale southern desert.",
+          "complete": true,
+          "naturalWidth": 766,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Israel-Satellite-Map-1_1-min.jpg",
+          "title": "Israel — Highlighted Coastal and Desert Overview"
+        },
+        {
+          "alt": "Satellite detail of northern Israel showing the Sea of Galilee, surrounding brown-green hills and pale settled areas.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Israel — Northern Lake and Hilly Terrain"
+        },
+        {
+          "alt": "Satellite detail of Israel showing pale urban areas and agricultural fields along the Mediterranean coastal plain.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Israel — Mediterranean Coastal Plain"
+        },
+        {
+          "alt": "Satellite detail of Israel showing pale desert ridges beside the Dead Sea and rectangular blue-green evaporation ponds.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Israel — Dead Sea Margin and Desert Ridges"
+        },
+        {
+          "alt": "Satellite detail of southern Israel showing a narrow pale valley, rectangular green fields and surrounding rugged desert slopes.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Israel — Southern Desert Valley"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/israel-satellite-map/",
+      "viewportWidth": 1419
+    },
+    {
+      "product_id": 17705,
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 5,
+      "bad": [],
+      "bodyWidth": 375,
+      "h1": [
+        "Israel Satellite Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map highlighting Israel's depicted outline, with the Mediterranean coast, northern greener terrain and a pale southern desert.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Israel-Satellite-Map-1_1-min.jpg",
+          "title": "Israel — Highlighted Coastal and Desert Overview"
+        },
+        {
+          "alt": "Satellite detail of northern Israel showing the Sea of Galilee, surrounding brown-green hills and pale settled areas.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Israel-Satellite-Map-1_2-min-766x431.jpg",
+          "title": "Israel — Northern Lake and Hilly Terrain"
+        },
+        {
+          "alt": "Satellite detail of Israel showing pale urban areas and agricultural fields along the Mediterranean coastal plain.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Israel-Satellite-Map-1_3-min-766x431.jpg",
+          "title": "Israel — Mediterranean Coastal Plain"
+        },
+        {
+          "alt": "Satellite detail of Israel showing pale desert ridges beside the Dead Sea and rectangular blue-green evaporation ponds.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Israel-Satellite-Map-1_4-min-766x431.jpg",
+          "title": "Israel — Dead Sea Margin and Desert Ridges"
+        },
+        {
+          "alt": "Satellite detail of southern Israel showing a narrow pale valley, rectangular green fields and surrounding rugged desert slopes.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Israel-Satellite-Map-1_5-min-766x431.jpg",
+          "title": "Israel — Southern Desert Valley"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/israel-satellite-map/",
+      "viewportWidth": 375
+    },
+    {
+      "product_id": 17760,
+      "size": {
+        "width": 1434,
+        "height": 940
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 1,
+      "bad": [],
+      "bodyWidth": 1419,
+      "h1": [
+        "Maldives Satellite Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map of the Maldives showing a long north-south chain of faint turquoise atoll rings across dark blue ocean.",
+          "complete": true,
+          "naturalWidth": 766,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Maldives-Satellite-Map-1_1-min.jpg",
+          "title": "Maldives — Atoll Chain Overview"
+        },
+        {
+          "alt": "Satellite detail of the Maldives showing scattered turquoise reef rings and tiny island shapes separated by broad blue channels.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Maldives — Small Reef and Island Clusters"
+        },
+        {
+          "alt": "Satellite detail of the Maldives showing neighbouring elongated atolls with turquoise rims and many small reefs inside their lagoons.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Maldives — Adjacent Atoll Rings"
+        },
+        {
+          "alt": "Satellite detail of a Maldivian atoll showing a broad waisted outline, bright turquoise reef rim and scattered inner reef patches.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Maldives — Broad Waisted Atoll"
+        },
+        {
+          "alt": "Satellite detail of a rounded Maldivian atoll showing a turquoise rim and long narrow green islands along its eastern side.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Maldives — Rounded Atoll with Long Eastern Islands"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/maldives-satellite-map/",
+      "viewportWidth": 1419
+    },
+    {
+      "product_id": 17760,
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 5,
+      "bad": [],
+      "bodyWidth": 375,
+      "h1": [
+        "Maldives Satellite Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map of the Maldives showing a long north-south chain of faint turquoise atoll rings across dark blue ocean.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Maldives-Satellite-Map-1_1-min.jpg",
+          "title": "Maldives — Atoll Chain Overview"
+        },
+        {
+          "alt": "Satellite detail of the Maldives showing scattered turquoise reef rings and tiny island shapes separated by broad blue channels.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Maldives-Satellite-Map-1_5-min-766x431.jpg",
+          "title": "Maldives — Small Reef and Island Clusters"
+        },
+        {
+          "alt": "Satellite detail of the Maldives showing neighbouring elongated atolls with turquoise rims and many small reefs inside their lagoons.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Maldives-Satellite-Map-1_4-min-766x431.jpg",
+          "title": "Maldives — Adjacent Atoll Rings"
+        },
+        {
+          "alt": "Satellite detail of a Maldivian atoll showing a broad waisted outline, bright turquoise reef rim and scattered inner reef patches.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Maldives-Satellite-Map-1_3-min-766x431.jpg",
+          "title": "Maldives — Broad Waisted Atoll"
+        },
+        {
+          "alt": "Satellite detail of a rounded Maldivian atoll showing a turquoise rim and long narrow green islands along its eastern side.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Maldives-Satellite-Map-1_2-min-766x431.jpg",
+          "title": "Maldives — Rounded Atoll with Long Eastern Islands"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/maldives-satellite-map/",
+      "viewportWidth": 375
+    },
+    {
+      "product_id": 17778,
+      "size": {
+        "width": 1434,
+        "height": 940
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 1,
+      "bad": [],
+      "bodyWidth": 1419,
+      "h1": [
+        "New Zealand Satellite Image"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map of New Zealand showing North Island and South Island, surrounding blue ocean and the snowy Southern Alps.",
+          "complete": true,
+          "naturalWidth": 766,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/New-Zealand-Satellite-Map-1_1-min.jpg",
+          "title": "New Zealand — Two Main Islands Overview"
+        },
+        {
+          "alt": "Satellite detail of New Zealand's South Island showing snowy mountain ridges, elongated blue lakes and brown valleys.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "New Zealand — Southern Alps and Long Lakes"
+        },
+        {
+          "alt": "Satellite detail of New Zealand showing Canterbury's green agricultural plain, braided rivers and the projecting Banks Peninsula coast.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "New Zealand — Canterbury Plain and Banks Peninsula"
+        },
+        {
+          "alt": "Satellite detail of New Zealand's North Island showing Mount Taranaki's circular dark slopes beside a curving western coastline.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "New Zealand — Mount Taranaki and Western Coast"
+        },
+        {
+          "alt": "Satellite detail of central North Island showing a large blue lake, surrounding green land and pale rugged highlands to the south.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "New Zealand — Central North Island Lake and Highlands"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/new-zealand-satellite-map/",
+      "viewportWidth": 1419
+    },
+    {
+      "product_id": 17778,
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 5,
+      "bad": [],
+      "bodyWidth": 375,
+      "h1": [
+        "New Zealand Satellite Image"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map of New Zealand showing North Island and South Island, surrounding blue ocean and the snowy Southern Alps.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/New-Zealand-Satellite-Map-1_1-min.jpg",
+          "title": "New Zealand — Two Main Islands Overview"
+        },
+        {
+          "alt": "Satellite detail of New Zealand's South Island showing snowy mountain ridges, elongated blue lakes and brown valleys.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/New-Zealand-Satellite-Map-1_5-min-766x431.jpg",
+          "title": "New Zealand — Southern Alps and Long Lakes"
+        },
+        {
+          "alt": "Satellite detail of New Zealand showing Canterbury's green agricultural plain, braided rivers and the projecting Banks Peninsula coast.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/New-Zealand-Satellite-Map-1_4-min-766x431.jpg",
+          "title": "New Zealand — Canterbury Plain and Banks Peninsula"
+        },
+        {
+          "alt": "Satellite detail of New Zealand's North Island showing Mount Taranaki's circular dark slopes beside a curving western coastline.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/New-Zealand-Satellite-Map-1_3-min-766x431.jpg",
+          "title": "New Zealand — Mount Taranaki and Western Coast"
+        },
+        {
+          "alt": "Satellite detail of central North Island showing a large blue lake, surrounding green land and pale rugged highlands to the south.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/New-Zealand-Satellite-Map-1_2-min-766x431.jpg",
+          "title": "New Zealand — Central North Island Lake and Highlands"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/new-zealand-satellite-map/",
+      "viewportWidth": 375
+    },
+    {
+      "product_id": 17876,
+      "size": {
+        "width": 1434,
+        "height": 940
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 1,
+      "bad": [],
+      "bodyWidth": 1419,
+      "h1": [
+        "Spain Satellite Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map highlighting mainland Spain and the Balearic Islands, with pale interior plateaus, greener northern terrain and surrounding seas.",
+          "complete": true,
+          "naturalWidth": 766,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Spain-Satellite-Map-1_1-min.jpg",
+          "title": "Spain — Mainland and Balearic Islands Overview"
+        },
+        {
+          "alt": "Satellite detail of Spain showing dark folded ridges above broad pale agricultural plains crossed by winding river channels.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Spain — Folded Ridges and Interior Fields"
+        },
+        {
+          "alt": "Satellite detail of Spain showing a meandering dark river between green ridges and pale exposed highland terrain.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Spain — Meandering River and Exposed Ridges"
+        },
+        {
+          "alt": "Satellite detail of Spain showing a broad coastal river mouth, marsh channels and rectangular green fields beside the sea.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Spain — Coastal Marshes and Agricultural Grid"
+        },
+        {
+          "alt": "Satellite detail of Spain showing pale mountain ridges, green slopes and a narrow coastal strip beside the Mediterranean.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Spain — Mountain Belt and Mediterranean Coast"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/spain-satellite-map-2/",
+      "viewportWidth": 1419
+    },
+    {
+      "product_id": 17876,
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 5,
+      "bad": [],
+      "bodyWidth": 375,
+      "h1": [
+        "Spain Satellite Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map highlighting mainland Spain and the Balearic Islands, with pale interior plateaus, greener northern terrain and surrounding seas.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Spain-Satellite-Map-1_1-min.jpg",
+          "title": "Spain — Mainland and Balearic Islands Overview"
+        },
+        {
+          "alt": "Satellite detail of Spain showing dark folded ridges above broad pale agricultural plains crossed by winding river channels.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Spain-Satellite-Map-1_2-min-1-766x431.jpg",
+          "title": "Spain — Folded Ridges and Interior Fields"
+        },
+        {
+          "alt": "Satellite detail of Spain showing a meandering dark river between green ridges and pale exposed highland terrain.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Spain-Satellite-Map-1_3-min-1-766x431.jpg",
+          "title": "Spain — Meandering River and Exposed Ridges"
+        },
+        {
+          "alt": "Satellite detail of Spain showing a broad coastal river mouth, marsh channels and rectangular green fields beside the sea.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Spain-Satellite-Map-1_4-min-1-766x431.jpg",
+          "title": "Spain — Coastal Marshes and Agricultural Grid"
+        },
+        {
+          "alt": "Satellite detail of Spain showing pale mountain ridges, green slopes and a narrow coastal strip beside the Mediterranean.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/07/Spain-Satellite-Map-1_5-min-1-766x431.jpg",
+          "title": "Spain — Mountain Belt and Mediterranean Coast"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/spain-satellite-map-2/",
+      "viewportWidth": 375
+    },
+    {
+      "product_id": 18013,
+      "size": {
+        "width": 1434,
+        "height": 940
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 1,
+      "bad": [],
+      "bodyWidth": 1419,
+      "h1": [
+        "Rocky Mountain National Park Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map highlighting Rocky Mountain National Park, with pale high ridges, green valleys and darker surrounding mountain terrain.",
+          "complete": true,
+          "naturalWidth": 766,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/08/Rocky-Mountain-National-Park-map-1-min.jpg",
+          "title": "Rocky Mountain National Park — Highlighted Mountain Overview"
+        },
+        {
+          "alt": "Satellite detail of Rocky Mountain National Park showing green western valleys below pale high ridges along the highlighted park outline.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Rocky Mountain National Park — Western Valleys and High Ridges"
+        },
+        {
+          "alt": "Satellite detail of Rocky Mountain National Park showing branching forested valleys between pale rocky ridges and scattered white snow patches.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Rocky Mountain National Park — Forested Valleys and Snow Patches"
+        },
+        {
+          "alt": "Satellite detail of Rocky Mountain National Park showing its stepped eastern outline beside green valleys, winding roads and pale mountain slopes.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "Rocky Mountain National Park — Stepped Eastern Boundary"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/rocky-mountain-national-park-map/",
+      "viewportWidth": 1419
+    },
+    {
+      "product_id": 18013,
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 4,
+      "bad": [],
+      "bodyWidth": 375,
+      "h1": [
+        "Rocky Mountain National Park Map"
+      ],
+      "images": [
+        {
+          "alt": "Satellite map highlighting Rocky Mountain National Park, with pale high ridges, green valleys and darker surrounding mountain terrain.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/08/Rocky-Mountain-National-Park-map-1-min.jpg",
+          "title": "Rocky Mountain National Park — Highlighted Mountain Overview"
+        },
+        {
+          "alt": "Satellite detail of Rocky Mountain National Park showing green western valleys below pale high ridges along the highlighted park outline.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/08/Rocky-Mountain-National-Park-map-2-min-766x431.jpg",
+          "title": "Rocky Mountain National Park — Western Valleys and High Ridges"
+        },
+        {
+          "alt": "Satellite detail of Rocky Mountain National Park showing branching forested valleys between pale rocky ridges and scattered white snow patches.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/08/Rocky-Mountain-National-Park-map-3-min-766x431.jpg",
+          "title": "Rocky Mountain National Park — Forested Valleys and Snow Patches"
+        },
+        {
+          "alt": "Satellite detail of Rocky Mountain National Park showing its stepped eastern outline beside green valleys, winding roads and pale mountain slopes.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2024/08/Rocky-Mountain-National-Park-map-4-min-766x431.jpg",
+          "title": "Rocky Mountain National Park — Stepped Eastern Boundary"
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/rocky-mountain-national-park-map/",
+      "viewportWidth": 375
+    },
+    {
+      "product_id": 19462,
+      "size": {
+        "width": 1434,
+        "height": 940
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 1,
+      "bad": [],
+      "bodyWidth": 1419,
+      "h1": [
+        "Authagraph World Map"
+      ],
+      "images": [
+        {
+          "alt": "AuthaGraph satellite world map preview with dark blue oceans, white Antarctica and wide white margins above and below the map.",
+          "complete": true,
+          "naturalWidth": 766,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/0.jpg",
+          "title": "AuthaGraph — Satellite World Map with White Margins"
+        },
+        {
+          "alt": "AuthaGraph world map with multicoloured countries and a curved coordinate grid on a white ocean background.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph World Map — Multicolour Political Overview"
+        },
+        {
+          "alt": "Detail of the multicoloured AuthaGraph world map showing country outlines across Africa, Europe and Asia with grid lines.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph World Map — Political Map Detail"
+        },
+        {
+          "alt": "AuthaGraph world map with countries in contrasting colours, fine geographic labels, a pale ocean background and curved grid lines.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph — Coloured Country World Map"
+        },
+        {
+          "alt": "Detail of the AuthaGraph country map showing coloured African and western Asian countries with country names and fine boundary lines.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph — Africa and Western Asia Country Detail"
+        },
+        {
+          "alt": "AuthaGraph satellite world map showing the continents against dark blue oceans, with Australia below Asia and white Antarctica at the right.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph — Satellite World Map on Dark Blue Oceans"
+        },
+        {
+          "alt": "AuthaGraph world map with warm land colours and shaded ocean-floor features visible across the dark blue seas.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph — World Terrain and Ocean Floor Shading"
+        },
+        {
+          "alt": "AuthaGraph world map with pale land, fine geographic labels and blue ocean relief around the continents.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph — Pale World Map with Blue Ocean Relief"
+        },
+        {
+          "alt": "AuthaGraph detail of southwestern North America showing warm desert colours, shaded mountain relief and dark blue coastal waters.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph — Southwestern North America Terrain Shading"
+        },
+        {
+          "alt": "AuthaGraph detail of southwestern North America showing roads, place labels and pale terrain beside the blue Pacific coast.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph — Southwestern North America Labelled Map"
+        },
+        {
+          "alt": "AuthaGraph satellite detail of southwestern North America showing pale mountain ridges, green coastal terrain and orange desert basins.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph — Southwestern North America Satellite Detail"
+        },
+        {
+          "alt": "AuthaGraph detail of the Caspian region showing warm desert shading, green mountain belts and blue inland seas.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph — Caspian Region Terrain Shading"
+        },
+        {
+          "alt": "AuthaGraph detail of the Caspian region showing pale land, fine geographic labels, boundary lines and light blue inland seas.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph — Caspian Region Labelled Map"
+        },
+        {
+          "alt": "AuthaGraph satellite detail of the Caspian region showing the blue Caspian Sea, pale deserts, green mountains and smaller inland lakes.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph — Caspian Region Satellite Detail"
+        },
+        {
+          "alt": "AuthaGraph detail of North Africa and Europe showing warm Sahara shading, greener European land and dark blue Mediterranean waters.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph — North Africa and Europe Terrain Shading"
+        },
+        {
+          "alt": "AuthaGraph detail of North Africa and Europe showing pale land, fine geographic labels, boundary lines and light blue seas.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph — North Africa and Europe Labelled Map"
+        },
+        {
+          "alt": "AuthaGraph satellite detail of North Africa and Europe showing Sahara colour bands, green European terrain and the Mediterranean coastline.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph — North Africa and Europe Satellite Detail"
+        },
+        {
+          "alt": "AuthaGraph satellite detail showing northern Australia, nearby islands and southern New Guinea, with turquoise shallows along indented coastlines.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph — Northern Australia and Island Coast Detail"
+        },
+        {
+          "alt": "Detail of a blue and gold AuthaGraph map showing the Atlantic between the Americas, Europe and Africa, with country outlines.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph World Map — Blue and Gold Atlantic Detail"
+        },
+        {
+          "alt": "Detail of a blue and gold AuthaGraph map showing the Pacific between Asia, Australia and the Americas, with country outlines.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph World Map — Blue and Gold Pacific Detail"
+        },
+        {
+          "alt": "AuthaGraph world map with blue land, gold oceans and fine country outlines in a continuous global layout.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": "AuthaGraph World Map — Blue and Gold Overview"
+        },
+        {
+          "alt": "Diagram of repeated AuthaGraph satellite maps with coloured rectangular outlines and arrows showing different frame positions and orientations.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": null
+        },
+        {
+          "alt": "Horizontal rectangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": null
+        },
+        {
+          "alt": "Inverted triangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": null
+        },
+        {
+          "alt": "Vertical rectangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": null
+        },
+        {
+          "alt": "Tilted rectangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": null
+        },
+        {
+          "alt": "AuthaGraph world map with countries in contrasting colours, fine geographic labels, a pale ocean background and curved grid lines.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": null
+        },
+        {
+          "alt": "AuthaGraph world map with blue land, gold oceans and fine country outlines in a continuous global layout.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": null
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/authagraph-world-map/",
+      "viewportWidth": 1419
+    },
+    {
+      "product_id": 19462,
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "diagnostic_query": false,
+      "ok": true,
+      "target_images_checked": 16,
+      "bad": [],
+      "bodyWidth": 375,
+      "h1": [
+        "Authagraph World Map"
+      ],
+      "images": [
+        {
+          "alt": "AuthaGraph satellite world map preview with dark blue oceans, white Antarctica and wide white margins above and below the map.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/0.jpg",
+          "title": "AuthaGraph — Satellite World Map with White Margins"
+        },
+        {
+          "alt": "AuthaGraph world map with multicoloured countries and a curved coordinate grid on a white ocean background.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/Color_Border_Grid_A-min-766x332.jpg",
+          "title": "AuthaGraph World Map — Multicolour Political Overview"
+        },
+        {
+          "alt": "Detail of the multicoloured AuthaGraph world map showing country outlines across Africa, Europe and Asia with grid lines.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/Color_Border_Grid_C-766x332.jpg",
+          "title": "AuthaGraph World Map — Political Map Detail"
+        },
+        {
+          "alt": "AuthaGraph world map with countries in contrasting colours, fine geographic labels, a pale ocean background and curved grid lines.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/Authagraph-World-Map-with-counrty-name-min-766x332.jpg",
+          "title": "AuthaGraph — Coloured Country World Map"
+        },
+        {
+          "alt": "Detail of the AuthaGraph country map showing coloured African and western Asian countries with country names and fine boundary lines.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/High-Resolution-AuthaGraph-World-Map-Country-min-766x332.jpg",
+          "title": "AuthaGraph — Africa and Western Asia Country Detail"
+        },
+        {
+          "alt": "AuthaGraph satellite world map showing the continents against dark blue oceans, with Australia below Asia and white Antarctica at the right.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/SAT_A_crop-766x332.jpg",
+          "title": "AuthaGraph — Satellite World Map on Dark Blue Oceans"
+        },
+        {
+          "alt": "AuthaGraph world map with warm land colours and shaded ocean-floor features visible across the dark blue seas.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/SAT_B_crop-766x332.jpg",
+          "title": "AuthaGraph — World Terrain and Ocean Floor Shading"
+        },
+        {
+          "alt": "AuthaGraph world map with pale land, fine geographic labels and blue ocean relief around the continents.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/SAT_C_crop-766x332.jpg",
+          "title": "AuthaGraph — Pale World Map with Blue Ocean Relief"
+        },
+        {
+          "alt": "AuthaGraph detail of southwestern North America showing warm desert colours, shaded mountain relief and dark blue coastal waters.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/9-min-4-766x431.jpg",
+          "title": "AuthaGraph — Southwestern North America Terrain Shading"
+        },
+        {
+          "alt": "AuthaGraph detail of southwestern North America showing roads, place labels and pale terrain beside the blue Pacific coast.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/8-min-4-766x431.jpg",
+          "title": "AuthaGraph — Southwestern North America Labelled Map"
+        },
+        {
+          "alt": "AuthaGraph satellite detail of southwestern North America showing pale mountain ridges, green coastal terrain and orange desert basins.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/7-min-6-766x431.jpg",
+          "title": "AuthaGraph — Southwestern North America Satellite Detail"
+        },
+        {
+          "alt": "AuthaGraph detail of the Caspian region showing warm desert shading, green mountain belts and blue inland seas.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/6-min-6-766x431.jpg",
+          "title": "AuthaGraph — Caspian Region Terrain Shading"
+        },
+        {
+          "alt": "AuthaGraph detail of the Caspian region showing pale land, fine geographic labels, boundary lines and light blue inland seas.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/5-min-6-766x431.jpg",
+          "title": "AuthaGraph — Caspian Region Labelled Map"
+        },
+        {
+          "alt": "AuthaGraph satellite detail of the Caspian region showing the blue Caspian Sea, pale deserts, green mountains and smaller inland lakes.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/4-min-7-766x431.jpg",
+          "title": "AuthaGraph — Caspian Region Satellite Detail"
+        },
+        {
+          "alt": "AuthaGraph detail of North Africa and Europe showing warm Sahara shading, greener European land and dark blue Mediterranean waters.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/3-min-7-766x431.jpg",
+          "title": "AuthaGraph — North Africa and Europe Terrain Shading"
+        },
+        {
+          "alt": "AuthaGraph detail of North Africa and Europe showing pale land, fine geographic labels, boundary lines and light blue seas.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/2-min-7-766x431.jpg",
+          "title": "AuthaGraph — North Africa and Europe Labelled Map"
+        },
+        {
+          "alt": "AuthaGraph satellite detail of North Africa and Europe showing Sahara colour bands, green European terrain and the Mediterranean coastline.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/1-min-7-766x431.jpg",
+          "title": "AuthaGraph — North Africa and Europe Satellite Detail"
+        },
+        {
+          "alt": "AuthaGraph satellite detail showing northern Australia, nearby islands and southern New Guinea, with turquoise shallows along indented coastlines.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/10-min-4-766x431.jpg",
+          "title": "AuthaGraph — Northern Australia and Island Coast Detail"
+        },
+        {
+          "alt": "Detail of a blue and gold AuthaGraph map showing the Atlantic between the Americas, Europe and Africa, with country outlines.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/B_C1-min-766x431.jpg",
+          "title": "AuthaGraph World Map — Blue and Gold Atlantic Detail"
+        },
+        {
+          "alt": "Detail of a blue and gold AuthaGraph map showing the Pacific between Asia, Australia and the Americas, with country outlines.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/B_C2-min-766x431.jpg",
+          "title": "AuthaGraph World Map — Blue and Gold Pacific Detail"
+        },
+        {
+          "alt": "AuthaGraph world map with blue land, gold oceans and fine country outlines in a continuous global layout.",
+          "complete": true,
+          "naturalWidth": 390,
+          "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/Color_Border_Grid_B-min-766x332.jpg",
+          "title": "AuthaGraph World Map — Blue and Gold Overview"
+        },
+        {
+          "alt": "Diagram of repeated AuthaGraph satellite maps with coloured rectangular outlines and arrows showing different frame positions and orientations.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": null
+        },
+        {
+          "alt": "Horizontal rectangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": null
+        },
+        {
+          "alt": "Inverted triangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": null
+        },
+        {
+          "alt": "Vertical rectangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": null
+        },
+        {
+          "alt": "Tilted rectangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": null
+        },
+        {
+          "alt": "AuthaGraph world map with countries in contrasting colours, fine geographic labels, a pale ocean background and curved grid lines.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": null
+        },
+        {
+          "alt": "AuthaGraph world map with blue land, gold oceans and fine country outlines in a continuous global layout.",
+          "complete": true,
+          "naturalWidth": 0,
+          "src": "https://shustrik-maps.com/wp-content/themes/woodmart/images/lazy.svg",
+          "title": null
+        }
+      ],
+      "url": "https://shustrik-maps.com/product/authagraph-world-map/",
+      "viewportWidth": 375
+    }
+  ],
+  "authagraph_inline_loaded": true,
+  "inline_images": [
+    {
+      "alt": "Diagram of repeated AuthaGraph satellite maps with coloured rectangular outlines and arrows showing different frame positions and orientations.",
+      "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/Mosaic_2000-min.jpg",
+      "title": null,
+      "width": 1434
+    },
+    {
+      "alt": "Horizontal rectangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid.",
+      "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/3-min-6.jpg",
+      "title": null,
+      "width": 1434
+    },
+    {
+      "alt": "Inverted triangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid.",
+      "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/4-min-6.jpg",
+      "title": null,
+      "width": 1434
+    },
+    {
+      "alt": "Vertical rectangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid.",
+      "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/2-min-6.jpg",
+      "title": null,
+      "width": 1434
+    },
+    {
+      "alt": "Tilted rectangular AuthaGraph satellite map outlined in white over a grey repeated-map background with a triangular grid.",
+      "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/1-min-6.jpg",
+      "title": null,
+      "width": 1434
+    },
+    {
+      "alt": "AuthaGraph world map with countries in contrasting colours, fine geographic labels, a pale ocean background and curved grid lines.",
+      "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/Authagraph-World-Map-with-counrty-name-min.jpg",
+      "title": null,
+      "width": 1434
+    },
+    {
+      "alt": "AuthaGraph world map with blue land, gold oceans and fine country outlines in a continuous global layout.",
+      "src": "https://shustrik-maps.com/wp-content/uploads/2025/04/Color_Border_Grid_B-min.jpg",
+      "title": null,
+      "width": 1434
+    }
+  ]
+}
