@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "mode": "--verify",
+  "utc": "2026-10-18T05:12:16+00:00",
+  "id": 17465,
+  "content_sha256": "27a35557ba02ab23a0a9a2563d82290890df45ba5c1305a3e52c8d25455ecc04",
+  "excerpt_sha256": "a45e73ada0f9873364258d0bc861be5f38bfb378d80ecb4c06108f6b0ffde6db",
+  "fields": {
+    "_yoast_wpseo_title": "Florida Satellite Map \u2014 TIF Image Download",
+    "_yoast_wpseo_metadesc": "Download a Florida satellite map as a TIF image for map layouts, presentations and print projects. Supplied without georeferencing."
+  },
+  "protected_preserved": true,
+  "prior_preserved": true,
+  "indexable_match": true,
+  "backup_key": "_shustrik_florida_backup_20261018",
+  "backup_status": "published"
+}

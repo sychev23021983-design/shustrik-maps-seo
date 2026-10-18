@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "mode": "--preview",
+  "utc": "2026-10-18T05:12:04+00:00",
+  "id": 17465,
+  "content_sha256": "0b146187dbadbe73378852ca47c693b6ed75c7263235a8bb339adfd711c6683f",
+  "excerpt_sha256": "a75994438193b7dde6ca1d786a04415e8935ad4ecc6d8e9b9d6d2dd5ef480e25",
+  "fields": {
+    "_yoast_wpseo_title": "High-Resolution Satellite Map of Florida (GeoTIFF/PSD)",
+    "_yoast_wpseo_metadesc": "High-resolution satellite map of Florida in GeoTIFF/PSD format. Suitable for GIS software, design projects and print production."
+  },
+  "protected_preserved": true,
+  "prior_preserved": true,
+  "indexable_match": true,
+  "backup_key": "_shustrik_florida_backup_20261018",
+  "backup_status": null
+}

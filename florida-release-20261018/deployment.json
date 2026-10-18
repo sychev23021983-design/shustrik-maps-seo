@@ -1,0 +1,10 @@
+{
+  "commit": "71302cefd497632bbdc24283ef339be82beb619d",
+  "archive_sha256": "6cc246acfab14f4f96b1a5bd7bd4ff0cf9287b2172d98c8092095ca12431dbeb",
+  "remote_archive_sha256": "6cc246acfab14f4f96b1a5bd7bd4ff0cf9287b2172d98c8092095ca12431dbeb",
+  "mode": "external",
+  "target": "https://shustrik-maps.com",
+  "wp_source": "/tmp/florida-71302cefd497",
+  "container": "shustrik-maps-wordpress-1",
+  "php_lint": true
+}

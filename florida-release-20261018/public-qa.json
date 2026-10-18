@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "urls_checked": 4,
+  "approved_description_exact": true,
+  "metadata_exact": true,
+  "short_phrase_exact": true,
+  "faq_specs_h1_links_authored_media_preserved": true,
+  "other_three_products_unchanged": true,
+  "schema_type_presence_preserved": true
+}
