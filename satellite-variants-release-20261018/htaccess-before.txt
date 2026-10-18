@@ -1,0 +1,21 @@
+# This file was updated by Duplicator Pro on 2026-08-17 10:04:54.
+# See the original_files_ folder for the original source_site_htaccess file.
+Redirect 301 /product/australia-satellite-map-2/ https://shustrik-maps.com/product/australia-satellite-map/
+Redirect 301 /product/georgia-satellite-map-2/ https://shustrik-maps.com/product/georgia-satellite-map/
+Redirect 301 /product/greece-3d-model-terrain-2/ https://shustrik-maps.com/product/greece-3d-model-terrain/
+Redirect 301 /product/spain-satellite-map-2/ https://shustrik-maps.com/product/spain-satellite-map/
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress

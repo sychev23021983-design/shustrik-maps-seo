@@ -1,0 +1,10 @@
+Australia satellite imagery for country-focused layouts, presentations and print design.
+<ul>
+ 	<li>Format: TIF</li>
+ 	<li>Resolution: 14105*12372 px</li>
+ 	<li>Depth: 24 bit</li>
+ 	<li>Size: 187 MB</li>
+ 	<li>Color scheme: RGB</li>
+ 	<li>Projection: Mercator</li>
+</ul>
+[html_block id="11218"]
