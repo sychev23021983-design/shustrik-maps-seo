@@ -1,0 +1,10 @@
+Spain at night imagery for Iberian landscape graphics, editorial maps and print design.
+<ul>
+ 	<li>Format: TIF</li>
+ 	<li>Resolution: 3436*2608 px</li>
+ 	<li>Depth: 24 bit</li>
+ 	<li>Size: 11.8 MB</li>
+ 	<li>Color scheme: RGB</li>
+ 	<li>Projection: Mercator</li>
+</ul>
+[html_block id="11218"]

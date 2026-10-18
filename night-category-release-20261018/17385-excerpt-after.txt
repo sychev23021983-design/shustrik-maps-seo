@@ -1,0 +1,10 @@
+Korean Peninsula at night imagery for regional presentations, editorial maps and print design.
+<ul>
+ 	<li>Format: TIF</li>
+ 	<li>Resolution: 6000*6000 px</li>
+ 	<li>Depth: 48 bit</li>
+ 	<li>Size: 182 MB</li>
+ 	<li>Color scheme: RGB</li>
+ 	<li>Projection: Lambert Conformal Conic</li>
+</ul>
+[html_block id="11218"]

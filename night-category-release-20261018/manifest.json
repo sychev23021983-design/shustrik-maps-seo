@@ -1,0 +1,298 @@
+{
+  "site_profile": "shustrik-maps",
+  "backup_key": "_shustrik_night_category_backup_20261018",
+  "authorization": "Owner explicitly requested checking and optimizing all remaining products in Night Satellite Map, including four fields, and asked about description length. Four targets; previously approved US Night preserved.",
+  "products": [
+    {
+      "id": 17359,
+      "url": "https://shustrik-maps.com/product/north-korea-night-satellite-map/",
+      "slug": "north-korea-night-satellite-map",
+      "invariant": "3b65f511695642cf64f7fd17ef338532b7d147add041b7afb6ee757a61a001d2",
+      "before": {
+        "_yoast_wpseo_title": "North Korea at Night Satellite Map — TIF Image",
+        "_yoast_wpseo_metadesc": "Explore a nighttime satellite map of North Korea supplied as a TIF image at 4,711 × 5,000 pixels. View the preview and file specifications."
+      },
+      "counts": {
+        "_yoast_wpseo_title": 1,
+        "_yoast_wpseo_metadesc": 1
+      },
+      "after": {
+        "_yoast_wpseo_title": "North Korea at Night Satellite Map — TIF Download",
+        "_yoast_wpseo_metadesc": "Download a North Korea at night satellite map, focused on the country's nighttime light patterns. Static TIF image supplied without georeferencing."
+      },
+      "indexables_before": [
+        {
+          "id": "8091",
+          "title": "North Korea at Night Satellite Map — TIF Image",
+          "description": "Explore a nighttime satellite map of North Korea supplied as a TIF image at 4,711 × 5,000 pixels. View the preview and file specifications."
+        }
+      ],
+      "edits": [
+        {
+          "at_bytes": 394,
+          "old": "<strong>North Korea Night Satellite Map</strong> is a high-resolution nighttime satellite imagery map providing a detailed and accurate view of North Korea’s landscape as seen from space at night. This map is perfect for various applications, including geographic research, environmental studies, and decor.\r\n<h4>What is a Night Satellite Map?</h4>\r\nA Night Satellite Map is a detailed representation of the Earth's surface captured by satellites during nighttime. These maps provide high-resolution images that display the natural and man-made features of the terrain, highlighting urban areas through light emissions. Nighttime satellite maps are widely used for urban planning, disaster management, geographic analysis, and even decor.\r\n<h4>Use Cases:</h4>\r\n<ol>\r\n \t<li><strong>Geographic Research</strong>: Researchers can analyze urbanization patterns, population distribution, and other geographic features.</li>\r\n \t<li><strong>Environmental Studies</strong>: Environmental scientists use nighttime satellite imagery for monitoring light pollution, assessing natural disasters, and managing resources.</li>\r\n \t<li><strong>Decor</strong>: Printed on a plotter, the high-resolution night satellite map of North Korea can be used as stunning wall art, adding a unique and intriguing visual element to any space.</li>\r\n</ol>\r\n<h4>Features:</h4>\r\n<ul>\r\n \t<li><strong>High Resolution</strong>: The North Korea Night Satellite Map offers high-resolution imagery, ensuring clear and detailed visualization.</li>\r\n \t<li><strong>Up-to-Date</strong>: The map provides the latest nighttime satellite images, reflecting current light conditions.</li>\r\n \t<li><strong>Extensive Coverage</strong>: Covers the entire country of North Korea, including cities, rural areas, and coastal regions.</li>\r\n \t<li><strong>Decorative Use</strong>: The detailed and visually appealing nighttime imagery makes it perfect for printing and using as decor.</li>\r\n</ul>\r\n<h4>Benefits:</h4>\r\n<ul>\r\n \t<li><strong>Accurate Visualization</strong>: High-quality images provide a clear and precise view of the terrain at night, aiding in detailed analysis and planning.</li>\r\n \t<li><strong>Versatile Applications</strong>: Suitable for a wide range of professional uses, from research to practical applications in various industries, and even home or office decor.</li>\r\n \t<li><strong>User-Friendly</strong>: The map is compatible with various software tools, making it easy to integrate and use for further analysis and presentation.</li>\r\n \t<li><strong>Aesthetic Appeal</strong>: The high-resolution night satellite map can be printed on a plotter to create beautiful and informative wall art.</li>\r\n</ul>\r\nBy purchasing the <strong>North Korea Night Satellite Map</strong> on shustrik-maps.com, you are acquiring a valuable tool for geographic visualization, analysis, and decor. This map will greatly enhance your projects with its high resolution and detailed nighttime imagery, ensuring reliable and accurate results, while also providing a stunning visual element for any space.",
+          "text": "<p>The North Korea at night satellite map places the country at the centre of a dark regional landscape. Scattered points of light and a brighter cluster in the western part interrupt the subdued terrain, while stronger illumination in the surrounding area provides contrast.</p>\n<p>The relatively close framing keeps North Korea prominent within the composition. Faint coastlines and boundary lines help define the geography, but the distribution of lights remains the main visual subject. The balance between isolated bright areas and a largely dark interior gives this view a different character from a daytime landscape image.</p>\n<p>Use the map in editorial features about North Korea, geographic presentations and exhibition panels centred on nighttime imagery. Its focused extent also suits printed compositions in which one country is the subject, with the contrasting light patterns providing a visual starting point for the accompanying narrative.</p>"
+        }
+      ],
+      "excerpt_edit": {
+        "at_bytes": 0,
+        "old": "North Korea Night Satellite Map - High-Resolution Nighttime Satellite Imagery for Geographic Research and Decor\r\n",
+        "text": "North Korea at night imagery for country-focused editorial maps, presentations and print design.\r\n"
+      },
+      "before_sha256": "e3f6fafcd663b1db8233f8b910f501c65bc30aea61bd2c36ae4bf45f9f277731",
+      "after_sha256": "ce82fc3bdda10fb2eadb57a08496681d9785f38deb1703f9b5d2fa0499c8acfe",
+      "excerpt_before_sha256": "ac2c3ef8f658c2e3ef43eb27a4debe5ead1df6e4723b9ee52e156333a1b1fa2f",
+      "excerpt_after_sha256": "819da652a926708ececb800f10ce70e741569d71a2f53373aee2304abdac0ae2",
+      "paragraphs": [
+        "The North Korea at night satellite map places the country at the centre of a dark regional landscape. Scattered points of light and a brighter cluster in the western part interrupt the subdued terrain, while stronger illumination in the surrounding area provides contrast.",
+        "The relatively close framing keeps North Korea prominent within the composition. Faint coastlines and boundary lines help define the geography, but the distribution of lights remains the main visual subject. The balance between isolated bright areas and a largely dark interior gives this view a different character from a daytime landscape image.",
+        "Use the map in editorial features about North Korea, geographic presentations and exhibition panels centred on nighttime imagery. Its focused extent also suits printed compositions in which one country is the subject, with the contrasting light patterns providing a visual starting point for the accompanying narrative."
+      ],
+      "short_phrase": "North Korea at night imagery for country-focused editorial maps, presentations and print design.",
+      "description_word_count": 141
+    },
+    {
+      "id": 17370,
+      "url": "https://shustrik-maps.com/product/satellite-image-of-america-at-night/",
+      "slug": "satellite-image-of-america-at-night",
+      "invariant": "353619b2b38cd81c5ef35d8d45be69c543e647cd5feb91b6e0acdd77e4547a16",
+      "before": {
+        "_yoast_wpseo_title": "North America at Night Satellite Map — TIF Image",
+        "_yoast_wpseo_metadesc": "Explore a nighttime satellite map of North America supplied as a TIF image at 8,000 × 9,578 pixels. View the preview and file specifications."
+      },
+      "counts": {
+        "_yoast_wpseo_title": 1,
+        "_yoast_wpseo_metadesc": 1
+      },
+      "after": {
+        "_yoast_wpseo_title": "North America at Night Satellite Map — TIF Download",
+        "_yoast_wpseo_metadesc": "Download a North America at night satellite map showing continental city-light patterns. TIF image for editorial and print layouts, without georeferencing."
+      },
+      "indexables_before": [
+        {
+          "id": "8242",
+          "title": "North America at Night Satellite Map — TIF Image",
+          "description": "Explore a nighttime satellite map of North America supplied as a TIF image at 8,000 × 9,578 pixels. View the preview and file specifications."
+        }
+      ],
+      "edits": [
+        {
+          "at_bytes": 394,
+          "old": "Our <strong>North America Satellite Map at Night</strong> offers a high-resolution, detailed look at the North American continent as seen from space after dark. Ideal for researchers, environmental scientists, and even home decor, this nighttime satellite imagery captures the glowing lights of urban areas, regional differences in light, and the beauty of coastal regions under the night sky. Explore North America's diverse landscape through the lens of nighttime illumination, making this map both informative and visually striking.\r\n<h3>Key Features of the North America Satellite Map</h3>\r\n<ul>\r\n \t<li><strong>High-Resolution Satellite Imagery:</strong> This map provides a detailed, accurate representation of North America’s landscape at night, showcasing city lights, natural features, and coastal regions.</li>\r\n \t<li><strong>Nighttime Illumination:</strong> See the continent illuminated by city lights, revealing urbanization patterns, population density, and light pollution levels.</li>\r\n \t<li><strong>Geographical Details:</strong> Capture regional differences, from densely populated urban areas to nature reserves and coastal regions, all in stunning clarity.</li>\r\n</ul>\r\n<h3>Use Cases</h3>\r\n<ol>\r\n \t<li><strong>Geographic Research:</strong> This map is a valuable tool for geographic analysis, helping researchers study urban growth, regional differences in light intensity, and population distribution across North America.</li>\r\n \t<li><strong>Environmental Studies:</strong> Environmental scientists can use nighttime satellite imagery to monitor light pollution, track natural disasters, and assess environmental impact in various regions.</li>\r\n \t<li><strong>Decor:</strong> Printed on high-quality paper or canvas, this satellite map doubles as a piece of art. Its stunning nighttime view adds depth and intrigue to any living space or office.</li>\r\n</ol>\r\n<h3>Benefits</h3>\r\n<ul>\r\n \t<li><strong>Accurate Visualization:</strong> Provides a clear and precise view of North America from space at night, perfect for detailed analysis and geographic research.</li>\r\n \t<li><strong>Versatile Applications:</strong> Suitable for scientific research, environmental studies, and as a unique decorative item.</li>\r\n \t<li><strong>User-Friendly:</strong> Compatible with various mapping and GIS software for easy integration into professional analysis.</li>\r\n \t<li><strong>Aesthetic Appeal:</strong> Available in high resolution, this nighttime map makes for beautiful wall decor, showcasing the continent's lights and natural beauty.</li>\r\n</ul>\r\n",
+          "text": "<p>The North America at night satellite map brings Canada, the United States and Mexico into a continental composition, with Greenland and the northern Arctic landscape framing the upper part of the image. Bright concentrations across the United States stand out against the much darker expanses farther north.</p>\n<p>At this scale, the lights form a broad geographic pattern rather than a close view of individual cities. The eastern part of the United States appears as a denser network, while more separated clusters punctuate the western interior. Coastal light patterns and the outline of the continent connect these regions within a single scene.</p>\n<p>Use the image for continent-wide editorial maps, geographic presentations and exhibition graphics about North America. Its wider coverage provides context beyond a United States-only view, making it suitable for layouts that place several countries or regions in the same visual frame.</p>"
+        }
+      ],
+      "excerpt_edit": {
+        "at_bytes": 0,
+        "old": "<h2>North America Satellite Map - Nighttime View</h2>\r\n",
+        "text": "North America at night imagery for continental overviews, editorial graphics and print design.\r\n"
+      },
+      "before_sha256": "971e5757d13c5a2a94d02a83330ed80ab60b80126063511a0aa221c4ad8f95f1",
+      "after_sha256": "b7e073c5d3e63b8230662c48f41fc9dd6b06df1e374b223fe84034abbd7788c8",
+      "excerpt_before_sha256": "f81e46f15f9c811f2f76f0af3bdcc575ea5e38f046fe9fff114e775b6c6e98d4",
+      "excerpt_after_sha256": "eb446ff0e68e1770f923489b918117afc2171b0c7c9f0527c44c73641a3252cf",
+      "paragraphs": [
+        "The North America at night satellite map brings Canada, the United States and Mexico into a continental composition, with Greenland and the northern Arctic landscape framing the upper part of the image. Bright concentrations across the United States stand out against the much darker expanses farther north.",
+        "At this scale, the lights form a broad geographic pattern rather than a close view of individual cities. The eastern part of the United States appears as a denser network, while more separated clusters punctuate the western interior. Coastal light patterns and the outline of the continent connect these regions within a single scene.",
+        "Use the image for continent-wide editorial maps, geographic presentations and exhibition graphics about North America. Its wider coverage provides context beyond a United States-only view, making it suitable for layouts that place several countries or regions in the same visual frame."
+      ],
+      "short_phrase": "North America at night imagery for continental overviews, editorial graphics and print design.",
+      "description_word_count": 142
+    },
+    {
+      "id": 17385,
+      "url": "https://shustrik-maps.com/product/satellite-picture-of-korea-at-night/",
+      "slug": "satellite-picture-of-korea-at-night",
+      "invariant": "d5ba4bd5b056c77be4e5386b053f639653f1df25ca5294b2d70f026bee951567",
+      "before": {
+        "_yoast_wpseo_title": "Satellite Picture of Korea at Night - High-Resolution Nighttime Sat",
+        "_yoast_wpseo_metadesc": "Satellite Picture of Korea at Night - high-resolution nighttime satellite imagery ideal for geographic research and decor. Accurate and detailed."
+      },
+      "counts": {
+        "_yoast_wpseo_title": 1,
+        "_yoast_wpseo_metadesc": 1
+      },
+      "after": {
+        "_yoast_wpseo_title": "Korea at Night Satellite Picture — TIF Download",
+        "_yoast_wpseo_metadesc": "Download a satellite picture of Korea at night showing North and South Korea in one regional view. Static TIF image supplied without georeferencing."
+      },
+      "indexables_before": [
+        {
+          "id": "7694",
+          "title": "Satellite Picture of Korea at Night - High-Resolution Nighttime Sat",
+          "description": "Satellite Picture of Korea at Night - high-resolution nighttime satellite imagery ideal for geographic research and decor. Accurate and detailed."
+        }
+      ],
+      "edits": [
+        {
+          "at_bytes": 394,
+          "old": "<strong>Satellite Picture of Korea at Night</strong> is a high-resolution nighttime satellite imagery map providing a detailed and accurate view of Korea’s landscape as seen from space at night. This map is perfect for various applications, including geographic research, environmental studies, and decor.\r\n<h4>What is a Night Satellite Map?</h4>\r\nA Night Satellite Map is a detailed representation of the Earth's surface captured by satellites during nighttime. These maps provide high-resolution images that display the natural and man-made features of the terrain, highlighting urban areas through light emissions. Nighttime satellite maps are widely used for urban planning, disaster management, geographic analysis, and even decor.\r\n<h4>Use Cases:</h4>\r\n<ol>\r\n \t<li><strong>Geographic Research</strong>: Researchers can analyze urbanization patterns, population distribution, and other geographic features.</li>\r\n \t<li><strong>Environmental Studies</strong>: Environmental scientists use nighttime satellite imagery for monitoring light pollution, assessing natural disasters, and managing resources.</li>\r\n \t<li><strong>Decor</strong>: Printed on a plotter, the high-resolution night satellite map of Korea can be used as stunning wall art, adding a unique and intriguing visual element to any space.</li>\r\n</ol>\r\n<h4>Features:</h4>\r\n<ul>\r\n \t<li><strong>High Resolution</strong>: The Satellite Picture of Korea at Night offers high-resolution imagery, ensuring clear and detailed visualization.</li>\r\n \t<li><strong>Up-to-Date</strong>: The map provides the latest nighttime satellite images, reflecting current light conditions.</li>\r\n \t<li><strong>Extensive Coverage</strong>: Covers the entire Korean Peninsula, including cities, rural areas, and coastal regions.</li>\r\n \t<li><strong>Decorative Use</strong>: The detailed and visually appealing nighttime imagery makes it perfect for printing and using as decor.</li>\r\n</ul>\r\n<h4>Benefits:</h4>\r\n<ul>\r\n \t<li><strong>Accurate Visualization</strong>: High-quality images provide a clear and precise view of the terrain at night, aiding in detailed analysis and planning.</li>\r\n \t<li><strong>Versatile Applications</strong>: Suitable for a wide range of professional uses, from research to practical applications in various industries, and even home or office decor.</li>\r\n \t<li><strong>User-Friendly</strong>: The map is compatible with various software tools, making it easy to integrate and use for further analysis and presentation.</li>\r\n \t<li><strong>Aesthetic Appeal</strong>: The high-resolution night satellite map can be printed on a plotter to create beautiful and informative wall art.</li>\r\n</ul>\r\nBy purchasing the <strong>Satellite Picture of Korea at Night</strong> on shustrik-maps.com, you are acquiring a valuable tool for geographic visualization, analysis, and decor. This map will greatly enhance your projects with its high resolution and detailed nighttime imagery, ensuring reliable and accurate results, while also providing a stunning visual element for any space.",
+          "text": "<p>This satellite picture of Korea at night shows the Korean Peninsula within a wider East Asian setting. The brightly illuminated areas of South Korea contrast with the much darker northern part of the peninsula, making the difference in visible light patterns the central feature of the composition.</p>\n<p>Surrounding parts of China and Japan remain in view, placing the peninsula within its regional geography. The dark sea separates the illuminated land areas, while the coastline and the long shape of Korea keep the scene recognisable. This broader framing gives the image a different purpose from a close country-focused view of North Korea.</p>\n<p>Use it in editorial features, geographic presentations and exhibition layouts that discuss the peninsula as a whole. The combination of a strong light-dark contrast and surrounding regional context also lends itself to printed map compositions and visual storytelling about cities and their geographic setting.</p>"
+        }
+      ],
+      "excerpt_edit": {
+        "at_bytes": 0,
+        "old": "Satellite Picture of Korea at Night - High-Resolution Nighttime Satellite Imagery for Geographic Research and Decor\r\n",
+        "text": "Korean Peninsula at night imagery for regional presentations, editorial maps and print design.\r\n"
+      },
+      "before_sha256": "a217d30fd2852b74adafef22ebecdb625cc3104c72e0619d6b4bbdf45aee22b5",
+      "after_sha256": "dda57765c8f66413bd075fcc0398ccd6a0ecd9669c0ebc687662857bb2471056",
+      "excerpt_before_sha256": "f6c4c17f28910574b9385357c2d8a1ec8dbe4a926014a04a823386815d469def",
+      "excerpt_after_sha256": "12a0683184cb4bebffd6252f294094e36375fb5cc456b6ee991052e5ba6c98a4",
+      "paragraphs": [
+        "This satellite picture of Korea at night shows the Korean Peninsula within a wider East Asian setting. The brightly illuminated areas of South Korea contrast with the much darker northern part of the peninsula, making the difference in visible light patterns the central feature of the composition.",
+        "Surrounding parts of China and Japan remain in view, placing the peninsula within its regional geography. The dark sea separates the illuminated land areas, while the coastline and the long shape of Korea keep the scene recognisable. This broader framing gives the image a different purpose from a close country-focused view of North Korea.",
+        "Use it in editorial features, geographic presentations and exhibition layouts that discuss the peninsula as a whole. The combination of a strong light-dark contrast and surrounding regional context also lends itself to printed map compositions and visual storytelling about cities and their geographic setting."
+      ],
+      "short_phrase": "Korean Peninsula at night imagery for regional presentations, editorial maps and print design.",
+      "description_word_count": 145
+    },
+    {
+      "id": 17416,
+      "url": "https://shustrik-maps.com/product/spain-night-satellite-map/",
+      "slug": "spain-night-satellite-map",
+      "invariant": "45d675025c9b9f16ed9ecb2adebd0ec2d7ca4c35237cbbe188cea92079395918",
+      "before": {
+        "_yoast_wpseo_title": "High-Resolution Spain Night Satellite Map | Stunning Night View",
+        "_yoast_wpseo_metadesc": "Discover the mesmerizing beauty of Spain at night with our high-resolution satellite map. Perfect for educators, urban planners, and geography enthusiasts."
+      },
+      "counts": {
+        "_yoast_wpseo_title": 1,
+        "_yoast_wpseo_metadesc": 1
+      },
+      "after": {
+        "_yoast_wpseo_title": "Spain at Night Satellite Map — TIF Image Download",
+        "_yoast_wpseo_metadesc": "Download a Spain at night satellite map with an Iberian view of city lights and coastal patterns. Static TIF image supplied without georeferencing."
+      },
+      "indexables_before": [
+        {
+          "id": "8243",
+          "title": "High-Resolution Spain Night Satellite Map | Stunning Night View",
+          "description": "Discover the mesmerizing beauty of Spain at night with our high-resolution satellite map. Perfect for educators, urban planners, and geography enthusiasts."
+        }
+      ],
+      "edits": [
+        {
+          "at_bytes": 394,
+          "old": "Experience the captivating beauty of Spain from a unique perspective with our <strong>Spain Night Satellite Map</strong>. This high-resolution satellite map offers an unparalleled view of Spain at night, capturing the mesmerizing glow of city lights against the tranquil darkness of rural areas. Ideal for educational purposes, urban planning, or simply as a stunning piece of art, this map is a must-have for anyone with an interest in geography or astronomy.\r\n\r\n<strong>Why You Should Buy:</strong>\r\n<ul>\r\n \t<li><strong>Educational Value</strong>: Perfect for educators and students, this map serves as a valuable resource for teaching about geography, urbanization, and the effects of light pollution.</li>\r\n \t<li><strong>Aesthetic Appeal</strong>: The stunning night view of Spain makes for an eye-catching and conversation-starting piece of decor, suitable for both homes and offices.</li>\r\n \t<li><strong>High-Quality Print</strong>: The high resolution and large file size ensure that the map can be printed in large formats without losing detail, making it ideal for display purposes.</li>\r\n</ul>\r\n\r\n<hr />\r\n\r\n<strong>Lifestyle Integration:</strong>\r\n\r\nWhether you're an educator, a geography enthusiast, or someone who appreciates unique art, the Spain Night Satellite Map adds a touch of sophistication and intrigue to your space. It not only serves as a functional educational tool but also as a beautiful piece of art that can spark conversations and inspire curiosity about the world we live in.",
+          "text": "<p>The Spain at night satellite map presents mainland Spain within the Iberian Peninsula, with Portugal providing the Atlantic context to the west. A prominent light cluster in the interior and bright concentrations along the Mediterranean coast give the scene a recognisable geographic structure.</p>\n<p>Smaller points and strands of light connect the brighter areas across the peninsula, while darker inland regions provide contrast. The Balearic Islands and part of the North African coast extend the composition into the western Mediterranean. This regional framing places Spain's nighttime landscape in context rather than isolating it against an empty background.</p>\n<p>Use the image in editorial maps, presentations about Spanish regions and exhibition graphics with an Iberian or Mediterranean theme. The warm lights against the dark land and sea also provide a visual focus for printed geographic compositions, particularly where the relationship between the interior and the coast is part of the story.</p>"
+        }
+      ],
+      "excerpt_edit": {
+        "at_bytes": 0,
+        "old": "High-Resolution Spain Night Satellite Map\r\n",
+        "text": "Spain at night imagery for Iberian landscape graphics, editorial maps and print design.\r\n"
+      },
+      "before_sha256": "f1a5069047f17c819f2696fdb292908b95889373cc5c53159cf3ce76fe89cc7b",
+      "after_sha256": "bd2419a53a755b3f6239f2c6e2428b5e1428a01cf9ba2bffb53eaca020f35ffd",
+      "excerpt_before_sha256": "481874b2fcfa6ba949d356a053a5fdd4350a06f12d463b8e73b4c89aa7f76a43",
+      "excerpt_after_sha256": "c7b8a93a43e361da3b4af76236f7921291c6250e7e7f945253d5ac0dcb425670",
+      "paragraphs": [
+        "The Spain at night satellite map presents mainland Spain within the Iberian Peninsula, with Portugal providing the Atlantic context to the west. A prominent light cluster in the interior and bright concentrations along the Mediterranean coast give the scene a recognisable geographic structure.",
+        "Smaller points and strands of light connect the brighter areas across the peninsula, while darker inland regions provide contrast. The Balearic Islands and part of the North African coast extend the composition into the western Mediterranean. This regional framing places Spain's nighttime landscape in context rather than isolating it against an empty background.",
+        "Use the image in editorial maps, presentations about Spanish regions and exhibition graphics with an Iberian or Mediterranean theme. The warm lights against the dark land and sea also provide a visual focus for printed geographic compositions, particularly where the relationship between the interior and the coast is part of the story."
+      ],
+      "short_phrase": "Spain at night imagery for Iberian landscape graphics, editorial maps and print design.",
+      "description_word_count": 148
+    }
+  ],
+  "prior": {
+    "11517": "4b1206ebfb31298c9ff81504bb56536d0e578748fe971d9c72d5645a3d5da46a",
+    "14581": "6384f27eb27654bee38011e595ce7ce7bcf7fa2b6819c886a8e940331146aa0d",
+    "14594": "7ac18c42bcaa983c080b327fbfa3bd1126421c90fa838deae15b0b126464ad8a",
+    "14596": "a7f915c4f509090d045eddf0f6f722d7e31bb1b8a7373ee87d8c5e049608ca77",
+    "15631": "8c9ea7f1931deb7faa985c8da4b3be1340eaa983388a9aa5371fca8a5df87a84",
+    "15849": "065990db58e351f65af52745342c5abba0546af17c4ece6dc08a2cb893d85823",
+    "16110": "6caa6a4a5e795bc06a0c196ffd58c3140e4abed0093817da1c111a280435b77d",
+    "17288": "994c64aa2616f688fbc9bb66a469fe118e8121698ebf730515564bafb34f2f79",
+    "17310": "2554580ff96b5ec1215853e6818852adf4585f3758b1e3f0e330baa3fc5127d2",
+    "17316": "6bc2987b2b7d4e0b0a25544186c39682eeb863aa37a8d2a76a8b9f0d1725df40",
+    "17322": "10e7784349a55f94173d822bfebfc027e8c6c4ca344b4e66c5aafcf6a93fb47c",
+    "17328": "f879d996c420712fa584edddd512fad95d9092804d3459d42ba8c660bc3b7b48",
+    "17334": "85fe2a8e90aa026ea0549bec79952f945d01e44dcfc2dcb61dac67cfd1610150",
+    "17340": "a7b9f53ca739526ef35bf7858d98e60684f738decce47ff62513a42be5067f16",
+    "17346": "750383a113524b3ffd22382b188fc1ae36b2ed823f7fd95fca9c2727e9a11a9c",
+    "17352": "ae232e41bde3422a0ebb60f74846c9a6ae316942f6af1700e6a5e299ccee0480",
+    "17364": "7de21858e4787500ef283e9903fd1cc13188de261e3b58896160f5e6b3abdfa9",
+    "17408": "10ff03685846ca40d7d06f624c9b9d7f2f1b4a2c5952deea4decb87524e91782",
+    "17422": "49aff8a08eb71dfb2df8b14261bf96607d8009ca10c20dacb0c0090976ed0115",
+    "17429": "3af3dacb2c5b38f95c24931fb93d3ac40fdc098efe98e4e38cac00cd8eb139d6",
+    "17435": "bb38f14b78d2330f3dfa27a9da12ca8dee9f3f7726a998e6bf2b1f079d636b44",
+    "17441": "ede8d680eabc966f5718119c209501796c94fcb05bb5ef7d8c167e0258b284e9",
+    "17447": "8616abfd3be183bcaceffed621f97088bdd6d24729e53efda8697392a500f31b",
+    "17454": "d9febc426c6d0d6d579799759a0577d7ef5c0b22f9367c6605ff8c48128d0668",
+    "17459": "23bad240a7bdc7a67d734e057c17f3185aeaeed7798221a5bc14f1c37fec83e2",
+    "17465": "789fe5e39ea85d0bf58d9af22ec351d93afc733698353308184ea7ecffccf58c",
+    "17471": "2eee2cc29550df1d563be453fa6d161e0da5dc82f661deb754f1b3295b919944",
+    "17477": "14e65088cf0493a7a21b0bf2e47d8cb413871300875e4646c827bb1e944a71fe",
+    "17483": "83a74ec77e929754765dc6aae108dfef138502fd9a1e9342006e741f5d42201b",
+    "17489": "46fe10d39f6a2645a6ad14171935d8c5d027a6be7b187e8d7af7588c1f9dab30",
+    "17495": "05abdfc903f674f9455f4f6af01f925d04c818613c7fc9df0946b27bb3bff953",
+    "17501": "407ac29ccf78ca711d9f985f849b0b3dea513a4c33d1ee471b6e85476ea9a96f",
+    "17507": "e3c7aa334c04a391dac14118e99d64301dc6e2297b8583b0fb6db680da32ac09",
+    "17513": "96dc08330d9c3f45ba8bc82d43df0eddecab1a55e5da328a1a07f20abd62556c",
+    "17519": "9057e1bfdeba8cc22046fa4b0db1c4f6e67459247eee52a98096df68f85613b7",
+    "17525": "e0bb24cc7a62577e1ac060d706166a60580d5709a3555ec4d2096489557fefa3",
+    "17530": "a55ce31d2b64428ad8f1ff3cad92ffa591d4947d80e8bfc6866ed546ef4d8ba3",
+    "17544": "76d8286a018f3eddd7067e56c6ec4d8de783d3ca7f2f9a9e1f236dccfd1dcffa",
+    "17550": "9bfdb0ae0fd7a9a4bfe8862df3fd739787e61f725bc4e51eb6a94c3b7aa6f1cf",
+    "17556": "ef8bf681e18b38d7c66c99bf49948ed592c1a9dd56ee49de805cc7e8b7d07456",
+    "17562": "6f4da02dc48b0c16b463544ae9c75b9af09521ff3f25e1e59ff92e16c666211f",
+    "17568": "73e9fcdf7cf8e5f390c60ad1674f578dd3188ed6002080d21434c00c50837ab6",
+    "17574": "9d866da351b8660c82be8c0284e961418b09dfe92750f185140933ff7b69fdf8",
+    "17580": "6f3bd108f04f87c948d986c4ef913c7d0e7e6cf96c8a1ec78520770ca98bcbd3",
+    "17585": "99f6a1afd1751298ee0caf5555604c304b2b160523ae28f7ec0f764609b38aca",
+    "17597": "68093568ce559f293dd69ba2abd242b261a5a0517d698e267c4a9144729c9105",
+    "17603": "06f23819b29534a67f33d735e06763cf2d553a2e86375097e164d6a3a37b7c2c",
+    "17609": "b70b63edf192851b33cad603b4be9beef3354dd011395f1bb19600e6e18086b0",
+    "17615": "41302837f7efde58ca3aedb977ad153dd9c92a73ba3331b9b1dedea51e51dca7",
+    "17622": "b52a34fa6f9b1cf0dc4d91aa682b17c5d7d5262bfa1df8c2193570adcaf18b77",
+    "17628": "70280b6f9b96ccdce918ed9c13f7189738d3ff625aa0703a1c6e410cb37baa21",
+    "17635": "f7965a7369096e1f9552fac099a19376d8ff1948859403956b051953e5a8aa40",
+    "17641": "11ffcc37231c0030948c3df3294ea6ca9959454174562f9fc4a751fe342e1b2d",
+    "17647": "8d72d638301339d330dac12ff99a62d752ed5da4c0bbe8a55b2df7387fa04ab4",
+    "17653": "e6775b435cedcf639c4d66880ae71a7d0ca4d6850486d959b835b01c85c5a432",
+    "17659": "7c1fa0f95bd80f9b3816a0e9b2e1f2d2b9f61dc60c13f97048d1ef9f026a8e9f",
+    "17669": "aa9d25ccb498a2c2f138922162bbe42663334cbdb2a4a7d4439d0dbc24434f9a",
+    "17675": "ee9d31c8186cde0a4e0827bdb212678d62009058e57ab531932200d99a6ebbe7",
+    "17687": "677f3e78cb0cf6dfd0b010e929d411acb96997de80fa006ec8d350ce598059e8",
+    "17693": "1e0cff7cd2efa617f135f9da5d22e67c380a8a42d0dac941bee7390e33544df8",
+    "17699": "faa718f8996466a69828ca9c6dca86f320639714f04f11e6b5a3f14e78c68a18",
+    "17705": "d9a5be8076264efe7377d4def441ca294df67863b3e8bdeca172e355a9e3bef9",
+    "17711": "89d4c058f4677b47f4d949ba20998856d96e57b7e77c0455cbbf9a0df78e866c",
+    "17717": "9b1321f60463386f80aa0cee4de04ebce5dd46a38e253c0afc551d386692a638",
+    "17723": "659d44289cd674899abfbfc2a0481530360e26122ce530454329d9cbd29410f3",
+    "17729": "8c12da6d1a2c819545e242f8112923a4a167e0ed5c146b901b12efa10a85d76d",
+    "17736": "d43777e1f27bc2db3e22884220b2ff43d85ea0a5d68a1136d5c465bf05cb1f83",
+    "17742": "1828f52c2d9289c25e4cc83d10400e99a60272d6d7149d53d8f0052f0255407e",
+    "17748": "f81f1e893dfe6eaf63e6b74b56bc4ac945590316fbb97e6fe39f45e1fad8c7a8",
+    "17754": "2d761688ad1f19132768c1394d03946b539f36b2542927a3066ebc1d4a7f28dd",
+    "17760": "e7b9f452d15b4db0780a13206ebce0ccadbb1e3c2f8533b6a3b1486b6bf03c81",
+    "17766": "5329667d7e0bf4a84e460edc52c1475f54242c04271ba98d06d4ccd4fb3334ac",
+    "17772": "a976ea0332ce3c28ed5e1213087154947826c916ed8eaad23326e64374fee5fc",
+    "17778": "d98d09518af3a7ca4ad8ba94976ebc28e62c341fe3c43efc571c45bf7ae15237",
+    "17784": "85fede75b99fe8bdf211cc6e0410cf0cd0e332feaff398987c9031324af3c4a6",
+    "17790": "c5e1a03ef42cb212caaf993070d000d48faf50f476a11211054fd6bfd415b160",
+    "17796": "460ffbf1b003837fb97f999fb7094ffac041be5f6e3daac3b0a0e38a9e287deb",
+    "17803": "91d3aaef022c99c7ab2a155a9cb231d9446bd98453417ce7b58e123bde8755e3",
+    "17808": "244260a2eb56982b5e0c3dc6a75c85e7e8917fc54ed555b0723d872a9e9ddd04",
+    "17814": "348c899ac345e56527d180e659e77e0cf94d947ff48013908556721ba382d222",
+    "17819": "1cea9e05536d8d0d734a1cc3c79935b406e92d2582d12615799ede336a0b0f75",
+    "17824": "f5255c9fa3161f06b79af6177b4617186aa407a0402e41122293f95a7c9ba6e5",
+    "17830": "0f6f1a09d32a335c79499633b57376a524886870a11bdb7219a61c6875ada671",
+    "17836": "3cdd4e6a0d575666ade3d6485d25a8f30e4c2328ec03bdab1522a1f6bc2772c6",
+    "17842": "246a97e85d5bccaddfd8c1f9915ac14dbc01536f8dca65c60c92ebc2ed4a8b92",
+    "17847": "bbab97399efe17c576dd057ac06d5fe5968ed507b3cace418fe17c1dc736259f",
+    "17852": "bf088b624f1b2358d5997fff3f1bd92a1561a502a31580130722e9426eb2c124",
+    "17858": "74101709f3dd1ac3528105159aba87c8c724a15639bbca194ef56afe3632ad3b",
+    "17864": "3207b6ff49b60c278677fbc3c5e0161c5a3d0bd46b5862ed011153ecb18d19d5",
+    "17870": "f2cdf3742b67006db2d63534924a15a7e58b492b8e3bbbf5a29aa297c058e2ce",
+    "17876": "83eaabe1bf9bb3103af498c505866986a0a2a94e119708faa1dcdcb058d3ac57",
+    "17882": "fa5aced885ea3c904a6ed4e2726dfad6ac5c730708b551ac8ccac02786cf2d66",
+    "17888": "16b418ed7ebb38864655f4e8a1bc6fa8e7407a1406686fcd2e5bafabeacbfb89",
+    "18013": "a52b042ecea04ac9787c4e9fbaf346df324d28456af51e3b88804afb89d284a9",
+    "18062": "c21cdef80f32771b2d8f62c192ec55f054827ab98b186f7f264dbce8240e0216",
+    "19462": "f79bfdc93beb35e8c98f77e494ada4124a243dbefe2bf77b85a8c67e7e95e598",
+    "20707": "1a3f5ab2b93c2f60e929ce0fba70baf3a0f71e4e98f02c7f5a570d33104cee89"
+  }
+}

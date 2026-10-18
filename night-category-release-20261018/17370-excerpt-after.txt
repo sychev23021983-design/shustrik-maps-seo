@@ -1,0 +1,10 @@
+North America at night imagery for continental overviews, editorial graphics and print design.
+<ul>
+ 	<li>Format: TIF</li>
+ 	<li>Resolution: 8000*9578 px</li>
+ 	<li>Depth: 48 bit</li>
+ 	<li>Size: 380 MB</li>
+ 	<li>Color scheme: RGB</li>
+ 	<li>Projection: Lambert Conformal Conic</li>
+</ul>
+[html_block id="11218"]

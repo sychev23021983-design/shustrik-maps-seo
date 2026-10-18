@@ -1,0 +1,7 @@
+# Night Satellite Map — four remaining cards 2026-10-18
+
+site_profile: shustrik-maps. Owner explicitly requested four fields for all remaining Night Satellite Map products. Four allowlisted IDs: North Korea17359, North America17370, Korean Peninsula17385, Spain17416. Existing US Night17364 preserved. Exact list and text in Change List and Copy.md. Three paragraphs per description based on inspected public previews; no word-count ranking promise. Correct earlier scientific/GIS/monitoring/freshness promises; public TIF and no-georeferencing facts from specs/FAQ, not paid archive inspection.
+
+Preserve H1, URLs, canonical/robots, every shortcode token, FAQ17289, excerpt specs, paymentblock11218, links and related-model buttons, images, taxonomy, prices and commerce/download settings. Protect 97 prior records, including all87 daytime Satellite Maps and previous US Night/article releases. No order/payment/cart/indexing/settings/routing changes.
+
+GitHub-first committed archive, SHA256 verified, PHP lint. InnoDB transaction/row locks/conditional writes; one apply and backup option _shustrik_night_category_backup_20261018, preview/verify/rollback-preview. Existing Yoast indexables updated narrowly. Public QA all5 night cards plus3 restored daytime controls, JSON-LD Product identity/offers and CTA, browser desktop/mobile all4 edited cards. No build/restart. Rollback after inspecting subsequent edits: python night-category-release-20261018/deliver.py rollback
