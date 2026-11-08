@@ -1,0 +1,61 @@
+{
+  "id": 15665,
+  "slug": "50-united-states-of-america-3d-model",
+  "url": "https://shustrik-maps.com/product/50-united-states-of-america-3d-model/",
+  "backup_key": "_shustrik_usa50_c4d_copy_backup_20261108",
+  "invariant": "a138cf52f5c7ce46cc3eb519b0d3654208e073b17082bc690ad9478a3cc14299",
+  "prior": {
+    "11358": "2107c0641fed87fd00e6f53e7ba29645cfa32972475aeb4f7761a7655e173a9a",
+    "11013": "37c558c56f0f1e1b9a6f6e240c6aa5adcb5d767a46898c3e6e3fd222c6625e3f",
+    "11517": "4b1206ebfb31298c9ff81504bb56536d0e578748fe971d9c72d5645a3d5da46a",
+    "16110": "6caa6a4a5e795bc06a0c196ffd58c3140e4abed0093817da1c111a280435b77d",
+    "10238": "c574a8c9e679cfe1bfe1ee605394432d1ed81490295fa5d83fff87cf43b37bbb",
+    "15954": "3cddbb1569770a9e77103f7b56d0bb256c75a8aa4ce9cbb54097ce19477f1f0d",
+    "10102": "a46030151e01073818db774e7db78024bbf0d3cc45b78b5bfc7fa198a1b9bed3",
+    "19313": "a9091ce9dda218be6fbe1f06639389bb892c87a9e7425a2c0508deaf97a240bc",
+    "18873": "ac6d7dec9c473843dabe5d6b7d5214129a747017cbaa482884029c33ed7c06d5"
+  },
+  "before_sha256": "75603a4845bb0f731165c3d2809c122e2588c0845481e848e36030a4ea98e3fb",
+  "after_sha256": "f39adc5a8ea14715a09365e97cf159ee6089010edf38c96d457ee2be767e8940",
+  "excerpt_sha256": "9c5e0c998d3564dd9acac02c9b37b8679160ef1c5c767414923dd3e090262119",
+  "edits": [
+    {
+      "at_bytes": 85,
+      "old": "\r\nIntroducing our comprehensive collection of 3D meshes meticulously crafted to represent all 50 states of the United States of America. Each state within this collection comes with its own set of features, including a grid, UV mapping (frontal projection), and satellite texture, providing an immersive and detailed representation.\r\n\r\nWith our versatile model, you have the ability to manipulate each state individually. States can be hidden or showcased, and you can adjust the terrain or base elevation to fit your specific needs. Moreover, the borders of each state are customizable, allowing you to hide, reshape, or change their color to align with your project's requirements.\r\n\r\nWhether you're working on data visualization, geographic applications, educational initiatives, or any other creative project, this collection offers unparalleled flexibility and realism. Dive into the intricacies of American geography and history with ease, as you utilize these 3D models to craft captivating and informative presentations and experiences.",
+      "text": "\r\n<h2>50 separate states for Cinema 4D</h2>\r\n<p>Build USA map scenes with 50 separate state terrain meshes in Cinema 4D. Each state has its own mesh, frontal UV mapping and TIF satellite texture. Show or hide individual states and adjust terrain, base elevation and boundary appearance in your scene.</p>\r\n<h2>Model formats and open bases</h2>\r\n<p>The supplied model format is C4D; OBJ and FBX export is available on request. The meshes have open bases. Before using them for 3D printing or CNC machining, check and prepare the geometry for your machine, material and scale.</p>\r\n<h2>Choosing a USA collection</h2>\r\n<p>Choose this collection when you need separate state terrain objects with satellite textures for rendered maps, presentations or animation. For a collection supplied as STL with closed bases, compare the <a href=\"https://shustrik-maps.com/product/complete-usa-50-states-topographic-map-3d-model-for-3d-printing-cnc-carving/\">50-state STL collection</a>. It is a separate product and still requires preparation for your fabrication workflow.</p>\r\n"
+    }
+  ],
+  "approved_paragraphs": [
+    "Build USA map scenes with 50 separate state terrain meshes in Cinema 4D. Each state has its own mesh, frontal UV mapping and TIF satellite texture. Show or hide individual states and adjust terrain, base elevation and boundary appearance in your scene.",
+    "The supplied model format is C4D; OBJ and FBX export is available on request. The meshes have open bases. Before using them for 3D printing or CNC machining, check and prepare the geometry for your machine, material and scale.",
+    "Choose this collection when you need separate state terrain objects with satellite textures for rendered maps, presentations or animation. For a collection supplied as STL with closed bases, compare the 50-state STL collection. It is a separate product and still requires preparation for your fabrication workflow."
+  ],
+  "approved_headings": [
+    "50 separate states for Cinema 4D",
+    "Model formats and open bases",
+    "Choosing a USA collection"
+  ],
+  "added_links": [
+    {
+      "url": "https://shustrik-maps.com/product/complete-usa-50-states-topographic-map-3d-model-for-3d-printing-cnc-carving/",
+      "text": "50-state STL collection",
+      "rel": ""
+    }
+  ],
+  "added_anchors": [
+    "<a href=\"https://shustrik-maps.com/product/complete-usa-50-states-topographic-map-3d-model-for-3d-printing-cnc-carving/\">50-state STL collection</a>"
+  ],
+  "indexable_before": {
+    "id": "8033",
+    "title": "Buy 50 United States 3D Model Terrain for 3D Design and Art",
+    "description": "All 50 United States of America as separate objects. Each state has its own grid, UV mapping (frontal), satellite texture."
+  },
+  "before": {
+    "_yoast_wpseo_title": "Buy 50 United States 3D Model Terrain for 3D Design and Art",
+    "_yoast_wpseo_metadesc": "All 50 United States of America as separate objects. Each state has its own grid, UV mapping (frontal), satellite texture."
+  },
+  "after": {
+    "_yoast_wpseo_title": "50 US States 3D Model — C4D with Satellite Textures",
+    "_yoast_wpseo_metadesc": "50 separate US state terrain meshes in C4D, each with UV mapping and a TIF satellite texture. Open bases; OBJ/FBX export available on request."
+  }
+}
