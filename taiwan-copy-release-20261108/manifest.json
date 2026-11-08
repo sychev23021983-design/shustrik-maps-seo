@@ -1,0 +1,41 @@
+{
+  "id": 11013,
+  "slug": "taiwan-terrain-3d-model",
+  "url": "https://shustrik-maps.com/product/taiwan-terrain-3d-model/",
+  "backup_key": "_shustrik_taiwan_copy_backup_20261108",
+  "invariant": "7c588c8330e59c0fcb7648921aaf9a628c0e96c56b08147958e30583d17d4e6f",
+  "prior": {
+    "11358": "2107c0641fed87fd00e6f53e7ba29645cfa32972475aeb4f7761a7655e173a9a",
+    "11517": "4b1206ebfb31298c9ff81504bb56536d0e578748fe971d9c72d5645a3d5da46a",
+    "16110": "6caa6a4a5e795bc06a0c196ffd58c3140e4abed0093817da1c111a280435b77d",
+    "10102": "43c9296153078be1916c80c1ff1e8f8a07dd47e955e54ddd438fd1bcf661e370",
+    "10238": "9912bac6884b4f4366c252c57491e28492ad70a846ce6add3249a9213cbb941a",
+    "15954": "434ef68328515de17a51a242a40c81b66ab1dc2c6b1772568d349a971b5a7b7f"
+  },
+  "before_sha256": "087bf0d8b27b3d77d9befcb25339e110bed07b0e164b2b4a1aeeea0097f1c075",
+  "after_sha256": "c94cde0fdede9cdbf3b775d946cb778721ef8ae241ee6845a310aff275459b40",
+  "excerpt_sha256": "b0422d0319754eeb1b9079a33c472a040ce072a78e2dc72acc533c0d874ee304",
+  "edit": {
+    "at_bytes": 85,
+    "old": "The Taiwan 3D model is a highly detailed and accurate representation of the island country of Taiwan. It can be used for a variety of purposes, including graphic design, 3D printing, and CNC milling.\r\n\r\nIn terms of graphic design, the model can be used to create stunning visualisations and animations that highlight the unique features and landscapes of Taiwan. This can be useful for tourism campaigns, educational materials, and more.\r\n\r\nWhen it comes to 3D printing, the model can be used to create physical replicas of Taiwan. These replicas can be used for educational purposes, as souvenirs, or even as part of museum exhibits.\r\n\r\nFor CNC milling, the Taiwan 3D model can be used to create precision parts and components. Additionally, the model can be used to create custom molds and dies for various manufacturing processes.",
+    "text": "Build terrain visualizations of Taiwan with a textured 3D model for rendered maps, landscape scenes and animations.\r\n\r\nThe download includes a C4D model, OBJ versions at LOD100, LOD50 and LOD25, and a TIF satellite texture. Use the available detail levels to choose the mesh density that fits your scene; polygon counts and file sizes are listed above.\r\n\r\nThe mesh has an open base. Before 3D printing or CNC machining, check and prepare the geometry for your intended workflow. For a different format or resolution, use the contact form below to discuss your requirements."
+  },
+  "approved_paragraphs": [
+    "Build terrain visualizations of Taiwan with a textured 3D model for rendered maps, landscape scenes and animations.",
+    "The download includes a C4D model, OBJ versions at LOD100, LOD50 and LOD25, and a TIF satellite texture. Use the available detail levels to choose the mesh density that fits your scene; polygon counts and file sizes are listed above.",
+    "The mesh has an open base. Before 3D printing or CNC machining, check and prepare the geometry for your intended workflow. For a different format or resolution, use the contact form below to discuss your requirements."
+  ],
+  "indexable_before": {
+    "id": "8037",
+    "title": "Taiwan 3D model of the terrain %%sep%% Custom %%sitename%%",
+    "description": "3D model of the Taiwan terrain is created using an elevation map, a shapefile and a satellite texture. Buy 3D relief map of Taiwan."
+  },
+  "before": {
+    "_yoast_wpseo_title": "Taiwan 3D model of the terrain %%sep%% Custom %%sitename%%",
+    "_yoast_wpseo_metadesc": "3D model of the Taiwan terrain is created using an elevation map, a shapefile and a satellite texture. Buy 3D relief map of Taiwan."
+  },
+  "after": {
+    "_yoast_wpseo_title": "Taiwan Terrain 3D Model — C4D & OBJ with 3 LODs",
+    "_yoast_wpseo_metadesc": "Taiwan terrain 3D model in C4D and OBJ, with LOD100/50/25 meshes and a TIF satellite texture. For rendered maps, landscape scenes and visualizations."
+  }
+}
