@@ -1,0 +1,50 @@
+{
+  "id": 18873,
+  "slug": "complete-usa-50-states-topographic-map-3d-model-for-3d-printing-cnc-carving",
+  "url": "https://shustrik-maps.com/product/complete-usa-50-states-topographic-map-3d-model-for-3d-printing-cnc-carving/",
+  "backup_key": "_shustrik_usa50_stl_copy_backup_20261108",
+  "invariant": "998f08fdd69dc1a324e6a1744fcb510d2cdc8bc86a4274fba43baba95330efd5",
+  "prior": {
+    "11358": "2107c0641fed87fd00e6f53e7ba29645cfa32972475aeb4f7761a7655e173a9a",
+    "11013": "37c558c56f0f1e1b9a6f6e240c6aa5adcb5d767a46898c3e6e3fd222c6625e3f",
+    "11517": "4b1206ebfb31298c9ff81504bb56536d0e578748fe971d9c72d5645a3d5da46a",
+    "16110": "6caa6a4a5e795bc06a0c196ffd58c3140e4abed0093817da1c111a280435b77d",
+    "10238": "c574a8c9e679cfe1bfe1ee605394432d1ed81490295fa5d83fff87cf43b37bbb",
+    "15954": "3cddbb1569770a9e77103f7b56d0bb256c75a8aa4ce9cbb54097ce19477f1f0d",
+    "10102": "a46030151e01073818db774e7db78024bbf0d3cc45b78b5bfc7fa198a1b9bed3",
+    "15665": "32e627c1b1b1cd226c9c7c8702fdcca1e5bd7a49089c19d7655533b3e7348024",
+    "19313": "f8fe4e02ec56c8e0bd55833edc6152ecbdab95411749f8a90ff5536c8afaa4f1"
+  },
+  "before_sha256": "b453ec425d3ee274f92e97f405b830d6679d3023c0d4846dc8285cfc919e94e3",
+  "after_sha256": "53c80dae54f5555ef96e635be56e7f30ba60df4aea419c5ae938d2f0dd3d8253",
+  "excerpt_sha256": "78d7bb5942ae3327b009cfc3fe20d85fcc260721ef321d1ff6e951ed509f28ff",
+  "edits": [
+    {
+      "at_bytes": 80,
+      "old": "\r\n<h3 data-start=\"613\" data-end=\"694\">Complete USA Topographic Map STL – 50 States High-Resolution 3D Terrain Model</h3>\r\n<p data-start=\"696\" data-end=\"1006\"><strong data-start=\"696\" data-end=\"723\">USA Topographic Map STL</strong> is a complete high-resolution <strong data-start=\"754\" data-end=\"798\">3D terrain model of all 50 United States</strong>, designed for <strong data-start=\"813\" data-end=\"862\">3D printing, CNC carving, and laser engraving</strong>. This digital elevation model accurately represents the mountains, valleys, plateaus, river systems, and coastal regions of the entire country.</p>\r\n<p data-start=\"1008\" data-end=\"1369\">The product includes <strong data-start=\"1029\" data-end=\"1062\">50 individual 3D state models</strong>, each provided as a separate mesh. Every state can be printed or carved independently, allowing you to assemble a full <strong data-start=\"1182\" data-end=\"1208\">USA topographic puzzle</strong> or work with specific regions. This modular structure makes the model ideal for education, cartography, design projects, and large-scale physical installations.</p>\r\n",
+      "text": "\r\n<h2>50-state USA topographic STL set</h2>\r\n<p>This STL collection contains 50 separate state terrain meshes for projects such as raised relief displays, educational models and decorative maps. The states are listed as proportionally scaled for a puzzle-like assembly; check the fit at your chosen scale before making a full set.</p>\r\n"
+    },
+    {
+      "at_bytes": 1899,
+      "old": "\r\n<h3 data-start=\"1376\" data-end=\"1424\">Key Features of the USA 3D Topographic Model</h3>\r\n<ul>\r\n \t<li data-start=\"1428\" data-end=\"1480\">Complete <strong data-start=\"1437\" data-end=\"1464\">USA topographic map STL</strong> (all 50 states)</li>\r\n \t<li data-start=\"1483\" data-end=\"1532\"><strong data-start=\"1483\" data-end=\"1511\">50 separate state meshes</strong> for modular assembly</li>\r\n \t<li data-start=\"1535\" data-end=\"1577\">Accurate <strong data-start=\"1544\" data-end=\"1577\">digital elevation model (DEM)</strong></li>\r\n \t<li data-start=\"1580\" data-end=\"1621\">Optimized for <strong data-start=\"1594\" data-end=\"1621\">3D printing (FDM / SLA)</strong></li>\r\n \t<li data-start=\"1624\" data-end=\"1661\">Ready for <strong data-start=\"1634\" data-end=\"1661\">CNC carving and milling</strong></li>\r\n \t<li data-start=\"1664\" data-end=\"1696\">Suitable for <strong data-start=\"1677\" data-end=\"1696\">laser engraving</strong></li>\r\n \t<li data-start=\"1699\" data-end=\"1733\">Lambert conformal conic projection</li>\r\n \t<li data-start=\"1736\" data-end=\"1768\">Triangle-only polygonal geometry</li>\r\n \t<li data-start=\"1771\" data-end=\"1809\">Closed base for reliable manufacturing</li>\r\n</ul>\r\n\r\n<hr data-start=\"1811\" data-end=\"1814\" />\r\n\r\n<h3 data-start=\"1816\" data-end=\"1867\">Applications of the 50 States USA Terrain Model</h3>\r\n<p data-start=\"1869\" data-end=\"1977\">This <strong data-start=\"1874\" data-end=\"1905\">3D map of the United States</strong> is suitable for a wide range of professional and creative applications:</p>\r\n\r\n<ul>\r\n \t<li data-start=\"1981\" data-end=\"2015\">Large-scale <strong data-start=\"1993\" data-end=\"2015\">raised relief maps</strong></li>\r\n \t<li data-start=\"2018\" data-end=\"2058\">Educational geography and geology models</li>\r\n \t<li data-start=\"2061\" data-end=\"2096\">CNC-carved wooden or metal USA maps</li>\r\n \t<li data-start=\"2099\" data-end=\"2143\">Museum exhibits and exhibition installations</li>\r\n \t<li data-start=\"2146\" data-end=\"2186\">Interior design and decorative wall maps</li>\r\n \t<li data-start=\"2189\" data-end=\"2233\">Cartographic visualization and presentations</li>\r\n</ul>\r\n<p data-start=\"2235\" data-end=\"2451\">Whether you are creating a <strong data-start=\"2262\" data-end=\"2284\">3D printed USA map</strong>, a <strong data-start=\"2288\" data-end=\"2330\">CNC terrain model of the United States</strong>, or a <strong data-start=\"2337\" data-end=\"2362\">laser-engraved relief</strong>, this STL collection provides consistent scale, clean geometry, and high visual clarity.</p>\r\n",
+      "text": "\r\n<h2>Files and fabrication planning</h2>\r\n<p>The product specification lists a 7.39 GB full archive, 50 meshes with closed bases, triangle geometry, Lambert conformal conic projection and vertical scale factor Z = 3. The archive contains terrain models, not a physical product.</p>\r\n<p>For 3D printing or CNC projects, inspect the files and prepare them for your software, equipment, material and chosen scale. Closed bases alone do not guarantee a successful print, toolpath or fit. Make a small test before producing a complete display.</p>\r\n<h2>Choosing a USA collection</h2>\r\n<p>This product covers all 50 states. For the separate 48-state STL collection, use the link below. The images beside this description are AI-generated application concepts, not photographs of fabricated models.</p>\r\n"
+    }
+  ],
+  "added_links": [],
+  "metadata": {
+    "_yoast_wpseo_title": "USA 50 States Topographic STL Set | 3D Print & CNC",
+    "_yoast_wpseo_metadesc": "Download a USA 50 states topographic STL set with 50 separate meshes for 3D printing and CNC projects. Build a terrain display from individual state models."
+  },
+  "indexables": [
+    {
+      "id": "7560",
+      "title": "USA 50 States Topographic STL Set | 3D Print & CNC",
+      "description": "Download a USA 50 states topographic STL set with 50 separate meshes for 3D printing and CNC projects. Build a terrain display from individual state models."
+    },
+    {
+      "id": "9075",
+      "title": "USA 50 States Topographic STL Set | 3D Print & CNC",
+      "description": "Download a USA 50 states topographic STL set with 50 separate meshes for 3D printing and CNC projects. Build a terrain display from individual state models."
+    }
+  ]
+}
