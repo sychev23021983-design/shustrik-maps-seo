@@ -1,0 +1,54 @@
+{
+  "id": 10238,
+  "slug": "world-map-3d-model",
+  "url": "https://shustrik-maps.com/product/world-map-3d-model/",
+  "backup_key": "_shustrik_world_map_copy_backup_20261108",
+  "invariant": "66e00cf84f814a3336c0fea17b5467ef0859c9b096ce8eec5c0639b669c752f3",
+  "prior": {
+    "11358": "2107c0641fed87fd00e6f53e7ba29645cfa32972475aeb4f7761a7655e173a9a",
+    "11013": "37c558c56f0f1e1b9a6f6e240c6aa5adcb5d767a46898c3e6e3fd222c6625e3f",
+    "11517": "4b1206ebfb31298c9ff81504bb56536d0e578748fe971d9c72d5645a3d5da46a",
+    "16110": "6caa6a4a5e795bc06a0c196ffd58c3140e4abed0093817da1c111a280435b77d",
+    "10102": "43c9296153078be1916c80c1ff1e8f8a07dd47e955e54ddd438fd1bcf661e370",
+    "15954": "434ef68328515de17a51a242a40c81b66ab1dc2c6b1772568d349a971b5a7b7f"
+  },
+  "before_sha256": "26fccc8eb94ff747f98603f44bb55c34962e17adfbe1e7e2d084e13ae470ab46",
+  "after_sha256": "ff23a4cc64c75c14df882014a7e1e4524f8ac60bb6234b4bf9837e68cf4db1ff",
+  "excerpt_sha256": "80bc6e050fbce0016d8d67d3c1b36bb79eb4be3c5476807d47e1435824faea2b",
+  "edits": [
+    {
+      "at_bytes": 80,
+      "old": "Our <strong>3D World Map Model</strong> offers a highly detailed, visually captivating representation of the world. Perfect for <strong>topographic visualization</strong>, this model is an excellent tool for education, spatial analysis, or decorative purposes.",
+      "text": "Create rendered world maps with a rectangular 3D terrain model in C4D, FBX and OBJ formats. The map uses a geographic projection and includes a TIF satellite texture."
+    },
+    {
+      "at_bytes": 944,
+      "old": "\r\n<h2><strong>Discover the World in 3D</strong></h2>\r\nExplore the beauty of the world like never before with our <strong>interactive globe</strong>. This <strong>three-dimensional cartography</strong> tool provides a unique experience by showcasing global landscapes and <strong>terrain mapping</strong> in exceptional detail.\r\n<h2><strong>An Educational and Interactive Tool for Everyone</strong></h2>\r\nWhether you're an educator, student, or geography enthusiast, our <strong>3D World Map Model</strong> is designed to serve as an invaluable <strong>educational tool</strong>. It provides a deeper understanding of the Earth's features through <strong>spatial modeling</strong> and detailed <strong>global dataset</strong> visualization.\r\n<h3><strong>Ideal for Cartographic Design and Virtual Environments</strong></h3>\r\nOur <strong>world map model</strong> is ideal for those looking to enhance their <strong>virtual environment</strong> designs. With precise <strong>cartographic design</strong>, this model brings geography to life, offering a compelling tool for professional and personal projects.\r\n<h2><strong>Perfect for Topographic and Terrain Mapping</strong></h2>\r\nFeaturing high-quality <strong>terrain mapping</strong>, this <strong>3D world map</strong> is designed to capture the Earth's physical geography in stunning accuracy. Use it to visualize elevations, geographic features, and landscape layouts, making it ideal for professional and academic applications.",
+      "text": "\r\n<h2>A world map with raised terrain</h2>\r\n<p>The rectangular layout shows terrain across the world on a map surface. Open the model in your 3D software to compose an overview or choose an angled camera view for map illustrations, presentation graphics and animated scenes.</p>\r\n<h2>Included formats and satellite texture</h2>\r\n<p>The C4D, FBX and OBJ files are supplied with UV mapping and a 21600 x 10800 px TIF satellite texture. The mesh has an open base. Before 3D printing or CNC machining, check and prepare the geometry for your intended workflow.</p>\r\n<h2>Choosing between the World models</h2>\r\n<p>This product combines the terrain model and satellite texture in a C4D/FBX/OBJ package. For a bundle with height, normal and water maps, compare the separate World Earth Map 3D Model linked below.</p>"
+    }
+  ],
+  "approved_paragraphs": [
+    "Create rendered world maps with a rectangular 3D terrain model in C4D, FBX and OBJ formats. The map uses a geographic projection and includes a TIF satellite texture.",
+    "The rectangular layout shows terrain across the world on a map surface. Open the model in your 3D software to compose an overview or choose an angled camera view for map illustrations, presentation graphics and animated scenes.",
+    "The C4D, FBX and OBJ files are supplied with UV mapping and a 21600 x 10800 px TIF satellite texture. The mesh has an open base. Before 3D printing or CNC machining, check and prepare the geometry for your intended workflow.",
+    "This product combines the terrain model and satellite texture in a C4D/FBX/OBJ package. For a bundle with height, normal and water maps, compare the separate World Earth Map 3D Model linked below."
+  ],
+  "approved_headings": [
+    "A world map with raised terrain",
+    "Included formats and satellite texture",
+    "Choosing between the World models"
+  ],
+  "indexable_before": {
+    "id": "7675",
+    "title": "3D World Map Model – Stunning Topographic Visualization",
+    "description": "Discover the world with our 3D World Map Model. Perfect for topographic visualization, spatial modeling, and interactive cartographic designs. Buy now!"
+  },
+  "before": {
+    "_yoast_wpseo_title": "3D World Map Model – Stunning Topographic Visualization",
+    "_yoast_wpseo_metadesc": "Discover the world with our 3D World Map Model. Perfect for topographic visualization, spatial modeling, and interactive cartographic designs. Buy now!"
+  },
+  "after": {
+    "_yoast_wpseo_title": "World Map 3D Model — C4D, FBX & OBJ Terrain",
+    "_yoast_wpseo_metadesc": "Rectangular world terrain model in C4D, FBX and OBJ, with UV mapping and a TIF satellite texture. Create rendered maps, illustrations and animated scenes."
+  }
+}
