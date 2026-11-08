@@ -1,0 +1,40 @@
+{
+  "id": 11358,
+  "slug": "japan-3d-model-terrain",
+  "url": "https://shustrik-maps.com/product/japan-3d-model-terrain/",
+  "backup_key": "_shustrik_japan_copy_backup_20261108",
+  "invariant": "cbd94a880dab207c55b8e5d8cc1632595674b600225b52c716273aeaf8767668",
+  "prior": {
+    "11013": "c34d1f95cde5a50cdb0c3175565a7ca9b1c1d55f8b633a814928fa82f9f75fcc",
+    "11517": "4b1206ebfb31298c9ff81504bb56536d0e578748fe971d9c72d5645a3d5da46a",
+    "16110": "6caa6a4a5e795bc06a0c196ffd58c3140e4abed0093817da1c111a280435b77d",
+    "10102": "43c9296153078be1916c80c1ff1e8f8a07dd47e955e54ddd438fd1bcf661e370",
+    "10238": "9912bac6884b4f4366c252c57491e28492ad70a846ce6add3249a9213cbb941a",
+    "15954": "434ef68328515de17a51a242a40c81b66ab1dc2c6b1772568d349a971b5a7b7f"
+  },
+  "before_sha256": "1cc524efca929df843889b42061ecaa3fbcf13f8f14e4d97414f3349c59ffcd6",
+  "after_sha256": "ae32760f0b5ebcb8e84c014a3a8365332a12927879d8856737fe7db3e744d611",
+  "excerpt_sha256": "656bfd5c9b2ebc40086fd3c56471bccc75e2f8fefc7c20dc5b35dda1b7177a36",
+  "edit": {
+    "at_bytes": 85,
+    "old": "The Japan 3D Model is a highly detailed and accurate representation of the topographical features of Japan. The model includes mountains, valleys, rivers, lakes, and other natural features found in the country. It is perfect for use in graphic design, 3D printing, and CNC milling.\r\n\r\nThe model is created using a combination of data from satellite imagery and topographical surveys. This data is then processed and used to create a highly detailed and accurate digital model of the terrain. The model is created at a high resolution, which allows for fine details to be captured and represented accurately.",
+    "text": "Use this Japan terrain model to create rendered maps, landscape illustrations and scenes. The model is supplied in C4D format with a TIF satellite texture; OBJ or FBX export is available on request.\r\n\r\nThe mesh has an open base. Before 3D printing or CNC machining, check and prepare the geometry for your intended workflow. For an STL version, see the separate Japan STL product linked below."
+  },
+  "approved_paragraphs": [
+    "Use this Japan terrain model to create rendered maps, landscape illustrations and scenes. The model is supplied in C4D format with a TIF satellite texture; OBJ or FBX export is available on request.",
+    "The mesh has an open base. Before 3D printing or CNC machining, check and prepare the geometry for your intended workflow. For an STL version, see the separate Japan STL product linked below."
+  ],
+  "indexable_before": {
+    "id": "8099",
+    "title": "Japan 3D Model - Perfect for 3D Printing, CNC Milling, Design and Art",
+    "description": "Japan 3D model is the perfect addition to your digital library. Whether you're into 3D printing or CNC milling this model has got you covered."
+  },
+  "before": {
+    "_yoast_wpseo_title": "Japan 3D Model - Perfect for 3D Printing, CNC Milling, Design and Art",
+    "_yoast_wpseo_metadesc": "Japan 3D model is the perfect addition to your digital library. Whether you're into 3D printing or CNC milling this model has got you covered."
+  },
+  "after": {
+    "_yoast_wpseo_title": "Japan Terrain 3D Model — C4D with Satellite Texture",
+    "_yoast_wpseo_metadesc": "Japan terrain model in C4D with a TIF satellite texture for visualization. OBJ/FBX export on request. Prepare the mesh for your printing or CNC workflow."
+  }
+}

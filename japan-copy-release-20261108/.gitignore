@@ -1,0 +1,5 @@
+__pycache__/
+html/
+public-after.json
+public-qa.json
+*-result.json
