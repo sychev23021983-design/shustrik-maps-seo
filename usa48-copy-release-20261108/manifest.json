@@ -1,0 +1,56 @@
+{
+  "id": 19313,
+  "slug": "contiguous-48-usa-states",
+  "url": "https://shustrik-maps.com/product/contiguous-48-usa-states/",
+  "backup_key": "_shustrik_usa48_copy_backup_20261108",
+  "invariant": "71b192c0f4900ef34bb8f0e5feb37bdc6bbb2b074b86ecd32373f938ad06e149",
+  "prior": {
+    "11358": "2107c0641fed87fd00e6f53e7ba29645cfa32972475aeb4f7761a7655e173a9a",
+    "11013": "37c558c56f0f1e1b9a6f6e240c6aa5adcb5d767a46898c3e6e3fd222c6625e3f",
+    "11517": "4b1206ebfb31298c9ff81504bb56536d0e578748fe971d9c72d5645a3d5da46a",
+    "16110": "6caa6a4a5e795bc06a0c196ffd58c3140e4abed0093817da1c111a280435b77d",
+    "10238": "c574a8c9e679cfe1bfe1ee605394432d1ed81490295fa5d83fff87cf43b37bbb",
+    "15954": "3cddbb1569770a9e77103f7b56d0bb256c75a8aa4ce9cbb54097ce19477f1f0d",
+    "10102": "a46030151e01073818db774e7db78024bbf0d3cc45b78b5bfc7fa198a1b9bed3",
+    "15665": "32e627c1b1b1cd226c9c7c8702fdcca1e5bd7a49089c19d7655533b3e7348024",
+    "18873": "ac6d7dec9c473843dabe5d6b7d5214129a747017cbaa482884029c33ed7c06d5"
+  },
+  "before_sha256": "896d5748576ce12631ab523ecece20352dff14f313c91584c1f9cb1cb4b50cee",
+  "after_sha256": "59919df2ff117c2d0d220cbb0411cdcfa85885beeb97dbae7f0592f0d72428e4",
+  "excerpt_sha256": "a6ec442636206d42ed07b50fb214cad136cf8dca915b055324185e22f0506cd9",
+  "edits": [
+    {
+      "at_bytes": 554,
+      "old": "\r\n<h3 class=\"\" data-start=\"162\" data-end=\"246\"><strong data-start=\"166\" data-end=\"244\">A Detailed and Accurate 3D Representation of the Contiguous 48 U.S. States</strong></h3>\r\n<p class=\"\" data-start=\"248\" data-end=\"535\">This <strong data-start=\"253\" data-end=\"290\">Contiguous 48 USA States 3D Model</strong> is designed for <strong data-start=\"307\" data-end=\"386\">high-quality visualization, educational projects, and creative applications</strong>. Whether you are an <strong data-start=\"407\" data-end=\"443\">educator, designer, or developer</strong>, this model provides a <strong data-start=\"467\" data-end=\"511\">realistic and interactive representation</strong> of the United States.</p>\r\n",
+      "text": "\r\n<h2>48 contiguous states in C4D and OBJ</h2>\r\n<p>Explore the terrain of the 48 contiguous United States with separate state meshes supplied in C4D and OBJ. The collection includes TIF maps for building terrain visualizations, educational scenes and presentations.</p>\r\n"
+    },
+    {
+      "at_bytes": 1956,
+      "old": "\r\n<h2 class=\"\" data-start=\"537\" data-end=\"571\"><strong data-start=\"540\" data-end=\"569\">Key Features of the Model</strong></h2>\r\n<h3 class=\"\" data-start=\"573\" data-end=\"626\"><strong data-start=\"577\" data-end=\"624\">✔️ Low-Polygon Mesh for Optimal Performance</strong></h3>\r\n<p class=\"\" data-start=\"627\" data-end=\"784\">Each of the <strong data-start=\"639\" data-end=\"652\">48 states</strong> is carefully designed with a <strong data-start=\"682\" data-end=\"707\">low-polygon structure</strong>, ensuring smooth rendering and easy integration into various applications.</p>\r\n\r\n<h3 class=\"\" data-start=\"786\" data-end=\"843\"><strong data-start=\"790\" data-end=\"841\">✔️ High-Resolution Textures for Maximum Realism</strong></h3>\r\n<p class=\"\" data-start=\"844\" data-end=\"924\">The model includes multiple texture sets to enhance its usability and realism:</p>\r\n\r\n<ul data-start=\"925\" data-end=\"1368\">\r\n \t<li class=\"\" data-start=\"925\" data-end=\"1025\">\r\n<p class=\"\" data-start=\"927\" data-end=\"1025\"><strong data-start=\"927\" data-end=\"948\">Satellite Texture</strong> – Provides real-world imagery for <strong data-start=\"983\" data-end=\"1022\">authentic geographic representation</strong>.</p>\r\n</li>\r\n \t<li class=\"\" data-start=\"1026\" data-end=\"1144\">\r\n<p class=\"\" data-start=\"1028\" data-end=\"1144\"><strong data-start=\"1028\" data-end=\"1061\">Pseudocolor Elevation Texture</strong> – Highlights terrain features where <strong data-start=\"1098\" data-end=\"1141\">colors change based on elevation levels</strong>.</p>\r\n</li>\r\n \t<li class=\"\" data-start=\"1145\" data-end=\"1238\">\r\n<p class=\"\" data-start=\"1147\" data-end=\"1238\"><strong data-start=\"1147\" data-end=\"1165\">Water Body Map</strong> – Clearly marks <strong data-start=\"1182\" data-end=\"1215\">lakes, rivers, and coastlines</strong> for precise mapping.</p>\r\n</li>\r\n \t<li class=\"\" data-start=\"1239\" data-end=\"1368\">\r\n<p class=\"\" data-start=\"1241\" data-end=\"1368\"><strong data-start=\"1241\" data-end=\"1284\">Normal Map (From High-Resolution Model)</strong> – Adds fine details by <strong data-start=\"1308\" data-end=\"1365\">simulating high-resolution terrain on a low-poly mesh</strong>.</p>\r\n</li>\r\n \t<li data-start=\"1239\" data-end=\"1368\"><strong>UV Map</strong> (frontal projection)</li>\r\n</ul>\r\n<h3 class=\"\" data-start=\"1370\" data-end=\"1424\"><strong data-start=\"1374\" data-end=\"1422\">✔️ Seamless Integration with 3D Applications</strong></h3>\r\n<p class=\"\" data-start=\"1425\" data-end=\"1675\">This <strong data-start=\"1430\" data-end=\"1452\">3D geography model</strong> is compatible with various rendering engines and creative software. Whether used for <strong data-start=\"1538\" data-end=\"1598\">interactive maps, 3D visualization, or game environments</strong>, it ensures a <strong data-start=\"1613\" data-end=\"1651\">smooth and accurate representation</strong> of the United States.</p>\r\n",
+      "text": "\r\n<h2>Formats and terrain maps</h2>\r\n<p>The package lists 48 polygonal state meshes with closed bases. The model uses a Lambert Conformal Conic projection and a vertical scale factor of 3. The specification lists 11,586,716 polygons in total; performance depends on your software, hardware and scene settings.</p>\r\n<p>The listed TIF maps include satellite, pseudo-color elevation, water and normal maps, with frontal UV mapping. Check the file specifications above for package sizes and format details.</p>\r\n"
+    },
+    {
+      "at_bytes": 5999,
+      "old": "\r\n<h2 class=\"\" data-start=\"1880\" data-end=\"1914\"><strong data-start=\"1883\" data-end=\"1912\">Why Choose This 3D Model?</strong></h2>\r\n<p class=\"\" data-start=\"1916\" data-end=\"2446\">✅ <strong data-start=\"1918\" data-end=\"1956\">Optimized for High-Quality Renders</strong> – With normal maps from a high-resolution source, the model achieves <strong data-start=\"2026\" data-end=\"2072\">exceptional detail in topographic features</strong>.<br data-start=\"2073\" data-end=\"2076\" />✅ <strong data-start=\"2078\" data-end=\"2126\">Perfect for Educational and Professional Use</strong> – A must-have for <strong data-start=\"2145\" data-end=\"2185\">teachers, researchers, and designers</strong> working on <strong data-start=\"2197\" data-end=\"2224\">U.S. geography projects</strong>.<br data-start=\"2225\" data-end=\"2228\" />✅ <strong data-start=\"2230\" data-end=\"2260\">Multiple Formats Available</strong> – Compatible with <strong data-start=\"2279\" data-end=\"2331\">Blender, 3ds Max, Unity, Unreal Engine, and more</strong>.<br data-start=\"2332\" data-end=\"2335\" />✅ <strong data-start=\"2337\" data-end=\"2379\">Customizable &amp; Ready for Modifications</strong> – Can be used as is or <strong data-start=\"2403\" data-end=\"2443\">edited to fit specific project needs</strong>.</p>\r\n\r\n<h2 class=\"\" data-start=\"2448\" data-end=\"2472\"><strong data-start=\"2451\" data-end=\"2470\">Ideal Use Cases</strong></h2>\r\n<ul data-start=\"2474\" data-end=\"2872\">\r\n \t<li class=\"\" data-start=\"2474\" data-end=\"2576\">\r\n<p class=\"\" data-start=\"2476\" data-end=\"2576\"><strong data-start=\"2476\" data-end=\"2497\">Educational Tools</strong> – Perfect for <strong data-start=\"2512\" data-end=\"2540\">schools and universities</strong> to teach geography interactively.</p>\r\n</li>\r\n \t<li class=\"\" data-start=\"2577\" data-end=\"2672\">\r\n<p class=\"\" data-start=\"2579\" data-end=\"2672\"><strong data-start=\"2579\" data-end=\"2604\">Game &amp; VR Development</strong> – Create <strong data-start=\"2614\" data-end=\"2643\">realistic U.S. landscapes</strong> for immersive experiences.</p>\r\n</li>\r\n \t<li class=\"\" data-start=\"2673\" data-end=\"2769\">\r\n<p class=\"\" data-start=\"2675\" data-end=\"2769\"><strong data-start=\"2675\" data-end=\"2709\">Architectural &amp; Urban Planning</strong> – Utilize for <strong data-start=\"2724\" data-end=\"2766\">topographic analysis and city planning</strong>.</p>\r\n</li>\r\n \t<li class=\"\" data-start=\"2770\" data-end=\"2872\">\r\n<p class=\"\" data-start=\"2772\" data-end=\"2872\"><strong data-start=\"2772\" data-end=\"2799\">Media &amp; Film Production</strong> – High-quality renders suitable for <strong data-start=\"2836\" data-end=\"2869\">documentaries and simulations</strong>.</p>\r\n</li>\r\n</ul>\r\n",
+      "text": "\r\n<h2>Using the collection</h2>\r\n<p>Use the models as assets in a 3D workflow that supports the supplied C4D or OBJ files. Import behavior, materials and performance depend on the application and version. The closed bases do not by themselves establish print or CNC readiness: inspect and prepare the geometry for your equipment, material and scale.</p>\r\n<p>The contiguous collection excludes Alaska and Hawaii. For a separate collection covering all 50 states, see the existing 50-state product link below; its supplied formats and base differ.</p>\r\n"
+    },
+    {
+      "at_bytes": 9522,
+      "old": "Optimized low-polygon mesh",
+      "text": "State terrain mesh"
+    }
+  ],
+  "indexable_before": {
+    "id": "7482",
+    "title": "Contiguous 48 USA States 3D Model – High-Quality Visualization",
+    "description": "Detailed 3D model of the 48 contiguous U.S. states with topographic textures, normal maps, and water bodies. Ideal for education, design, 3D visualization."
+  },
+  "before": {
+    "_yoast_wpseo_title": "Contiguous 48 USA States 3D Model – High-Quality Visualization",
+    "_yoast_wpseo_metadesc": "Detailed 3D model of the 48 contiguous U.S. states with topographic textures, normal maps, and water bodies. Ideal for education, design, 3D visualization."
+  },
+  "after": {
+    "_yoast_wpseo_title": "Contiguous 48 US States 3D Model — C4D & OBJ Terrain",
+    "_yoast_wpseo_metadesc": "Explore 48 contiguous US state terrain meshes in C4D and OBJ, with TIF maps and closed bases. View the mesh and file specifications."
+  }
+}
