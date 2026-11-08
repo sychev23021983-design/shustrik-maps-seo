@@ -1,0 +1,54 @@
+{
+  "id": 15954,
+  "slug": "world-3d-model",
+  "url": "https://shustrik-maps.com/product/world-3d-model/",
+  "backup_key": "_shustrik_world_earth_copy_backup_20261108",
+  "invariant": "51f1240442cdad618ea352de3bd92f966a8185dec096d703c180123cfc69f51e",
+  "prior": {
+    "11358": "2107c0641fed87fd00e6f53e7ba29645cfa32972475aeb4f7761a7655e173a9a",
+    "11013": "37c558c56f0f1e1b9a6f6e240c6aa5adcb5d767a46898c3e6e3fd222c6625e3f",
+    "11517": "4b1206ebfb31298c9ff81504bb56536d0e578748fe971d9c72d5645a3d5da46a",
+    "16110": "6caa6a4a5e795bc06a0c196ffd58c3140e4abed0093817da1c111a280435b77d",
+    "10102": "43c9296153078be1916c80c1ff1e8f8a07dd47e955e54ddd438fd1bcf661e370",
+    "10238": "c574a8c9e679cfe1bfe1ee605394432d1ed81490295fa5d83fff87cf43b37bbb"
+  },
+  "before_sha256": "effdb115bc0b2bab1bfa028765c6bea993755a0f4fb842a9b9cd9d0bbadc7c29",
+  "after_sha256": "5cf25aa6b525ccab4b122686a9469401f5eb7e3d3a8c80c5b6e2405934940951",
+  "excerpt_sha256": "890f8eb6ec0f9fdcadab755dbb1f9c098808684261d4e347f93718bb9eab25f5",
+  "edits": [
+    {
+      "at_bytes": 80,
+      "old": "The <strong>World Earth Map 3D</strong> is a comprehensive, high-resolution model of the Earth in 3D. This stunning digital representation features precise <strong>topographic details</strong> and <strong>landforms</strong> in an interactive format. It’s perfect for architects, designers, and educators seeking a realistic and detailed view of the world’s geography, without the need for a traditional globe.",
+      "text": "Build rendered world maps in Cinema 4D with a rectangular terrain model and a set of surface maps. The download is supplied in C4D format; OBJ export is available on request."
+    },
+    {
+      "at_bytes": 1098,
+      "old": "\r\n<h2>Explore a Flat 3D Earth Map with Exceptional Detail</h2>\r\nUnlike a globe, this <strong>3D world map</strong> presents the Earth in a flat yet fully interactive format, ideal for visualizing <strong>latitude and longitude</strong>, <strong>elevation models</strong>, and geographic features across continents and oceans. You can examine each country and terrain with accurate topographical and cartographic precision.\r\n<h3>High-Resolution Satellite Imagery and Topography</h3>\r\nThe <strong>World Earth Map 3D</strong> utilizes <strong>satellite imagery</strong> and <strong>elevation data</strong> to create an engaging and educational 3D experience. The map includes detailed <strong>landforms</strong>, mountain ranges, valleys, and more, allowing users to explore the Earth's diverse geography with realistic depth and clarity.\r\n<h3>Perfect for 3D Visualization and Mapping Applications</h3>\r\nWhether you’re working on a professional <strong>geospatial data</strong> project or looking for an engaging way to teach <strong>cartography</strong>, this model offers an exceptional tool for <strong>3D visualization</strong>. Zoom in to explore terrain, water bodies, and geographic borders with ease, making it a versatile asset for any project.\r\n<h2>Key Features of the World Earth Map 3D Model</h2>\r\n<ul>\r\n \t<li>High-resolution <strong>3D visualization</strong> of Earth’s surface in a flat layout</li>\r\n \t<li>Accurate <strong>topographic features</strong> such as mountains, valleys, and plateaus</li>\r\n \t<li>Realistic <strong>satellite imagery</strong> for added detail and accuracy</li>\r\n \t<li>Detailed cartographic representation of countries, continents, and bodies of water</li>\r\n</ul>\r\n<h2>The Best World Earth Map 3D for Visualization Projects</h2>\r\nThis <strong>3D world map</strong> model is perfect for anyone looking to add a realistic Earth visualization to their projects. Ideal for educators, designers, and geographers, the <strong>World Earth Map 3D</strong> provides an immersive look at the world’s surface, suitable for both educational and professional applications.",
+      "text": "\r\n<h2>Height, normal and satellite maps</h2>\r\n<p>Use the 16-bit TIF height map to drive displacement on a surface in your 3D software. The normal map helps show fine relief detail, while the satellite texture provides the color imagery. Map dimensions and bit depths are listed in the specification above.</p>\r\n<h2>Water, elevation color and boundary maps</h2>\r\n<p>The package also includes a water map, a pseudo-color elevation map and a boundary mask. These give you additional inputs for building your scene: the pseudo-color map represents elevation with color, and the boundary mask can be used with your background.</p>\r\n<h2>Working with the terrain model</h2>\r\n<p>The model uses a geographic projection and has an open base. Set your camera, lighting and materials in your 3D software for map illustrations, presentations or animation. Before 3D printing or CNC machining, check and prepare the geometry for your intended workflow.</p>"
+    }
+  ],
+  "approved_paragraphs": [
+    "Build rendered world maps in Cinema 4D with a rectangular terrain model and a set of surface maps. The download is supplied in C4D format; OBJ export is available on request.",
+    "Use the 16-bit TIF height map to drive displacement on a surface in your 3D software. The normal map helps show fine relief detail, while the satellite texture provides the color imagery. Map dimensions and bit depths are listed in the specification above.",
+    "The package also includes a water map, a pseudo-color elevation map and a boundary mask. These give you additional inputs for building your scene: the pseudo-color map represents elevation with color, and the boundary mask can be used with your background.",
+    "The model uses a geographic projection and has an open base. Set your camera, lighting and materials in your 3D software for map illustrations, presentations or animation. Before 3D printing or CNC machining, check and prepare the geometry for your intended workflow."
+  ],
+  "approved_headings": [
+    "Height, normal and satellite maps",
+    "Water, elevation color and boundary maps",
+    "Working with the terrain model"
+  ],
+  "indexable_before": {
+    "id": "7800",
+    "title": "World Earth Map 3D – Flat Earth Model for 3D Visualization",
+    "description": "Explore the World Earth Map 3D with accurate topography and satellite imagery. Ideal for geospatial projects and detailed 3D visualization."
+  },
+  "before": {
+    "_yoast_wpseo_title": "World Earth Map 3D – Flat Earth Model for 3D Visualization",
+    "_yoast_wpseo_metadesc": "Explore the World Earth Map 3D with accurate topography and satellite imagery. Ideal for geospatial projects and detailed 3D visualization."
+  },
+  "after": {
+    "_yoast_wpseo_title": "World Earth Map 3D — C4D with Height & Texture Maps",
+    "_yoast_wpseo_metadesc": "Rectangular world terrain model for Cinema 4D, with height, normal, satellite and water maps. OBJ export on request for your visualization workflow."
+  }
+}

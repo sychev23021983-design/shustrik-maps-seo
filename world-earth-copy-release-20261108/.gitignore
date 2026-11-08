@@ -1,0 +1,6 @@
+__pycache__/
+html/
+public-after.json
+other-world-after.json
+public-qa.json
+*-result.json
