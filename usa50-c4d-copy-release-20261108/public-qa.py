@@ -2,7 +2,7 @@ from pathlib import Path
 import runpy,json,concurrent.futures
 from collections import Counter
 root=Path(__file__).resolve().parent
-fetch=runpy.run_path(str(root/'public-dom.py'))['fetch']
+dom=runpy.run_path(str(root/'public-dom.py'));fetch=dom['fetch']
 m=json.loads((root/'manifest.json').read_text(encoding='utf-8'))
 baselines=json.loads((root/'public-baseline.json').read_text(encoding='utf-8'))
 with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool: rows=list(pool.map(fetch,[r['url'] for r in baselines]))
@@ -13,7 +13,10 @@ for b,r in zip(baselines,rows):
  assert media(b)==media(r),(r['url'],'authored media')
 b,r=baselines[0],rows[0]
 assert r['title']==m['after']['_yoast_wpseo_title'] and r['meta_description']==m['after']['_yoast_wpseo_metadesc']
-for p in m['approved_paragraphs']:assert r['description_text'].count(p)==1,p
+parsed=dom['DOM']();parsed.feed((root/'html/product--50-united-states-of-america-3d-model.html').read_text(encoding='utf-8'))
+def inline_text(n):return ''.join(p if isinstance(p,str) else inline_text(p) for p in n.parts)
+paragraphs=[inline_text(n).strip() for n in parsed.root.walk() if n.tag=='p']
+for p in m['approved_paragraphs']:assert paragraphs.count(p)==1,p
 for h in m['approved_headings']:assert any(n=={'tag':'h2','text':h} for n in r['headings']),h
 marker='Note: The boundary outline'
 assert b['description_text'][b['description_text'].index(marker):]==r['description_text'][r['description_text'].index(marker):]
