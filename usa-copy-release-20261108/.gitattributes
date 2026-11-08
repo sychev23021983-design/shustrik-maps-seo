@@ -1,0 +1,2 @@
+* text eol=lf
+10102-after.txt -text whitespace=cr-at-eol

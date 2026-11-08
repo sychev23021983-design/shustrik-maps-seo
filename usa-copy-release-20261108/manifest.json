@@ -1,0 +1,61 @@
+{
+  "id": 10102,
+  "slug": "usa-map-3d-model",
+  "url": "https://shustrik-maps.com/product/usa-map-3d-model/",
+  "backup_key": "_shustrik_usa_comparison_backup_20261108",
+  "invariant": "61faa4fba5a902c39fc94fedc3f9a5340b71e2e42e3e954c95f40a1f3a9c9ccc",
+  "prior": {
+    "11358": "2107c0641fed87fd00e6f53e7ba29645cfa32972475aeb4f7761a7655e173a9a",
+    "11013": "37c558c56f0f1e1b9a6f6e240c6aa5adcb5d767a46898c3e6e3fd222c6625e3f",
+    "11517": "4b1206ebfb31298c9ff81504bb56536d0e578748fe971d9c72d5645a3d5da46a",
+    "16110": "6caa6a4a5e795bc06a0c196ffd58c3140e4abed0093817da1c111a280435b77d",
+    "10238": "c574a8c9e679cfe1bfe1ee605394432d1ed81490295fa5d83fff87cf43b37bbb",
+    "15954": "3cddbb1569770a9e77103f7b56d0bb256c75a8aa4ce9cbb54097ce19477f1f0d",
+    "15665": "f871041cc1d65531488b3eec5dbac79bc5e555204294dbbf43fe9d6bfbc27157",
+    "19313": "a9091ce9dda218be6fbe1f06639389bb892c87a9e7425a2c0508deaf97a240bc",
+    "18873": "ac6d7dec9c473843dabe5d6b7d5214129a747017cbaa482884029c33ed7c06d5"
+  },
+  "before_sha256": "9188e5be0ec1b1b311b9bd14a6f41891d9f2723a4a6ea23982e322aebbdc762c",
+  "after_sha256": "dc045ed3bce649ae6622940bcc4479ac99624c049193bd4ec768729b78cf0186",
+  "excerpt_sha256": "27ce2f79c4da47579711845303f5617bf7561f72ec43782bd4b9017a1d4e664d",
+  "edit": {
+    "at_bytes": 3313,
+    "old": "<p>Compare the file format, mesh and preview of each USA product before purchasing. A terrain-model package and a set of individual state models are separate product choices. If you need a particular geographic area, check the product preview and confirm the required coverage before ordering.</p>",
+    "text": "<p>Choose by the supplied formats and whether you need a terrain asset or separate state meshes. The collections below are separate products.</p>\n<div role=\"region\" aria-label=\"Compare USA terrain and state collections\" tabindex=\"0\" style=\"overflow-x:auto;max-width:100%;\"><table><thead><tr><th scope=\"col\">Product</th><th scope=\"col\">Supplied model formats</th><th scope=\"col\">Model and base</th></tr></thead><tbody><tr><td>USA terrain package (this product)</td><td>C4D and OBJ: LOD100, LOD50, LOD25</td><td>Terrain model with material and texture files; open base.</td></tr><tr><td><a href=\"https://shustrik-maps.com/product/50-united-states-of-america-3d-model/\">50-state C4D collection</a></td><td>C4D; OBJ/FBX export on request</td><td>50 separate state meshes with individual satellite textures; open base.</td></tr><tr><td><a href=\"https://shustrik-maps.com/product/contiguous-48-usa-states/\">Contiguous 48-state collection</a></td><td>C4D and OBJ</td><td>48 contiguous state meshes; closed base.</td></tr><tr><td><a href=\"https://shustrik-maps.com/product/complete-usa-50-states-topographic-map-3d-model-for-3d-printing-cnc-carving/\">50-state STL collection</a></td><td>STL</td><td>50 state meshes with closed bases for print/CNC preparation.</td></tr></tbody></table></div>\n<p>LOD100, LOD50 and LOD25 identify detail versions of this terrain model; they do not mean sets of 100, 50 or 25 states.</p>\n<p>Check the preview of each product for the geographic area shown. For printing or CNC, compare the STL collection and prepare the selected files for your machine and scale.</p>"
+  },
+  "approved_paragraphs": [
+    "Choose by the supplied formats and whether you need a terrain asset or separate state meshes. The collections below are separate products.",
+    "LOD100, LOD50 and LOD25 identify detail versions of this terrain model; they do not mean sets of 100, 50 or 25 states.",
+    "Check the preview of each product for the geographic area shown. For printing or CNC, compare the STL collection and prepare the selected files for your machine and scale."
+  ],
+  "added_links": [
+    {
+      "text": "50-state C4D collection",
+      "url": "https://shustrik-maps.com/product/50-united-states-of-america-3d-model/"
+    },
+    {
+      "text": "Contiguous 48-state collection",
+      "url": "https://shustrik-maps.com/product/contiguous-48-usa-states/"
+    },
+    {
+      "text": "50-state STL collection",
+      "url": "https://shustrik-maps.com/product/complete-usa-50-states-topographic-map-3d-model-for-3d-printing-cnc-carving/"
+    }
+  ],
+  "metadata": {
+    "_yoast_wpseo_title": "USA Terrain 3D Model — C4D & OBJ with Textures",
+    "_yoast_wpseo_metadesc": "Explore a USA terrain model in C4D and OBJ formats, including OBJ levels of detail and TIF textures. View the mesh and file specifications."
+  },
+  "indexables": [
+    {
+      "id": "7485",
+      "title": "USA Terrain 3D Model — C4D & OBJ with Textures",
+      "description": "Explore a USA terrain model in C4D and OBJ formats, including OBJ levels of detail and TIF textures. View the mesh and file specifications."
+    },
+    {
+      "id": "9041",
+      "title": "USA Terrain 3D Model — C4D & OBJ with Textures",
+      "description": "Explore a USA terrain model in C4D and OBJ formats, including OBJ levels of detail and TIF textures. View the mesh and file specifications."
+    }
+  ]
+}
