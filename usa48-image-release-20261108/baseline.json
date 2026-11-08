@@ -1,0 +1,48 @@
+{
+  "utc": "2026-11-08T13:58:30+00:00",
+  "attachments": [
+    {
+      "id": 19317,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/3-min.jpg",
+      "before": {
+        "title": "Low-Poly USA Map 3D",
+        "alt": "Low-poly 3D map of the contiguous 48 states"
+      },
+      "alt_rows": [
+        {
+          "meta_id": "344324",
+          "meta_value": "Low-poly 3D map of the contiguous 48 states"
+        }
+      ],
+      "invariant": "adb2c030a519d6eec5ecc5b2e1ab22fca804d3a3a4323d7e2c1206359d3bfe4d"
+    },
+    {
+      "id": 19327,
+      "url": "https://shustrik-maps.com/wp-content/uploads/2025/04/13-min.jpg",
+      "before": {
+        "title": "Interactive USA States Map 3D",
+        "alt": "Interactive 3D map of the contiguous 48 U.S. states"
+      },
+      "alt_rows": [
+        {
+          "meta_id": "344328",
+          "meta_value": "Interactive 3D map of the contiguous 48 U.S. states"
+        }
+      ],
+      "invariant": "bc8113666e4893da38cf6308eab18dba694b84adb4428d5ac319397eafa76fdf"
+    }
+  ],
+  "preserved": {
+    "19313": "c234e96e6588ccd6a0363d525ce011f928a7edc143d637c089670b359fe24521",
+    "10102": "9f93d4fa85687e74a81c865dbd64763c141ab1a326569d808c6f01cba9f7fbf3",
+    "15665": "c0fc884bafead9f7c420532da152b1645b46aadcbd83586ff7479f2688c5d98e",
+    "18873": "7c32b0cc6db9cbc4acd5c67ec1c6f06823ea403960a2df935d83d9191bd18d78",
+    "11358": "e4f938d83cde323cb162b28ffe8afade63a2cf0cd30ec0376002836044f06078",
+    "11013": "2073f114b2e8f13cce54042b7b3d1bd9bd8fbbb6ca2240537df5c9702b3dbfbb",
+    "11517": "0ee9d63c80c7c548cb17a0341d5949b71fcaf74dfe4a85f43ad753fdf3a99edb",
+    "16110": "35fb0022413ccafc93aaa6a927258192adf7e9f50e87aef7d19ae4e3252e785b",
+    "10238": "859495f52b61c1e0a0e04e0a71ce54c53ebe0da36bf0a6bf1d45c0a4fc50d4bb",
+    "15954": "5f54964ce88980ee19e41c213fda9f4e0ad274f51dee4e9d16d669b4fb9c30c1"
+  },
+  "indexables_hash": "ff4f9cf1ed9e7872a0a1d25d1d67389efc1a72c335dfc756830c6b0fe43e0892"
+}
